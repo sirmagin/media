@@ -1,6 +1,36 @@
 {
     "movies": [
         {
+            "id": "iron-man-2",
+            "tmdbId": 10138,
+            "title": "Iron Man 2",
+            "originalTitle": "Iron Man 2",
+            "year": 2010,
+            "releaseDate": "2010-05-07",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 124,
+            "rating": {
+                "score": 6.8,
+                "source": "TMDB"
+            },
+            "description": "Tony Stark revela al mundo que él es Iron Man y se convierte en el centro de atención. Mientras enfrenta la presión del gobierno para compartir su tecnología, un nuevo enemigo llamado Ivan Vanko aparece con una armadura similar a la suya. Con la ayuda de sus aliados, Tony deberá enfrentarse a esta nueva amenaza y descubrir el verdadero significado de ser un héroe.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/get_video?id=ZJ1gLZyrbWtqJWY&expires=1785715930&ip=F0uNKRqTKxSHDN&token=1eNCNcrEljsR&stream=1"
+                }
+            ],
+            "active": true
+        },
+         {
             "id": "la-leyenda-de-aang-el-ultimo-maestro-del-aire",
             "tmdbId": 10196,
             "title": "Airbender: El último guerrero",
@@ -19,8 +49,8 @@
             },
             "description": "En un mundo dividido entre cuatro naciones vinculadas a los elementos, Aang descubre que es el Avatar, el único capaz de dominar los cuatro elementos y restaurar el equilibrio. Junto a Katara y Sokka, emprende un viaje para aprender a controlar sus poderes y enfrentarse a la Nación del Fuego.",
             "images": {
-                "poster": "https://media.themoviedb.org/t/p/w300_and_h450_face/iMsORWhD8MawINagL6kvpDVAtS.jpg",
-                "backdrop": "https://media.themoviedb.org/t/p/w300_and_h450_face/iMsORWhD8MawINagL6kvpDVAtS.jpg"
+                "poster": "https://media.themoviedb.org/t/p/w600_and_h900_face/iMsORWhD8MawINagL6kvpDVAtS.jpg",
+                "backdrop": "https://media.themoviedb.org/t/p/w600_and_h900_face/iMsORWhD8MawINagL6kvpDVAtS.jpg"
             },
             "sources": [
                 {
