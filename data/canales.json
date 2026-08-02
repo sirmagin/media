@@ -8,6 +8,7 @@
             "category": ["Nacional"],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tvn.jpeg",
             "stream": [
+                {"type": "direct", "url": "https://mdstrm.com/live-stream-gdai/57a498c4d7b86d600e5461cb/linear/hls/pa/event/-4KOuBUDTUaXhzNVqMNjsQ/stream/22022969-b250-465e-be74-53965ec5f672:CHS/master.m3u8?aid=51c2f628b440bd797900051f&dnt=true&access_token=sHTeTJlPtDoeFiQ2iedUSnLKaGcTONOhM6lrpv9fdXoHANhsB1FsPf6LLT9Ex3QgvLS25Uh5stM&proto=https&pz=cl"},
                 {"type": "direct", "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8"},
                 {"type": "direct", "url": "http://45.162.193.35/TVN/index.m3u8"}
             ]
