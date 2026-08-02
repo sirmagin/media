@@ -446,7 +446,7 @@
             "sources": [
                 {
                     "type": "direct",
-                    "video": "https://streamtape.com/get_video?id=xMjLvabJlQTo1X&expires=1785621560&ip=F0uNKRqTKxSHDN&token=YbYFB7_GCvkF&stream=1"
+                    "video": "https://streamtape.com/e/xMjLvabJlQTo1X/"
                 }
             ],
             "active": true
@@ -506,7 +506,7 @@
             "sources": [
                 {
                     "type": "direct",
-                    "video": "https://streamtape.com/get_video?id=1B4V4e1882teZB4&expires=1785621731&ip=F0uNKRqTKxSHDN&token=kgV9XvrsGBcb&stream=1"
+                    "video": "https://streamtape.com/e/1B4V4e1882teZB4/"
                 }
             ],
             "active": true
@@ -536,7 +536,7 @@
             "sources": [
                 {
                     "type": "direct",
-                    "video": "https://streamtape.com/get_video?id=9pgGWjBArqiaKGg&expires=1785621814&ip=F0uNKRqTKxSHDN&token=hTDVjOadsuX2&stream=1"
+                    "video": "https://streamtape.com/e/9pgGWjBArqiaKGg/"
                 }
             ],
             "active": true
@@ -626,7 +626,7 @@
             "sources": [
                 {
                     "type": "direct",
-                    "video": "https://streamtape.com/get_video?id=Jwo6G0y6daCjMl3&expires=1785621992&ip=F0uNKRqTKxSHDN&token=uVBT1F1RRLXz&stream=1"
+                    "video": "https://streamtape.com/e/Jwo6G0y6daCjMl3/"
                 }
             ],
             "active": true
