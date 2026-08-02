@@ -1,0 +1,170 @@
+{
+    "radios": [
+        {
+            "id": 0,
+            "active": true,
+            "country": "CL",
+            "name": "Radio Carolina",
+            "category": ["Pop", "Reggaeton", "Electrónica", "Latina"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/carolina.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://stream.zeno.fm/gtbn66a7rxhvv"}
+            ]
+        },
+        {
+            "id": 2,
+            "active": true,
+            "country": "CL",
+            "name": "Rock & Pop",
+            "category": ["Pop", "Rock"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rockandpop.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP.mp3"}
+            ]
+        },
+        {
+            "id": 3,
+            "active": true,
+            "country": "CL",
+            "name": "La Rockola",
+            "category": ["Pop", "Rock"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/la_rockola.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://stream.zeno.fm/4wx4h7dgyrhvv"}
+            ]
+        },
+        {
+            "id": 4,
+            "active": true,
+            "country": "CL",
+            "name": "ADN",
+            "category": ["Noticias"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/adn.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ADN.mp3"}
+            ]
+        },
+        {
+            "id": 5,
+            "active": true,
+            "country": "CL",
+            "name": "BioBio",
+            "category": ["Noticias"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/biobio.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio"}
+            ]
+        },
+        {
+            "id": 6,
+            "active": true,
+            "country": "CL",
+            "name": "Cooperativa",
+            "category": ["Noticias"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cooperativa.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://stream.zeno.fm/0ksmq1b5ckhvv"}
+            ]
+        },
+        {
+            "id": 7,
+            "active": true,
+            "country": "CL",
+            "name": "Radio Futuro",
+            "category": ["Metal", "Rock"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/futuro.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO.mp3"}
+            ]
+        },
+        {
+            "id": 8,
+            "active": true,
+            "country": "CL",
+            "name": "Radio Corazón FM",
+            "category": ["Romántica"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/corazon.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON.mp3"}
+            ]
+        },
+        {
+            "id": 9,
+            "active": true,
+            "country": "CL",
+            "name": "Oasis FM",
+            "category": ["Pop", "Rock", "70s", "80s", "90s"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/oasis.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://stream.zeno.fm/efe9vvc8dkhvv"}
+            ]
+        },
+        {
+            "id": 10,
+            "active": true,
+            "country": "CL",
+            "name": "Radio 13c",
+            "category": ["Pop", "Rock", "Noticias", "Latina"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/radio13c.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://mdstrm.com/audio/5c915497c6fd7c085b29169d/icecast.audio"}
+            ]
+        },
+        {
+            "id": 11,
+            "active": true,
+            "country": "CL",
+            "name": "El Conquistador FM",
+            "category": ["Noticias"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/el_conquistador.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://stream10.usastreams.com/9314/stream"}
+            ]
+        },
+        {
+            "id": 12,
+            "active": true,
+            "country": "CL",
+            "name": "Play FM",
+            "category": ["Hits", "Pop"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/play.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio"}
+            ]
+        },
+        {
+            "id": 13,
+            "active": true,
+            "country": "CL",
+            "name": "Radio Paula",
+            "category": ["Rock", "Pop"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/paula.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://mdstrm.com/audio/65f3054d8a5ee508bee89271/live.m3u8"}
+            ]
+        },
+        {
+            "id": 14,
+            "active": true,
+            "country": "CL",
+            "name": "Romántica FM",
+            "category": ["Romántica"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/romantica.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://stream.zeno.fm/vahqwcqe508uv"}
+            ]
+        },
+        {
+            "id": 15,
+            "active": true,
+            "country": "",
+            "name": "Ac/Dc",
+            "category": ["Artistas", "Rock"],
+            "logo": "https://manager.uber.radio/static/uploads/station/283e57fc-2293-4340-bd64-fb361998b24c.jpg",
+            "stream": [
+                {"type": "direct", "url": "https://streaming.exclusive.radio/er/acdc/icecast.audio"}
+            ]
+        }
+
+    ]
+}

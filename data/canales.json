@@ -1,0 +1,488 @@
+{
+    "canales": [
+        {
+            "id": 0,
+            "active": true,
+            "country": "CL",
+            "name": "TVN",
+            "category": ["Nacional"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tvn.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8"},
+                {"type": "direct", "url": "http://45.162.193.35/TVN/index.m3u8"}
+            ]
+        },
+        {
+            "id": 1,
+            "active": true,
+            "country": "CL",
+            "name": "Mega",
+            "category": ["Nacional"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/mega.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"},
+                {"type": "direct", "url": "http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"},
+                {"type": "direct", "url": "https://rudo.video/live/mega"}
+            ]
+        },
+        {
+            "id": 2,
+            "active": true,
+            "country": "CL",
+            "name": "Chilevisión",
+            "category": ["Nacional"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/chv.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://jireh-19-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL=&dpssid=b2928196036a5da5b44ff3f&sid=ba5t1l1xb24166355076a5da5b44ff3d&ndvc=1"},
+                {"type": "direct", "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8"}
+            ]
+        },
+        {
+            "id": 3,
+            "active": true,
+            "country": "CL",
+            "name": "Canal 13",
+            "category": ["Nacional"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/canal13.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://45.162.193.35/CANAL13_HD/index.m3u8"},
+                {"type": "direct", "url": "https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8"},
+                {"type": "direct", "url": "https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-token=event=bFL1IVq9RNGlWQaqgiFuNw~exp=1785359410~hmac=61983f32e40d5785cf0b70ccbb3d9d7b1e516b44ee4ff8266d4851ec04daacb6"}
+            ]
+        },
+        {
+            "id": 4,
+            "active": true,
+            "country": "CL",
+            "name": "La Red",
+            "category": ["Nacional"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/lared.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://45.162.193.35/LA_RED/index.m3u8"},
+                {"type": "direct", "url": "https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "https://iptv2.intersurtv.cl/LA_RED/index.m3u8"},
+                {"type": "direct", "url": "https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8"}
+            ]
+        },
+        {
+            "id": 5,
+            "active": true,
+            "country": "CL",
+            "name": "TV+",
+            "category": ["Nacional"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tvmas.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8"}
+            ]
+        },
+        {
+            "id": 6,
+            "active": true,
+            "country": "CL",
+            "name": "TVN3",
+            "category": ["Nacional"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tvn3.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"},
+                {"type": "direct", "url": "https://mdstrm.com/live-stream/5653641561b4eba30a7e4929?volume=0"}
+            ]
+        },
+        {
+            "id": 7,
+            "active": true,
+            "country": "CL",
+            "name": "UCV",
+            "category": ["Nacional"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/ucv.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"},
+                {"type": "direct", "url": "https://pantera1-100gb-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"}
+            ]
+        },
+        {
+            "id": 8,
+            "active": true,
+            "country": "CL",
+            "name": "TV Chile",
+            "category": ["Nacional"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tvchile.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?_=1785290444289&dnt=true&player=57f40bb4dc5b9f3075c49cfe&uid=QaNjCpXfX1y8dSQJSCKVHB0pIh3hSEl5&sid=sDOaWp2NzmyQWaonfgzB777Xe0v4JXWd&pid=KFeHKbt0WvAe1MlrYIq235COGB7fRpPs&an=tvn-play-app-lg-tv&at=web-app&av=v1.0.92&sc=0&ds=606b65ac3572d907cd53753b&ref=mdstrm.com&res=2560x1440&ext_pb=0&CMCD=cid%3D%22533adcc949386ce765657d7c%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22KFeHKbt0WvAe1MlrYIq235COGB7fRpPs%22%2Csu"},
+                {"type": "direct", "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL"}
+            ]
+        },
+        {
+            "id": 9,
+            "active": true,
+            "country": "CL",
+            "name": "El canal feliz",
+            "category": ["Nacional"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/elcanalfeliz.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8?PlaylistM3UCL"}
+            ]
+        },
+        {
+            "id": 10,
+            "active": true,
+            "country": "CL",
+            "name": "NTV",
+            "category": ["Nacional"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/ntv.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?uid=QaNjCpXfX1y8dSQJSCKVHB0pIh3hSEl5&sid=sDOaWp2NzmyQWaonfgzB777Xe0v4JXWd&pid=gAL9Mmq2tzAGPriONoQH2hfqz4oYZPvV&pid_dvr=AHIplD8dmVD8nf8JI8iMJjORQMn3yhhn&an=screen&at=web-app&av=v7.0.84&ref=&res=1852x1341&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%225aaabe9e2c56420918184c6d%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22gAL9Mmq2tzAGPriONoQH2hfqz4oYZPvV%22%2Csu"},
+                {"type": "direct", "url": "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL"}
+            ]
+        },
+                {
+            "id": 11,
+            "active": true,
+            "country": "CL",
+            "name": "CNN Chile",
+            "category": ["Noticias"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cnnchile.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8"},
+                {"type": "direct", "url": "https://rudo.video/live/cnn"},
+                {"type": "direct", "url": "https://jireh-19-hls-video-cl-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8"}
+            ]
+        },
+        {
+            "id": 12,
+            "active": true,
+            "country": "CL",
+            "name": "Canal 24 Horas",
+            "category": ["Noticias"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/24horas.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL"}
+            ]
+        },
+        {
+            "id": 13,
+            "active": true,
+            "country": "CL",
+            "name": "Meganoticias",
+            "category": ["Noticias"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/meganoticias.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"}
+            ]
+        },
+        {
+            "id": 14,
+            "active": true,
+            "country": "CL",
+            "name": "CHV Noticias",
+            "category": ["Noticias"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/chvnoticias.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL"}
+            ]
+        },
+        {
+            "id": 15,
+            "active": true,
+            "country": "CL",
+            "name": "T13 Noticias",
+            "category": ["Noticias"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/t13.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?auth-token=&platform=&ndvc=0"},
+                {"type": "direct", "url": "https://redirector.dps.live/hls/t13/playlist.m3u8"},
+                {"type": "direct", "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL"}
+            ]
+        },
+        {
+            "id": 16,
+            "active": true,
+            "country": "CL",
+            "name": "13 Pop",
+            "category": ["Series"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/13pop.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8?auth-token=&platform=&ndvc=0"}
+            ]
+        },
+        {
+            "id": 17,
+            "active": true,
+            "country": "CL",
+            "name": "13 Teleseries",
+            "category": ["Series"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/13teleseries.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?auth-token=&platform=&ndvc=0"}
+            ]
+        },
+        {
+            "id": 18,
+            "active": true,
+            "country": "CL",
+            "name": "13 Cultura",
+            "category": ["Cultural"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@refs/heads/main/img/logo/13cultura.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?auth-token=&platform=&ndvc=0"}
+            ]
+        },
+        {
+            "id": 19,
+            "active": true,
+            "country": "CL",
+            "name": "13 Festival",
+            "category": ["Música"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/13festival.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8?auth-token=&platform=&ndvc=0"}
+            ]
+        },
+        {
+            "id": 20,
+            "active": true,
+            "country": "CL",
+            "name": "13 Realitis",
+            "category": ["Series"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/13realitis.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?auth-token=&platform=&ndvc=0"}
+            ]
+        },
+        {
+            "id": 21,
+            "active": true,
+            "country": "CL",
+            "name": "13 Deportes",
+            "category": ["Deportes"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/d13.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?auth-token=&platform=&ndvc=0"}
+            ]
+        },
+                {
+            "id": 22,
+            "active": true,
+            "country": "CL",
+            "name": "ESPN",
+            "category": ["Deportes"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/espn.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"}
+            ]
+        },
+        {
+            "id": 23,
+            "active": true,
+            "country": "CL",
+            "name": "ESPN 3",
+            "category": ["Deportes"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/espn3.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://181.78.197.59:8000/play/a081/index.m3u8"}
+            ]
+        },
+        {
+            "id": 24,
+            "active": true,
+            "country": "CL",
+            "name": "ESPN 4",
+            "category": ["Deportes"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/espn4.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"}
+            ]
+        },
+        {
+            "id": 25,
+            "active": true,
+            "country": "CL",
+            "name": "AXN",
+            "category": ["Series", "Películas"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/axn.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "http://138.186.23.7:8082/AXN/index.m3u8?PlaylistM3UCL"}
+            ]
+        },
+        {
+            "id": 26,
+            "active": true,
+            "country": "CL",
+            "name": "Cinecanal",
+            "category": ["Series", "Películas"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cinecanal.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://45.162.193.35/CINECANAL/index.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "http://138.186.23.7:8082/CINECANAL/index.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8?PlaylistM3UCL"}
+            ]
+        },
+        {
+            "id": 27,
+            "active": true,
+            "country": "CL",
+            "name": "Film & Arts",
+            "category": ["Series", "Películas"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/filmarts.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://15.204.246.24:8080/FilmArtsHD/index.m3u8"}
+            ]
+        },
+        {
+            "id": 28,
+            "active": true,
+            "country": "CL",
+            "name": "Star Channel",
+            "category": ["Series", "Películas"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/starchannel.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://streamer.metronethn.com/StarChannel/index.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "http://45.162.193.35/STAR_CHANNEL/index.m3u8?PlaylistM3UCL"}
+            ]
+        },
+        {
+            "id": 29,
+            "active": true,
+            "country": "CL",
+            "name": "FX",
+            "category": ["Películas", "Series"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/fx.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://72.1.184.5:8089/play/a05i/index.m3u8"},
+                {"type": "direct", "url": "http://45.162.193.35/FX/index.m3u8"}
+            ]
+        },
+        {
+            "id": 30,
+            "active": true,
+            "country": "CL",
+            "name": "Studio Universal",
+            "category": ["Series", "Películas"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/studiouniversal.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8"}
+            ]
+        },
+        {
+            "id": 31,
+            "active": true,
+            "country": "CL",
+            "name": "Telemundo Internacional",
+            "category": ["Series", "Películas"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/telemundo.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://138.121.15.230:9002/TELEMUNDO/index.m3u8"}
+            ]
+        },
+        {
+            "id": 32,
+            "active": true,
+            "country": "CL",
+            "name": "Nat Geo",
+            "category": ["Documental"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/natgeo.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://45.162.193.35/NATGEO/tracks-v1a1/mono.ts.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "http://45.162.193.35/NATGEO/index.m3u8?PlaylistM3UCL"}
+            ]
+        },
+        {
+            "id": 33,
+            "active": true,
+            "country": "CL",
+            "name": "A&E",
+            "category": ["Documental"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/a_e.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://138.121.15.230:9002/A&E/index.m3u8"},
+                {"type": "direct", "url": "http://45.190.28.50/AE_HD/index.m3u8"}
+            ]
+        },
+        {
+            "id": 34,
+            "active": true,
+            "country": "CL",
+            "name": "AMC",
+            "category": ["Documental"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/amc.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://45.162.193.35/AMC/index.m3u8"},
+                {"type": "direct", "url": "http://45.171.108.253:8888/AMC/index.m3u8"}
+            ]
+        },
+        {
+            "id": 35,
+            "active": true,
+            "country": "CL",
+            "name": "History",
+            "category": ["Documental"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/history.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://138.121.15.230:9002/HISTORY-2/index.m3u8"}
+            ]
+        },
+        {
+            "id": 36,
+            "active": true,
+            "country": "CL",
+            "name": "Disney Channel",
+            "category": ["Infantil"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/disneychannel.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8?PlaylistM3UCL"},
+                {"type": "direct", "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8?PlaylistM3UCL"}
+            ]
+        },
+        {
+            "id": 37,
+            "active": true,
+            "country": "CL",
+            "name": "Nickelodeon",
+            "category": ["Infantil"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/nickelodeon.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://138.186.23.7:8082/NICK/index.m3u8"}
+            ]
+        },
+        {
+            "id": 38,
+            "active": true,
+            "country": "CL",
+            "name": "Nicktoons",
+            "category": ["Infantil"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/nicktoons.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8"}
+            ]
+        },
+        {
+            "id": 39,
+            "active": true,
+            "country": "CL",
+            "name": "Bob Esponja",
+            "category": ["Infantil"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/bob_esponja.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8"}
+            ]
+        },
+        {
+            "id": 40,
+            "active": true,
+            "country": "CL",
+            "name": "31 Minutos",
+            "category": ["Infantil"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/31min.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://mdstrm.com/live-stream-playlist/6a04750d61c8af1ae523c152.m3u8?PlaylistM3UCL"}
+            ]
+        }
+    ]
+}

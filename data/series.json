@@ -1,0 +1,269 @@
+{
+  "series": [
+    {
+      "tmdbId": 1399,
+      "title": "El señor de los anillos: Los anillos de poder",
+      "originalTitle": "The Lord of the Rings: The Rings of Power",
+      "overview": "En un tiempo de relativa calma, un grupo de personajes se enfrenta al resurgimiento del mal en la Tierra Media. A medida que la oscuridad se extiende, desde las profundidades de las Montañas Nubladas hasta el bosque de Lindon, la lucha por la supervivencia se vuelve cada vez más desesperada. Los reinos de Númenor y otros rincones de la Tierra Media se ven amenazados por la creciente sombra del mal.",
+      "poster": "https://image.tmdb.org/t/p/w500/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/suvlZfDAoq5vfVUrfb468KJhFlL.jpg",
+      "rating": 6.8,
+      "year": 2022,
+      "genres": [
+        "Drama",
+        "Fantasía",
+        "Aventura"
+      ],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "name": "Temporada 1",
+          "episodeCount": 8,
+          "poster": "https://image.tmdb.org/t/p/w500/hVGGIucivTBtdHw010GOo8G1LIv.jpg",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "name": "Una sombra del pasado",
+              "overview": "Galadriel está perturbado por los signos del regreso de un antiguo mal. Arondir hace un descubrimiento inquietante. A Elrond se le presenta una nueva aventura intrigante. Nori rompe una regla comunitaria profundamente arraigada.",
+              "airDate": "2022-09-01",
+              "duration": 65,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/15UCiKw7ujYq0W7nQ4u06l6oENn.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=3dJAp96BkxcdQJz&expires=1785618672&ip=F0uNKRqTKxSHDN&token=rMi0KDjZlqjS&stream=1"
+                },
+                {
+                  "type": "direct",
+                  "video": "https://858142479.tapecontent.net/radosgw/3dJAp96BkxcdQJz/enL3aKXccheA8aNUCxtinnMK8YOOryWssPvl-lvqFcWBRyJ1Y4Q5dAbUmoTnd4pkRqFvO4fwR78MfjyXJena9Q_mk6fpZ2iJGgmNkDcJesUgabLsvUCoFtjk_yYKSbT_dlfkB19z7JRrhXNfPtWHexlwclA5r-P9D6E0fGZzf4ZKW-wHTfTRirvWD-utTciyj8OFMXKaaiznNohV5UjwmA5RfVDRtq1jJP6Zw--i9MtgQl1lFPYJ29xGNi2djAuxKffER-WvsLHvzggO7kFriRZGKrTuz-c4kiLmVJYu7g8YMTVfm-87b2Iyj1-RE0PTYiVn2N-QKqH4uhxA/El+señor+de+los+anillos-+Los+anillos+de+poder+1x1+lat.ts.mp4?stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "name": "A la deriva",
+              "overview": "Galadriel encuentra un nuevo aliado. Elrond se enfrenta a una fría recepción por parte de un viejo amigo. Nori se esfuerza por ayudar a un extraño. Arondir busca respuestas mientras Bronwyn advierte a su gente de una amenaza.",
+              "airDate": "2022-09-11",
+              "duration": 67,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/pxxm7FTgVXj6Yh6Iq9Dj40854cN.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=A64bBMRrrpcXLJ1&expires=1785618394&ip=F0uNKRqTKxSHDN&token=crJNbUTve1hy&stream=1"
+                },
+                {
+                  "type": "direct",
+                  "video": "https://861113481.tapecontent.net/radosgw/A64bBMRrrpcXLJ1/GRzqAmm-nCAzRro_BalW8PqDqEw7mnW4cZJbjRzyyzv4WWFutdbQau2WIVWhll4aBYfJC_mXSyK6B5zBWDgN7qpuIuyACD8t5QEJGRZx5fpPY8FFXoXkCSDzuwG8M6I8Na6JFx3TdjbyE1JftpCalHdwPMIsXBls3uHg6tUF4go1GM6y9fKILHMgKnLHeJWBH5vdX-TWkSfIlCUyyxq15STSnQBhaejbX3H8nj1S7wElv6cA3RXTCjLXGYqhUO2JGDLDX4Q0LICQ6IOjZsJLa_e9G9uDYUptjg7d7c_aNLyoqKPpOigqbmD5DRs/El+Señor+de+los+Anillos+1x2+lat.ts.mp4?stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "name": "Adar",
+              "overview": "Arondir se encuentra cautivo. Galardiel y Halbrand exploran un reino legendario. A Elendil se le asigna una nueva tarea. Nori enfrenta las consecuencias.",
+              "airDate": "2022-09-08",
+              "duration": 69,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/phPzXd42PjpcZc5jkVGVwxTY1kA.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=92x0Lxbv3aFa29z&expires=1785619599&ip=F0uNKRqTKxSHDN&token=ae2IW-w7V7Pc&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "name": "La Gran Ola",
+              "overview": "La fe de la Reina Regente Míriel se pone a prueba; Isildur se encuentra en una encrucijada; Elrond descubre un secreto; Arondir recibe un ultimátum; Theo desobedece a Bronwyn.",
+              "airDate": "2022-09-15",
+              "duration": 71,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/hkdQY91zh0fSXbYZ8IU1uEPvzAe.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=0Jm9JYQKZAhbJJJ&expires=1785619840&ip=F0uNKRqTKxSHDN&token=K1Gb4S0rwmhE&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "name": "Despedidas",
+              "overview": "Nori cuestiona su instinto. Elrond lucha por mantenerse fiel a su juramento. Halbrand sopesa su destino. Los habitantes del sur se preparan para el ataque.",
+              "airDate": "2022-09-22",
+              "duration": 72,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jLxeqABrd8nqKq6aLa7wPIszRMU.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=vYzb8660V0sajM&expires=1785619923&ip=F0uNKRqTKxSHDN&token=JX7vpXFNoDOg&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "name": "Udûn",
+              "overview": "Adar y su ejercito marchan rumbo a Ostirith.",
+              "airDate": "2022-09-29",
+              "duration": 69,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/oGaGLjtdRMXPTcgymD4pUiwD9j1.jpg",
+               "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=l490xP0kkaF746r&expires=1785620016&ip=F0uNKRqTKxSHDN&token=-4T5s-32Qm1G&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "name": "El ojo",
+              "overview": "Los sobrevivientes de un cataclismo intentan encontrar un lugar seguro. Los pelosos se enfrentan al mal. Durin se debate entre la amistad y el deber. Adar piensa en un nuevo nombre.",
+              "airDate": "2022-10-06",
+              "duration": 72,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/gS6ziDnTQv14AIcZHGrN09Ojfqn.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=9jJOGMoJe1iaX8M&expires=1785620071&ip=F0uNKRqTKxSHDN&token=sdC_fmkf8u9T&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "name": "Aleación",
+              "overview": "Se forjan nuevas alianzas.",
+              "airDate": "2022-10-13",
+              "duration": 62,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/thh9aJqVR7b5Hj32ogiNNOdd9X6.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=ajbKJW8jMkid9q&expires=1785620130&ip=F0uNKRqTKxSHDN&token=5BTRHSftELL4&stream=1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "name": "Temporada 2",
+          "episodeCount": 8,
+          "poster": "https://image.tmdb.org/t/p/w500/6J7rbDMrzdQHUMX56PumlXmZAAV.jpg",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "name": "Reyes Elfos bajo el cielo",
+              "overview": "Sauron negocia con Adar. El Extraño y Nori se aventuran en nuevos territorios. Los Tres Anillos Élficos enfrentan juicio.",
+              "airDate": "2024-08-29",
+              "duration": 76,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8mRngZuqhKTvM5rUZRNsFYux36T.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=dKord3D4rGhbvJ&expires=1785620240&ip=F0uNKRqTKxSHDN&token=7jrIa3PEa_K7&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "name": "Donde la estrellas son extrañas",
+              "overview": "La oscuridad cae sobre Khazad-dûm. Sauron y Galadriel buscan aliados nuevos. El Extraño y los Pelosos encuentran una amenaza creciente.",
+              "airDate": "2024-08-29",
+              "duration": 62,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/Omt5mxEW6C0DfLsbyTxopYgoiZ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=3ww7369xgytdPAZ&expires=1785620312&ip=F0uNKRqTKxSHDN&token=b2PA_iahwGKT&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "name": "El Águila y el Cetro",
+              "overview": "Isildur y un viejo amigo se reencuentran. Arondir lucha contra el cambio. Míriel enfrenta una oposición que va en aumento. Annatar aconseja a Celebrimbor.",
+              "airDate": "2024-08-29",
+              "duration": 66,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zMMkC9bGUT6MrtXGK6UAmSyApIC.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=b1Z4xgZK2JIPwyp&expires=1785620388&ip=F0uNKRqTKxSHDN&token=5Lb93HtB3I_-&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "name": "El Antiguo",
+              "overview": "El Extraño encuentra lo que había estado buscando. Arondir e Isildur buscan a Theo. Galadriel y Elrond caen en una trampa.",
+              "airDate": "2024-09-05",
+              "duration": 65,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/5j0f3bnQuXk2KGSdkF6opRq6W3A.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=JqYVXBd6ymtjpMk&expires=1785620442&ip=F0uNKRqTKxSHDN&token=U73_zaxkJeHR&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "name": "Palacios de piedra",
+              "overview": "Cuando Durin sospecha de los Anillos de los Enanos, Celebrimbor debe revalorar sus prioridades. En medio de las corrientes cambiantes en Númenor, Elendil busca la esperanza.",
+              "airDate": "2024-09-12",
+              "duration": 61,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/aMrrsn8aIK4mNEidCFXuFCHDTKZ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=p8r0VgGvM1frvzY&expires=1785620490&ip=F0uNKRqTKxSHDN&token=e77EMH5i03iU&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "name": "¿Dónde está Él?",
+              "overview": "Galadriel considera una propuesta. Elendil enfrenta juicio. El Extraño se encuentra en una encrucijada. Los planes de Sauron comienzan a dar frutos.",
+              "airDate": "2024-09-19",
+              "duration": 63,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/dDpTdsaS3pobY2eUti5hGjFrUgp.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=xMObORVvQzHlZW&expires=1785620540&ip=F0uNKRqTKxSHDN&token=53sW-cS_QDF-&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "name": "Condenados a morir",
+              "overview": "El destino de Eregion se decide.",
+              "airDate": "2024-09-26",
+              "duration": 72,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/wPXBWFxzfKgD7clsxRxk24hzSqi.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=V8agwKgym4tK1ra&expires=1785620588&ip=F0uNKRqTKxSHDN&token=M33voBrnFAMC&stream=1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "name": "Sombra y Fuego",
+              "overview": "Los pueblos libres de Tierra Media luchan contra las fuerzas de la oscuridad.",
+              "airDate": "2024-10-03",
+              "duration": 73,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/y8QZyos5Xck90iztghsWcIr7yUd.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/get_video?id=ayw1xq7LdPhxBxB&expires=1785620631&ip=F0uNKRqTKxSHDN&token=Vxz-697i5AWn&stream=1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

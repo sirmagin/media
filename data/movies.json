@@ -1,0 +1,574 @@
+{
+    "movies": [
+        {
+            "id": "harry-potter-1",
+            "tmdbId": 671,
+            "title": "Harry Potter y la piedra filosofal",
+            "originalTitle": "Harry Potter and the Philosopher's Stone",
+            "year": 2001,
+            "releaseDate": "2001-11-16",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Familia"
+            ],
+            "duration": 152,
+            "rating": {
+                "score": 7.9,
+                "source": "TMDB"
+            },
+            "description": "Un huérfano entra a una escuela de magia y hechicería donde se dará cuenta de la verdad sobre su familia, de sí mismo y del mal que asecha el mundo mágico.",
+            "images": {
+                "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/hp1.jpeg",
+                "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/get_video?id=4PzJpKky7RiKAD1&expires=1785620752&ip=F0uNKRqTKxSHDN&token=XOGuipRd5mZC&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "harry-potter-2",
+            "tmdbId": 672,
+            "title": "Harry Potter y la cámara secreta",
+            "originalTitle": "Harry Potter and the Chamber of Secrets",
+            "year": 2002,
+            "releaseDate": "2002-11-15",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Familia"
+            ],
+            "duration": 161,
+            "rating": {
+                "score": 7.4,
+                "source": "TMDB"
+            },
+            "description": "Harry Potter regresa a Hogwarts para cursar su segundo año, pero una serie de misteriosos ataques amenaza a los estudiantes. Junto a sus amigos Ron y Hermione, Harry deberá descubrir qué secreto se esconde en la Cámara de los Secretos.",
+            "images": {
+                "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/hp2.jpeg",
+                "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/1stUIsjawROZxjiCMtqqXqgfZWC.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=JXy7qD4kD3sjpQR&expires=1785620828&ip=F0uNKRqTKxSHDN&token=QO4i5Asw-KAm&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "harry-potter-3",
+            "tmdbId": 673,
+            "title": "Harry Potter y el prisionero de Azkaban",
+            "originalTitle": "Harry Potter and the Prisoner of Azkaban",
+            "year": 2004,
+            "releaseDate": "2004-05-31",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Familia"
+            ],
+            "duration": 142,
+            "rating": {
+                "score": 7.9,
+                "source": "TMDB"
+            },
+            "description": "Harry Potter regresa a Hogwarts para su tercer año, donde descubre que un peligroso prisionero llamado Sirius Black ha escapado de la prisión de Azkaban y parece estar relacionado con su pasado.",
+            "images": {
+                "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/hp3.jpeg",
+                "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/htmYEfH7TQgzsXHCnNXxmoYKQtL.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=k0DvXevwRvCOg0v&expires=1785620901&ip=F0uNKRqTKxSHDN&token=8T52tqY7-QmF&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "harry-potter-4",
+            "tmdbId": 674,
+            "title": "Harry Potter y el cáliz de fuego",
+            "originalTitle": "Harry Potter and the Goblet of Fire",
+            "year": 2005,
+            "releaseDate": "2005-11-18",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Familia"
+            ],
+            "duration": 157,
+            "rating": {
+                "score": 7.8,
+                "source": "TMDB"
+            },
+            "description": "Harry Potter comienza su cuarto año en Hogwarts y es seleccionado misteriosamente para participar en el peligroso Torneo de los Tres Magos. Mientras enfrenta difíciles pruebas y rivales de otras escuelas de magia, el regreso de Lord Voldemort se vuelve cada vez más evidente.",
+            "images": {
+                "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/hp4.jpeg",
+                "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/1OV7hau4D3rWGS5bu8sqBYeVpe.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=0WMaPGqpe8hblev&expires=1785620977&ip=F0uNKRqTKxSHDN&token=56wZNpUJIe76&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "harry-potter-5",
+            "tmdbId": 675,
+            "title": "Harry Potter y la Orden del Fénix",
+            "originalTitle": "Harry Potter and the Order of the Phoenix",
+            "year": 2007,
+            "releaseDate": "2007-07-11",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Familia"
+            ],
+            "duration": 138,
+            "rating": {
+                "score": 7.7,
+                "source": "TMDB"
+            },
+            "description": "Harry Potter regresa a Hogwarts para su quinto año y descubre que el Ministerio de Magia se niega a reconocer el regreso de Lord Voldemort. Mientras la escuela queda bajo el control de la estricta Dolores Umbridge, Harry y sus amigos forman un grupo secreto para aprender a defenderse de las artes oscuras.",
+            "images": {
+                "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/hp5.jpeg",
+                "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=bKDJAKg0RGTLdD&expires=1785621045&ip=F0uNKRqTKxSHDN&token=CRkfxOk3t9X7&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "harry-potter-6",
+            "tmdbId": 767,
+            "title": "Harry Potter y el misterio del príncipe",
+            "originalTitle": "Harry Potter and the Half-Blood Prince",
+            "year": 2009,
+            "releaseDate": "2009-07-15",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Familia"
+            ],
+            "duration": 153,
+            "rating": {
+                "score": 7.7,
+                "source": "TMDB"
+            },
+            "description": "Harry Potter comienza su sexto año en Hogwarts mientras Lord Voldemort y sus seguidores aumentan su poder. Con la ayuda de Dumbledore, Harry descubre importantes secretos sobre el pasado de Voldemort y aprende sobre los Horrocruxes, elementos clave para derrotarlo.",
+            "images": {
+                "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/hp6.jpeg",
+                "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=Oqj8meqJ87Fzrj&expires=1785621117&ip=F0uNKRqTKxSHDN&token=AMXQBvk6mAnR&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "harry-potter-7-parte-1",
+            "tmdbId": 12444,
+            "title": "Harry Potter y las reliquias de la muerte - Parte 1",
+            "originalTitle": "Harry Potter and the Deathly Hallows: Part 1",
+            "year": 2010,
+            "releaseDate": "2010-11-19",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Familia"
+            ],
+            "duration": 146,
+            "rating": {
+                "score": 7.7,
+                "source": "TMDB"
+            },
+            "description": "Harry, Ron y Hermione emprenden una peligrosa misión para encontrar y destruir los Horrocruxes de Lord Voldemort. Mientras el mundo mágico cae bajo el control de las fuerzas oscuras, los tres amigos deberán enfrentarse a grandes peligros y tomar decisiones que pondrán a prueba su amistad.",
+            "images": {
+                "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/hp7p1.jpeg",
+                "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/vcrgU0KaNj5mKUCIQSUdiQwTE9y.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=V6oB10ZjzWIO79&expires=1785621182&ip=F0uNKRqTKxSHDN&token=NHUYzEf4-QU1&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "harry-potter-7-parte-2",
+            "tmdbId": 12445,
+            "title": "Harry Potter y las reliquias de la muerte - Parte 2",
+            "originalTitle": "Harry Potter and the Deathly Hallows: Part 2",
+            "year": 2011,
+            "releaseDate": "2011-07-15",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Familia"
+            ],
+            "duration": 130,
+            "rating": {
+                "score": 7.8,
+                "source": "TMDB"
+            },
+            "description": "Harry, Ron y Hermione continúan su búsqueda para destruir los últimos Horrocruxes de Lord Voldemort. La batalla final por Hogwarts comienza y Harry deberá enfrentarse a Voldemort en un enfrentamiento decisivo que determinará el destino del mundo mágico.",
+            "images": {
+                "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/hp7p2.jpeg",
+                "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=zb0y0KKPPOcY6DY&expires=1785621237&ip=F0uNKRqTKxSHDN&token=gaGb43PS1k_J&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "el-senor-de-los-anillos-la-comunidad-del-anillo",
+            "tmdbId": 120,
+            "title": "El Señor de los Anillos: La Comunidad del Anillo",
+            "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+            "year": 2001,
+            "releaseDate": "2001-12-19",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Acción"
+            ],
+            "duration": 178,
+            "rating": {
+                "score": 8.4,
+                "source": "TMDB"
+            },
+            "description": "Un joven hobbit llamado Frodo Bolsón emprende un peligroso viaje para destruir el Anillo Único, un objeto de inmenso poder creado por el Señor Oscuro Sauron. Acompañado por una comunidad de héroes, deberá atravesar la Tierra Media para impedir que el mal domine el mundo.",
+            "images": {
+                "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=WoLQLzwxQ6Hbl2r&expires=1785621343&ip=F0uNKRqTKxSHDN&token=xsa6mHux6H5v&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "el-senor-de-los-anillos-las-dos-torres",
+            "tmdbId": 121,
+            "title": "El Señor de los Anillos: Las dos torres",
+            "originalTitle": "The Lord of the Rings: The Two Towers",
+            "year": 2002,
+            "releaseDate": "2002-12-18",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Acción"
+            ],
+            "duration": 179,
+            "rating": {
+                "score": 8.3,
+                "source": "TMDB"
+            },
+            "description": "La Comunidad del Anillo se ha dividido y sus miembros continúan su lucha contra las fuerzas de Sauron. Mientras Frodo y Sam avanzan hacia Mordor acompañados por Gollum, Aragorn, Legolas y Gimli unen fuerzas con los habitantes de Rohan para enfrentarse al poderoso ejército de Saruman.",
+            "images": {
+                "poster": "https://image.tmdb.org/t/p/w342/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w342/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=z7oG08V0WwhG4q&expires=1785621422&ip=F0uNKRqTKxSHDN&token=oicyn_kHJhIC&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "el-senor-de-los-anillos-el-retorno-del-rey",
+            "tmdbId": 122,
+            "title": "El Señor de los Anillos: El retorno del rey",
+            "originalTitle": "The Lord of the Rings: The Return of the King",
+            "year": 2003,
+            "releaseDate": "2003-12-17",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Acción"
+            ],
+            "duration": 201,
+            "rating": {
+                "score": 8.5,
+                "source": "TMDB"
+            },
+            "description": "La batalla final por la Tierra Media se acerca mientras Frodo y Sam continúan su peligrosa misión para destruir el Anillo Único. Aragorn deberá aceptar su destino y liderar a los pueblos libres contra las fuerzas de Sauron en la última gran batalla por el futuro de la Tierra Media.",
+            "images": {
+                "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=kzAJRmLQaxhOVbA&expires=1785621476&ip=F0uNKRqTKxSHDN&token=sFGuhntQ27FJ&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "el-hobbit-un-viaje-inesperado",
+            "tmdbId": 49051,
+            "title": "El Hobbit: Un viaje inesperado",
+            "originalTitle": "The Hobbit: An Unexpected Journey",
+            "year": 2012,
+            "releaseDate": "2012-12-14",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Acción"
+            ],
+            "duration": 169,
+            "rating": {
+                "score": 7.8,
+                "source": "TMDB"
+            },
+            "description": "Bilbo Bolsón lleva una vida tranquila en la Comarca hasta que el mago Gandalf y un grupo de trece enanos llegan a su hogar para convencerlo de unirse a una peligrosa aventura. Su misión es recuperar el reino perdido de Erebor y su tesoro, enfrentándose a criaturas y peligros en el camino.",
+            "images": {
+                "poster": "https://image.tmdb.org/t/p/w342/1id2xLxg750ojOWvGWeqPIxmOIF.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w342/1id2xLxg750ojOWvGWeqPIxmOIF.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=xMjLvabJlQTo1X&expires=1785621560&ip=F0uNKRqTKxSHDN&token=YbYFB7_GCvkF&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "el-hobbit-la-desolacion-de-smaug",
+            "tmdbId": 57158,
+            "title": "El Hobbit: La desolación de Smaug",
+            "originalTitle": "The Hobbit: The Desolation of Smaug",
+            "year": 2013,
+            "releaseDate": "2013-12-13",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Acción"
+            ],
+            "duration": 161,
+            "rating": {
+                "score": 7.6,
+                "source": "TMDB"
+            },
+            "description": "Bilbo Bolsón, Thorin y la compañía de enanos continúan su viaje hacia la Montaña Solitaria para recuperar el reino de Erebor. En el camino deberán enfrentarse a peligrosos enemigos, atravesar el Bosque Negro y finalmente desafiar al temible dragón Smaug, que protege el enorme tesoro de los enanos.",
+            "images": {
+                "poster": "https://image.tmdb.org/t/p/w342/1s8xZDmG5IkDU0m1LeW28YcwTRx.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w342/1s8xZDmG5IkDU0m1LeW28YcwTRx.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=A2KmLbBZwGfXKJk&expires=1785621669&ip=F0uNKRqTKxSHDN&token=zJbg0ua0_5-P&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "el-hobbit-la-batalla-de-los-cinco-ejercitos",
+            "tmdbId": 122917,
+            "title": "El Hobbit: La batalla de los cinco ejércitos",
+            "originalTitle": "The Hobbit: The Battle of the Five Armies",
+            "year": 2014,
+            "releaseDate": "2014-12-17",
+            "genres": [
+                "Aventura",
+                "Fantasía",
+                "Acción"
+            ],
+            "duration": 144,
+            "rating": {
+                "score": 7.3,
+                "source": "TMDB"
+            },
+            "description": "Después de recuperar Erebor, Thorin y los enanos deben enfrentarse a las consecuencias de sus acciones mientras una enorme batalla se acerca. Bilbo, Gandalf y sus aliados se ven atrapados en la Batalla de los Cinco Ejércitos, donde el destino de la Tierra Media está en juego.",
+            "images": {
+                "poster": "https://image.tmdb.org/t/p/w342/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w342/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=1B4V4e1882teZB4&expires=1785621731&ip=F0uNKRqTKxSHDN&token=kgV9XvrsGBcb&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "avengers-los-vengadores",
+            "tmdbId": 24428,
+            "title": "Los Vengadores",
+            "originalTitle": "The Avengers",
+            "year": 2012,
+            "releaseDate": "2012-05-04",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 143,
+            "rating": {
+                "score": 8.0,
+                "source": "TMDB"
+                },
+            "description": "Cuando un enemigo inesperado amenaza la seguridad mundial, Nick Fury reúne a un grupo de extraordinarios héroes formado por Iron Man, Capitán América, Thor, Hulk, Viuda Negra y Ojo de Halcón. Juntos deberán aprender a trabajar como equipo para detener una amenaza que podría acabar con la humanidad.",
+            "images": {
+                "poster": "https://media.themoviedb.org/t/p/w300_and_h450_face/ugX4WZJO3jEvTOerctAWJLinujo.jpg",
+                "backdrop": "https://media.themoviedb.org/t/p/w300_and_h450_face/ugX4WZJO3jEvTOerctAWJLinujo.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=9pgGWjBArqiaKGg&expires=1785621814&ip=F0uNKRqTKxSHDN&token=hTDVjOadsuX2&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "avengers-era-de-ultron",
+            "tmdbId": 99861,
+            "title": "Avengers: Era de Ultrón",
+            "originalTitle": "Avengers: Age of Ultron",
+            "year": 2015,
+            "releaseDate": "2015-05-01",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 141,
+            "rating": {
+                "score": 7.3,
+                "source": "TMDB"
+            },
+            "description": "Cuando Tony Stark intenta poner en marcha un programa de mantenimiento de la paz, las cosas salen terriblemente mal y los Vengadores deben reunirse para enfrentarse a Ultrón, una inteligencia artificial decidida a extinguir a la humanidad. El equipo deberá superar sus diferencias para salvar al mundo.",
+            "images": {
+                "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6lJZcO9C8Vj_oGTKvCw3Ewyv5DV17U0GhMAeTfnaZ4Q&s=10",
+                "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6lJZcO9C8Vj_oGTKvCw3Ewyv5DV17U0GhMAeTfnaZ4Q&s=10"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=qKPo7XpZbOhyWp&expires=1785621886&ip=F0uNKRqTKxSHDN&token=RfR0YBS3sXE3&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "avengers-infinity-war",
+            "tmdbId": 299536,
+            "title": "Avengers: Infinity War",
+            "originalTitle": "Avengers: Infinity War",
+            "year": 2018,
+            "releaseDate": "2018-04-27",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 149,
+            "rating": {
+                "score": 8.2,
+                "source": "TMDB"
+            },
+            "description": "Los Vengadores y sus aliados deberán estar dispuestos a sacrificarlo todo en un intento por derrotar al poderoso Thanos antes de que reúna las seis Gemas del Infinito y complete su plan para alterar la realidad y acabar con la mitad de la vida del universo.",
+            "images": {
+                "poster": "https://image.tmdb.org/t/p/w342/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w342/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=dRvood9dvQFgAQ&expires=1785621945&ip=F0uNKRqTKxSHDN&token=IWfFwEyfjA73&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "avengers-endgame",
+            "tmdbId": 299534,
+            "title": "Avengers: Endgame",
+            "originalTitle": "Avengers: Endgame",
+            "year": 2019,
+            "releaseDate": "2019-04-26",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 181,
+            "rating": {
+                "score": 8.3,
+                "source": "TMDB"
+            },
+            "description": "Después de los devastadores acontecimientos de Avengers: Infinity War, los Vengadores supervivientes se reúnen para intentar revertir las acciones de Thanos y restaurar el equilibrio del universo. Enfrentándose a enormes sacrificios y consecuencias inesperadas, los héroes deberán luchar una última vez para recuperar a sus seres queridos y salvar el destino de la humanidad.",
+            "images": {
+                "poster": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+                "backdrop": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=Jwo6G0y6daCjMl3&expires=1785621992&ip=F0uNKRqTKxSHDN&token=uVBT1F1RRLXz&stream=1"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "iron-man-el-hombre-de-hierro",
+            "tmdbId": 1726,
+            "title": "Iron Man: El hombre de hierro",
+            "originalTitle": "Iron Man",
+            "year": 2008,
+            "releaseDate": "2008-05-02",
+            "genres": [
+                "Acción",
+                "Ciencia ficción",
+                "Aventura"
+            ],
+            "duration": 126,
+            "rating": {
+                "score": 7.6,
+                "source": "TMDB"
+            },
+            "description": "El multimillonario e ingeniero Tony Stark es secuestrado y obligado a construir un arma devastadora. En lugar de obedecer, utiliza su inteligencia para crear una avanzada armadura que le permite escapar. Al regresar a casa, decide perfeccionar su tecnología y convertirse en Iron Man para proteger a los inocentes y combatir las amenazas que lo rodean.",
+            "images": {
+                "poster": "https://media.themoviedb.org/t/p/w300_and_h450_face/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg",
+                "backdrop": "https://media.themoviedb.org/t/p/w300_and_h450_face/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg"
+            },
+            "sources": [
+                {
+                    "type": "direct",
+                    "video": "https://streamtape.com/get_video?id=PDaQL114rmS04DG&expires=1785622051&ip=F0uNKRqTKxSHDN&token=RUa_EyBZu1hj&stream=1"
+                }
+            ],
+            "active": true
+        }
+    ]
+}
