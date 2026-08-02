@@ -47,9 +47,9 @@
             "category": ["Nacional"],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/canal13.jpeg",
             "stream": [
+                {"type": "direct", "url": "https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL"},
                 {"type": "direct", "url": "http://45.162.193.35/CANAL13_HD/index.m3u8"},
-                {"type": "direct", "url": "https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8"},
-                {"type": "direct", "url": "https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL"}   
+                {"type": "direct", "url": "https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8"} 
             ]
         },
         {
