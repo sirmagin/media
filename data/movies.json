@@ -26,7 +26,7 @@
             "sources": [
                 {
                 "type": "direct",
-                "video": "https://streamtape.com/get_video?id=oQWqwPxx6wH9yp&expires=1785716585&ip=F0uNKRqTKxSHDN&token=ppXxtdWt50Yi&stream=1"
+                "video": "https://streamtape.com/e/oQWqwPxx6wH9yp/"
                 }
             ],
             "active": true
@@ -56,7 +56,7 @@
             "sources": [
                 {
                 "type": "direct",
-                "video": "https://streamtape.com/get_video?id=ZJ1gLZyrbWtqJWY&expires=1785715930&ip=F0uNKRqTKxSHDN&token=1eNCNcrEljsR&stream=1"
+                "video": "https://streamtape.com/e/ZJ1gLZyrbWtqJWY"
                 }
             ],
             "active": true
@@ -86,7 +86,7 @@
             "sources": [
                 {
                 "type": "direct",
-                "video": "https://streamtape.com/get_video?id=Zbx32ar80PhqzRR&expires=1785711536&ip=F0uNKRqTKxSHDN&token=ALN5Y0qsi-eT&stream=1"
+                "video": "https://streamtape.com/e/Zbx32ar80PhqzRR/"
                 }
             ],
             "active": true
@@ -476,7 +476,7 @@
             "sources": [
                 {
                     "type": "direct",
-                    "video": "https://streamtape.com/get_video?id=A2KmLbBZwGfXKJk&expires=1785621669&ip=F0uNKRqTKxSHDN&token=zJbg0ua0_5-P&stream=1"
+                    "video": "https://streamtape.com/e/A2KmLbBZwGfXKJk/"
                 }
             ],
             "active": true
@@ -566,7 +566,7 @@
             "sources": [
                 {
                     "type": "direct",
-                    "video": "https://streamtape.com/get_video?id=qKPo7XpZbOhyWp&expires=1785621886&ip=F0uNKRqTKxSHDN&token=RfR0YBS3sXE3&stream=1"
+                    "video": "https://streamtape.com/e/qKPo7XpZbOhyWp/"
                 }
             ],
             "active": true
@@ -596,7 +596,7 @@
             "sources": [
                 {
                     "type": "direct",
-                    "video": "https://streamtape.com/get_video?id=dRvood9dvQFgAQ&expires=1785621945&ip=F0uNKRqTKxSHDN&token=IWfFwEyfjA73&stream=1"
+                    "video": "https://streamtape.com/e/dRvood9dvQFgAQ/"
                 }
             ],
             "active": true
@@ -656,7 +656,7 @@
             "sources": [
                 {
                     "type": "direct",
-                    "video": "https://streamtape.com/get_video?id=PDaQL114rmS04DG&expires=1785722851&ip=F0uNKRqTKxSHDN&token=y-2vrWftML3J&stream=1"
+                    "video": "https://streamtape.com/e/PDaQL114rmS04DG/"
                 }
             ],
             "active": true
