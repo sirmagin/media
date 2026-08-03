@@ -2,6 +2,171 @@
   "series": [
     {
       "tmdbId": 1399,
+      "title": "Juego de tronos",
+      "originalTitle": "Game of Thrones",
+      "overview": "Nueve familias de la nobleza luchan por el control de las místicas tierras de Westeros, mientras tanto un viejo enemigo regresa después de miles de años de estar oculto.",
+      "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthrones.webp",
+      "backdrop": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthrones.webp",
+      "rating": 8.9,
+      "year": 2023,
+      "genres": [
+        "Drama",
+        "Acción",
+        "Aventura"
+      ],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "name": "Temporada 1",
+          "episodeCount": 10,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp1.webp",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "name": "Se acerca el invierno",
+              "overview": "Ned Stark recibe noticias inquietantes sobre un desertor de la Guardia de la Noche mientras el rey Robert llega a Invernalia.",
+              "airDate": "2011-04-17",
+              "duration": 61,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/o4IX9Mm0kpLITVANJMx7inyEUaY.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/2LeqVRQpj6TzJ0/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "name": "El camino real",
+              "overview": "Los Lannister intentan silenciar a Bran, mientras Jon y Tyrion parten hacia el Muro y Ned enfrenta una crisis familiar.",
+              "airDate": "2011-04-24",
+              "duration": 55,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/l0GJx3IR8YasbztTJi5uK0XqkEo.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/9oJDzW13lrfad23/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "name": "Lord Nieve",
+              "overview": "Jon intenta adaptarse a la Guardia de la Noche, Ned comienza su labor en Desembarco del Rey y Daenerys entra en conflicto con Viserys.",
+              "airDate": "2011-05-01",
+              "duration": 57,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8HjOlb4slc1xusMgOtoNpxuTgSI.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/6aVQBBR1Ozu920a/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "name": "Cosas que hay que hacer por amor",
+              "overview": "Ned investiga la muerte de Jon Arryn, Jon protege a Sam y Tyrion queda atrapado en una situación peligrosa.",
+              "airDate": "2011-05-08",
+              "duration": 55,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/Ai2UPMWv38xGjOgNBuA1o8w8dUI.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/APXPOWR6VWsXqlR/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "name": "El lobo y el león",
+              "overview": "Ned desafía una orden del rey y Tyrion vuelve a quedar en peligro mientras las tensiones entre Stark y Lannister aumentan.",
+              "airDate": "2011-05-15",
+              "duration": 54,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/u7e1qSWE6v8jfY9vGNrckX47DGN.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/qlYD83bkG4fzBmD/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "name": "Una corona de oro",
+              "overview": "Ned toma una decisión controvertida, Tyrion enfrenta las acusaciones contra él y Viserys exige su recompensa.",
+              "airDate": "2011-05-22",
+              "duration": 52,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/6FcfWGFlDyWZ2JvQi8uvkxbDx1z.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/rJZRDpR1JkCbW83/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "name": "Ganas o mueres",
+              "overview": "Ned confronta a Cersei sobre sus secretos, Jon realiza sus votos y Drogo promete llevar a los dothraki a Poniente.",
+              "airDate": "2011-05-29",
+              "duration": 57,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/o6ldSDhIINGNKZR62mHf2m64dD.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/2bMXeLrQDGcZv00/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "name": "Por el lado de la punta",
+              "overview": "Los Lannister atacan a los Stark, Robb reúne a los aliados del Norte y Arya intenta sobrevivir en Desembarco del Rey.",
+              "airDate": "2011-06-05",
+              "duration": 58,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/hH0U1QISWGGjoFutvCLdw28MGiq.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/GbmPaZWZGQCdwA/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "name": "Baelor",
+              "overview": "Ned toma una decisión decisiva, Robb captura a un prisionero importante y Daenerys enfrenta una grave amenaza.",
+              "airDate": "2011-06-12",
+              "duration": 56,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/fAmBhmw1pQc6fucrdmnRM5FOpXD.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/9yZbjKqyXbiDBP/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "name": "Fuego y sangre",
+              "overview": "Un nuevo rey surge en el Norte y Daenerys encuentra una nueva esperanza mientras los acontecimientos cambian el destino de Poniente.",
+              "airDate": "2011-06-19",
+              "duration": 52,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/88loh1qyi8vwJO8qH1SdQRsHKNI.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/QkL18a6yeZSJYy/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tmdbId": 1399,
       "title": "El señor de los anillos: Los anillos de poder",
       "originalTitle": "The Lord of the Rings: The Rings of Power",
       "overview": "En un tiempo de relativa calma, un grupo de personajes se enfrenta al resurgimiento del mal en la Tierra Media. A medida que la oscuridad se extiende, desde las profundidades de las Montañas Nubladas hasta el bosque de Lindon, la lucha por la supervivencia se vuelve cada vez más desesperada. Los reinos de Númenor y otros rincones de la Tierra Media se ven amenazados por la creciente sombra del mal.",
