@@ -8,11 +8,12 @@
       "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthrones.webp",
       "backdrop": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthrones.webp",
       "rating": 8.9,
-      "year": 2023,
+      "year": 2011,
       "genres": [
         "Drama",
         "Acción",
-        "Aventura"
+        "Aventura",
+        "Fantasía"
       ],
       "seasons": [
         {
