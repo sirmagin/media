@@ -163,6 +163,164 @@
               ]
             }
           ]
+        },
+        {
+          "seasonNumber": 2,
+          "name": "Temporada 2",
+          "episodeCount": 10,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp2.webp",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "name": "El Norte recuerda",
+              "originalName": "The North Remembers",
+              "overview": "Joffrey ocupa el Trono de Hierro mientras Robb continúa la rebelión y nuevos pretendientes reclaman la corona.",
+              "airDate": "2012-04-01",
+              "duration": 52,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/gGHtlTvHpSGZ8DIrxMyK3Ewkc1Y.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/bZqkaRq8ewtQG4/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "name": "Las tierras de la noche",
+              "originalName": "The Night Lands",
+              "overview": "Los distintos bandos buscan aliados y Jon se enfrenta a nuevas amenazas más allá del Muro.",
+              "airDate": "2012-04-08",
+              "duration": 53,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/3EW7wYNXUVaHT4XRuIoNFrqhZh5.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wdjWyAx7GaHJ77V/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "name": "Lo que está muerto no puede morir",
+              "originalName": "What Is Dead May Never Die",
+              "overview": "Theon regresa a las Islas del Hierro, mientras Tyrion intenta consolidar su posición y Renly reúne fuerzas.",
+              "airDate": "2012-04-15",
+              "duration": 52,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/neKkHgfX7dgi4E47GKT7bYciq93.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/M7P2bRDaKpSm8zz/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "name": "Jardín de huesos",
+              "originalName": "Garden of Bones",
+              "overview": "Daenerys busca ayuda para su pueblo y Tyrion descubre que la guerra puede llegar hasta las puertas de la capital.",
+              "airDate": "2012-04-22",
+              "duration": 50,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/5LhAdNG7NGipDOv2dF9ZPMAe2qh.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Mjz1Kar6GDIDYl/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "name": "El fantasma de Harrenhal",
+              "originalName": "The Ghost of Harrenhal",
+              "overview": "Una muerte cambia el equilibrio entre los pretendientes al trono y Arya presencia un acontecimiento que la marcará.",
+              "airDate": "2012-04-29",
+              "duration": 54,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/h7HHSQtEyf7cNBYR2G9DjQ78EgV.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/WgwGgWvrwgSbvkV/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "name": "Los dioses antiguos y nuevos",
+              "originalName": "The Old Gods and the New",
+              "overview": "Theon toma una decisión que cambia su destino y la situación de los Stark se vuelve cada vez más peligrosa.",
+              "airDate": "2012-05-06",
+              "duration": 53,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zUgvLgKhI7XbjU4cAW9qffL6ImQ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/BQJrD3YVBJhydeO/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "name": "Un hombre sin honor",
+              "originalName": "A Man Without Honor",
+              "overview": "Theon busca a Bran y Rickon, mientras Jon se separa de la Guardia y Daenerys descubre una amenaza dentro de Qarth.",
+              "airDate": "2012-05-13",
+              "duration": 56,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/oB8TBIIf0MT4W3oqZKEANHdS8rj.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/WXjmr9ZZa3Hb2dz/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "name": "El príncipe de Invernalia",
+              "originalName": "The Prince of Winterfell",
+              "overview": "Robb recibe noticias que complican su campaña y Theon intenta demostrar que controla Invernalia.",
+              "airDate": "2012-05-20",
+              "duration": 53,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/4W90HbZcVG54m8HoxaZmXc8rzjy.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/JXB3Yy6Yl0CjkJX/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "name": "Aguasnegras",
+              "originalName": "Blackwater",
+              "overview": "Las fuerzas de Stannis atacan Desembarco del Rey y Tyrion dirige la defensa de la ciudad.",
+              "airDate": "2012-05-27",
+              "duration": 54,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/c3hoOyXyQpd7gK1eM6Rar1dTxzA.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/rA7MZWvoBlTYoX/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "name": "Valar Morghulis",
+              "originalName": "Valar Morghulis",
+              "overview": "La batalla deja consecuencias profundas y los supervivientes de cada bando preparan sus siguientes movimientos.",
+              "airDate": "2012-06-03",
+              "duration": 63,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/u46jn12qEyaCOe1oqJBwPvL5d7R.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/PGQVbrAj49s008d/"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
