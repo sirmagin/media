@@ -489,7 +489,7 @@
             "country": "CL",
             "name": "Los Simpsons",
             "category": ["Infantil"],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/lossimpsons.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/lossimpson.jpeg",
             "stream": [
                 {"type": "direct", "url": "http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8"}
             ]
