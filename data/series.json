@@ -311,6 +311,164 @@
               ]
             }
           ]
+        },
+        {
+          "seasonNumber": 3,
+          "name": "Temporada 3",
+          "episodeCount": 10,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp3.webp",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "name": "Valar Dohaeris",
+              "originalName": "Valar Dohaeris",
+              "overview": "Jon Snow se encuentra ante Mance Rayder mientras Tyrion afronta las consecuencias de la batalla de Aguasnegras.",
+              "airDate": "2013-03-31",
+              "duration": 54,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/3pyS7xz9mprX4OuOCfV261CnGfR.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/LJeBdVoaaduRr7e"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "name": "Alas oscuras, palabras oscuras",
+              "originalName": "Dark Wings, Dark Words",
+              "overview": "Bran continúa su viaje y Robb descubre nuevas dificultades mientras los mensajes llevan noticias inquietantes por Poniente.",
+              "airDate": "2013-04-07",
+              "duration": 57,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/ydrupjqBj6M68pUwJNJ5rbGmm1O.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/1z0zXo7q7rceky8"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "name": "Camino del castigo",
+              "originalName": "Walk of Punishment",
+              "overview": "Jaime y Brienne enfrentan un peligro inesperado y Daenerys negocia para conseguir una fuerza militar.",
+              "airDate": "2013-04-14",
+              "duration": 52,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/i39Itkd76DOXxek0blIO6rI6zsa.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Bk6MyRlPdLTyqZ2"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "name": "Y ahora su guardia ha terminado",
+              "originalName": "And Now His Watch Is Ended",
+              "overview": "La Guardia de la Noche sufre una rebelión y Daenerys demuestra que su poder está creciendo.",
+              "airDate": "2013-04-21",
+              "duration": 53,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/veYx7AoKhxC8Pz8EThNpoOxeSGX.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/QDVOgBBroKi00r9"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "name": "Besado por el fuego",
+              "originalName": "Kissed by Fire",
+              "overview": "Jon y Ygritte se acercan mientras Jaime regresa cambiado y Robb debe afrontar nuevas consecuencias políticas.",
+              "airDate": "2013-04-28",
+              "duration": 57,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/d2b1CWsWCKMt5IpNXKgJfE4fjxj.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/3JKy9wMVydF2ye"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "name": "La escalada",
+              "originalName": "The Climb",
+              "overview": "Los personajes avanzan hacia objetivos difíciles mientras Meñique mueve sus piezas y Jon debe decidir en quién confiar.",
+              "airDate": "2013-05-05",
+              "duration": 53,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/eJQ5vnNrlM28fpInn6uGM0xUZRX.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/YDjx3JOPlQTv4wA"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "name": "El oso y la doncella",
+              "originalName": "The Bear and the Maiden Fair",
+              "overview": "Daenerys continúa su campaña, Jaime intenta salvar a Brienne y Arya se cruza con nuevos enemigos.",
+              "airDate": "2013-05-12",
+              "duration": 57,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/nNuLiw1TnQMNJ8B3ijN2D6jyAfc.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/G9b2oAMlXPi1z8J"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "name": "Segundos hijos",
+              "originalName": "Second Sons",
+              "overview": "Tyrion enfrenta un matrimonio inesperado mientras Daenerys negocia con los Segundos Hijos.",
+              "airDate": "2013-05-19",
+              "duration": 56,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/aDR4PJ9GLQYpKco84pN3myL631.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/AKovr4O6AgCXplb"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "name": "Las lluvias de Castamere",
+              "originalName": "The Rains of Castamere",
+              "overview": "Una alianza se rompe de manera brutal durante una celebración y el destino de los Stark cambia para siempre.",
+              "airDate": "2013-06-02",
+              "duration": 50,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8Cvg7NkvDPckIwPKWcyS25YcoSh.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/dpkAZbpO1esk42o"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "name": "Mhysa",
+              "originalName": "Mhysa",
+              "overview": "Los supervivientes afrontan las consecuencias de la traición y Daenerys es recibida como liberadora.",
+              "airDate": "2013-06-09",
+              "duration": 62,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/wJbEFBLyogHR1GoxfDXNIoP4k1w.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/bGa47rVB36CRel"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
