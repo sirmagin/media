@@ -13,7 +13,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 2,
             "active": true,
             "country": "CL",
             "name": "Mega",
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 3,
             "active": true,
             "country": "CL",
             "name": "Chilevisión",
@@ -39,7 +39,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 4,
             "active": true,
             "country": "CL",
             "name": "Canal 13",
@@ -52,7 +52,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 5,
             "active": true,
             "country": "CL",
             "name": "La Red",
@@ -66,7 +66,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 6,
             "active": true,
             "country": "CL",
             "name": "TV+",
@@ -78,7 +78,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 7,
             "active": true,
             "country": "CL",
             "name": "TVN3",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 8,
             "active": true,
             "country": "CL",
             "name": "UCV",
@@ -104,7 +104,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 9,
             "active": true,
             "country": "CL",
             "name": "TV Chile",
@@ -116,7 +116,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 10,
             "active": true,
             "country": "CL",
             "name": "El canal feliz",
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 11,
             "active": true,
             "country": "CL",
             "name": "NTV",
@@ -139,7 +139,7 @@
             ]
         },
                 {
-            "id": 0,
+            "id": 12,
             "active": true,
             "country": "CL",
             "name": "CNN Chile",
@@ -152,7 +152,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 13,
             "active": true,
             "country": "CL",
             "name": "Canal 24 Horas",
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 14,
             "active": true,
             "country": "CL",
             "name": "Meganoticias",
@@ -174,7 +174,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 15,
             "active": true,
             "country": "CL",
             "name": "CHV Noticias",
@@ -185,7 +185,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 16,
             "active": true,
             "country": "CL",
             "name": "T13 Noticias",
@@ -198,7 +198,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 17,
             "active": true,
             "country": "CL",
             "name": "13 Pop",
@@ -209,7 +209,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 18,
             "active": true,
             "country": "CL",
             "name": "13 Teleseries",
@@ -220,7 +220,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 19,
             "active": true,
             "country": "CL",
             "name": "13 Cultura",
@@ -231,7 +231,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 20,
             "active": true,
             "country": "CL",
             "name": "13 Festival",
@@ -242,7 +242,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 21,
             "active": true,
             "country": "CL",
             "name": "13 Realitis",
@@ -253,7 +253,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 22,
             "active": true,
             "country": "CL",
             "name": "13 Deportes",
@@ -264,7 +264,7 @@
             ]
         },
                 {
-            "id": 0,
+            "id": 23,
             "active": true,
             "country": "CL",
             "name": "ESPN",
@@ -275,7 +275,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 24,
             "active": true,
             "country": "CL",
             "name": "ESPN 3",
@@ -286,7 +286,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 25,
             "active": true,
             "country": "CL",
             "name": "ESPN 4",
@@ -297,7 +297,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 26,
             "active": true,
             "country": "CL",
             "name": "AXN",
@@ -309,7 +309,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 27,
             "active": true,
             "country": "CL",
             "name": "Cinecanal",
@@ -323,7 +323,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 28,
             "active": true,
             "country": "CL",
             "name": "Star Channel",
@@ -337,7 +337,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 29,
             "active": true,
             "country": "CL",
             "name": "FX",
@@ -350,7 +350,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 30,
             "active": true,
             "country": "CL",
             "name": "Studio Universal",
@@ -362,7 +362,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 31,
             "active": true,
             "country": "CL",
             "name": "HBO",
@@ -373,7 +373,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 32,
             "active": true,
             "country": "CL",
             "name": "HBO Family",
@@ -384,7 +384,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 33,
             "active": true,
             "country": "CL",
             "name": "HBO +",
@@ -395,7 +395,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 34,
             "active": true,
             "country": "CL",
             "name": "HBO Xtreme",
@@ -406,7 +406,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 35,
             "active": true,
             "country": "CL",
             "name": "HBO 2",
@@ -417,7 +417,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 36,
             "active": true,
             "country": "CL",
             "name": "Telemundo Internacional",
@@ -428,7 +428,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 37,
             "active": true,
             "country": "CL",
             "name": "Nat Geo",
@@ -442,7 +442,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 38,
             "active": true,
             "country": "CL",
             "name": "A&E",
@@ -455,7 +455,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 39,
             "active": true,
             "country": "CL",
             "name": "AMC",
@@ -468,7 +468,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 40,
             "active": true,
             "country": "CL",
             "name": "History",
@@ -481,7 +481,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 41,
             "active": true,
             "country": "CL",
             "name": "History 2",
@@ -492,7 +492,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 42,
             "active": true,
             "country": "CL",
             "name": "Film & Arts",
@@ -503,7 +503,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 43,
             "active": true,
             "country": "CL",
             "name": "Cartoon Network",
@@ -514,7 +514,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 44,
             "active": true,
             "country": "CL",
             "name": "Cartoon Network 2",
@@ -525,7 +525,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 45,
             "active": true,
             "country": "CL",
             "name": "Disney Channel",
@@ -539,7 +539,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 46,
             "active": true,
             "country": "CL",
             "name": "Nickelodeon",
@@ -550,7 +550,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 47,
             "active": true,
             "country": "CL",
             "name": "Nicktoons",
@@ -561,7 +561,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 48,
             "active": true,
             "country": "CL",
             "name": "Bob Esponja",
@@ -572,7 +572,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 49,
             "active": true,
             "country": "CL",
             "name": "31 Minutos",
@@ -583,7 +583,7 @@
             ]
         },
         {
-            "id": 0,
+            "id": 50,
             "active": true,
             "country": "CL",
             "name": "Los Simpsons",
