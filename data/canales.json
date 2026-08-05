@@ -431,6 +431,17 @@
             "id": 37,
             "active": true,
             "country": "CL",
+            "name": "TNT",
+            "category": ["Series", "Películas"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tnt.jpeg",
+            "stream": [
+                {"type": "direct", "url": "hhttp://tecnotv.club/neef/phpcode/lista4.php?c=a060&token=tecnotokenplustv230516F&f=.m3u8"}
+            ]
+        },
+        {
+            "id": 38,
+            "active": true,
+            "country": "CL",
             "name": "Telemundo Internacional",
             "category": ["Series", "Películas"],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/telemundo.jpeg",
@@ -439,7 +450,7 @@
             ]
         },
         {
-            "id": 38,
+            "id": 39,
             "active": true,
             "country": "CL",
             "name": "Nat Geo",
@@ -453,7 +464,7 @@
             ]
         },
         {
-            "id": 39,
+            "id": 40,
             "active": true,
             "country": "CL",
             "name": "A&E",
@@ -466,7 +477,7 @@
             ]
         },
         {
-            "id": 40,
+            "id": 41,
             "active": true,
             "country": "CL",
             "name": "AMC",
@@ -479,7 +490,18 @@
             ]
         },
         {
-            "id": 41,
+            "id": 42,
+            "active": true,
+            "country": "CL",
+            "name": "Discovery Channel",
+            "category": ["Documental"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/discovery.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://tecnotv.club/neef/phpcode/lista2.php?c=a05p&f=.m3u8&token=tecnotokenplustv230516F"}
+            ]
+        },
+        {
+            "id": 43,
             "active": true,
             "country": "CL",
             "name": "History",
@@ -492,7 +514,7 @@
             ]
         },
         {
-            "id": 42,
+            "id": 44,
             "active": true,
             "country": "CL",
             "name": "History 2",
@@ -503,7 +525,7 @@
             ]
         },
         {
-            "id": 43,
+            "id": 45,
             "active": true,
             "country": "CL",
             "name": "Film & Arts",
@@ -514,18 +536,19 @@
             ]
         },
         {
-            "id": 44,
+            "id": 46,
             "active": true,
             "country": "CL",
             "name": "Cartoon Network",
             "category": ["Infantil"],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cartoonnetwork.jpeg",
             "stream": [
+                {"type": "direct", "url": "http://tecnotv.club/neef/phpcode/lista4.php?c=a08b&token=tecnotokenplustv230516F&f=.m3u8"},
                 {"type": "direct", "url": "http://tecnotv.club/neef/phpcode/ssiptv.php?c=a00z&token=tecnotokenplustv230516F&f=.m3u8"}
             ]
         },
         {
-            "id": 45,
+            "id": 47,
             "active": true,
             "country": "CL",
             "name": "Cartoon Network 2",
@@ -536,7 +559,7 @@
             ]
         },
         {
-            "id": 46,
+            "id": 48,
             "active": true,
             "country": "CL",
             "name": "Disney Channel",
@@ -550,7 +573,7 @@
             ]
         },
         {
-            "id": 47,
+            "id": 49,
             "active": true,
             "country": "CL",
             "name": "Nickelodeon",
@@ -561,7 +584,7 @@
             ]
         },
         {
-            "id": 48,
+            "id": 50,
             "active": true,
             "country": "CL",
             "name": "Nicktoons",
@@ -572,7 +595,7 @@
             ]
         },
         {
-            "id": 49,
+            "id": 51,
             "active": true,
             "country": "CL",
             "name": "Bob Esponja",
@@ -583,7 +606,7 @@
             ]
         },
         {
-            "id": 50,
+            "id": 52,
             "active": true,
             "country": "CL",
             "name": "31 Minutos",
@@ -594,7 +617,7 @@
             ]
         },
         {
-            "id": 51,
+            "id": 53,
             "active": true,
             "country": "CL",
             "name": "Los Simpsons",
