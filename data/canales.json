@@ -453,6 +453,28 @@
             "id": 39,
             "active": true,
             "country": "CL",
+            "name": "SPACE",
+            "category": ["Series", "Películas"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/space.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://tecnotv.club/neef/phpcode/ssiptv.php?c=a04h&token=tecnotokenplustv230516F&f=.m3u8"}
+            ]
+        },
+        {
+            "id": 40,
+            "active": true,
+            "country": "CL",
+            "name": "Sony Movies",
+            "category": ["Series", "Películas"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/sonymovies.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://tecnotv.club/neef/phpcode/ssiptv.php?c=a005&token=tecnotokenplustv230516F&f=.m3u8"}
+            ]
+        },
+        {
+            "id": 41,
+            "active": true,
+            "country": "CL",
             "name": "Telemundo Internacional",
             "category": ["Series", "Películas"],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/telemundo.jpeg",
@@ -461,7 +483,7 @@
             ]
         },
         {
-            "id": 40,
+            "id": 42,
             "active": true,
             "country": "CL",
             "name": "Nat Geo",
@@ -475,7 +497,7 @@
             ]
         },
         {
-            "id": 41,
+            "id": 43,
             "active": true,
             "country": "CL",
             "name": "A&E",
@@ -488,7 +510,7 @@
             ]
         },
         {
-            "id": 42,
+            "id": 44,
             "active": true,
             "country": "CL",
             "name": "AMC",
@@ -501,7 +523,7 @@
             ]
         },
         {
-            "id": 43,
+            "id": 45,
             "active": true,
             "country": "CL",
             "name": "Discovery Channel",
@@ -512,7 +534,7 @@
             ]
         },
         {
-            "id": 44,
+            "id": 45,
             "active": true,
             "country": "CL",
             "name": "History",
@@ -525,7 +547,7 @@
             ]
         },
         {
-            "id": 45,
+            "id": 46,
             "active": true,
             "country": "CL",
             "name": "History 2",
@@ -536,7 +558,7 @@
             ]
         },
         {
-            "id": 46,
+            "id": 47,
             "active": true,
             "country": "CL",
             "name": "Film & Arts",
@@ -547,7 +569,7 @@
             ]
         },
         {
-            "id": 47,
+            "id": 48,
             "active": true,
             "country": "CL",
             "name": "Cartoon Network",
@@ -559,7 +581,7 @@
             ]
         },
         {
-            "id": 48,
+            "id": 49,
             "active": true,
             "country": "CL",
             "name": "Cartoon Network 2",
@@ -570,7 +592,7 @@
             ]
         },
         {
-            "id": 49,
+            "id": 50,
             "active": true,
             "country": "CL",
             "name": "Disney Channel",
@@ -584,7 +606,7 @@
             ]
         },
         {
-            "id": 50,
+            "id": 51,
             "active": true,
             "country": "CL",
             "name": "Nickelodeon",
@@ -595,7 +617,7 @@
             ]
         },
         {
-            "id": 51,
+            "id": 52,
             "active": true,
             "country": "CL",
             "name": "Nicktoons",
@@ -606,7 +628,7 @@
             ]
         },
         {
-            "id": 52,
+            "id": 53,
             "active": true,
             "country": "CL",
             "name": "Bob Esponja",
@@ -617,7 +639,7 @@
             ]
         },
         {
-            "id": 53,
+            "id": 54,
             "active": true,
             "country": "CL",
             "name": "31 Minutos",
@@ -628,7 +650,7 @@
             ]
         },
         {
-            "id": 54,
+            "id": 55,
             "active": true,
             "country": "CL",
             "name": "Los Simpsons",
