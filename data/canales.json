@@ -302,7 +302,7 @@
             "country": "CL",
             "name": "TNT Sports Premium",
             "category": ["Deportes"],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tntsportspremium.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tntsportpremium.jpeg",
             "stream": [
                 {"type": "direct", "url": "http://tecnotv.club/neef/phpcode/lista4.php?c=a05i&token=tecnotokenplustv230516F&f=.m3u8"}
             ]
