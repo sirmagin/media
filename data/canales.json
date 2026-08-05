@@ -446,7 +446,7 @@
             "category": ["Series", "Películas"],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tnt.jpeg",
             "stream": [
-                {"type": "direct", "url": "hhttp://tecnotv.club/neef/phpcode/lista4.php?c=a060&token=tecnotokenplustv230516F&f=.m3u8"}
+                {"type": "direct", "url": "http://tecnotv.club/neef/phpcode/lista4.php?c=a060&token=tecnotokenplustv230516F&f=.m3u8"}
             ]
         },
         {
