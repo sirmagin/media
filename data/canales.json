@@ -300,6 +300,17 @@
             "id": 26,
             "active": true,
             "country": "CL",
+            "name": "TNT Sports Premium",
+            "category": ["Deportes"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tntsportspremium.jpeg",
+            "stream": [
+                {"type": "direct", "url": "http://tecnotv.club/neef/phpcode/lista4.php?c=a05i&token=tecnotokenplustv230516F&f=.m3u8"}
+            ]
+        },
+        {
+            "id": 27,
+            "active": true,
+            "country": "CL",
             "name": "AXN",
             "category": ["Series", "Películas"],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/axn.jpeg",
@@ -309,7 +320,7 @@
             ]
         },
         {
-            "id": 27,
+            "id": 28,
             "active": true,
             "country": "CL",
             "name": "Cinecanal",
@@ -323,7 +334,7 @@
             ]
         },
         {
-            "id": 28,
+            "id": 29,
             "active": true,
             "country": "CL",
             "name": "Star Channel",
@@ -337,7 +348,7 @@
             ]
         },
         {
-            "id": 29,
+            "id": 30,
             "active": true,
             "country": "CL",
             "name": "FX",
@@ -350,7 +361,7 @@
             ]
         },
         {
-            "id": 30,
+            "id": 31,
             "active": true,
             "country": "CL",
             "name": "Studio Universal",
@@ -362,7 +373,7 @@
             ]
         },
         {
-            "id": 31,
+            "id": 32,
             "active": true,
             "country": "CL",
             "name": "HBO",
@@ -373,7 +384,7 @@
             ]
         },
         {
-            "id": 32,
+            "id": 33,
             "active": true,
             "country": "CL",
             "name": "HBO Family",
@@ -384,7 +395,7 @@
             ]
         },
         {
-            "id": 33,
+            "id": 34,
             "active": true,
             "country": "CL",
             "name": "HBO +",
@@ -395,7 +406,7 @@
             ]
         },
         {
-            "id": 34,
+            "id": 35,
             "active": true,
             "country": "CL",
             "name": "HBO Xtreme",
@@ -406,7 +417,7 @@
             ]
         },
         {
-            "id": 35,
+            "id": 36,
             "active": true,
             "country": "CL",
             "name": "HBO 2",
@@ -417,7 +428,7 @@
             ]
         },
         {
-            "id": 36,
+            "id": 37,
             "active": true,
             "country": "CL",
             "name": "CINEMAX",
@@ -428,7 +439,7 @@
             ]
         },
         {
-            "id": 37,
+            "id": 38,
             "active": true,
             "country": "CL",
             "name": "TNT",
@@ -439,7 +450,7 @@
             ]
         },
         {
-            "id": 38,
+            "id": 39,
             "active": true,
             "country": "CL",
             "name": "Telemundo Internacional",
@@ -450,7 +461,7 @@
             ]
         },
         {
-            "id": 39,
+            "id": 40,
             "active": true,
             "country": "CL",
             "name": "Nat Geo",
@@ -464,7 +475,7 @@
             ]
         },
         {
-            "id": 40,
+            "id": 41,
             "active": true,
             "country": "CL",
             "name": "A&E",
@@ -477,7 +488,7 @@
             ]
         },
         {
-            "id": 41,
+            "id": 42,
             "active": true,
             "country": "CL",
             "name": "AMC",
@@ -490,7 +501,7 @@
             ]
         },
         {
-            "id": 42,
+            "id": 43,
             "active": true,
             "country": "CL",
             "name": "Discovery Channel",
@@ -501,7 +512,7 @@
             ]
         },
         {
-            "id": 43,
+            "id": 44,
             "active": true,
             "country": "CL",
             "name": "History",
@@ -514,7 +525,7 @@
             ]
         },
         {
-            "id": 44,
+            "id": 45,
             "active": true,
             "country": "CL",
             "name": "History 2",
@@ -525,7 +536,7 @@
             ]
         },
         {
-            "id": 45,
+            "id": 46,
             "active": true,
             "country": "CL",
             "name": "Film & Arts",
@@ -536,7 +547,7 @@
             ]
         },
         {
-            "id": 46,
+            "id": 47,
             "active": true,
             "country": "CL",
             "name": "Cartoon Network",
@@ -548,7 +559,7 @@
             ]
         },
         {
-            "id": 47,
+            "id": 48,
             "active": true,
             "country": "CL",
             "name": "Cartoon Network 2",
@@ -559,7 +570,7 @@
             ]
         },
         {
-            "id": 48,
+            "id": 49,
             "active": true,
             "country": "CL",
             "name": "Disney Channel",
@@ -573,7 +584,7 @@
             ]
         },
         {
-            "id": 49,
+            "id": 50,
             "active": true,
             "country": "CL",
             "name": "Nickelodeon",
@@ -584,7 +595,7 @@
             ]
         },
         {
-            "id": 50,
+            "id": 51,
             "active": true,
             "country": "CL",
             "name": "Nicktoons",
@@ -595,7 +606,7 @@
             ]
         },
         {
-            "id": 51,
+            "id": 52,
             "active": true,
             "country": "CL",
             "name": "Bob Esponja",
@@ -606,7 +617,7 @@
             ]
         },
         {
-            "id": 52,
+            "id": 53,
             "active": true,
             "country": "CL",
             "name": "31 Minutos",
@@ -617,7 +628,7 @@
             ]
         },
         {
-            "id": 53,
+            "id": 54,
             "active": true,
             "country": "CL",
             "name": "Los Simpsons",
