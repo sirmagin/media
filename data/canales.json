@@ -794,7 +794,7 @@
             "stream": [
                 {
                     "type": "direct",
-                    "url": "http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8"
+                    "url": "http://tecnotv.club/2utm/phpcode/lista01.php?c=a03e&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "direct",
@@ -802,11 +802,11 @@
                 },
                 {
                     "type": "direct",
-                    "url": "https://tecnotv.club/2utm/phpcode/android3.php?c=a0bh&token=tecnotokenplustv230516F"
+                    "url": "http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8"
                 },
                 {
                     "type": "direct",
-                    "url": "http://tecnotv.club/2utm/phpcode/lista01.php?c=a03e&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "https://tecnotv.club/2utm/phpcode/android3.php?c=a0bh&token=tecnotokenplustv230516F"
                 },
                 {
                     "type": "direct",
