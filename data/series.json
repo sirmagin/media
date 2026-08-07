@@ -469,6 +469,164 @@
               ]
             }
           ]
+        },
+        {
+          "seasonNumber": 4,
+          "name": "Temporada 4",
+          "episodeCount": 10,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp4.webp",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "name": "Dos espadas",
+              "originalName": "Two Swords",
+              "overview": "Tywin forja una nueva espada para los Lannister mientras las familias de Poniente se preparan para nuevos conflictos.",
+              "airDate": "2014-04-06",
+              "duration": 58,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/nwtWHSlKnXS1sRLuzzwEmIuXjj8.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/84MWeADjv3c6p9"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "name": "El león y la rosa",
+              "originalName": "The Lion and the Rose",
+              "overview": "La boda de Joffrey y Margaery reúne a los grandes poderes de Poniente y termina en tragedia.",
+              "airDate": "2014-04-13",
+              "duration": 52,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/v7Fe8FqVDRFtNIC9PTqOEFCC5pn.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/mqarrQbXvRSbW1o"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "name": "Rompedora de cadenas",
+              "originalName": "Breaker of Chains",
+              "overview": "La muerte de Joffrey desencadena una crisis y Jaime intenta ayudar a Tyrion mientras Daenerys se acerca a Meereen.",
+              "airDate": "2014-04-20",
+              "duration": 57,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/pgwGxEDIv1XyB5TcJcJM7EMLWiX.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/9od6dVMaY4SYo4"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "name": "Guardajuramentos",
+              "originalName": "Oathkeeper",
+              "overview": "Jaime entrega una misión a Brienne y Daenerys toma el control de Meereen.",
+              "airDate": "2014-04-27",
+              "duration": 55,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/fg0ImcTfCinFq7iu21BahGD3fPr.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/lPk3Ox2vRqI714G"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "name": "Primero de su nombre",
+              "originalName": "First of His Name",
+              "overview": "Tommen es proclamado rey mientras Daenerys enfrenta las dificultades de gobernar una ciudad recién conquistada.",
+              "airDate": "2014-05-04",
+              "duration": 53,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/AakvWcPHDwrEML6mwvz4I0hzp3l.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/LO8dLV23BOSRRRo"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "name": "Las leyes de dioses y hombres",
+              "originalName": "The Laws of Gods and Men",
+              "overview": "Tyrion es llevado a juicio y Daenerys recibe una dura lección sobre las consecuencias de gobernar.",
+              "airDate": "2014-05-11",
+              "duration": 50,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/vKt9b7HNYhwM91C7S53zPsAWfT3.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Ry4k7KDrxetX3o"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "name": "Sinsonte",
+              "originalName": "Mockingbird",
+              "overview": "Tyrion busca un campeón para su juicio mientras Arya y el Perro continúan su viaje.",
+              "airDate": "2014-05-18",
+              "duration": 51,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/u1LNM3vEGX2SWmoDZZC6yxXZXu8.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/DqKKZgqgvjhko73"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "name": "La Montaña y la Víbora",
+              "originalName": "The Mountain and the Viper",
+              "overview": "El juicio por combate de Tyrion llega a un enfrentamiento brutal y decisivo.",
+              "airDate": "2014-06-01",
+              "duration": 52,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/cOcGpQmBvwuScHJjwQYlCreVl4x.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/q6owXjz13ZuzzmB"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "name": "Los vigilantes del Muro",
+              "originalName": "The Watchers on the Wall",
+              "overview": "La Guardia de la Noche defiende el Muro ante un ataque masivo de los salvajes.",
+              "airDate": "2014-06-08",
+              "duration": 50,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/uDtXFnIKg9KqZkj1zVYYJFXPqwk.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/j7yYQ1qGZVTzVlm"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "name": "Los niños",
+              "originalName": "The Children",
+              "overview": "La batalla por el Norte llega a un punto decisivo mientras varios personajes toman caminos separados.",
+              "airDate": "2014-06-15",
+              "duration": 65,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/spGyzlSGrWPaiWKn0iqv8l0PI29.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Z1K0KaQXXKcBQx"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
