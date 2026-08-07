@@ -334,7 +334,7 @@
             "category": ["Series", "Películas"],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/warnertv.jpeg",
             "stream": [
-                {"type": "direct", "url": "http://tecnotv.club/2utm/phpcode/lista01.php?c=a0hz&token=tecnotokenplustv230516F&f=.m3u8"}
+                {"type": "direct", "url": "http://tecnotv.club/2utm/phpcode/android2.php?c=a0il&token=tecnotokenplustv230516F&f=.m3u8"}
             ]
         },
         {
