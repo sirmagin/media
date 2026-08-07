@@ -1,6 +1,37 @@
 {
     "movies": [
         {
+            "id": "troya",
+            "tmdbId": 652,
+            "title": "Troya",
+            "originalTitle": "Troy",
+            "year": 2004,
+            "releaseDate": "2004-05-14",
+            "genres": [
+            "Aventura",
+            "Drama",
+            "Historia"
+            ],
+            "duration": 163,
+            "rating": {
+            "score": 7.2,
+            "source": "TMDB"
+            },
+            "description": "El príncipe troyano Paris se enamora de Helena, esposa del rey de Esparta, y se la lleva consigo a Troya. Este acto desencadena una guerra entre griegos y troyanos. Aquiles, el más grande de los guerreros griegos, lidera el ejército mientras ambos bandos se enfrentan en una batalla que cambiará para siempre el destino de Troya."
+            ,
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/mBiDQT28DnuYaJSL4nDD43ORE6p.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/4dPAbjvABjFKA9A/"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "john-wick-4",
             "tmdbId": 603692,
             "title": "John Wick 4",
