@@ -12,15 +12,15 @@
             "stream": [
                 {
                     "type": "direct",
+                    "url": "http://tecnotv.club/2utm/phpcode/lista01.php?c=a0gs&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "direct",
                     "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8"
                 },
                 {
                     "type": "direct",
                     "url": "http://45.162.193.35/TVN/index.m3u8"
-                },
-                {
-                    "type": "direct",
-                    "url": "http://tecnotv.club/2utm/phpcode/lista01.php?c=a0gs&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -548,23 +548,11 @@
             "stream": [
                 {
                     "type": "direct",
-                    "url": "http://181.78.197.59:8000/play/a081/index.m3u8"
+                    "url": "http://tecnotv.club/2utm/phpcode/lista01.php?c=a0gq&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "direct",
-                    "url": "http://tecnotv.club/2utm/phpcode/android.php?c=a0c3&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "direct",
-                    "url": "https://tecnotv.club/2utm/phpcode/android3.php?c=a0c3&token=tecnotokenplustv230516F"
-                },
-                {
-                    "type": "direct",
-                    "url": "http://tecnotv.club/2utm/phpcode/lista1.php?c=a0c3&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "direct",
-                    "url": "http://tecnotv.club/2utm/phpcode/ssiptv.php?c=a02d&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/2utm/phpcode/android2.php?c=a0is&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -597,7 +585,16 @@
                 "Deportes"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tntsportpremium.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "direct",
+                    "url": "http://tecnotv.club/2utm/phpcode/lista01.php?c=a0gt&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "direct",
+                    "url": "http://tecnotv.club/2utm/phpcode/lista01.php?c=a0h2&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 27,
@@ -1175,6 +1172,10 @@
             "stream": [
                 {
                     "type": "direct",
+                    "url": "http://tecnotv.club/2utm/phpcode/ssiptv.php?c=a01i&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "direct",
                     "url": "http://45.162.193.35/AMC/index.m3u8"
                 },
                 {
@@ -1204,10 +1205,6 @@
                 {
                     "type": "direct",
                     "url": "http://tecnotv.club/2utm/phpcode/lista1.php?c=a0k8&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "direct",
-                    "url": "http://tecnotv.club/2utm/phpcode/ssiptv.php?c=a01i&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1336,17 +1333,6 @@
             "id": 51,
             "active": true,
             "country": "CL",
-            "name": "Cartoon Network 2",
-            "category": [
-                "Infantil"
-            ],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cartoonnetwork.jpeg",
-            "stream": []
-        },
-        {
-            "id": 52,
-            "active": true,
-            "country": "CL",
             "name": "Disney Channel",
             "category": [
                 "Infantil"
@@ -1380,7 +1366,7 @@
             ]
         },
         {
-            "id": 53,
+            "id": 52,
             "active": true,
             "country": "CL",
             "name": "Nickelodeon",
@@ -1388,10 +1374,15 @@
                 "Infantil"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/nickelodeon.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "direct",
+                    "url": "http://tecnotv.club/2utm/phpcode/lista01.php?c=a0h6&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
-            "id": 54,
+            "id": 53,
             "active": true,
             "country": "CL",
             "name": "Nicktoons",
@@ -1407,7 +1398,7 @@
             ]
         },
         {
-            "id": 55,
+            "id": 54,
             "active": true,
             "country": "CL",
             "name": "Bob Esponja",
@@ -1423,7 +1414,7 @@
             ]
         },
         {
-            "id": 56,
+            "id": 55,
             "active": true,
             "country": "CL",
             "name": "31 Minutos",
@@ -1439,7 +1430,7 @@
             ]
         },
         {
-            "id": 57,
+            "id": 56,
             "active": true,
             "country": "CL",
             "name": "Los Simpsons",
