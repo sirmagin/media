@@ -72,11 +72,11 @@
             "stream": [
                 {
                     "type": "direct",
-                    "url": "https://jireh-19-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL=&dpssid=b2928196036a5da5b44ff3f&sid=ba5t1l1xb24166355076a5da5b44ff3d&ndvc=1"
+                    "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8"
                 },
                 {
                     "type": "direct",
-                    "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8"
+                    "url": "https://jireh-19-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL=&dpssid=b2928196036a5da5b44ff3f&sid=ba5t1l1xb24166355076a5da5b44ff3d&ndvc=1"
                 }
             ]
         },
@@ -114,7 +114,7 @@
         },
         {
             "id": 5,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "La Red",
             "category": [
