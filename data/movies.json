@@ -1,6 +1,336 @@
 {
     "movies": [
         {
+            "id": "star-wars-episodio-9-el-ascenso-de-skywalker",
+            "tmdbId": 181812,
+            "title": "Star Wars: Episodio IX - El ascenso de Skywalker",
+            "originalTitle": "Star Wars: The Rise of Skywalker",
+            "year": 2019,
+            "releaseDate": "2019-12-20",
+            "genres": [
+            "Aventura",
+            "Acción",
+            "Ciencia ficción"
+            ],
+            "duration": 142,
+            "rating": {
+            "score": 6.3,
+            "source": "TMDB"
+            },
+            "description": "La Resistencia sobreviviente se enfrenta nuevamente a la Primera Orden mientras una antigua amenaza resurge. Rey continúa su entrenamiento Jedi y descubre secretos sobre su pasado, mientras ella, Finn, Poe y sus aliados emprenden una última aventura para enfrentarse al Emperador Palpatine y poner fin a la guerra por la galaxia.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/oeQxq6If4DcW6ADIYCF9SQwKov.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/oeQxq6If4DcW6ADIYCF9SQwKov.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/waJB3WmOZ7SJzp3/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "star-wars-episodio-8-los-ultimos-jedi",
+            "tmdbId": 181808,
+            "title": "Star Wars: Episodio VIII - Los últimos Jedi",
+            "originalTitle": "Star Wars: The Last Jedi",
+            "year": 2017,
+            "releaseDate": "2017-12-15",
+            "genres": [
+            "Aventura",
+            "Acción",
+            "Ciencia ficción"
+            ],
+            "duration": 152,
+            "rating": {
+            "score": 6.8,
+            "source": "TMDB"
+            },
+            "description": "Rey desarrolla sus recién descubiertas habilidades con la Fuerza bajo la guía de Luke Skywalker, quien se encuentra atormentado por su pasado. Mientras la Resistencia lucha por sobrevivir frente a la Primera Orden, Rey deberá decidir qué papel desempeñará en la lucha entre la luz y la oscuridad.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/7SNzh1fY3YJ8Y8MX93pZF5cJHaH.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/6mzPkXJkVbi9Gqe/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "star-wars-episodio-7-el-despertar-de-la-fuerza",
+            "tmdbId": 140607,
+            "title": "Star Wars: Episodio VII - El despertar de la Fuerza",
+            "originalTitle": "Star Wars: The Force Awakens",
+            "year": 2015,
+            "releaseDate": "2015-12-18",
+            "genres": [
+            "Aventura",
+            "Acción",
+            "Ciencia ficción"
+            ],
+            "duration": 138,
+            "rating": {
+            "score": 7.3,
+            "source": "TMDB"
+            },
+            "description": "Treinta años después de la derrota del Imperio, una nueva amenaza surge de las sombras. Rey, una joven chatarrera de Jakku, se ve involucrada en una misión junto a Finn, un antiguo soldado de asalto, y el piloto de la Resistencia Poe Dameron. Juntos deberán ayudar a encontrar al desaparecido Luke Skywalker y enfrentarse a la Primera Orden y a su misterioso líder Kylo Ren.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/vI86GLIkT5pP3ZfNs2EvmTrBLBm.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/GGVbwW6YlesalR/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "star-wars-episodio-6-el-regreso-del-jedi",
+            "tmdbId": 1892,
+            "title": "Star Wars: Episodio VI - El regreso del Jedi",
+            "originalTitle": "Return of the Jedi",
+            "year": 1983,
+            "releaseDate": "1983-05-25",
+            "genres": [
+            "Aventura",
+            "Acción",
+            "Ciencia ficción"
+            ],
+            "duration": 131,
+            "rating": {
+            "score": 8.3,
+            "source": "TMDB"
+            },
+            "description": "Luke Skywalker regresa a Tatooine para rescatar a Han Solo de las garras de Jabba el Hutt. Mientras tanto, el Imperio Galáctico construye una nueva Estrella de la Muerte y prepara su batalla definitiva contra la Alianza Rebelde. Luke deberá enfrentarse nuevamente a Darth Vader y al Emperador Palpatine en un enfrentamiento decisivo por el destino de la galaxia.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/rKMmXzdm7eRgmlwYo7iq3klT7wJ.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/rKMmXzdm7eRgmlwYo7iq3klT7wJ.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/ldee3LLPxgs7M36/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "star-wars-episodio-5-el-imperio-contraataca",
+            "tmdbId": 1891,
+            "title": "Star Wars: Episodio V - El Imperio contraataca",
+            "originalTitle": "The Empire Strikes Back",
+            "year": 1980,
+            "releaseDate": "1980-05-21",
+            "genres": [
+            "Aventura",
+            "Acción",
+            "Ciencia ficción"
+            ],
+            "duration": 124,
+            "rating": {
+            "score": 8.4,
+            "source": "TMDB"
+            },
+            "description": "Tras la destrucción de la Estrella de la Muerte, las fuerzas imperiales persiguen a la Alianza Rebelde por toda la galaxia. Luke Skywalker viaja a Dagobah para entrenar con el maestro Jedi Yoda, mientras Han Solo, Leia y sus compañeros se enfrentan a Darth Vader. El conflicto llevará a Luke a descubrir una verdad que cambiará su vida para siempre.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/zsZwahm4ktZPKX0B494CxqhbBhu.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/zsZwahm4ktZPKX0B494CxqhbBhu.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/R96qk1Q31lhd8y8/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "star-wars-episodio-4-una-nueva-esperanza",
+            "tmdbId": 11,
+            "title": "Star Wars: Episodio IV - Una nueva esperanza",
+            "originalTitle": "Star Wars",
+            "year": 1977,
+            "releaseDate": "1977-05-25",
+            "genres": [
+            "Aventura",
+            "Acción",
+            "Ciencia ficción"
+            ],
+            "duration": 121,
+            "rating": {
+            "score": 8.2,
+            "source": "TMDB"
+            },
+            "description": "Luke Skywalker se embarca en una aventura que cambiará el destino de la galaxia después de descubrir un mensaje de la princesa Leia. Junto a Obi-Wan Kenobi, Han Solo, Chewbacca, R2-D2 y C-3PO, se une a la Alianza Rebelde para enfrentarse al Imperio Galáctico y rescatar a Leia de las manos de Darth Vader.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/6QYl3K0P42i9ABM/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "rogue-one-una-historia-de-star-wars",
+            "tmdbId": 330459,
+            "title": "Rogue One: Una historia de Star Wars",
+            "originalTitle": "Rogue One: A Star Wars Story",
+            "year": 2016,
+            "releaseDate": "2016-12-16",
+            "genres": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+            ],
+            "duration": 133,
+            "rating": {
+            "score": 7.5,
+            "source": "TMDB"
+            },
+            "description": "Jyn Erso y un grupo de rebeldes emprenden una peligrosa misión para robar los planos de la Estrella de la Muerte, el arma definitiva del Imperio Galáctico. Enfrentándose a enormes peligros y sacrificios, deberán conseguir la información que podría darle a la Alianza Rebelde una oportunidad para derrotar al Imperio.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/96q6av18Q9IvILLk0kui22rHtiU.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/96q6av18Q9IvILLk0kui22rHtiU.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/ggZ8YP0MW7u4Ve/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "han-solo-una-historia-de-star-wars",
+            "tmdbId": 348350,
+            "title": "Han Solo: Una historia de Star Wars",
+            "originalTitle": "Solo: A Star Wars Story",
+            "year": 2018,
+            "releaseDate": "2018-05-25",
+            "genres": [
+            "Ciencia ficción",
+            "Aventura",
+            "Acción"
+            ],
+            "duration": 135,
+            "rating": {
+            "score": 6.6,
+            "source": "TMDB"
+            },
+            "description": "A través de una serie de audaces aventuras en un oscuro y peligroso mundo criminal, Han Solo conoce a su futuro copiloto Chewbacca y se encuentra con el famoso jugador Lando Calrissian. Este viaje marcará el comienzo de una de las historias más importantes de la galaxia.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/isFKKZS3JEIxGfcciL2DQEYhiy1.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/isFKKZS3JEIxGfcciL2DQEYhiy1.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/PJ7KqLZxloU0qme/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "star-wars-episodio-3-la-venganza-de-los-sith",
+            "tmdbId": 1895,
+            "title": "Star Wars: Episodio III - La venganza de los Sith",
+            "originalTitle": "Star Wars: Episode III - Revenge of the Sith",
+            "year": 2005,
+            "releaseDate": "2005-05-19",
+            "genres": [
+            "Aventura",
+            "Acción",
+            "Ciencia ficción"
+            ],
+            "duration": 140,
+            "rating": {
+            "score": 7.5,
+            "source": "TMDB"
+            },
+            "description": "Las Guerras Clon llegan a su fin y Anakin Skywalker se encuentra dividido entre su lealtad a la Orden Jedi y su creciente vínculo con el lado oscuro de la Fuerza. Manipulado por el canciller Palpatine, Anakin comienza un camino que lo llevará a convertirse en Darth Vader y cambiará para siempre el destino de la galaxia.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/fen971QdTOagZEv4rAU3sjSlpj1.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/fen971QdTOagZEv4rAU3sjSlpj1.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/LJxL1mWvBpURV93/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "star-wars-episodio-2-el-ataque-de-los-clones",
+            "tmdbId": 1894,
+            "title": "Star Wars: Episodio II - El ataque de los clones",
+            "originalTitle": "Star Wars: Episode II - Attack of the Clones",
+            "year": 2002,
+            "releaseDate": "2002-05-16",
+            "genres": [
+            "Aventura",
+            "Acción",
+            "Ciencia ficción"
+            ],
+            "duration": 142,
+            "rating": {
+            "score": 6.6,
+            "source": "TMDB"
+            },
+            "description": "Diez años después de los acontecimientos de La amenaza fantasma, la galaxia se encuentra al borde de una guerra. El joven Jedi Anakin Skywalker es asignado para proteger a la senadora Padmé Amidala, mientras Obi-Wan Kenobi descubre un ejército de clones y una conspiración que amenaza a la República. Al mismo tiempo, Anakin y Padmé comienzan a desarrollar una relación prohibida.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/pwwBIUqVSWrCBuUAvbaNdf7VajF.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/pwwBIUqVSWrCBuUAvbaNdf7VajF.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/MX9L2ArQMpCmXZ8/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "star-wars-episodio-1-la-amenaza-fantasma",
+            "tmdbId": 1893,
+            "title": "Star Wars: Episodio I - La amenaza fantasma",
+            "originalTitle": "Star Wars: Episode I - The Phantom Menace",
+            "year": 1999,
+            "releaseDate": "1999-05-19",
+            "genres": [
+            "Aventura",
+            "Acción",
+            "Ciencia ficción"
+            ],
+            "duration": 136,
+            "rating": {
+            "score": 6.6,
+            "source": "TMDB"
+            },
+            "description": "El joven Anakin Skywalker descubre que posee un extraordinario potencial para la Fuerza cuando el maestro Jedi Qui-Gon Jinn y su aprendiz Obi-Wan Kenobi llegan a su planeta. Mientras una amenaza oscura comienza a surgir, los Jedi deberán proteger a la reina Amidala y enfrentarse a una creciente crisis que podría cambiar el destino de la galaxia.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/rJwpYgQWfebnNnIIKSUTUx3sBc4.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/rJwpYgQWfebnNnIIKSUTUx3sBc4.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/JDbvleMlYXhjlp4/"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "troya",
             "tmdbId": 652,
             "title": "Troya",
