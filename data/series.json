@@ -2,6 +2,7 @@
   "series": [
     {
       "tmdbId": 1399,
+      "active": true,
       "title": "Juego de tronos",
       "originalTitle": "Game of Thrones",
       "overview": "Nueve familias de la nobleza luchan por el control de las místicas tierras de Westeros, mientras tanto un viejo enemigo regresa después de miles de años de estar oculto.",
@@ -18,12 +19,14 @@
       "seasons": [
         {
           "seasonNumber": 1,
+          "active": true,
           "name": "Temporada 1",
           "episodeCount": 10,
           "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp1.webp",
           "episodes": [
             {
               "episodeNumber": 1,
+              "active": true,
               "name": "Se acerca el invierno",
               "overview": "Ned Stark recibe noticias inquietantes sobre un desertor de la Guardia de la Noche mientras el rey Robert llega a Invernalia.",
               "airDate": "2011-04-17",
@@ -38,6 +41,7 @@
             },
             {
               "episodeNumber": 2,
+              "active": true,
               "name": "El camino real",
               "overview": "Los Lannister intentan silenciar a Bran, mientras Jon y Tyrion parten hacia el Muro y Ned enfrenta una crisis familiar.",
               "airDate": "2011-04-24",
@@ -52,6 +56,7 @@
             },
             {
               "episodeNumber": 3,
+              "active": true,
               "name": "Lord Nieve",
               "overview": "Jon intenta adaptarse a la Guardia de la Noche, Ned comienza su labor en Desembarco del Rey y Daenerys entra en conflicto con Viserys.",
               "airDate": "2011-05-01",
@@ -66,6 +71,7 @@
             },
             {
               "episodeNumber": 4,
+              "active": true,
               "name": "Cosas que hay que hacer por amor",
               "overview": "Ned investiga la muerte de Jon Arryn, Jon protege a Sam y Tyrion queda atrapado en una situación peligrosa.",
               "airDate": "2011-05-08",
@@ -80,6 +86,7 @@
             },
             {
               "episodeNumber": 5,
+              "active": true,
               "name": "El lobo y el león",
               "overview": "Ned desafía una orden del rey y Tyrion vuelve a quedar en peligro mientras las tensiones entre Stark y Lannister aumentan.",
               "airDate": "2011-05-15",
@@ -94,6 +101,7 @@
             },
             {
               "episodeNumber": 6,
+              "active": true,
               "name": "Una corona de oro",
               "overview": "Ned toma una decisión controvertida, Tyrion enfrenta las acusaciones contra él y Viserys exige su recompensa.",
               "airDate": "2011-05-22",
@@ -108,6 +116,7 @@
             },
             {
               "episodeNumber": 7,
+              "active": true,
               "name": "Ganas o mueres",
               "overview": "Ned confronta a Cersei sobre sus secretos, Jon realiza sus votos y Drogo promete llevar a los dothraki a Poniente.",
               "airDate": "2011-05-29",
@@ -122,6 +131,7 @@
             },
             {
               "episodeNumber": 8,
+              "active": true,
               "name": "Por el lado de la punta",
               "overview": "Los Lannister atacan a los Stark, Robb reúne a los aliados del Norte y Arya intenta sobrevivir en Desembarco del Rey.",
               "airDate": "2011-06-05",
@@ -136,6 +146,7 @@
             },
             {
               "episodeNumber": 9,
+              "active": true,
               "name": "Baelor",
               "overview": "Ned toma una decisión decisiva, Robb captura a un prisionero importante y Daenerys enfrenta una grave amenaza.",
               "airDate": "2011-06-12",
@@ -150,6 +161,7 @@
             },
             {
               "episodeNumber": 10,
+              "active": true,
               "name": "Fuego y sangre",
               "overview": "Un nuevo rey surge en el Norte y Daenerys encuentra una nueva esperanza mientras los acontecimientos cambian el destino de Poniente.",
               "airDate": "2011-06-19",
@@ -166,12 +178,14 @@
         },
         {
           "seasonNumber": 2,
+          "active": true,
           "name": "Temporada 2",
           "episodeCount": 10,
           "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp2.webp",
           "episodes": [
             {
               "episodeNumber": 1,
+              "active": true,
               "name": "El Norte recuerda",
               "overview": "Joffrey ocupa el Trono de Hierro mientras Robb continúa la rebelión y nuevos pretendientes reclaman la corona.",
               "airDate": "2012-04-01",
@@ -186,6 +200,7 @@
             },
             {
               "episodeNumber": 2,
+              "active": true,
               "name": "Las tierras de la noche",
               "overview": "Los distintos bandos buscan aliados y Jon se enfrenta a nuevas amenazas más allá del Muro.",
               "airDate": "2012-04-08",
@@ -200,6 +215,7 @@
             },
             {
               "episodeNumber": 3,
+              "active": true,
               "name": "Lo que está muerto no puede morir",
               "overview": "Theon regresa a las Islas del Hierro, mientras Tyrion intenta consolidar su posición y Renly reúne fuerzas.",
               "airDate": "2012-04-15",
@@ -214,6 +230,7 @@
             },
             {
               "episodeNumber": 4,
+              "active": true,
               "name": "Jardín de huesos",
               "overview": "Daenerys busca ayuda para su pueblo y Tyrion descubre que la guerra puede llegar hasta las puertas de la capital.",
               "airDate": "2012-04-22",
@@ -228,6 +245,7 @@
             },
             {
               "episodeNumber": 5,
+              "active": true,
               "name": "El fantasma de Harrenhal",
               "overview": "Una muerte cambia el equilibrio entre los pretendientes al trono y Arya presencia un acontecimiento que la marcará.",
               "airDate": "2012-04-29",
@@ -242,6 +260,7 @@
             },
             {
               "episodeNumber": 6,
+              "active": true,
               "name": "Los dioses antiguos y nuevos",
               "overview": "Theon toma una decisión que cambia su destino y la situación de los Stark se vuelve cada vez más peligrosa.",
               "airDate": "2012-05-06",
@@ -256,6 +275,7 @@
             },
             {
               "episodeNumber": 7,
+              "active": true,
               "name": "Un hombre sin honor",
               "overview": "Theon busca a Bran y Rickon, mientras Jon se separa de la Guardia y Daenerys descubre una amenaza dentro de Qarth.",
               "airDate": "2012-05-13",
@@ -270,6 +290,7 @@
             },
             {
               "episodeNumber": 8,
+              "active": true,
               "name": "El príncipe de Invernalia",
               "overview": "Robb recibe noticias que complican su campaña y Theon intenta demostrar que controla Invernalia.",
               "airDate": "2012-05-20",
@@ -284,6 +305,7 @@
             },
             {
               "episodeNumber": 9,
+              "active": true,
               "name": "Aguasnegras",
               "overview": "Las fuerzas de Stannis atacan Desembarco del Rey y Tyrion dirige la defensa de la ciudad.",
               "airDate": "2012-05-27",
@@ -298,6 +320,7 @@
             },
             {
               "episodeNumber": 10,
+              "active": true,
               "name": "Valar Morghulis",
               "overview": "La batalla deja consecuencias profundas y los supervivientes de cada bando preparan sus siguientes movimientos.",
               "airDate": "2012-06-03",
@@ -314,12 +337,14 @@
         },
         {
           "seasonNumber": 3,
+          "active": true,
           "name": "Temporada 3",
           "episodeCount": 10,
           "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp3.webp",
           "episodes": [
             {
               "episodeNumber": 1,
+              "active": true,
               "name": "Valar Dohaeris",
               "originalName": "Valar Dohaeris",
               "overview": "Jon Snow se encuentra ante Mance Rayder mientras Tyrion afronta las consecuencias de la batalla de Aguasnegras.",
@@ -335,6 +360,7 @@
             },
             {
               "episodeNumber": 2,
+              "active": true,
               "name": "Alas oscuras, palabras oscuras",
               "originalName": "Dark Wings, Dark Words",
               "overview": "Bran continúa su viaje y Robb descubre nuevas dificultades mientras los mensajes llevan noticias inquietantes por Poniente.",
@@ -350,6 +376,7 @@
             },
             {
               "episodeNumber": 3,
+              "active": true,
               "name": "Camino del castigo",
               "originalName": "Walk of Punishment",
               "overview": "Jaime y Brienne enfrentan un peligro inesperado y Daenerys negocia para conseguir una fuerza militar.",
@@ -365,6 +392,7 @@
             },
             {
               "episodeNumber": 4,
+              "active": true,
               "name": "Y ahora su guardia ha terminado",
               "originalName": "And Now His Watch Is Ended",
               "overview": "La Guardia de la Noche sufre una rebelión y Daenerys demuestra que su poder está creciendo.",
@@ -380,6 +408,7 @@
             },
             {
               "episodeNumber": 5,
+              "active": true,
               "name": "Besado por el fuego",
               "originalName": "Kissed by Fire",
               "overview": "Jon y Ygritte se acercan mientras Jaime regresa cambiado y Robb debe afrontar nuevas consecuencias políticas.",
@@ -395,6 +424,7 @@
             },
             {
               "episodeNumber": 6,
+              "active": true,
               "name": "La escalada",
               "originalName": "The Climb",
               "overview": "Los personajes avanzan hacia objetivos difíciles mientras Meñique mueve sus piezas y Jon debe decidir en quién confiar.",
@@ -410,6 +440,7 @@
             },
             {
               "episodeNumber": 7,
+              "active": true,
               "name": "El oso y la doncella",
               "originalName": "The Bear and the Maiden Fair",
               "overview": "Daenerys continúa su campaña, Jaime intenta salvar a Brienne y Arya se cruza con nuevos enemigos.",
@@ -425,6 +456,7 @@
             },
             {
               "episodeNumber": 8,
+              "active": true,
               "name": "Segundos hijos",
               "originalName": "Second Sons",
               "overview": "Tyrion enfrenta un matrimonio inesperado mientras Daenerys negocia con los Segundos Hijos.",
@@ -440,6 +472,7 @@
             },
             {
               "episodeNumber": 9,
+              "active": true,
               "name": "Las lluvias de Castamere",
               "originalName": "The Rains of Castamere",
               "overview": "Una alianza se rompe de manera brutal durante una celebración y el destino de los Stark cambia para siempre.",
@@ -455,6 +488,7 @@
             },
             {
               "episodeNumber": 10,
+              "active": true,
               "name": "Mhysa",
               "originalName": "Mhysa",
               "overview": "Los supervivientes afrontan las consecuencias de la traición y Daenerys es recibida como liberadora.",
@@ -472,12 +506,14 @@
         },
         {
           "seasonNumber": 4,
+          "active": true,
           "name": "Temporada 4",
           "episodeCount": 10,
           "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp4.webp",
           "episodes": [
             {
               "episodeNumber": 1,
+              "active": true,
               "name": "Dos espadas",
               "originalName": "Two Swords",
               "overview": "Tywin forja una nueva espada para los Lannister mientras las familias de Poniente se preparan para nuevos conflictos.",
@@ -493,6 +529,7 @@
             },
             {
               "episodeNumber": 2,
+              "active": true,
               "name": "El león y la rosa",
               "originalName": "The Lion and the Rose",
               "overview": "La boda de Joffrey y Margaery reúne a los grandes poderes de Poniente y termina en tragedia.",
@@ -508,6 +545,7 @@
             },
             {
               "episodeNumber": 3,
+              "active": true,
               "name": "Rompedora de cadenas",
               "originalName": "Breaker of Chains",
               "overview": "La muerte de Joffrey desencadena una crisis y Jaime intenta ayudar a Tyrion mientras Daenerys se acerca a Meereen.",
@@ -523,6 +561,7 @@
             },
             {
               "episodeNumber": 4,
+              "active": true,
               "name": "Guardajuramentos",
               "originalName": "Oathkeeper",
               "overview": "Jaime entrega una misión a Brienne y Daenerys toma el control de Meereen.",
@@ -538,6 +577,7 @@
             },
             {
               "episodeNumber": 5,
+              "active": true,
               "name": "Primero de su nombre",
               "originalName": "First of His Name",
               "overview": "Tommen es proclamado rey mientras Daenerys enfrenta las dificultades de gobernar una ciudad recién conquistada.",
@@ -553,6 +593,7 @@
             },
             {
               "episodeNumber": 6,
+              "active": true,
               "name": "Las leyes de dioses y hombres",
               "originalName": "The Laws of Gods and Men",
               "overview": "Tyrion es llevado a juicio y Daenerys recibe una dura lección sobre las consecuencias de gobernar.",
@@ -568,6 +609,7 @@
             },
             {
               "episodeNumber": 7,
+              "active": true,
               "name": "Sinsonte",
               "originalName": "Mockingbird",
               "overview": "Tyrion busca un campeón para su juicio mientras Arya y el Perro continúan su viaje.",
@@ -583,6 +625,7 @@
             },
             {
               "episodeNumber": 8,
+              "active": true,
               "name": "La Montaña y la Víbora",
               "originalName": "The Mountain and the Viper",
               "overview": "El juicio por combate de Tyrion llega a un enfrentamiento brutal y decisivo.",
@@ -598,6 +641,7 @@
             },
             {
               "episodeNumber": 9,
+              "active": true,
               "name": "Los vigilantes del Muro",
               "originalName": "The Watchers on the Wall",
               "overview": "La Guardia de la Noche defiende el Muro ante un ataque masivo de los salvajes.",
@@ -613,6 +657,7 @@
             },
             {
               "episodeNumber": 10,
+              "active": true,
               "name": "Los niños",
               "originalName": "The Children",
               "overview": "La batalla por el Norte llega a un punto decisivo mientras varios personajes toman caminos separados.",
@@ -632,6 +677,7 @@
     },
     {
       "tmdbId": 1399,
+      "active": true,
       "title": "El señor de los anillos: Los anillos de poder",
       "originalTitle": "The Lord of the Rings: The Rings of Power",
       "overview": "En un tiempo de relativa calma, un grupo de personajes se enfrenta al resurgimiento del mal en la Tierra Media. A medida que la oscuridad se extiende, desde las profundidades de las Montañas Nubladas hasta el bosque de Lindon, la lucha por la supervivencia se vuelve cada vez más desesperada. Los reinos de Númenor y otros rincones de la Tierra Media se ven amenazados por la creciente sombra del mal.",
@@ -647,12 +693,14 @@
       "seasons": [
         {
           "seasonNumber": 1,
+          "active": true,
           "name": "Temporada 1",
           "episodeCount": 8,
           "poster": "https://image.tmdb.org/t/p/w500/hVGGIucivTBtdHw010GOo8G1LIv.jpg",
           "episodes": [
             {
               "episodeNumber": 1,
+              "active": true,
               "name": "Una sombra del pasado",
               "overview": "Galadriel está perturbado por los signos del regreso de un antiguo mal. Arondir hace un descubrimiento inquietante. A Elrond se le presenta una nueva aventura intrigante. Nori rompe una regla comunitaria profundamente arraigada.",
               "airDate": "2022-09-01",
@@ -667,6 +715,7 @@
             },
             {
               "episodeNumber": 2,
+              "active": true,
               "name": "A la deriva",
               "overview": "Galadriel encuentra un nuevo aliado. Elrond se enfrenta a una fría recepción por parte de un viejo amigo. Nori se esfuerza por ayudar a un extraño. Arondir busca respuestas mientras Bronwyn advierte a su gente de una amenaza.",
               "airDate": "2022-09-11",
@@ -681,6 +730,7 @@
             },
             {
               "episodeNumber": 3,
+              "active": true,
               "name": "Adar",
               "overview": "Arondir se encuentra cautivo. Galardiel y Halbrand exploran un reino legendario. A Elendil se le asigna una nueva tarea. Nori enfrenta las consecuencias.",
               "airDate": "2022-09-08",
@@ -695,6 +745,7 @@
             },
             {
               "episodeNumber": 4,
+              "active": true,
               "name": "La Gran Ola",
               "overview": "La fe de la Reina Regente Míriel se pone a prueba; Isildur se encuentra en una encrucijada; Elrond descubre un secreto; Arondir recibe un ultimátum; Theo desobedece a Bronwyn.",
               "airDate": "2022-09-15",
@@ -709,6 +760,7 @@
             },
             {
               "episodeNumber": 5,
+              "active": true,
               "name": "Despedidas",
               "overview": "Nori cuestiona su instinto. Elrond lucha por mantenerse fiel a su juramento. Halbrand sopesa su destino. Los habitantes del sur se preparan para el ataque.",
               "airDate": "2022-09-22",
@@ -723,6 +775,7 @@
             },
             {
               "episodeNumber": 6,
+              "active": true,
               "name": "Udûn",
               "overview": "Adar y su ejercito marchan rumbo a Ostirith.",
               "airDate": "2022-09-29",
@@ -737,6 +790,7 @@
             },
             {
               "episodeNumber": 7,
+              "active": true,
               "name": "El ojo",
               "overview": "Los sobrevivientes de un cataclismo intentan encontrar un lugar seguro. Los pelosos se enfrentan al mal. Durin se debate entre la amistad y el deber. Adar piensa en un nuevo nombre.",
               "airDate": "2022-10-06",
@@ -751,6 +805,7 @@
             },
             {
               "episodeNumber": 8,
+              "active": true,
               "name": "Aleación",
               "overview": "Se forjan nuevas alianzas.",
               "airDate": "2022-10-13",
@@ -767,12 +822,14 @@
         },
         {
           "seasonNumber": 2,
+          "active": true,
           "name": "Temporada 2",
           "episodeCount": 8,
           "poster": "https://image.tmdb.org/t/p/w500/6J7rbDMrzdQHUMX56PumlXmZAAV.jpg",
           "episodes": [
             {
               "episodeNumber": 1,
+              "active": true,
               "name": "Reyes Elfos bajo el cielo",
               "overview": "Sauron negocia con Adar. El Extraño y Nori se aventuran en nuevos territorios. Los Tres Anillos Élficos enfrentan juicio.",
               "airDate": "2024-08-29",
@@ -787,6 +844,7 @@
             },
             {
               "episodeNumber": 2,
+              "active": true,
               "name": "Donde la estrellas son extrañas",
               "overview": "La oscuridad cae sobre Khazad-dûm. Sauron y Galadriel buscan aliados nuevos. El Extraño y los Pelosos encuentran una amenaza creciente.",
               "airDate": "2024-08-29",
@@ -801,6 +859,7 @@
             },
             {
               "episodeNumber": 3,
+              "active": true,
               "name": "El Águila y el Cetro",
               "overview": "Isildur y un viejo amigo se reencuentran. Arondir lucha contra el cambio. Míriel enfrenta una oposición que va en aumento. Annatar aconseja a Celebrimbor.",
               "airDate": "2024-08-29",
@@ -815,6 +874,7 @@
             },
             {
               "episodeNumber": 4,
+              "active": true,
               "name": "El Antiguo",
               "overview": "El Extraño encuentra lo que había estado buscando. Arondir e Isildur buscan a Theo. Galadriel y Elrond caen en una trampa.",
               "airDate": "2024-09-05",
@@ -829,6 +889,7 @@
             },
             {
               "episodeNumber": 5,
+              "active": true,
               "name": "Palacios de piedra",
               "overview": "Cuando Durin sospecha de los Anillos de los Enanos, Celebrimbor debe revalorar sus prioridades. En medio de las corrientes cambiantes en Númenor, Elendil busca la esperanza.",
               "airDate": "2024-09-12",
@@ -843,6 +904,7 @@
             },
             {
               "episodeNumber": 6,
+              "active": true,
               "name": "¿Dónde está Él?",
               "overview": "Galadriel considera una propuesta. Elendil enfrenta juicio. El Extraño se encuentra en una encrucijada. Los planes de Sauron comienzan a dar frutos.",
               "airDate": "2024-09-19",
@@ -857,6 +919,7 @@
             },
             {
               "episodeNumber": 7,
+              "active": true,
               "name": "Condenados a morir",
               "overview": "El destino de Eregion se decide.",
               "airDate": "2024-09-26",
@@ -871,6 +934,7 @@
             },
             {
               "episodeNumber": 8,
+              "active": true,
               "name": "Sombra y Fuego",
               "overview": "Los pueblos libres de Tierra Media luchan contra las fuerzas de la oscuridad.",
               "airDate": "2024-10-03",
