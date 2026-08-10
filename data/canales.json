@@ -124,7 +124,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?PlaylistM3UCL&access_token=ECWihkv8ItJ7VGFeY1L6i48nANqvHwfYMc0b8gd7H8U9MQfVmjLPrLRUZVZuR5J8yqGasjWx88M"
+                    "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL"
                 }
             ]
         },
@@ -276,7 +276,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/631a1d95d3d77c082535e614.m3u8?PlaylistM3UCL&access_token=CHKF9te0WYKORhmsv1qS8eUlGGgMaOFA0zLTH9u3zhxrlZY6BsgieeAfmBdBNfTbpuEIpud2ISQ"
+                    "url": "https://mdstrm.com/live-stream-playlist/631a1d95d3d77c082535e614.m3u8?uid=RrB1URFsUYBW71gK8g9DepIbjxm8Ib1U&sid=3wyoUnb70i2ZAAHBvfEqMK86uxb1myzr&pid=pHPIgaR2H6Mzs1sF1hXrbk5jkxPytYAl&pid_dvr=0JvEi5mChFnqMbN6Hq7SNxzATMxEjhEN&an=site-mega&at=web-app&av=v7.0.86&ref=&res=1368x984&without_cookies=false&listenerid=&dnt=true&access_token=MhXYzgQR00Y5kv1VUfcGexD0EEd3w0CpjlQblPRTIpMP9852UNiTQRdovDEPqjIJ8wP2bGaE0P9&adInsertionGoogleStreamId=217b6722-86a4-4b9d-ba68-00b672fa2166:ATL&CMCD=cid%3D%22631a1d95d3d77c082535e614%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22pHPIgaR2H6Mzs1sF1hXrbk5jkxPytYAl%22%2Csu"
                 }
             ]
         },
@@ -292,7 +292,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8?PlaylistM3UCL&access_token=RBZnKlq4kbX7E5O6XdKcjDHzY2vlqEpALJCd3EsrLCQ8r51wkFnFWWvgfNuh6fK4uuBCF7arEeK"
+                    "url": "https://cl-a5-i-e-qb1.cdn.mdstrm.com/live-stream-gdai/56f97fc0b9bb39786b04a3b0/linear/hls/pa/event/R9a9FLkOSaCtg0KhENFO4g/stream/2acc371d-2d00-43e2-9438-632833e82b21:TUL/master.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=RrB1URFsUYBW71gK8g9DepIbjxm8Ib1U&sid=3wyoUnb70i2ZAAHBvfEqMK86uxb1myzr&pid=RtDa59piy0qLqmI4F9dk7BZ7XKgHMvib&pid_dvr=OGIgNMR9y0Fv1j7WcZUl5Z7tk4O8F1WF&ref=&without_cookies=false&listenerid=&dnt=true&access_token=rcnXWwnHFbjuKKNVQfM1qIhFvvYDrbA7p8z0JDS7e0upO0dc2moDz1fWYVNGI5ETp3UlRli6sDM&adInsertionGoogleStreamId=2acc371d-2d00-43e2-9438-632833e82b21%3ATUL&CMCD=cid%3D%2256f97fc0b9bb39786b04a3b0%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22RtDa59piy0qLqmI4F9dk7BZ7XKgHMvib%22%2Csu&es=cl-a5-i-e-qb1.cdn.mdstrm.com&ote=1786425106001&ot=QmoHLxr9ObFAYZipYKlf5A&proto=https&pz=cl"
                 }
             ]
         },
