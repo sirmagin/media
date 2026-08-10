@@ -276,7 +276,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/631a1d95d3d77c082535e614.m3u8?uid=RrB1URFsUYBW71gK8g9DepIbjxm8Ib1U&sid=3wyoUnb70i2ZAAHBvfEqMK86uxb1myzr&pid=pHPIgaR2H6Mzs1sF1hXrbk5jkxPytYAl&pid_dvr=0JvEi5mChFnqMbN6Hq7SNxzATMxEjhEN&an=site-mega&at=web-app&av=v7.0.86&ref=&res=1368x984&without_cookies=false&listenerid=&dnt=true&access_token=MhXYzgQR00Y5kv1VUfcGexD0EEd3w0CpjlQblPRTIpMP9852UNiTQRdovDEPqjIJ8wP2bGaE0P9&adInsertionGoogleStreamId=217b6722-86a4-4b9d-ba68-00b672fa2166:ATL&CMCD=cid%3D%22631a1d95d3d77c082535e614%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22pHPIgaR2H6Mzs1sF1hXrbk5jkxPytYAl%22%2Csu"
+                    "url": "https://cl-a5-i-e-qb1.cdn.mdstrm.com/live-stream-gdai/631a1d95d3d77c082535e614/linear/hls/pa/event/JjLHWng5QNWc7M5qn_9ZqQ/stream/217b6722-86a4-4b9d-ba68-00b672fa2166:ATL/master.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=RrB1URFsUYBW71gK8g9DepIbjxm8Ib1U&sid=3wyoUnb70i2ZAAHBvfEqMK86uxb1myzr&pid=pHPIgaR2H6Mzs1sF1hXrbk5jkxPytYAl&pid_dvr=0JvEi5mChFnqMbN6Hq7SNxzATMxEjhEN&ref=&without_cookies=false&listenerid=&dnt=true&access_token=MhXYzgQR00Y5kv1VUfcGexD0EEd3w0CpjlQblPRTIpMP9852UNiTQRdovDEPqjIJ8wP2bGaE0P9&adInsertionGoogleStreamId=217b6722-86a4-4b9d-ba68-00b672fa2166%3AATL&CMCD=cid%3D%22631a1d95d3d77c082535e614%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22pHPIgaR2H6Mzs1sF1hXrbk5jkxPytYAl%22%2Csu&es=cl-a5-i-e-qb1.cdn.mdstrm.com&ote=1786425712995&ot=zBPL-EAQIUkzzmMXOp7mpw&proto=https&pz=cl"
                 }
             ]
         },
