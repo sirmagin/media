@@ -228,7 +228,11 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?PlaylistM3UCL&access_token=aNAzlItgYKSiLm33JB0btGNPSktURTcj2BsRugLTRbW1ZbWYIG6Ll6CHHrmAoPRrHMXq6bVdchr"
+                    "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL"
+                },
+                {
+                    "type": "direct",
+                    "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?tecnotv"
                 },
                 {
                     "type": "hls",
@@ -236,11 +240,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL"
+                    "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
                 },
                 {
-                    "type": "hls",
-                    "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
+                    "type": "direct",
+                    "url": "https://v2.tustreaming.cl:443/broadcastingtx/index.m3u8?PlaylistM3UCL"
                 },
                 {
                     "type": "hls",
