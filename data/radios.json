@@ -19,6 +19,7 @@
             "category": ["Pop", "Rock"],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rockandpop.jpeg",
             "stream": [
+                {"type": "direct", "url": "https://24413.live.streamtheworld.com/ROCK_AND_POP.mp3"},
                 {"type": "direct", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP.mp3"}
             ]
         },
