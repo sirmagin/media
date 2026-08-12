@@ -274,7 +274,7 @@
         },
         {
             "id": 14,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Mega 2",
             "category": [
@@ -294,7 +294,7 @@
         },
         {
             "id": 15,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Mega Tiempo",
             "category": [
