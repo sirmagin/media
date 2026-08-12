@@ -254,7 +254,7 @@
         },
         {
             "id": 13,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Meganoticias",
             "category": [
@@ -264,7 +264,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?uid=OvVX1aFVbT6oXsTZNMVnc5V8d55abW7U&sid=j2f06OK9PS28TeOkxI6YRSFk4bUm5oBW&pid=tgA0jUSWEU6Jc6qzUub3RMxiCtQVXnE7&pid_dvr=avhCqL1jiayMGQvKQv3aY9cH8NTOOtKQ&an=site-meganoticias&at=web-app&av=v7.0.89&ref=https%3A%2F%2Fwww.meganoticias.cl%2F&res=930x523&without_cookies=false&listenerid=&dnt=true&access_token=CQpAG0UPd9X3eFoxB4eApzw3y7oUcpLG9bzrLBisJg41ggyADZOpZOl2cLS5cj4FjMLDauu34Yu&CMCD=cid%3D%22561430ae330428c223687e1e%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22tgA0jUSWEU6Jc6qzUub3RMxiCtQVXnE7%22%2Csu"
+                    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786527023/ei/z-h7avvsM86d-LAP-ruimAI/ip/181.42.17.184/id/uv4TuwOW9pg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-xouxa-njak.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhMZMInpPWclEoIevKaJOjjpN3Z4ZwKqqLfM3rWIFZrBBYImGepJKydcvIEJ5P3ZPpEOnQyNKl-5/spc/KBGBcrhXioEHIXuyDlivgXG-WmZDHB5a8gjJbGF1BteHW3snig/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1766250/met/1786505424,/mh/z7/mm/44/mn/sn-xouxa-njak/ms/lva/mv/m/mvi/6/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52089683/mt/1786505062/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgbG3xx8W4kDSo99KMCuQFm-YvMf5G3dZhKZ6epSIrYVsCIQDj74Yadml5GWrUuXo-qPoIrFsvOKxDS7iMlnb1OMHS7w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgEwEPLCWjGoKl68HQmq4ZMh5zGJO7nNNLPeiOT1sbKGICIQD39apht3X-udME7_m3697oQeZJztYkWz_oRcZ2S0qmVA%3D%3D/playlist/index.m3u8"
                 }
             ]
         },
@@ -286,7 +286,7 @@
         },
         {
             "id": 15,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Mega Tiempo",
             "category": [
@@ -296,7 +296,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8?uid=krjdHynhTLQJNzbeKefrfm1skUHlHt8d&sid=yYbxKASPnjEpZkSMYHpPkVWDyAcpVp4M&pid=ZQS711uINR4JRyZiNvbic331C0YIJvjy&pid_dvr=78ftDDEew5SsqorlVpiEM7NXqFTZOlOb&an=site-mega&at=web-app&av=v7.0.89&ref=https%3A%2F%2Fwww.mega.cl%2F&res=664x374&without_cookies=false&listenerid=&dnt=true&access_token=ui5r8nKmkcZnoM8fjYmPWFfr6pRveb4Lf8yOjgwOsau9ohFxDzZvVtLBhrB1SOIyJJjQJxCyNNG&CMCD=cid%3D%2256f97fc0b9bb39786b04a3b0%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ZQS711uINR4JRyZiNvbic331C0YIJvjy%22%2Csu"
+                    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786527129/ei/Oel7aoSSKPSZobIPg9a82Qc/ip/181.42.17.184/id/qG2x1uaszWE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-xouxa-njae7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhPgYOotpLmbInR4vsiNSZBi7nKiJpNFVqOwUDtrYNNzqPmHlucHsxfhA5_eEAFbl3RXdXR0Z4hq/spc/KBGBci6d2wX_ldMAd87Lr6tsQMQq35Korceak8mYdD8kZ-3ZBg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1716250/met/1786505530,/mh/vu/mm/44/mn/sn-xouxa-njae7/ms/lva/mv/m/mvi/2/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52089683/mt/1786505062/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAM1mxusnAJEf0ABNNfkxrBZJLlkU7TcHPbEqoBFJR51hAiEAoxRRM7YMUne07du_qMLIKdbVvBdxsGWLyUrrRybH6DM%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJnStx_cRSXiZ4V-2Ikyhck0Tq-wTcsNXHZWxCAYMl8NAiEAke5EP7rIdENqqRUql6k9LznFzhCVWhT_9Jswg8r3oac%3D/playlist/index.m3u8"
                 }
             ]
         },
