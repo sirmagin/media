@@ -1786,6 +1786,22 @@
             "id": 57,
             "active": true,
             "country": "CL",
+            "name": "Telemundo Noticias",
+            "category": [
+                "Noticias"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/telemundonoticias.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786527449/ei/eep7asTwJ7CPobIPzM3H0Qg/ip/181.42.17.184/id/c660thEPeeY.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-xouxa-njak.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/ss/1/bui/AZFlqhP8tkrkRU5Aze3UWVZx7-gqGTWl5yOciv1xfwxVHkQ3Oq-NbIB0mRnlvVOH5UqmDnm8UmTs3HYn/spc/KBGBcruDX8RrVgvxKzjlroAnEjoseuvl2CAcW3ISRYF3xqc5pA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1856250/met/1786505850,/mh/VU/mm/44/mn/sn-xouxa-njak/ms/lva/mv/m/mvi/2/pl/21/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52089683/mt/1786505302/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgZEG32G5gd--g5Ab_kVL2b2ya8Bkm5_Gs344brn6oK4sCIC0hFZ2DNBp9ImKJqhQ3T0gUwt7niORhYq7nOIqC-A23/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAOzO1fhL8TWG_VdAEAsSmp8tFhayzaMY7fwoHSsV8dbMAiB1o7A9Z2IhUH6kLPN_RvmY4VJZsdw0Gv5zgtqczPUYkw%3D%3D/playlist/index.m3u8"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "active": true,
+            "country": "CL",
             "name": "Nat Geo",
             "category": [
                 "Documental"
@@ -1843,7 +1859,7 @@
             ]
         },
         {
-            "id": 58,
+            "id": 59,
             "active": true,
             "country": "CL",
             "name": "A&E",
@@ -1903,7 +1919,7 @@
             ]
         },
         {
-            "id": 59,
+            "id": 60,
             "active": true,
             "country": "CL",
             "name": "AMC",
@@ -1955,7 +1971,7 @@
             ]
         },
         {
-            "id": 60,
+            "id": 61,
             "active": true,
             "country": "CL",
             "name": "Discovery Channel",
@@ -1991,7 +2007,7 @@
             ]
         },
         {
-            "id": 61,
+            "id": 62,
             "active": true,
             "country": "CL",
             "name": "History",
@@ -2043,7 +2059,7 @@
             ]
         },
         {
-            "id": 62,
+            "id": 63,
             "active": true,
             "country": "CL",
             "name": "History 2",
@@ -2079,7 +2095,7 @@
             ]
         },
         {
-            "id": 63,
+            "id": 64,
             "active": true,
             "country": "CL",
             "name": "Film & Arts",
@@ -2112,7 +2128,7 @@
             ]
         },
         {
-            "id": 64,
+            "id": 65,
             "active": true,
             "country": "CL",
             "name": "Cartoon Network",
@@ -2160,7 +2176,7 @@
             ]
         },
         {
-            "id": 65,
+            "id": 66,
             "active": true,
             "country": "CL",
             "name": "Disney Channel",
@@ -2212,7 +2228,7 @@
             ]
         },
         {
-            "id": 66,
+            "id": 67,
             "active": true,
             "country": "CL",
             "name": "Nickelodeon",
@@ -2236,7 +2252,7 @@
             ]
         },
         {
-            "id": 67,
+            "id": 68,
             "active": true,
             "country": "CL",
             "name": "Nicktoons",
@@ -2252,7 +2268,7 @@
             ]
         },
         {
-            "id": 68,
+            "id": 69,
             "active": true,
             "country": "CL",
             "name": "Bob Esponja",
