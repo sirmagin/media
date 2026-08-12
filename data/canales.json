@@ -264,10 +264,6 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL&access_token=yPgwI5R4yI3EUuTFsLiStBaaNZe6trVZe0nQ7Awesi9phI4P8rT59zWXIEqAYOiKGVZGM5oSuW6"
-                },
-                {
-                    "type": "hls",
                     "url": "https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?uid=OvVX1aFVbT6oXsTZNMVnc5V8d55abW7U&sid=j2f06OK9PS28TeOkxI6YRSFk4bUm5oBW&pid=tgA0jUSWEU6Jc6qzUub3RMxiCtQVXnE7&pid_dvr=avhCqL1jiayMGQvKQv3aY9cH8NTOOtKQ&an=site-meganoticias&at=web-app&av=v7.0.89&ref=https%3A%2F%2Fwww.meganoticias.cl%2F&res=930x523&without_cookies=false&listenerid=&dnt=true&access_token=CQpAG0UPd9X3eFoxB4eApzw3y7oUcpLG9bzrLBisJg41ggyADZOpZOl2cLS5cj4FjMLDauu34Yu&CMCD=cid%3D%22561430ae330428c223687e1e%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22tgA0jUSWEU6Jc6qzUub3RMxiCtQVXnE7%22%2Csu"
                 }
             ]
