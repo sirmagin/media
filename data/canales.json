@@ -254,7 +254,7 @@
         },
         {
             "id": 13,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Meganoticias",
             "category": [
@@ -285,10 +285,6 @@
                 {
                     "type": "hls",
                     "url": "http://15.204.246.24:8080/Mega2HD/index.m3u8"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/631a1d95d3d77c082535e614.m3u8?uid=THeI4X3wY0GvQVc7hVnB4vDYQuh5zHuw&sid=zwFsRtV5av9QxsRfkHNooLYqrHM4HnX3&pid=gcqElwzafdfg7NEFLu3VEwlhleqXcGxH&pid_dvr=6P1BdqFHYozQOwur8U0hvVaqdVPjj1E8&an=site-mega&at=web-app&av=v7.0.89&ref=https%3A%2F%2Fwww.mega.cl%2F&res=664x374&without_cookies=false&listenerid=&dnt=true&access_token=fMn1krJx0WS0fo6TByk889zj879TaDC9GPIsWlk7VjbgRzsDYxudJemPNJMjrHq0jhCSqpWfMpj&CMCD=cid%3D%22631a1d95d3d77c082535e614%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22gcqElwzafdfg7NEFLu3VEwlhleqXcGxH%22%2Csu"
                 }
             ]
         },
