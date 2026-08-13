@@ -150,23 +150,23 @@
             "stream": [
                 {
                     "type": "hls",
+                    "url": "http://45.162.193.35/TVN/index.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://15.204.246.24:8080/TVNHD/index.m3u8"
+                },
+                {
+                    "type": "hls",
                     "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
                     "fixed": true
                 },
                 {
                     "type": "hls",
-                    "url": "http://45.162.193.35/TVN/index.m3u8"
-                },
-                {
-                    "type": "direct",
-                    "url": "http://15.204.246.24:8080/TVNHD/index.m3u8"
-                },
-                {
-                    "type": "direct",
                     "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0gz&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
-                    "type": "direct",
+                    "type": "hls",
                     "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0gs&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
