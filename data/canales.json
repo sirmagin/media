@@ -2383,10 +2383,6 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cartoonnetwork.jpeg",
             "stream": [
                 {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/e7nu/phpcode/lista1.php?c=a0c0&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
                     "type": "direct",
                     "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0ef&token=tecnotokenplustv230516F&f=.m3u8"
                 }
