@@ -150,7 +150,8 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://15.204.246.24:8080/TVNHD/index.m3u8"
+                    "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
+                    "fixed": true
                 },
                 {
                     "type": "hls",
@@ -158,8 +159,7 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
-                    "fixed": true
+                    "url": "http://15.204.246.24:8080/TVNHD/index.m3u8"
                 },
                 {
                     "type": "hls",
