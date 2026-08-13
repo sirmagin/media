@@ -956,14 +956,6 @@
             "stream": [
                 {
                     "type": "direct",
-                    "url": "http://tecnotv.club/e7nu/phpcode/lista3.php?c=23&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "direct",
-                    "url": "http://tecnotv.club/e7nu/phpcode/ssiptv.php?c=a00m&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "direct",
                     "url": "http://tecnotv.club/e7nu/phpcode/lista4.php?c=a00v&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
