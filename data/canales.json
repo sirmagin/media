@@ -335,7 +335,7 @@
         },
         {
             "id": 13,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Meganoticias",
             "category": [
@@ -362,7 +362,7 @@
         },
         {
             "id": 15,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Mega Tiempo",
             "category": [
@@ -371,24 +371,8 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/megatiempo.jpeg",
             "stream": [
                 {
-                    "type": "direct",
-                    "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
-                },
-                {
-                    "type": "direct",
-                    "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?tecnotv"
-                },
-                {
-                    "type": "direct",
-                    "url": "http://15.204.246.24:8080/MEGAHD/index.m3u8"
-                },
-                {
-                    "type": "direct",
-                    "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0h7&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "direct",
-                    "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0hl&token=tecnotokenplustv230516F&f=.m3u8"
+                    "type": "hls",
+                    "url": ""
                 }
             ]
         },
