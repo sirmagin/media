@@ -665,11 +665,11 @@
             "stream": [
                 {
                     "type": "direct",
-                    "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0cw&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0h3&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "direct",
-                    "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0h3&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0cw&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
