@@ -1143,6 +1143,10 @@
             "stream": [
                 {
                     "type": "direct",
+                    "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0hz&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "direct",
                     "url": "https://tecnotv.club/e7nu/phpcode/android3.php?c=a0cf&token=tecnotokenplustv230516F"
                 },
                 {
@@ -1152,10 +1156,6 @@
                 {
                     "type": "direct",
                     "url": "http://tecnotv.club/e7nu/phpcode/ssiptv.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "direct",
-                    "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0hz&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "direct",
