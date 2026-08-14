@@ -123,7 +123,7 @@ ALIAS_CANALES = {
     'Nicktoons': ['Nickelodeon Toons (720p)'],
     'Bob Esponja': ['Bob Esponja Pantalones Cuadrados (720p)'],
     'Venus': ['Venus'],
-    'PlayBoy': ['Playboy HD'],
+    'PlayBoy': ['PLAY BOY', 'Playboy HD'],
 }
 
 M3U_CACHE = {}
@@ -475,8 +475,8 @@ if __name__ == '__main__':
       'Nickelodeon': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'Nicktoons': ['https://iptv-org.github.io/iptv/languages/spa.m3u'],
       'Bob Esponja': ['https://www.m3u.cl/lista/CL.m3u'],
-      'Venus': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
-      'PlayBoy': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
+      'Venus': [f'https://tecnotv.club/{TOKEN}/geomex.m3u', f'https://tecnotv.club/{TOKEN}/android1.m3u'],
+      'PlayBoy': [f'https://tecnotv.club/{TOKEN}/geomex.m3u', f'https://tecnotv.club/{TOKEN}/android1.m3u'],
   }
 
   update_json_streams(
