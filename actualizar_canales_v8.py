@@ -124,6 +124,18 @@ ALIAS_CANALES = {
     'Bob Esponja': ['Bob Esponja Pantalones Cuadrados (720p)'],
     'Venus': ['Venus'],
     'PlayBoy': ['PLAY BOY', 'Playboy HD'],
+    'Asian': ['Asian'],
+    'Live Cams': ['Live Cams'],
+    'MILF': ['MILF'],
+    'Big Tits': ['Big Tits'],
+    'Pornstar': ['Pornstar'],
+    'Big Ass': ['Big Ass'],
+    'Interracial': ['Interracial'],
+    'Latina': ['Latina'],
+    'Russian': ['Russian'],
+    'Lesbian': ['Lesbian'],
+    'Anal': ['Anal'],
+    'Teen': ['Teen'],
 }
 
 M3U_CACHE = {}
@@ -477,6 +489,18 @@ if __name__ == '__main__':
       'Bob Esponja': ['https://www.m3u.cl/lista/CL.m3u'],
       'Venus': [f'https://tecnotv.club/{TOKEN}/geomex.m3u', f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'PlayBoy': [f'https://tecnotv.club/{TOKEN}/geomex.m3u', f'https://tecnotv.club/{TOKEN}/android1.m3u'],
+      'Asian': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Live Cams': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'MILF': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Big Tits': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Pornstar': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Big Ass': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Interracial': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Latina': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Russian': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Lesbian': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Anal': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Teen': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
   }
 
   update_json_streams(
