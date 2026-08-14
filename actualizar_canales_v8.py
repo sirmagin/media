@@ -6,7 +6,6 @@ import time
 import unicodedata
 import urllib.error
 import urllib.request
-from playwright.sync_api import sync_playwright
 
 # Desactivar verificación SSL estricta
 ssl_context = ssl.create_default_context()
