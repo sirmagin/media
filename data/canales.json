@@ -1360,6 +1360,22 @@
             "id": 668,
             "active": true,
             "country": "CL",
+            "name": "Sextreme",
+            "category": [
+                "Adulto"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/sextreme.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/e7nu/phpcode/lista01.php?c=a0fy&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
+        },
+        {
+            "id": 669,
+            "active": true,
+            "country": "CL",
             "name": "Asian",
             "category": [
                 "Adulto"
@@ -1373,7 +1389,7 @@
             ]
         },
         {
-            "id": 669,
+            "id": 670,
             "active": true,
             "country": "CL",
             "name": "Live Cams",
@@ -1389,7 +1405,7 @@
             ]
         },
         {
-            "id": 670,
+            "id": 671,
             "active": true,
             "country": "CL",
             "name": "MILF",
@@ -1405,7 +1421,7 @@
             ]
         },
         {
-            "id": 671,
+            "id": 672,
             "active": true,
             "country": "CL",
             "name": "Big Tits",
@@ -1421,7 +1437,7 @@
             ]
         },
         {
-            "id": 672,
+            "id": 673,
             "active": true,
             "country": "CL",
             "name": "Pornstar",
@@ -1437,7 +1453,7 @@
             ]
         },
         {
-            "id": 673,
+            "id": 674,
             "active": true,
             "country": "CL",
             "name": "Big Ass",
@@ -1453,7 +1469,7 @@
             ]
         },
         {
-            "id": 674,
+            "id": 675,
             "active": true,
             "country": "CL",
             "name": "Interracial",
@@ -1469,7 +1485,7 @@
             ]
         },
         {
-            "id": 675,
+            "id": 676,
             "active": true,
             "country": "CL",
             "name": "Latina",
@@ -1485,7 +1501,7 @@
             ]
         },
         {
-            "id": 676,
+            "id": 677,
             "active": true,
             "country": "CL",
             "name": "Russian",
@@ -1501,7 +1517,7 @@
             ]
         },
         {
-            "id": 677,
+            "id": 678,
             "active": true,
             "country": "CL",
             "name": "Lesbian",
@@ -1517,7 +1533,7 @@
             ]
         },
         {
-            "id": 678,
+            "id": 679,
             "active": true,
             "country": "CL",
             "name": "Anal",
@@ -1533,7 +1549,7 @@
             ]
         },
         {
-            "id": 679,
+            "id": 680,
             "active": true,
             "country": "CL",
             "name": "Teen",
