@@ -1,10 +1,12 @@
 import glob
 import json
+import os
 import re
 import ssl
 import time
 import unicodedata
 import urllib.error
+import urllib.parse
 import urllib.request
 
 # Desactivar verificación SSL estricta
@@ -251,9 +253,9 @@ def obtener_busquedas_canal(nombre_canal):
 
 
 def obtener_token_dinamico():
-  """Descarga directamente admincode.php y extrae el token desde las variables de JavaScript."""
-  url_js = 'https://spinoff.link/listas-gomex/admincode.php'  # O la URL exacta si está en un subdominio/carpeta
-  print(f'🔎 Obteniendo TOKEN desde {url_js}...')
+  """Extrae el token directamente desde el admincode.php de TecnoTV."""
+  url_js = 'https://tecnotv.club/admincode.php'
+  print(f'🔎 Obteniendo TOKEN directamente desde {url_js}...')
 
   try:
     req = urllib.request.Request(url_js, headers=HEADERS)
@@ -262,24 +264,24 @@ def obtener_token_dinamico():
     ) as response:
       contenido_js = response.read().decode('utf-8', errors='ignore')
 
-      # Busca patrones como: window.CARPETA = "e7nu"; o window.IPTV_CARPETA = "e7nu";
+      # Extrae el valor entre comillas de window.CARPETA = "5kvp";
       match = re.search(
-          r'window\.(?:CARPETA|IPTV_CARPETA|ADMIN_CARPETA)\s*=\s*["\']([a-zA-Z0-9]+)["\']',
+          r'window\.(?:CARPETA|IPTV_CARPETA|ADMIN_CARPETA|CARPETA_IPTV_ADMIN)\s*=\s*["\']([a-zA-Z0-9]+)["\']',
           contenido_js,
       )
 
       if match:
         token = match.group(1)
-        print(f'🔑 Token extraído con éxito desde admincode.php: {token}')
+        print(f'🔑 Token extraído con éxito: {token}')
         return token
       else:
         print('⚠️ No se encontró la variable del token en el archivo JS.')
 
   except Exception as e:
-    print(f'❌ Error al consultar admincode.php: {e}')
+    print(f'❌ Error al consultar {url_js}: {e}')
 
-  print('⚠️ Usando token por defecto (e7nu).')
-  return 'e7nu'
+  print('⚠️ Usando token por defecto (5kvp).')
+  return '5kvp'
 
 
 def update_json_streams(
