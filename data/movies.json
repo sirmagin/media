@@ -1,6 +1,336 @@
 {
     "movies": [
         {
+            "id": "rapidos-y-furiosos-hobbs-shaw",
+            "tmdbId": 384018,
+            "title": "Rápidos y furiosos: Hobbs & Shaw",
+            "originalTitle": "Fast & Furious Presents: Hobbs & Shaw",
+            "year": 2019,
+            "releaseDate": "2019-08-02",
+            "genres": [
+            "Acción",
+            "Aventura",
+            "Thriller"
+            ],
+            "duration": 137,
+            "rating": {
+            "score": 7.1,
+            "source": "TMDB"
+            },
+            "description": "Luke Hobbs y Deckard Shaw, dos enemigos que no podrían ser más diferentes, se ven obligados a unir fuerzas cuando Brixton Lore, un peligroso criminal mejorado cibernéticamente, amenaza al mundo. Juntos deberán dejar de lado sus diferencias para detenerlo y proteger a la humanidad.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/3KHGWvWDfMa8enQqezGim3aMBQw.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/3KHGWvWDfMa8enQqezGim3aMBQw.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/vgP39bxJMRI4ygR/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "rapidos-y-furiosos-x",
+            "tmdbId": 385687,
+            "title": "Rápidos y furiosos 10",
+            "originalTitle": "Fast X",
+            "year": 2023,
+            "releaseDate": "2023-05-19",
+            "genres": [
+            "Acción",
+            "Crimen",
+            "Thriller"
+            ],
+            "duration": 141,
+            "rating": {
+            "score": 7.1,
+            "source": "TMDB"
+            },
+            "description": "Durante muchas misiones y contra obstáculos imposibles, Dom Toretto y su familia han superado a todos sus enemigos. Ahora deberán enfrentarse a Dante Reyes, un adversario impulsado por la venganza que busca destruir todo lo que Dom ama. La familia deberá luchar por su supervivencia mientras se enfrenta a su amenaza más peligrosa hasta el momento.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/7aqb4WIM17XXjZtJURg7PxctlID.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/7aqb4WIM17XXjZtJURg7PxctlID.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/RgJROe1zyDHBdG/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "rapidos-y-furiosos-9",
+            "tmdbId": 385128,
+            "title": "Rápidos y furiosos 9",
+            "originalTitle": "F9: The Fast Saga",
+            "year": 2021,
+            "releaseDate": "2021-06-25",
+            "genres": [
+            "Acción",
+            "Aventura",
+            "Thriller"
+            ],
+            "duration": 143,
+            "rating": {
+            "score": 7.0,
+            "source": "TMDB"
+            },
+            "description": "Dominic Toretto lleva una vida tranquila junto a Letty y su hijo, pero su pasado vuelve a perseguirlo cuando aparece Jakob, su hermano desaparecido y un peligroso asesino. Dom y su familia deberán enfrentarse a una nueva amenaza que los llevará desde las calles hasta una misión que pondrá en juego el destino del mundo.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/vdRgVlkkw1eHOdgYKXbzj0qSLB0.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/vdRgVlkkw1eHOdgYKXbzj0qSLB0.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/jaQDGQlpZwhzAjP/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "rapidos-y-furiosos-8",
+            "tmdbId": 337339,
+            "title": "Rápidos y furiosos 8",
+            "originalTitle": "The Fate of the Furious",
+            "year": 2017,
+            "releaseDate": "2017-04-14",
+            "genres": [
+            "Acción",
+            "Crimen",
+            "Thriller"
+            ],
+            "duration": 136,
+            "rating": {
+            "score": 6.9,
+            "source": "TMDB"
+            },
+            "description": "Dom y Letty disfrutan de su luna de miel mientras el equipo intenta llevar una vida normal. Sin embargo, una misteriosa mujer llamada Cipher obliga a Dom a traicionar a su familia y trabajar para ella. El equipo deberá unirse para detener a Cipher y descubrir por qué Dom se volvió contra ellos.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/3qsgNh8vvg6cSldUHb0L76X3rR6.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/3qsgNh8vvg6cSldUHb0L76X3rR6.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/akeegR8yKeIzKj/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "rapidos-y-furiosos-7",
+            "tmdbId": 168259,
+            "title": "Rápidos y furiosos 7",
+            "originalTitle": "Furious 7",
+            "year": 2015,
+            "releaseDate": "2015-04-03",
+            "genres": [
+            "Acción",
+            "Crimen",
+            "Thriller"
+            ],
+            "duration": 137,
+            "rating": {
+            "score": 7.2,
+            "source": "TMDB"
+            },
+            "description": "Después de derrotar a Owen Shaw, Dominic Toretto y su equipo intentan regresar a una vida normal. Sin embargo, Deckard Shaw busca vengarse por lo ocurrido con su hermano y comienza a perseguir al grupo. Para proteger a los suyos, Dom y su equipo deberán enfrentarse a una nueva amenaza mientras emprenden una última misión llena de acción y peligro.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/n5yLlBdOBOWhE2664ULGJVuyLvL.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/n5yLlBdOBOWhE2664ULGJVuyLvL.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/d84dwZ4gd4fkOPW/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "rapidos-y-furiosos-6",
+            "tmdbId": 82992,
+            "title": "Rápidos y furiosos 6",
+            "originalTitle": "Fast & Furious 6",
+            "year": 2013,
+            "releaseDate": "2013-05-24",
+            "genres": [
+            "Acción",
+            "Crimen",
+            "Thriller"
+            ],
+            "duration": 130,
+            "rating": {
+            "score": 6.8,
+            "source": "TMDB"
+            },
+            "description": "Después del gran golpe en Brasil, Dominic Toretto y su equipo viven repartidos por el mundo. El agente Luke Hobbs los reúne para detener a una organización de conductores mercenarios liderada por Owen Shaw. A cambio, les ofrece limpiar sus antecedentes y la posibilidad de recuperar a Letty, quien se creía muerta.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/thSmnRdrzPBBospIOJjLZBReqzo.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/thSmnRdrzPBBospIOJjLZBReqzo.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/z1bLY1b3GosYla6/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "rapidos-y-furiosos-5",
+            "tmdbId": 51497,
+            "title": "Rápidos y furiosos 5",
+            "originalTitle": "Fast Five",
+            "year": 2011,
+            "releaseDate": "2011-04-29",
+            "genres": [
+            "Acción",
+            "Crimen",
+            "Thriller"
+            ],
+            "duration": 130,
+            "rating": {
+            "score": 7.3,
+            "source": "TMDB"
+            },
+            "description": "Dominic Toretto y Brian O'Conner se encuentran en Brasil, donde reúnen a un equipo de corredores para ejecutar un último y arriesgado golpe contra un poderoso empresario. Mientras son perseguidos por el agente Luke Hobbs, deberán enfrentarse a una de sus misiones más peligrosas para conseguir su libertad.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/mtRhCiT4hZzaP6c3DJqec1Jjm0i.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/mtRhCiT4hZzaP6c3DJqec1Jjm0i.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/3pBKgOo9R2udb8A/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "rapidos-y-furiosos-4",
+            "tmdbId": 13804,
+            "title": "Rápidos y furiosos 4",
+            "originalTitle": "Fast & Furious",
+            "year": 2009,
+            "releaseDate": "2009-04-03",
+            "genres": [
+            "Acción",
+            "Crimen",
+            "Thriller"
+            ],
+            "duration": 107,
+            "rating": {
+            "score": 6.7,
+            "source": "TMDB"
+            },
+            "description": "Dominic Toretto regresa a Los Ángeles después de enterarse de la muerte de un ser querido. Allí vuelve a encontrarse con Brian O'Conner, que ahora trabaja como agente del FBI. Ambos deberán dejar atrás sus diferencias y unirse para infiltrarse en una peligrosa organización criminal dedicada al tráfico de drogas.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/dujKUeIqbkeSjrYHWDKtHkcpfr3.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/dujKUeIqbkeSjrYHWDKtHkcpfr3.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/abwKKkDbXYFxKRr/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "rapido-y-furioso-reto-tokio",
+            "tmdbId": 9615,
+            "title": "Rápidos y furiosos 3: Tokyo Drift",
+            "originalTitle": "The Fast and the Furious: Tokyo Drift",
+            "year": 2006,
+            "releaseDate": "2006-06-16",
+            "genres": [
+            "Acción",
+            "Crimen",
+            "Drama"
+            ],
+            "duration": 104,
+            "rating": {
+            "score": 6.5,
+            "source": "TMDB"
+            },
+            "description": "Sean Boswell, un joven aficionado a las carreras callejeras, es enviado a Tokio para evitar la cárcel. Allí descubre el mundo del drifting y se introduce en un ambiente de carreras clandestinas dominado por el peligroso DK, mientras aprende de Han y se enfrenta a nuevos rivales.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/46xqGOwHbh2TH2avWSw3SMXph4E.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/46xqGOwHbh2TH2avWSw3SMXph4E.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/r2m0yQdYRvCaZM/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "rapido-y-furioso-2",
+            "tmdbId": 584,
+            "title": "Rápidos y furiosos 2",
+            "originalTitle": "2 Fast 2 Furious",
+            "year": 2003,
+            "releaseDate": "2003-06-06",
+            "genres": [
+            "Acción",
+            "Crimen",
+            "Thriller"
+            ],
+            "duration": 107,
+            "rating": {
+            "score": 6.5,
+            "source": "TMDB"
+            },
+            "description": "Brian O'Conner, ahora fuera de la policía, se une a su antiguo amigo Roman Pearce para infiltrarse en el mundo criminal de un peligroso narcotraficante. Para completar la misión, ambos deberán participar en una serie de carreras callejeras y arriesgadas operaciones mientras ponen a prueba su amistad y sus habilidades al volante.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/riIa9UIxyhhOBIXI8vhpWmcesGB.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/riIa9UIxyhhOBIXI8vhpWmcesGB.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/XABaPzD6LruD9Bo/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "rapido-y-furioso",
+            "tmdbId": 9799,
+            "title": "Rápidos y furiosos 1",
+            "originalTitle": "The Fast and the Furious",
+            "year": 2001,
+            "releaseDate": "2001-06-22",
+            "genres": [
+            "Acción",
+            "Crimen",
+            "Thriller"
+            ],
+            "duration": 106,
+            "rating": {
+            "score": 6.9,
+            "source": "TMDB"
+            },
+            "description": "El policía encubierto Brian O'Conner se infiltra en el mundo de las carreras callejeras para investigar una serie de robos de camiones. Allí conoce a Dominic Toretto, un corredor respetado y líder de un grupo de aficionados a los autos modificados, y comienza a formar un vínculo que pondrá a prueba su lealtad.",
+            "images": {
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/a4rmfthujzbIRwSuuICfPvrZilb.jpg",
+            "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/a4rmfthujzbIRwSuuICfPvrZilb.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/mrmyJkQrjBfbxDp/"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "star-wars-episodio-9-el-ascenso-de-skywalker",
             "tmdbId": 181812,
             "title": "Star Wars: Episodio IX - El ascenso de Skywalker",
