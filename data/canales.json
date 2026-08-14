@@ -1315,6 +1315,28 @@
                     "fixed": true
                 }
             ]
+        },
+        {
+            "id": 666,
+            "active": true,
+            "country": "CL",
+            "name": "Venus",
+            "category": [
+                "Adulto"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/venus.jpeg",
+            "stream": []
+        },
+        {
+            "id": 666,
+            "active": true,
+            "country": "CL",
+            "name": "PlayBoy",
+            "category": [
+                "Adulto"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/playboy.jpeg",
+            "stream": []
         }
     ]
 }
