@@ -252,27 +252,32 @@ def obtener_busquedas_canal(nombre_canal):
 
 
 def obtener_token_dinamico():
-  """Abre la web objetivo con Playwright para extraer el token renderizado."""
-  url_pagina = 'https://spinoff.link/listas-gomex/'
-  print(f'🔎 Extrayendo TOKEN desde {url_pagina}...')
-  try:
-    with sync_playwright() as p:
-      browser = p.chromium.launch(headless=True)
-      page = browser.new_page()
-      page.goto(url_pagina, wait_until='networkidle')
-      content = page.content()
-      browser.close()
+  """Descarga directamente admincode.php y extrae el token desde las variables de JavaScript."""
+  url_js = 'https://spinoff.link/listas-gomex/admincode.php'  # O la URL exacta si está en un subdominio/carpeta
+  print(f'🔎 Obteniendo TOKEN desde {url_js}...')
 
-      # Capturar token de 3 a 6 caracteres alfanuméricos
+  try:
+    req = urllib.request.Request(url_js, headers=HEADERS)
+    with urllib.request.urlopen(
+        req, timeout=10, context=ssl_context
+    ) as response:
+      contenido_js = response.read().decode('utf-8', errors='ignore')
+
+      # Busca patrones como: window.CARPETA = "e7nu"; o window.IPTV_CARPETA = "e7nu";
       match = re.search(
-          r'tecnotv\.club/([a-zA-Z0-9]{3,6})/geomex\.m3u', content, re.IGNORECASE
+          r'window\.(?:CARPETA|IPTV_CARPETA|ADMIN_CARPETA)\s*=\s*["\']([a-zA-Z0-9]+)["\']',
+          contenido_js,
       )
+
       if match:
         token = match.group(1)
-        print(f'🔑 Token detectado con éxito: {token}')
+        print(f'🔑 Token extraído con éxito desde admincode.php: {token}')
         return token
+      else:
+        print('⚠️ No se encontró la variable del token en el archivo JS.')
+
   except Exception as e:
-    print(f'❌ Error al extraer token con Playwright: {e}')
+    print(f'❌ Error al consultar admincode.php: {e}')
 
   print('⚠️ Usando token por defecto (e7nu).')
   return 'e7nu'

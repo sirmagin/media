@@ -19,11 +19,6 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Instalar Playwright y navegadores
-        run: |
-          pip install playwright
-          playwright install chromium --with-deps
-
       - name: Ejecutar script de actualización
         run: python actualizar_canales_v8.py
 
