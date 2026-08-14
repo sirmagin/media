@@ -788,15 +788,15 @@
             "stream": [
                 {
                     "type": "direct",
-                    "url": "http://tecnotv.club/5kvp/phpcode/lista01.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "direct",
                     "url": "http://tecnotv.club/5kvp/phpcode/lista01.php?c=a0fg&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "direct",
                     "url": "http://tecnotv.club/5kvp/phpcode/lista01.php?c=a0i5&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "direct",
+                    "url": "http://tecnotv.club/5kvp/phpcode/lista01.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
