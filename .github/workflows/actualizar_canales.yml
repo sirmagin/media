@@ -1,0 +1,35 @@
+name: Actualizador Diario de Canales IPTV
+
+on:
+  schedule:
+    # Programado para ejecutarse todos los días a las 12:10 UTC
+    - cron: '10 12 * * *'
+  workflow_dispatch: # Permite ejecutar el proceso manualmente con un botón
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar el código del repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar Playwright y navegadores
+        run: |
+          pip install playwright
+          playwright install chromium --with-deps
+
+      - name: Ejecutar script de actualización
+        run: python actualizar_canales_v8.py
+
+      - name: Guardar cambios en GitHub
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/canales.json
+          git diff-index --quiet HEAD || (git commit -m "bot: auto-actualización diaria de canales.json [skip ci]" && git push)
