@@ -913,7 +913,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/5kvp/phpcode/lista4.php?c=a00v&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/5kvp/phpcode/ssiptv.php?c=a00m&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
