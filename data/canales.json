@@ -1251,6 +1251,11 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/disneychannel.jpeg",
             "stream": [
                 {
+                    "type": "hls",
+                    "url": "http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8",
+                    "fixed": true
+                },
+                {
                     "type": "direct",
                     "url": "http://tecnotv.club/5kvp/phpcode/lista01.php?c=a00e&token=tecnotokenplustv230516F&f=.m3u8"
                 },
@@ -1305,6 +1310,40 @@
                 {
                     "type": "hls",
                     "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "active": true,
+            "country": "CL",
+            "name": "Avatar",
+            "category": [
+                "Infantil"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/avatar.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "active": true,
+            "country": "CL",
+            "name": "Hey Arnold!",
+            "category": [
+                "Infantil"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/heyarnold.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8",
                     "fixed": true
                 }
             ]
