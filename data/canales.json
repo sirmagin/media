@@ -1349,6 +1349,23 @@
             ]
         },
         {
+            "id": 72,
+            "active": true,
+            "country": "CL",
+            "name": "El Chavo",
+            "category": [
+                "Infantil"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/elchavo.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
+                    "fixed": true
+                }
+            ]
+        },
+        {
             "id": 666,
             "active": true,
             "country": "CL",
