@@ -340,13 +340,13 @@ def update_json_streams(
         urls_existentes = {s['url'] for s in canal.get('stream', [])}
         for url in urls_encontradas:
           if url not in urls_existentes:
-            canal.setdefault('stream', []).append({'type': 'direct', 'url': url})
+            canal.setdefault('stream', []).append({'type': 'hls', 'url': url})
       else:
         streams_fijos = [
             st for st in canal.get('stream', []) if st.get('fixed') is True
         ]
         nuevos_streams = [
-            {'type': 'direct', 'url': url} for url in urls_encontradas
+            {'type': 'hls', 'url': url} for url in urls_encontradas
         ]
         canal['stream'] = streams_fijos + nuevos_streams
       canales_actualizados += 1
