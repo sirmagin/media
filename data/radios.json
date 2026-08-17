@@ -20,7 +20,7 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rockandpop.jpeg",
             "stream": [
                 {"type": "mp3", "url": "https://playerservices.streamtheworld.com/api/livestream?station=ROCK_AND_POP&transports=http%2Chls&version=1.10&request.preventCache=1786968627322"},
-                {"type": "direct", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP.mp3"}
+                {"type": "direct", "url": "https://29326.live.streamtheworld.com/ROCK_AND_POPAAC_SBM?sbmid=2ddfdaf1-6a67-4435-906b-4f2ecc140815"}
             ]
         },
         {
