@@ -160,11 +160,11 @@
             "id": 15,
             "active": true,
             "country": "",
-            "name": "Ac/Dc",
-            "category": ["Artistas", "Rock"],
-            "logo": "https://manager.uber.radio/static/uploads/station/283e57fc-2293-4340-bd64-fb361998b24c.jpg",
+            "name": "Radio Rock",
+            "category": ["Rock"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/radiorock.jpeg",
             "stream": [
-                {"type": "direct", "url": "https://streaming.exclusive.radio/er/acdc/icecast.audio"}
+                {"type": "direct", "url": "https://stream-174.zeno.fm/ygcafb1mxxhvv"}
             ]
         },
         {
