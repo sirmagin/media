@@ -289,17 +289,6 @@
             ]
         },
         {
-            "id": 27,
-            "active": true,
-            "country": "CL",
-            "name": "Neltume",
-            "category": ["80s", "90s", "Variedad"],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/ilove80s.jpeg",
-            "stream": [
-                {"type": "direct", "url": "https://stream.zeno.fm/8mfd8due74zuv"}
-            ]
-        },
-        {
             "id": 200,
             "active": true,
             "country": "",
