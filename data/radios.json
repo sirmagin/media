@@ -531,6 +531,72 @@
             ]
         },
         {
+            "id": 122,
+            "active": true,
+            "country": "",
+            "name": "Dance Workout High Energy Pop",
+            "category": ["Pop"],
+            "logo": "https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/743df9a8-3c26-48d3-8be7-bd61793ac466.png",
+            "stream": [
+                {"type": "direct", "url": "https://drive.uber.radio/uber-app/sportifypop/playlist.m3u8"}
+            ]
+        },
+        {
+            "id": 123,
+            "active": true,
+            "country": "",
+            "name": "Running Workout 160 BPM",
+            "category": ["Hits"],
+            "logo": "https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/2f5dc56c-ce23-4e36-b5e7-eb502424af85.png",
+            "stream": [
+                {"type": "direct", "url": "https://drive.uber.radio/uber-app/sportifybpm160/playlist.m3u8"}
+            ]
+        },
+        {
+            "id": 124,
+            "active": true,
+            "country": "",
+            "name": "K-Pop Workout",
+            "category": ["K-Pop"],
+            "logo": "https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/5914c932-716c-4500-a082-9df9d752ff1a.png",
+            "stream": [
+                {"type": "direct", "url": "https://drive.uber.radio/uber-app/sportifykpop/playlist.m3u8"}
+            ]
+        },
+        {
+            "id": 125,
+            "active": true,
+            "country": "",
+            "name": "Trending Workout",
+            "category": ["Variedad"],
+            "logo": "https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/6530523d-4f46-4513-8553-fbb8f107caba.png",
+            "stream": [
+                {"type": "direct", "url": "https://drive.uber.radio/uber-app/sportifytrending/playlist.m3u8"}
+            ]
+        },
+        {
+            "id": 126,
+            "active": true,
+            "country": "",
+            "name": "Hip Hop Workout",
+            "category": ["Hip-Hop"],
+            "logo": "https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/41671432-4dc7-4ef7-b221-8189821de595.png",
+            "stream": [
+                {"type": "direct", "url": "https://drive.uber.radio/uber-app/sportifyhiphop/playlist.m3u8"}
+            ]
+        },
+        {
+            "id": 127,
+            "active": true,
+            "country": "",
+            "name": "The best of Today's Hits",
+            "category": ["Hits"],
+            "logo": "https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/0e021b48-e4f8-4d14-b7b6-714af3b5266a.png",
+            "stream": [
+                {"type": "direct", "url": "https://streaming.exclusive.radio/er-app/chart/playlist.m3u8"}
+            ]
+        },
+        {
             "id": 200,
             "active": true,
             "country": "",
