@@ -520,6 +520,17 @@
             ]
         },
         {
+            "id": 121,
+            "active": true,
+            "country": "",
+            "name": "The Best of Party",
+            "category": ["Hits"],
+            "logo": "https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/61f24268-8ab9-48ec-a9b9-d475bb09a110.png",
+            "stream": [
+                {"type": "direct", "url": "https://streaming.exclusive.radio/er-app/party/playlist.m3u8"}
+            ]
+        },
+        {
             "id": 200,
             "active": true,
             "country": "",
