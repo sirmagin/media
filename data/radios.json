@@ -289,6 +289,17 @@
             ]
         },
         {
+            "id": 27,
+            "active": true,
+            "country": "CL",
+            "name": "Heavy Metal",
+            "category": ["Metal"],
+            "logo": "https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/4e50b05d-f312-4a84-8144-2b19389e4e40.png",
+            "stream": [
+                {"type": "direct", "url": "https://drive.uber.radio/uber-app/rtwheavymetal/playlist.m3u8"}
+            ]
+        },
+        {
             "id": 200,
             "active": true,
             "country": "",
