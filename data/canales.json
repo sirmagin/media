@@ -239,7 +239,7 @@
         },
         {
             "id": 14,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Mega 2",
             "category": [
