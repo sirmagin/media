@@ -307,6 +307,13 @@ def update_json_streams(
   for canal in canales:
     nombre_original = canal.get('name', '')
 
+    # 1. Detectar el 'type' preferente que ya usaba este canal (ej. "mpegts")
+    type_heredado = ''
+    for st in canal.get('stream', []):
+      if st.get('type'):
+        type_heredado = st.get('type')
+        break
+
     if nombre_original in fuentes_por_canal:
       fuentes_a_usar = fuentes_por_canal[nombre_original]
     else:
@@ -335,27 +342,33 @@ def update_json_streams(
 
     urls_encontradas = list(dict.fromkeys(urls_encontradas))
 
-    # Mapeo de URL -> objeto stream existente para preservar la propiedad "type" original
+    # Mapeo de URL exacta al objeto stream original para preservar datos existentes
     streams_existentes = {
         s.get('url'): s for s in canal.get('stream', []) if 'url' in s
     }
 
     if urls_encontradas:
       if modo_acumular:
-        urls_actuales = {s['url'] for s in canal.get('stream', [])}
+        urls_actuales = {s['url'] for s in canal.get('stream', []) if 'url' in s}
         for url in urls_encontradas:
           if url not in urls_actuales:
-            # Nueva URL agregada: asigna el valor predeterminado si no existía previamente
-            canal.setdefault('stream', []).append({'type': '', 'url': url})
+            # Si es totalmente nueva, hereda el type que ya tenía el canal
+            canal.setdefault('stream', []).append(
+                {'type': type_heredado, 'url': url}
+            )
       else:
         streams_fijos = [
             st for st in canal.get('stream', []) if st.get('fixed') is True
         ]
         nuevos_streams = []
+
         for url in urls_encontradas:
-          # Si la URL ya existía, se preserva su 'type' previo; de lo contrario, usa ''
-          type_previo = streams_existentes.get(url, {}).get('type', '')
-          nuevos_streams.append({'type': type_previo, 'url': url})
+          if url in streams_existentes:
+            # Mantiene intacto el stream existente con su type original
+            nuevos_streams.append(streams_existentes[url])
+          else:
+            # Asigna el 'type' heredado a las URLs nuevas
+            nuevos_streams.append({'type': type_heredado, 'url': url})
 
         canal['stream'] = streams_fijos + nuevos_streams
       canales_actualizados += 1
