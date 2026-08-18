@@ -1376,7 +1376,7 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/venus.jpeg",
             "stream": [
                 {
-                    "type": "hls",
+                    "type": "direct",
                     "url": "http://tecnotv.club/trcn/phpcode/geomex.php?c=a09b&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
@@ -1396,7 +1396,7 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/playboy.jpeg",
             "stream": [
                 {
-                    "type": "hls",
+                    "type": "direct",
                     "url": "http://tecnotv.club/trcn/phpcode/geomex.php?c=a09a&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
@@ -1416,11 +1416,11 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/sextreme.jpeg",
             "stream": [
                 {
-                    "type": "hls",
+                    "type": "direct",
                     "url": "http://tecnotv.club/trcn/phpcode/geomex.php?c=a09c&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
-                    "type": "hls",
+                    "type": "direct",
                     "url": "http://tecnotv.club/trcn/phpcode/lista01.php?c=a0fy&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
