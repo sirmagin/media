@@ -335,19 +335,28 @@ def update_json_streams(
 
     urls_encontradas = list(dict.fromkeys(urls_encontradas))
 
+    # Mapeo de URL -> objeto stream existente para preservar la propiedad "type" original
+    streams_existentes = {
+        s.get('url'): s for s in canal.get('stream', []) if 'url' in s
+    }
+
     if urls_encontradas:
       if modo_acumular:
-        urls_existentes = {s['url'] for s in canal.get('stream', [])}
+        urls_actuales = {s['url'] for s in canal.get('stream', [])}
         for url in urls_encontradas:
-          if url not in urls_existentes:
+          if url not in urls_actuales:
+            # Nueva URL agregada: asigna el valor predeterminado si no existía previamente
             canal.setdefault('stream', []).append({'type': '', 'url': url})
       else:
         streams_fijos = [
             st for st in canal.get('stream', []) if st.get('fixed') is True
         ]
-        nuevos_streams = [
-            {'type': '', 'url': url} for url in urls_encontradas
-        ]
+        nuevos_streams = []
+        for url in urls_encontradas:
+          # Si la URL ya existía, se preserva su 'type' previo; de lo contrario, usa ''
+          type_previo = streams_existentes.get(url, {}).get('type', '')
+          nuevos_streams.append({'type': type_previo, 'url': url})
+
         canal['stream'] = streams_fijos + nuevos_streams
       canales_actualizados += 1
 
@@ -383,9 +392,10 @@ def update_json_streams(
 
 
 if __name__ == '__main__':
-  # Ruta ajustada a tu repositorio
-  JSON_ENTRADA = 'data/canales.json'
-  JSON_SALIDA = 'data/canales.json'
+  # Ruta adaptada dinámicamente según la ubicación del script
+  BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+  JSON_ENTRADA = os.path.join(BASE_DIR, 'data', 'canales.json')
+  JSON_SALIDA = os.path.join(BASE_DIR, 'data', 'canales.json')
 
   TOKEN = obtener_token_dinamico()
 
@@ -419,7 +429,11 @@ if __name__ == '__main__':
       'TV Chile': ['https://www.m3u.cl/lista/CL.m3u'],
       'TVN3': ['https://www.m3u.cl/lista/CL.m3u'],
       'Mega': ['https://www.m3u.cl/lista/CL.m3u'],
-      'Meganoticias': ['https://www.m3u.cl/lista/CL.m3u', f'https://tecnotv.club/{TOKEN}/lista.m3u', f'https://tecnotv.club/{TOKEN}/lista2.m3u'],
+      'Meganoticias': [
+          'https://www.m3u.cl/lista/CL.m3u',
+          f'https://tecnotv.club/{TOKEN}/lista.m3u',
+          f'https://tecnotv.club/{TOKEN}/lista2.m3u',
+      ],
       'Mega Tiempo': [],
       'Mega 2': ['https://iptv-org.github.io/iptv/languages/spa.m3u'],
       'Chilevisión': ['https://www.m3u.cl/lista/CL.m3u'],
@@ -496,9 +510,18 @@ if __name__ == '__main__':
       'Nickelodeon': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'Nicktoons': ['https://iptv-org.github.io/iptv/languages/spa.m3u'],
       'Bob Esponja': ['https://www.m3u.cl/lista/CL.m3u'],
-      'Venus': [f'https://tecnotv.club/{TOKEN}/geomex.m3u', f'https://tecnotv.club/{TOKEN}/android1.m3u'],
-      'PlayBoy': [f'https://tecnotv.club/{TOKEN}/geomex.m3u', f'https://tecnotv.club/{TOKEN}/android1.m3u'],
-      'Sextreme': [f'https://tecnotv.club/{TOKEN}/geomex.m3u', f'https://tecnotv.club/{TOKEN}/android1.m3u'],
+      'Venus': [
+          f'https://tecnotv.club/{TOKEN}/geomex.m3u',
+          f'https://tecnotv.club/{TOKEN}/android1.m3u',
+      ],
+      'PlayBoy': [
+          f'https://tecnotv.club/{TOKEN}/geomex.m3u',
+          f'https://tecnotv.club/{TOKEN}/android1.m3u',
+      ],
+      'Sextreme': [
+          f'https://tecnotv.club/{TOKEN}/geomex.m3u',
+          f'https://tecnotv.club/{TOKEN}/android1.m3u',
+      ],
       'Asian': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
       'Live Cams': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
       'MILF': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
