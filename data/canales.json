@@ -122,12 +122,12 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?_=1786764833525&dnt=false&player=57f40bb4dc5b9f3075c49cfe&access_token=BaIrnU0nmKvpHKpGBPYMj5kUYchni7dYRcejIam1cfdj8OBbWcQNHzUWWFXn1BE6hEuYHLiq8AA",
+                    "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
                     "fixed": true
                 },
                 {
                     "type": "hls",
-                    "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
+                    "url": "https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?_=1786764833525&dnt=false&player=57f40bb4dc5b9f3075c49cfe&access_token=BaIrnU0nmKvpHKpGBPYMj5kUYchni7dYRcejIam1cfdj8OBbWcQNHzUWWFXn1BE6hEuYHLiq8AA",
                     "fixed": true
                 }
             ]
