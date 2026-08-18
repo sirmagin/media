@@ -2,8 +2,8 @@ name: Actualizador Diario de Canales IPTV
 
 on:
   schedule:
-    # 17:10 UTC = 13:10 PM Chile Continental
-    - cron: '10 17 * * *'
+    # 18:05 UTC = 14:05 PM Chile Continental = a las 12:05 de el archivo
+    - cron: '5 18 * * *'
   workflow_dispatch:
 
 jobs:
