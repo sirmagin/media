@@ -767,12 +767,12 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/starchannel.jpeg",
             "stream": [
                 {
-                    "type": "mpegts",
+                    "type": "hls",
                     "url": "http://45.162.193.35/STAR_CHANNEL/index.m3u8",
                     "fixed": true
                 },
                 {
-                    "type": "mpegts",
+                    "type": "hls",
                     "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
                     "fixed": true
                 },
