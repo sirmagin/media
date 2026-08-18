@@ -730,10 +730,6 @@
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/trcn/phpcode/lista01.php?c=a0hz&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "http://tecnotv.club/trcn/phpcode/lista01.php?c=a0fl&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
