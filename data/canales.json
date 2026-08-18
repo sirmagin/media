@@ -611,15 +611,15 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/espn.jpeg",
             "stream": [
                 {
-                    "type": "hls",
+                    "type": "mpegts",
                     "url": "http://tecnotv.club/trcn/phpcode/lista01.php?c=a0c7&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
-                    "type": "",
+                    "type": "mpegts",
                     "url": "http://tecnotv.club/trcn/phpcode/lista01.php?c=a0e6&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
-                    "type": "",
+                    "type": "mpegts",
                     "url": "http://tecnotv.club/trcn/phpcode/lista01.php?c=a0hc&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
