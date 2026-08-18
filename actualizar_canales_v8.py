@@ -109,7 +109,7 @@ ALIAS_CANALES = {
     'Nat Geo': ['Nat Geo HD'],
     'A&E': ['A&E', 'A&E HD'],
     'AMC': ['AMC', '74 AMC HD'],
-    'Discovery Channel': ['Discovery Channel', '44 Discovery Channel HD'],
+    'Discovery Channel': ['Discovery Channel  HD', 'Discovery Channel', '44 Discovery Channel HD'],
     'History': [
         'History Channel',
         'History Channel HD',
@@ -515,6 +515,7 @@ if __name__ == '__main__':
       'A&E': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'AMC': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'Discovery Channel': [
+          f'https://tecnotv.club/{TOKEN}/lista4.m3u',
           f'https://tecnotv.club/{TOKEN}/lista2.m3u',
           f'https://tecnotv.club/{TOKEN}/android1.m3u'
       ],
