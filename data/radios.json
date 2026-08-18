@@ -338,9 +338,9 @@
             "country": "",
             "name": "Rock Workout",
             "category": ["Rock", "Hits"],
-            "logo": "https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/8c4240a3-68b3-4573-ac2f-f18e56fd8c54.png",
+            "logo": "https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/01dbe4b0-c764-45e9-a31c-3b00f0d0fcc2.png",
             "stream": [
-                {"type": "direct", "url": "https://drive.uber.radio/uber-app/starboxrock/playlist.m3u8"}
+                {"type": "direct", "url": "https://drive.uber.radio/uber-app/sportifyrock/playlist.m3u8"}
             ]
         },
         {
@@ -705,7 +705,7 @@
             "name": "Ac/Dc",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/283e57fc-2293-4340-bd64-fb361998b24c.jpg",
             "stream": [
@@ -756,8 +756,7 @@
             "name": "Aerosmith",
             "category": [
             "Artistas",
-            "Metal",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/055f0ffd-956b-4330-bf95-4bd19540afad.jpg",
             "stream": [
@@ -876,7 +875,7 @@
             "name": "Alice Cooper",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/e3515acb-b599-4778-9fc9-de5e051b5582.jpg",
             "stream": [
@@ -1046,7 +1045,7 @@
             "name": "Arctic Monkeys",
             "category": [
             "Artistas",
-            "Metal"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/717c79b6-12f0-4b14-a2aa-dedd4898e1e5.jpg",
             "stream": [
@@ -1267,7 +1266,7 @@
             "name": "Bad Company",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/6dbddd3e-cba7-40ad-8af0-8b0b5daf5c1d.jpg",
             "stream": [
@@ -1573,7 +1572,7 @@
             "name": "Black Crowes",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/e69ac167-bc72-4d0d-89db-b0dd29b748fe.png",
             "stream": [
@@ -1590,7 +1589,7 @@
             "name": "Black Sabbath",
             "category": [
             "Artistas",
-            "Metal"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/db2e4f05-3baf-4d24-8386-f6d78db5b85a.jpg",
             "stream": [
@@ -1726,7 +1725,7 @@
             "name": "Bon Jovi",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/6dae4965-500b-4a2a-b7fd-a114a1b284a7.jpg",
             "stream": [
@@ -2423,7 +2422,7 @@
             "name": "Clash",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/838cedc8-27fd-4202-a101-a083bf678804.jpg",
             "stream": [
@@ -2576,7 +2575,7 @@
             "name": "Daft Punk",
             "category": [
             "Artistas",
-            "Electrónica"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/a7b2c869-4670-42de-bda0-6d60505da2e0.jpg",
             "stream": [
@@ -2678,7 +2677,7 @@
             "name": "Deep Purple",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/40cdc2d3-c395-400a-9a78-75c6b85f9fa7.jpg",
             "stream": [
@@ -2695,8 +2694,7 @@
             "name": "Def Leppard",
             "category": [
             "Artistas",
-            "Metal",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/7f704504-cb7d-4b2d-bea2-801647016bb5.jpg",
             "stream": [
@@ -2866,7 +2864,7 @@
             "name": "Dire Straits",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/6fbeb789-537d-46b5-8862-83d4e948b520.jpg",
             "stream": [
@@ -2968,7 +2966,7 @@
             "name": "Doors",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/4131988d-e659-4e16-bc37-104d15b4cc01.jpg",
             "stream": [
@@ -3121,7 +3119,7 @@
             "name": "Eagles",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/ec421cb7-e7ab-49ab-80ea-a2281918a470.jpg",
             "stream": [
@@ -3359,7 +3357,7 @@
             "name": "Eric Clapton",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/97c0c026-1467-4872-bf0c-1980522fd56a.jpg",
             "stream": [
@@ -3512,8 +3510,7 @@
             "name": "Foo Fighters",
             "category": [
             "Artistas",
-            "Rock",
-            "Metal"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/b9b3d41b-47f6-43ea-8b13-572e96f503e0.jpg",
             "stream": [
@@ -3632,7 +3629,7 @@
             "name": "Gary Moore",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/f416a097-ac6c-49a8-9d73-0c1534a0c2d7.jpg",
             "stream": [
@@ -3887,7 +3884,7 @@
             "name": "Green Day",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/15ef0b00-1511-4a36-9a0d-17391449ac7e.jpg",
             "stream": [
@@ -3938,7 +3935,7 @@
             "name": "Guns N Roses",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/101504fc-3ed8-4238-b7b9-b4a0be9c81dc.jpg",
             "stream": [
@@ -4193,7 +4190,7 @@
             "name": "Iron Maiden",
             "category": [
             "Artistas",
-            "Metal"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/a1f58d1b-8bdc-4c05-9c2e-20399d7ce1a7.jpg",
             "stream": [
@@ -4550,7 +4547,7 @@
             "name": "Joan Jett",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/9e3484f5-ec1e-4d74-8539-1e6189f6e4ec.jpg",
             "stream": [
@@ -4567,7 +4564,7 @@
             "name": "Joe Bonamassa",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/6d2bf6c5-9575-4035-b643-270552fd9470.jpg",
             "stream": [
@@ -4584,7 +4581,7 @@
             "name": "Joe Satriani",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/326f8310-2648-4451-892c-6786b943a58e.jpg",
             "stream": [
@@ -5128,7 +5125,7 @@
             "name": "Killers",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/83b63fb4-5d51-44d0-9aac-cebba86325a5.jpg",
             "stream": [
@@ -5145,7 +5142,7 @@
             "name": "Kings Of Leon",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/ab984793-e25c-4ef9-9178-cdfe9fa97c2d.jpg",
             "stream": [
@@ -5196,7 +5193,7 @@
             "name": "Kiss",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/a384502b-d2f3-4a38-a12e-cc6f4275b8f1.png",
             "stream": [
@@ -5740,7 +5737,7 @@
             "name": "Metallica",
             "category": [
             "Artistas",
-            "Metal"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/1e0ce121-8e14-4e5f-a259-b3d80babbdf2.jpg",
             "stream": [
@@ -5995,8 +5992,7 @@
             "name": "Mötley Crüe",
             "category": [
             "Artistas",
-            "Metal",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/f84ea7cb-ca48-4d3a-bdb1-f8b060b8153d.jpg",
             "stream": [
@@ -6115,7 +6111,7 @@
             "name": "Nickelback",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/ee8d23c4-082b-483b-a70e-ae61eebc349e.jpg",
             "stream": [
@@ -6166,7 +6162,7 @@
             "name": "Nirvana",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/089291f8-1f2f-4f15-a635-7513ce01cc11.jpg",
             "stream": [
@@ -6200,7 +6196,7 @@
             "name": "Oasis",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/fb207c60-c0c5-4330-8cdd-841cd3dbb3db.jpg",
             "stream": [
@@ -6557,7 +6553,7 @@
             "name": "Pink Floyd",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/c51ff47c-9925-4cb8-bc1d-24bceaa7047a.jpg",
             "stream": [
@@ -6676,7 +6672,7 @@
             "name": "Queen",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/a939910d-b074-4dbb-884f-69d0aab6cb14.jpg",
             "stream": [
@@ -6693,7 +6689,7 @@
             "name": "R.E.M.",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/f1508043-cf7e-4f77-a59e-bc837f93d354.jpg",
             "stream": [
@@ -6727,7 +6723,7 @@
             "name": "Ramones",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/e7447a7c-86cf-4313-8191-d1e764c88c2c.jpg",
             "stream": [
@@ -6795,7 +6791,7 @@
             "name": "Red Hot Chili Peppers",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/151d0c32-2dbe-4010-9de2-2a93dfdf58fa.jpg",
             "stream": [
@@ -6914,7 +6910,7 @@
             "name": "Rolling Stones",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/0ec68832-d41b-4b79-84f7-2244c51f8386.jpg",
             "stream": [
@@ -6931,7 +6927,7 @@
             "name": "Rory Gallagher",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/eaccf7e6-d89c-4696-a948-fdc035c5ed66.jpg",
             "stream": [
@@ -6999,7 +6995,7 @@
             "name": "Rush",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/f3ceb9c3-1a4c-4996-910c-f9a92deee0f9.jpg",
             "stream": [
@@ -7067,7 +7063,7 @@
             "name": "Santana",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/b5c6dcf1-741d-43d0-b8ae-f4d0572c1e20.jpg",
             "stream": [
@@ -7101,8 +7097,7 @@
             "name": "Scorpions",
             "category": [
             "Artistas",
-            "Metal",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/6876451e-b458-482f-9de5-62fbe54212ca.jpg",
             "stream": [
@@ -7289,7 +7284,7 @@
             "name": "Simple Minds",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/caa3e98d-9725-4946-bf90-9a12e99468c8.jpg",
             "stream": [
@@ -7323,7 +7318,7 @@
             "name": "Slade",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/6692fec5-a1bd-45d8-965e-b63d5a2c79b2.jpg",
             "stream": [
@@ -7493,7 +7488,7 @@
             "name": "Steely Dan",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/9590e939-3bfe-4374-887e-73db0776dd20.jpg",
             "stream": [
@@ -7612,7 +7607,7 @@
             "name": "Stone Temple Pilots",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/9815d090-1ab0-4fe9-afe0-ea411f3cda27.jpg",
             "stream": [
@@ -7884,7 +7879,7 @@
             "name": "The Band",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/58959c16-0ac3-436f-af0d-6474256e81c7.jpg",
             "stream": [
@@ -7952,7 +7947,7 @@
             "name": "The Who",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/1f483332-dd0a-474a-a378-98d528e86170.jpg",
             "stream": [
@@ -7969,7 +7964,7 @@
             "name": "Thin Lizzy",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/20466429-8ef5-49ae-bfb4-35efd2a5cda9.jpg",
             "stream": [
@@ -8122,7 +8117,7 @@
             "name": "Toto",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/0fb0f27f-1c5c-46fd-8b2f-e25aca3fb24d.jpg",
             "stream": [
@@ -8173,7 +8168,7 @@
             "name": "U2",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/c9552cd2-e118-48a4-a1ce-ba5bc1190745.jpg",
             "stream": [
@@ -8224,8 +8219,7 @@
             "name": "Van Halen",
             "category": [
             "Artistas",
-            "Metal",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/23d855ed-f8c7-4995-8cd9-c3eb4369bcd8.jpg",
             "stream": [
@@ -8344,7 +8338,7 @@
             "name": "Whitesnake",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/ad1d0985-c694-4658-9381-3e9b190c8921.jpg",
             "stream": [
@@ -8412,7 +8406,7 @@
             "name": "Yes",
             "category": [
             "Artistas",
-            "Rock"
+            ""
             ],
             "logo": "https://manager.uber.radio/static/uploads/station/2feb4847-3064-474d-b8b6-23f12f51c671.jpg",
             "stream": [
