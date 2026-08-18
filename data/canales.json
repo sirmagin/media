@@ -1436,7 +1436,7 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
             "stream": [
                 {
-                    "type": "mpegts",
+                    "type": "direct",
                     "url": "http://tecnotv.club/anu5/phpcode/hot.php?c=asian&f=.m3u8"
                 }
             ]
@@ -1468,7 +1468,7 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
             "stream": [
                 {
-                    "type": "hls",
+                    "type": "",
                     "url": "http://tecnotv.club/anu5/phpcode/hot.php?c=milf&f=.m3u8"
                 }
             ]
@@ -1484,7 +1484,7 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
             "stream": [
                 {
-                    "type": "hls",
+                    "type": "dash",
                     "url": "http://tecnotv.club/anu5/phpcode/hot.php?c=bigtits&f=.m3u8"
                 }
             ]
