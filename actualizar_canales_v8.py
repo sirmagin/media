@@ -88,7 +88,7 @@ ALIAS_CANALES = {
     ],
     'HBO': ['HBO', 'HBO HD'],
     'HBO Family': ['HBO Family HD'],
-    'HBO +': ['HBO +'],
+    'HBO +': ['HBO Plus HD', 'HBO +'],
     'HBO Xtreme': ['HBO Xtreme HD'],
     'HBO 2': ['HBO2 HD', 'Hbo 2', 'HBO 2'],
     'CINEMAX': ['71 Cinemax'],
@@ -491,7 +491,10 @@ if __name__ == '__main__':
           f'https://tecnotv.club/{TOKEN}/lista2.m3u',
       ],
       'HBO Family': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
-      'HBO +': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
+      'HBO +': [
+          f'https://tecnotv.club/{TOKEN}/lista.m3u',
+          f'https://tecnotv.club/{TOKEN}/android1.m3u'
+      ],
       'HBO Xtreme': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'HBO 2': [f'https://tecnotv.club/{TOKEN}/lista.m3u'],
       'CINEMAX': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
@@ -513,7 +516,8 @@ if __name__ == '__main__':
       'AMC': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'Discovery Channel': [
           f'https://tecnotv.club/{TOKEN}/lista2.m3u',
-          f'https://tecnotv.club/{TOKEN}/android1.m3u'],
+          f'https://tecnotv.club/{TOKEN}/android1.m3u'
+      ],
       'History': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'History 2': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'Film & Arts': [
