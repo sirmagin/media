@@ -45,7 +45,7 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/lared.jpeg",
             "stream": [
                 {
-                    "type": "",
+                    "type": "mpegts",
                     "url": "https://live.getcirca.run/live/3969875408/medialist_15609871089997455276_hls.m3u8",
                     "fixed": true
                 }
