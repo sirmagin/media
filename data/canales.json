@@ -767,16 +767,6 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/starchannel.jpeg",
             "stream": [
                 {
-                    "type": "hls",
-                    "url": "http://45.162.193.35/STAR_CHANNEL/index.m3u8",
-                    "fixed": true
-                },
-                {
-                    "type": "hls",
-                    "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
-                    "fixed": true
-                },
-                {
                     "type": "mpegts",
                     "url": "http://tecnotv.club/anu5/phpcode/lista01.php?c=a012&token=tecnotokenplustv230516F&f=.m3u8"
                 },
@@ -787,6 +777,16 @@
                 {
                     "type": "mpegts",
                     "url": "http://tecnotv.club/anu5/phpcode/lista01.php?c=a0i6&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://45.162.193.35/STAR_CHANNEL/index.m3u8",
+                    "fixed": true
+                },
+                {
+                    "type": "hls",
+                    "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
+                    "fixed": true
                 }
             ]
         },
