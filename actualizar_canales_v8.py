@@ -511,7 +511,9 @@ if __name__ == '__main__':
       'Nat Geo': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'A&E': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'AMC': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
-      'Discovery Channel': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
+      'Discovery Channel': [
+          f'https://tecnotv.club/{TOKEN}/lista2.m3u',
+          f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'History': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'History 2': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'Film & Arts': [

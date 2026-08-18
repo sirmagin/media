@@ -1162,6 +1162,10 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/discovery.jpeg",
             "stream": [
                 {
+                    "type": "mpegts",
+                    "url": "http://tecnotv.club/anu5/phpcode/lista2.php?c=a05p&f=.m3u8&token=tecnotokenplustv230516F"
+                },
+                {
                     "type": "hls",
                     "url": "http://tecnotv.club/anu5/phpcode/lista01.php?c=a0cg&token=tecnotokenplustv230516F&f=.m3u8"
                 },
