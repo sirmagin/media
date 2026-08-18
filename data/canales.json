@@ -802,8 +802,12 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/fx.jpeg",
             "stream": [
                 {
-                    "type": "mpegts",
-                    "url": "http://tecnotv.club/anu5/phpcode/lista01.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8"
+                    "type": "hls",
+                    "url": "http://tecnotv.club/anu5/phpcode/ssiptv.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/anu5/phpcode/ssiptv.php?c=a0qz&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",

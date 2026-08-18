@@ -483,7 +483,10 @@ if __name__ == '__main__':
       'Warner TV': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'Cinecanal': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'Star Channel': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
-      'FX': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
+      'FX': [
+          f'https://tecnotv.club/{TOKEN}/lista.m3u',
+          f'https://tecnotv.club/{TOKEN}/android1.m3u'
+      ],
       'Studio Universal': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'HBO': [
           f'https://tecnotv.club/{TOKEN}/android1.m3u',
