@@ -1,6 +1,65 @@
 {
     "movies": [
         {
+            "id": "el-dia-de-la-revelacion",
+            "tmdbId": 1265609,
+            "title": "El día de la revelación",
+            "originalTitle": "The Disclosure Day",
+            "year": 2025,
+            "releaseDate": "2025-12-12",
+            "genres": [
+                "Ciencia ficción",
+                "Thriller"
+            ],
+            "duration": 0,
+            "rating": {
+                "score": 0,
+                "source": "TMDB"
+            },
+            "description": "Una película de ciencia ficción dirigida por Steven Spielberg que gira en torno a un acontecimiento extraordinario relacionado con una posible revelación de vida extraterrestre, desencadenando una serie de acontecimientos que podrían cambiar la humanidad para siempre.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/pgyWDOPavkhXmr/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "la-odisea",
+            "tmdbId": 157336,
+            "title": "La Odisea",
+            "originalTitle": "The Odyssey",
+            "year": 2026,
+            "releaseDate": "2026-07-17",
+            "genres": [
+                "Aventura",
+                "Acción",
+                "Fantasía"
+            ],
+            "duration": 169,
+            "rating": {
+                "score": 8.2,
+                "source": "TMDB"
+            },
+            "description": "La épica aventura de Odiseo, rey de Ítaca, mientras emprende un largo y peligroso viaje de regreso a casa después de la guerra de Troya, enfrentándose a criaturas mitológicas, dioses y numerosos desafíos en su camino.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/eoNiukYRWJRxMlVnTOye0kkUB5k.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": ""
+                }
+            ],
+            "active": false
+        },
+        {
             "id": "rapidos-y-furiosos-hobbs-shaw",
             "tmdbId": 384018,
             "title": "Rápidos y furiosos: Hobbs & Shaw",
