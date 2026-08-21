@@ -8466,6 +8466,54 @@
                 "url": "https://streaming.exclusive.radio/er/zztop/icecast.audio"
             }
             ]
+        },
+        {
+            "id": 2000,
+            "active": true,
+            "country": "",
+            "name": "Rock Classic",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rockclassic.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/16L3b1BxKXubkl/"
+            }
+            ]
+        },
+        {
+            "id": 2000,
+            "active": true,
+            "country": "",
+            "name": "Golden Rock Classics Vol 1",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/goldenrockclassic1.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/kpkJ34y2YzTOOGD/"
+            }
+            ]
+        },
+        {
+            "id": 2000,
+            "active": true,
+            "country": "",
+            "name": "Golden Rock Classics Vol 2",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/goldenrockclassic2.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/qvvBJ9qDXKs14X/"
+            }
+            ]
         }
     ]
 }
