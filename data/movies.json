@@ -1,35 +1,6 @@
 {
     "movies": [
         {
-            "id": "el-dia-de-la-revelacion",
-            "tmdbId": 1265609,
-            "title": "El día de la revelación",
-            "originalTitle": "The Disclosure Day",
-            "year": 2026,
-            "releaseDate": "2026-06-12",
-            "genres": [
-                "Ciencia ficción",
-                "Thriller"
-            ],
-            "duration": 146,
-            "rating": {
-                "score": 6.4,
-                "source": "TMDB"
-            },
-            "description": "Una película de ciencia ficción dirigida por Steven Spielberg que gira en torno a un acontecimiento extraordinario relacionado con una posible revelación de vida extraterrestre, desencadenando una serie de acontecimientos que podrían cambiar la humanidad para siempre.",
-            "images": {
-                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
-                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg"
-            },
-            "sources": [
-                {
-                "type": "direct",
-                "video": "https://streamtape.com/e/pgyWDOPavkhXmr/"
-                }
-            ],
-            "active": true
-        },
-        {
             "id": "la-odisea",
             "tmdbId": 157336,
             "title": "La Odisea",
@@ -58,6 +29,35 @@
                 }
             ],
             "active": false
+        },
+        {
+            "id": "el-dia-de-la-revelacion",
+            "tmdbId": 1265609,
+            "title": "El día de la revelación",
+            "originalTitle": "The Disclosure Day",
+            "year": 2026,
+            "releaseDate": "2026-06-12",
+            "genres": [
+                "Ciencia ficción",
+                "Thriller"
+            ],
+            "duration": 146,
+            "rating": {
+                "score": 6.4,
+                "source": "TMDB"
+            },
+            "description": "Una película de ciencia ficción dirigida por Steven Spielberg que gira en torno a un acontecimiento extraordinario relacionado con una posible revelación de vida extraterrestre, desencadenando una serie de acontecimientos que podrían cambiar la humanidad para siempre.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/dPTa7jSIeaDhie2d9JSZr7qI0Tf.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/pgyWDOPavkhXmr/"
+                }
+            ],
+            "active": true
         },
         {
             "id": "rapidos-y-furiosos-hobbs-shaw",
