@@ -8475,7 +8475,7 @@
             "category": [
             "Video Clip"
             ],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/videoplay.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/trpm.jpeg",
             "stream": [
             {
                 "type": "direct",
@@ -8491,7 +8491,7 @@
             "category": [
             "Video Clip"
             ],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/videoplay.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rc.jpeg",
             "stream": [
             {
                 "type": "direct",
@@ -8507,7 +8507,7 @@
             "category": [
             "Video Clip"
             ],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/videoplay.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/grcv1.jpeg",
             "stream": [
             {
                 "type": "direct",
@@ -8523,7 +8523,7 @@
             "category": [
             "Video Clip"
             ],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/videoplay.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/grcv2.jpeg",
             "stream": [
             {
                 "type": "direct",
@@ -8539,7 +8539,7 @@
             "category": [
             "Video Clip"
             ],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/videoplay.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/mv5cr.jpeg",
             "stream": [
             {
                 "type": "direct",
@@ -8555,7 +8555,7 @@
             "category": [
             "Video Clip"
             ],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/videoplay.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cpv5.jpeg",
             "stream": [
             {
                 "type": "direct",
@@ -8571,7 +8571,7 @@
             "category": [
             "Video Clip"
             ],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/videoplay.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/qyfmrm.jpeg",
             "stream": [
             {
                 "type": "direct",
@@ -8587,7 +8587,7 @@
             "category": [
             "Video Clip"
             ],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/videoplay.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/mr.jpeg",
             "stream": [
             {
                 "type": "direct",
@@ -8596,18 +8596,194 @@
             ]
         },
         {
-            "id": 2007,
+            "id": 2008,
             "active": true,
             "country": "",
             "name": "Retro Dance Megamix Vol 1",
             "category": [
             "Video Clip"
             ],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/videoplay.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rdmv1.jpeg",
             "stream": [
             {
                 "type": "direct",
                 "url": "https://streamtape.com/e/Q3ZOl0VaXRh0QB4/"
+            }
+            ]
+        },
+        {
+            "id": 2009,
+            "active": true,
+            "country": "",
+            "name": "Hits En Ingles",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/hei.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/46KzPPKwbvUKvBL/"
+            }
+            ]
+        },
+        {
+            "id": 2010,
+            "active": true,
+            "country": "",
+            "name": "Clasicos De Siempre",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cds.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/aP7z1A2VQqSxV4Y/"
+            }
+            ]
+        },
+        {
+            "id": 2011,
+            "active": true,
+            "country": "",
+            "name": "Fiesta Carnaval Videomix Vol 2 (Retropachanga I)",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/fcvv2.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/0DdDj0yZvzuKOe/"
+            }
+            ]
+        },
+        {
+            "id": 2012,
+            "active": true,
+            "country": "",
+            "name": "Retromix Vol 18",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rv18.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/kWdAyW9Ap7U8jM/"
+            }
+            ]
+        },
+        {
+            "id": 2013,
+            "active": true,
+            "country": "",
+            "name": "90s Techno, Dance & House",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/90tdyh.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/DWOJLJW6PZHkOPM/"
+            }
+            ]
+        },
+        {
+            "id": 2014,
+            "active": true,
+            "country": "",
+            "name": "Hip Hop Old School",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/hhos.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/VPbJxvB2Z3FKVB3/"
+            }
+            ]
+        },
+        {
+            "id": 2015,
+            "active": true,
+            "country": "",
+            "name": "Remember The (70's - 80's) Vol 1 (Reloaded Version)",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rt7080v1rv.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/j6x0kBoLevTzOV0/"
+            }
+            ]
+        },
+        {
+            "id": 2016,
+            "active": true,
+            "country": "",
+            "name": "Remember The (70's - 80's) Vol 2",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rt7080v2.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/O4vz9ro1r4CZZe0/"
+            }
+            ]
+        },
+        {
+            "id": 2017,
+            "active": true,
+            "country": "",
+            "name": "Remember The (70's - 80's) Vol 3",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rt7080v3.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/la6DK7BY6gC7kpW/"
+            }
+            ]
+        },
+        {
+            "id": 2018,
+            "active": true,
+            "country": "",
+            "name": "Remember The (70's - 80's) Vol 4",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rt7080v4.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/p4ZvZMqamWIXW1/"
+            }
+            ]
+        },
+        {
+            "id": 2019,
+            "active": true,
+            "country": "",
+            "name": "Revibes The Retro Music Vol 1",
+            "category": [
+            "Video Clip"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rtrmv1.jpeg",
+            "stream": [
+            {
+                "type": "direct",
+                "url": "https://streamtape.com/e/K9o9zd090rt0rW8/"
             }
             ]
         }
