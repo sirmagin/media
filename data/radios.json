@@ -8962,6 +8962,22 @@
                 "url": "https://streamtape.com/e/12dW7e1dzwfewBb/"
             }
             ]
+        },
+        {
+            "id": 3011,
+            "active": true,
+            "country": "",
+            "name": "Pueba proyecto",
+            "category": [
+            "Concierto"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/videoplay.jpeg",
+            "stream": [
+            {
+                "type": "mp3",
+                "url": "https://streamtape.com/e/lOmLqv1Qayf7qlz/"
+            }
+            ]
         }
     ]
 }
