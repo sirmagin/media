@@ -8964,18 +8964,114 @@
             ]
         },
         {
-            "id": 3011,
+            "id": 4000,
             "active": true,
             "country": "",
-            "name": "Pueba proyecto",
+            "name": "01 Classic Project",
             "category": [
-            "Concierto"
+            "Classic Project"
             ],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/videoplay.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/01cp.jpeg",
             "stream": [
             {
                 "type": "mp3",
                 "url": "https://streamtape.com/e/lOmLqv1Qayf7qlz/"
+            }
+            ]
+        },
+        {
+            "id": 4001,
+            "active": true,
+            "country": "",
+            "name": "02 Classic Project",
+            "category": [
+            "Classic Project"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/02cp.jpeg",
+            "stream": [
+            {
+                "type": "mp3",
+                "url": "https://streamtape.com/e/v2B1O3zelRIYW7/"
+            }
+            ]
+        },
+        {
+            "id": 4002,
+            "active": true,
+            "country": "",
+            "name": "03 Classic Project",
+            "category": [
+            "Classic Project"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/03cp.jpeg",
+            "stream": [
+            {
+                "type": "mp3",
+                "url": "https://streamtape.com/e/QeaJb3m098S06Zo/"
+            }
+            ]
+        },
+        {
+            "id": 4003,
+            "active": true,
+            "country": "",
+            "name": "04 Classic Project",
+            "category": [
+            "Classic Project"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/04cp.jpeg",
+            "stream": [
+            {
+                "type": "mp3",
+                "url": "https://streamtape.com/e/LQpaqrWvL2iRk8W/"
+            }
+            ]
+        },
+        {
+            "id": 4004,
+            "active": true,
+            "country": "",
+            "name": "05 Classic Project",
+            "category": [
+            "Classic Project"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/05cp.jpeg",
+            "stream": [
+            {
+                "type": "mp3",
+                "url": "https://streamtape.com/e/JYjxdqkzZWujKjv/"
+            }
+            ]
+        },
+        {
+            "id": 4005,
+            "active": true,
+            "country": "",
+            "name": "06 Classic Project",
+            "category": [
+            "Classic Project"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/06cp.jpeg",
+            "stream": [
+            {
+                "type": "mp3",
+                "url": "https://streamtape.com/e/oAamQRGjAwUbWb/"
+            }
+            ]
+        },
+        {
+            "id": 4006,
+            "active": true,
+            "country": "",
+            "name": "07 Classic Project",
+            "category": [
+            "Classic Project"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/07cp.jpeg",
+            "stream": [
+            {
+                "type": "mp3",
+                "url": "https://streamtape.com/e/dqA8Koz7YDfk8Bk/"
             }
             ]
         }
