@@ -8786,6 +8786,70 @@
                 "url": "https://streamtape.com/e/K9o9zd090rt0rW8/"
             }
             ]
+        },
+        {
+            "id": 3000,
+            "active": true,
+            "country": "",
+            "name": "Queen Live at Wembley Stadium 1986",
+            "category": [
+            "Concierto"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/qw.jpeg",
+            "stream": [
+            {
+                "type": "mp4",
+                "url": "https://streamtape.com/e/pMppqGbjLlurOKv/"
+            }
+            ]
+        },
+        {
+            "id": 3001,
+            "active": true,
+            "country": "",
+            "name": "Michael Jackson - Live At Wembley 1988",
+            "category": [
+            "Concierto"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/mjw.jpeg",
+            "stream": [
+            {
+                "type": "mp4",
+                "url": "https://streamtape.com/e/7DK0ddDyyxSVOk/"
+            }
+            ]
+        },
+        {
+            "id": 3002,
+            "active": true,
+            "country": "",
+            "name": "Queen - Live Aid 1985",
+            "category": [
+            "Concierto"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/qa.jpeg",
+            "stream": [
+            {
+                "type": "mp4",
+                "url": "https://streamtape.com/e/vQ2DlzLzReI4XxV/"
+            }
+            ]
+        },
+        {
+            "id": 3003,
+            "active": true,
+            "country": "",
+            "name": "Pink Floyd - Delicate Sound of Thun",
+            "category": [
+            "Concierto"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/pf.jpeg",
+            "stream": [
+            {
+                "type": "mp4",
+                "url": "https://streamtape.com/e/MArzlV77rdcmWe2/"
+            }
+            ]
         }
     ]
 }
