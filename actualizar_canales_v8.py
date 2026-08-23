@@ -478,7 +478,10 @@ if __name__ == '__main__':
       'ESPN 2': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'ESPN 3': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'ESPN 4': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
-      'TNT Sports Premium': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
+      'TNT Sports Premium': [
+          f'https://tecnotv.club/{TOKEN}/android1.m3u',
+          f'https://tecnotv.club/{TOKEN}/lista4.m3u',
+      ],
       'AXN': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'Warner TV': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'Cinecanal': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
