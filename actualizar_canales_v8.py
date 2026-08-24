@@ -59,7 +59,7 @@ ALIAS_CANALES = {
         'El Canal Feliz (720p)',
     ],
     'CNN Chile': ['CNN Chile ✪ | CL', 'CNN Chile'],
-    'ESPN': ['ESPN', 'ESPN HD'],
+    'ESPN': ['ESPN', 'ESPN HD', 'ESPN1_OK'],
     'ESPN 2': ['ESPN 2', 'ESPN 2 HD'],
     'ESPN 3': ['49 ESPN 3 HD'],
     'ESPN 4': ['ESPN 4 HD'],
