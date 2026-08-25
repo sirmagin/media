@@ -109,7 +109,11 @@ ALIAS_CANALES = {
     'Nat Geo': ['Nat Geo HD'],
     'A&E': ['A&E', 'A&E HD'],
     'AMC': ['AMC', '74 AMC HD'],
-    'Discovery Channel': ['Discovery Channel  HD', 'Discovery Channel', '44 Discovery Channel HD'],
+    'Discovery Channel': [
+        'Discovery Channel  HD',
+        'Discovery Channel',
+        '44 Discovery Channel HD',
+    ],
     'History': [
         'History Channel',
         'History Channel HD',
@@ -176,23 +180,29 @@ def extraer_canales_de_lineas(lines, m3u_channels):
       current_name = None
 
 
-def procesar_fuente_m3u(fuente):
+def procesar_fuente_m3u(fuente, retries=3):
   if fuente in M3U_CACHE:
     return M3U_CACHE[fuente]
 
   m3u_channels = {}
   if fuente.startswith(('http://', 'https://')):
     print(f'🌐 Descargando M3U desde URL: {fuente}')
-    try:
-      req = urllib.request.Request(fuente, headers=HEADERS)
-      with urllib.request.urlopen(
-          req, timeout=10, context=ssl_context
-      ) as response:
-        contenido = response.read().decode('utf-8', errors='ignore')
-        extraer_canales_de_lineas(contenido.splitlines(), m3u_channels)
-        print('  ✅ Lista web procesada correctamente.')
-    except Exception as e:
-      print(f'  ❌ Error descargando desde URL: {e}')
+    for intento in range(1, retries + 1):
+      try:
+        req = urllib.request.Request(fuente, headers=HEADERS)
+        with urllib.request.urlopen(
+            req, timeout=10, context=ssl_context
+        ) as response:
+          contenido = response.read().decode('utf-8', errors='ignore')
+          extraer_canales_de_lineas(contenido.splitlines(), m3u_channels)
+          print('  ✅ Lista web procesada correctamente.')
+          break
+      except Exception as e:
+        print(f'  ⚠️ Intento {intento}/{retries} fallido ({fuente}): {e}')
+        if intento < retries:
+          time.sleep(1)
+        else:
+          print(f'  ❌ Error definitivo descargando desde URL: {fuente}')
   else:
     archivos = glob.glob(fuente)
     for file_path in archivos:
@@ -252,36 +262,48 @@ def obtener_busquedas_canal(nombre_canal):
   return list(busquedas), tiene_alias_explicito
 
 
-def obtener_token_dinamico():
-  """Extrae el token directamente desde el admincode.php de TecnoTV."""
+def obtener_token_dinamico(retries=3):
   url_js = 'https://tecnotv.club/admincode.php'
   print(f'🔎 Obteniendo TOKEN directamente desde {url_js}...')
 
-  try:
-    req = urllib.request.Request(url_js, headers=HEADERS)
-    with urllib.request.urlopen(
-        req, timeout=10, context=ssl_context
-    ) as response:
-      contenido_js = response.read().decode('utf-8', errors='ignore')
+  for intento in range(1, retries + 1):
+    try:
+      req = urllib.request.Request(url_js, headers=HEADERS)
+      with urllib.request.urlopen(
+          req, timeout=5, context=ssl_context
+      ) as response:
+        contenido_js = response.read().decode('utf-8', errors='ignore')
+        match = re.search(
+            r'window\.(?:CARPETA|IPTV_CARPETA|ADMIN_CARPETA|CARPETA_IPTV_ADMIN)\s*=\s*["\']([a-zA-Z0-9]+)["\']',
+            contenido_js,
+        )
 
-      # Extrae el valor entre comillas de window.CARPETA = "5kvp";
-      match = re.search(
-          r'window\.(?:CARPETA|IPTV_CARPETA|ADMIN_CARPETA|CARPETA_IPTV_ADMIN)\s*=\s*["\']([a-zA-Z0-9]+)["\']',
-          contenido_js,
-      )
+        if match:
+          token = match.group(1)
+          print(f'🔑 Token extraído con éxito (Intento {intento}): {token}')
+          return token
+    except Exception as e:
+      print(f'  ⚠️ Intento {intento}/{retries} fallido al obtener token: {e}')
+      if intento < retries:
+        time.sleep(1)
 
-      if match:
-        token = match.group(1)
-        print(f'🔑 Token extraído con éxito: {token}')
-        return token
-      else:
-        print('⚠️ No se encontró la variable del token en el archivo JS.')
-
-  except Exception as e:
-    print(f'❌ Error al consultar {url_js}: {e}')
-
-  print('⚠️ Usando token por defecto (5kvp).')
+  print('❌ No se pudo obtener el token dinámico. Usando token por defecto (5kvp).')
   return '5kvp'
+
+
+def determinar_tipo_stream(url, type_fallback=''):
+  """Determina automáticamente si la URL es HLS o MPEGTS por su sintaxis."""
+  url_lower = url.lower()
+  if '.m3u8' in url_lower or 'format=m3u8' in url_lower:
+    return 'hls'
+  elif (
+      '.ts' in url_lower
+      or 'type=mpegts' in url_lower
+      or '/mpegts' in url_lower
+      or ':8080/' in url_lower
+  ):
+    return 'mpegts'
+  return type_fallback if type_fallback else 'mpegts'
 
 
 def update_json_streams(
@@ -307,18 +329,16 @@ def update_json_streams(
   for canal in canales:
     nombre_original = canal.get('name', '')
 
-    # 1. Detectar el 'type' preferente que ya usaba este canal (ej. "mpegts")
+    # Extraer el 'type' preferente del canal si ya existía algún valor
     type_heredado = ''
     for st in canal.get('stream', []):
       if st.get('type'):
         type_heredado = st.get('type')
         break
 
-    if nombre_original in fuentes_por_canal:
-      fuentes_a_usar = fuentes_por_canal[nombre_original]
-    else:
-      fuentes_a_usar = fuentes_m3u_generales
-
+    fuentes_a_usar = fuentes_por_canal.get(
+        nombre_original, fuentes_m3u_generales
+    )
     m3u_data = parse_m3u_sources(fuentes_a_usar)
     variantes_busqueda, tiene_alias = obtener_busquedas_canal(nombre_original)
     urls_encontradas = []
@@ -342,7 +362,6 @@ def update_json_streams(
 
     urls_encontradas = list(dict.fromkeys(urls_encontradas))
 
-    # Mapeo de URL exacta al objeto stream original para preservar datos existentes
     streams_existentes = {
         s.get('url'): s for s in canal.get('stream', []) if 'url' in s
     }
@@ -352,10 +371,8 @@ def update_json_streams(
         urls_actuales = {s['url'] for s in canal.get('stream', []) if 'url' in s}
         for url in urls_encontradas:
           if url not in urls_actuales:
-            # Si es totalmente nueva, hereda el type que ya tenía el canal
-            canal.setdefault('stream', []).append(
-                {'type': type_heredado, 'url': url}
-            )
+            tipo = determinar_tipo_stream(url, type_heredado)
+            canal.setdefault('stream', []).append({'type': tipo, 'url': url})
       else:
         streams_fijos = [
             st for st in canal.get('stream', []) if st.get('fixed') is True
@@ -364,11 +381,10 @@ def update_json_streams(
 
         for url in urls_encontradas:
           if url in streams_existentes:
-            # Mantiene intacto el stream existente con su type original
             nuevos_streams.append(streams_existentes[url])
           else:
-            # Asigna el 'type' heredado a las URLs nuevas
-            nuevos_streams.append({'type': type_heredado, 'url': url})
+            tipo = determinar_tipo_stream(url, type_heredado)
+            nuevos_streams.append({'type': tipo, 'url': url})
 
         canal['stream'] = streams_fijos + nuevos_streams
       canales_actualizados += 1
@@ -393,19 +409,18 @@ def update_json_streams(
       streams_con_tiempo.sort(key=lambda item: item[0])
       canal['stream'] = [item[1] for item in streams_con_tiempo]
 
-    if canal.get('stream'):
-      canal['active'] = True
-    else:
-      canal['active'] = False
+    canal['active'] = bool(canal.get('stream'))
 
   with open(output_json_path, 'w', encoding='utf-8') as f:
     json.dump(json_data, f, ensure_ascii=False, indent=4)
 
-  print('Proceso finalizado correctamente.')
+  print(
+      f'Proceso finalizado correctamente. Canales actualizados:'
+      f' {canales_actualizados}, URLs eliminadas por falla: {urls_eliminadas}'
+  )
 
 
 if __name__ == '__main__':
-  # Ruta adaptada dinámicamente según la ubicación del script
   BASE_DIR = os.path.dirname(os.path.abspath(__file__))
   JSON_ENTRADA = os.path.join(BASE_DIR, 'data', 'canales.json')
   JSON_SALIDA = os.path.join(BASE_DIR, 'data', 'canales.json')
@@ -488,7 +503,7 @@ if __name__ == '__main__':
       'Star Channel': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'FX': [
           f'https://tecnotv.club/{TOKEN}/lista.m3u',
-          f'https://tecnotv.club/{TOKEN}/android1.m3u'
+          f'https://tecnotv.club/{TOKEN}/android1.m3u',
       ],
       'Studio Universal': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'HBO': [
@@ -499,7 +514,7 @@ if __name__ == '__main__':
       'HBO Family': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'HBO +': [
           f'https://tecnotv.club/{TOKEN}/lista.m3u',
-          f'https://tecnotv.club/{TOKEN}/android1.m3u'
+          f'https://tecnotv.club/{TOKEN}/android1.m3u',
       ],
       'HBO Xtreme': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'HBO 2': [f'https://tecnotv.club/{TOKEN}/lista.m3u'],
@@ -523,7 +538,7 @@ if __name__ == '__main__':
       'Discovery Channel': [
           f'https://tecnotv.club/{TOKEN}/lista4.m3u',
           f'https://tecnotv.club/{TOKEN}/lista2.m3u',
-          f'https://tecnotv.club/{TOKEN}/android1.m3u'
+          f'https://tecnotv.club/{TOKEN}/android1.m3u',
       ],
       'History': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
       'History 2': [f'https://tecnotv.club/{TOKEN}/android1.m3u'],
