@@ -289,6 +289,17 @@
             ]
         },
         {
+            "id": 27,
+            "active": true,
+            "country": "CL",
+            "name": "Radio Portales",
+            "category": ["80s", "90s", "Variedad"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/radioportales.jpeg",
+            "stream": [
+                {"type": "mp3", "url": "https://radios.mediaradio.cl/listen/portalesfm/radio.mp3"}
+            ]
+        },
+        {
             "id": 100,
             "active": true,
             "country": "",
