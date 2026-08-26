@@ -248,6 +248,17 @@
             "id": 23,
             "active": true,
             "country": "CL",
+            "name": "Radio Portales",
+            "category": ["80s", "90s", "Variedad"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/radioportales.jpeg",
+            "stream": [
+                {"type": "mp3", "url": "https://radios.mediaradio.cl/listen/portalesfm/radio.mp3"}
+            ]
+        },
+        {
+            "id": 24,
+            "active": true,
+            "country": "CL",
             "name": "Radio Rock",
             "category": ["Rock", "90s"],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/radiorock.jpeg",
@@ -256,7 +267,7 @@
             ]
         },
         {
-            "id": 24,
+            "id": 25,
             "active": true,
             "country": "CL",
             "name": "MyTunner 90s",
@@ -267,7 +278,7 @@
             ]
         },
         {
-            "id": 25,
+            "id": 26,
             "active": true,
             "country": "CL",
             "name": "Década de los 90s",
@@ -278,7 +289,7 @@
             ]
         },
         {
-            "id": 26,
+            "id": 27,
             "active": true,
             "country": "CL",
             "name": "Neltume",
@@ -286,17 +297,6 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/ilove80s.jpeg",
             "stream": [
                 {"type": "direct", "url": "https://stream.zeno.fm/hcs6x0szqaotv"}
-            ]
-        },
-        {
-            "id": 27,
-            "active": true,
-            "country": "CL",
-            "name": "Radio Portales",
-            "category": ["80s", "90s", "Variedad"],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/radioportales.jpeg",
-            "stream": [
-                {"type": "mp3", "url": "https://radios.mediaradio.cl/listen/portalesfm/radio.mp3"}
             ]
         },
         {
