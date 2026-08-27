@@ -295,9 +295,11 @@ def determinar_tipo_stream(url, type_fallback=''):
   """Determina automáticamente si la URL es HLS o MPEGTS por su sintaxis."""
   url_lower = url.lower()
 
-  # Regla prioritaria para listas con /lista01
+  # Regla prioritaria para listas con /lista01 o /geomex
   if '/lista01' in url_lower:
     return 'mpegts'
+  elif '/geomex' in url_lower:
+    return ''
 
   if '.m3u8' in url_lower or 'format=m3u8' in url_lower:
     return 'hls'
