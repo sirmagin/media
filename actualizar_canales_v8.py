@@ -294,6 +294,11 @@ def obtener_token_dinamico(retries=3):
 def determinar_tipo_stream(url, type_fallback=''):
   """Determina automáticamente si la URL es HLS o MPEGTS por su sintaxis."""
   url_lower = url.lower()
+
+  # Regla prioritaria para listas con /lista01
+  if '/lista01' in url_lower:
+    return 'mpegts'
+
   if '.m3u8' in url_lower or 'format=m3u8' in url_lower:
     return 'hls'
   elif (
@@ -303,6 +308,7 @@ def determinar_tipo_stream(url, type_fallback=''):
       or ':8080/' in url_lower
   ):
     return 'mpegts'
+
   return type_fallback if type_fallback else 'mpegts'
 
 
