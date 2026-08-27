@@ -31,6 +31,246 @@
             "active": false
         },
         {
+            "id": "thor",
+            "tmdbId": 10195,
+            "title": "Thor",
+            "originalTitle": "Thor",
+            "year": 2011,
+            "releaseDate": "2011-05-06",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Fantasía"
+            ],
+            "duration": 115,
+            "rating": {
+                "score": 7.0,
+                "source": "TMDB"
+            },
+            "description": "Thor, el poderoso príncipe de Asgard, es desterrado a la Tierra por su arrogancia y comportamiento imprudente. Sin sus poderes, deberá aprender el verdadero significado de la humildad y demostrar que es digno de empuñar nuevamente su legendario martillo, Mjolnir. Mientras tanto, una amenaza se cierne sobre Asgard y la Tierra.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/jWnbuXuzMIl3FDIs0qY9ZdDPxCl.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/jWnbuXuzMIl3FDIs0qY9ZdDPxCl.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/voXWQVd6ryh43xR/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "thor-un-mundo-oscuro",
+            "tmdbId": 76338,
+            "title": "Thor: Un mundo oscuro",
+            "originalTitle": "Thor: The Dark World",
+            "year": 2013,
+            "releaseDate": "2013-11-08",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Fantasía"
+            ],
+            "duration": 112,
+            "rating": {
+                "score": 6.5,
+                "source": "TMDB"
+            },
+            "description": "Thor lucha por restaurar el orden en todo el cosmos, pero una antigua raza liderada por el vengativo Malekith regresa para sumir el universo en la oscuridad. Ante un enemigo al que ni siquiera Odín y Asgard pueden hacer frente, Thor deberá reunirse con Jane Foster y realizar un peligroso sacrificio para salvar los Nueve Reinos.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/OgxwGyJBjMfZyR1/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "thor-ragnarok",
+            "tmdbId": 284053,
+            "title": "Thor: Ragnarok",
+            "originalTitle": "Thor: Ragnarok",
+            "year": 2017,
+            "releaseDate": "2017-11-03",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Fantasía"
+            ],
+            "duration": 130,
+            "rating": {
+                "score": 7.6,
+                "source": "TMDB"
+            },
+            "description": "Thor se encuentra encarcelado al otro lado del universo y se ve obligado a participar en una batalla de gladiadores contra su antiguo aliado y compañero Vengador, Hulk. Mientras tanto, la despiadada Hela amenaza con destruir Asgard y desencadenar el Ragnarok. Thor deberá escapar y reunir a sus aliados para detenerla y salvar su hogar.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/B7WPwdV42RsyJ7y/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "thor-amor-y-trueno",
+            "tmdbId": 616037,
+            "title": "Thor: Amor y trueno",
+            "originalTitle": "Thor: Love and Thunder",
+            "year": 2022,
+            "releaseDate": "2022-07-08",
+            "genres": [
+                "Fantasía",
+                "Acción",
+                "Comedia"
+            ],
+            "duration": 118,
+            "rating": {
+                "score": 6.3,
+                "source": "TMDB"
+            },
+            "description": "Thor se embarca en un viaje diferente a todo lo que ha enfrentado antes: una búsqueda de paz interior. Sin embargo, su retiro se ve interrumpido por la aparición de Gorr, el Carnicero de Dioses, quien busca eliminar a todas las deidades. Thor deberá unir fuerzas con Valkyrie, Korg y su antigua pareja Jane Foster, quien sorprendentemente empuña ahora el martillo Mjolnir como la Poderosa Thor.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/4gHWDa9hngo4RJy4BImChkMHooi.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/4gHWDa9hngo4RJy4BImChkMHooi.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": ""
+                }
+            ],
+            "active": false
+        },
+        {
+            "id": "capitan-america-el-primer-vengador",
+            "tmdbId": 1771,
+            "title": "Capitán América: El primer vengador",
+            "originalTitle": "Captain America: The First Avenger",
+            "year": 2011,
+            "releaseDate": "2011-07-22",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 124,
+            "rating": {
+                "score": 7.0,
+                "source": "TMDB"
+            },
+            "description": "Steve Rogers, un joven rechazado para el servicio militar debido a su frágil condición física, recibe la oportunidad de participar en un experimento que lo convierte en el supersoldado Capitán América. Durante la Segunda Guerra Mundial, deberá enfrentarse a Johann Schmidt, líder de la organización HYDRA y enemigo del ejército aliado.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/aCMNSj332pjLVNf2SfnX0w7JL74.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/aCMNSj332pjLVNf2SfnX0w7JL74.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/QwgO3ZDdM2S03md/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "capitan-america-y-el-soldado-del-invierno",
+            "tmdbId": 100402,
+            "title": "Capitán América y el soldado del invierno",
+            "originalTitle": "Captain America: The Winter Soldier",
+            "year": 2014,
+            "releaseDate": "2014-04-04",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 136,
+            "rating": {
+                "score": 7.7,
+                "source": "TMDB"
+            },
+            "description": "Steve Rogers, también conocido como Capitán América, vive tranquilamente en Washington D. C. mientras intenta adaptarse al mundo moderno. Cuando un misterioso enemigo amenaza a S.H.I.E.L.D., Steve se une a la Viuda Negra y al nuevo aliado Sam Wilson para descubrir una peligrosa conspiración. En el camino deberá enfrentarse a un enemigo formidable: el Soldado del Invierno.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/9rOKIhncjNaaTA71Q0zHpVkajoU.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/9rOKIhncjNaaTA71Q0zHpVkajoU.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/qWe2roDRVGCzJ18/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "capitan-america-civil-war",
+            "tmdbId": 271110,
+            "title": "Capitán América: Civil War",
+            "originalTitle": "Captain America: Civil War",
+            "year": 2016,
+            "releaseDate": "2016-05-06",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 147,
+            "rating": {
+                "score": 7.4,
+                "source": "TMDB"
+            },
+            "description": "Steve Rogers lidera el nuevo equipo de Vengadores en su continuo esfuerzo por proteger a la humanidad. Sin embargo, después de un incidente que provoca daños colaterales, aumenta la presión política para establecer un sistema de supervisión sobre los superhéroes. Esta situación divide al equipo, enfrentando a Capitán América contra Iron Man mientras ambos defienden sus ideales y lealtades.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/lIEUDOt8r4dHxov9CN7NV2WuHHo.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/lIEUDOt8r4dHxov9CN7NV2WuHHo.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/rJkdJplpvmFbpQQ/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "capitan-america-un-nuevo-mundo",
+            "tmdbId": 822119,
+            "title": "Capitán América: Un nuevo mundo",
+            "originalTitle": "Captain America: Brave New World",
+            "year": 2025,
+            "releaseDate": "2025-02-14",
+            "genres": [
+                "Acción",
+                "Ciencia ficción",
+                "Thriller"
+            ],
+            "duration": 119,
+            "rating": {
+                "score": 5.9,
+                "source": "TMDB"
+            },
+            "description": "Sam Wilson, el nuevo Capitán América, se encuentra en el centro de un incidente internacional después de reunirse con el recién elegido presidente de Estados Unidos, Thaddeus Ross. Sam deberá descubrir las razones detrás de un intento de asesinato y detener una conspiración que amenaza con desestabilizar al mundo.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/xVwP4GCbEfO66JSSyonnAhU3Fad.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/xVwP4GCbEfO66JSSyonnAhU3Fad.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": ""
+                }
+            ],
+            "active": false
+        },
+        {
             "id": "el-dia-de-la-revelacion",
             "tmdbId": 1265609,
             "title": "El día de la revelación",
@@ -1445,7 +1685,7 @@
         {
             "id": "avengers-era-de-ultron",
             "tmdbId": 99861,
-            "title": "Avengers: Era de Ultrón",
+            "title": "The Avengers: Era de Ultrón",
             "originalTitle": "Avengers: Age of Ultron",
             "year": 2015,
             "releaseDate": "2015-05-01",
@@ -1475,7 +1715,7 @@
         {
             "id": "avengers-infinity-war",
             "tmdbId": 299536,
-            "title": "Avengers: Infinity War",
+            "title": "The Avengers: Infinity War",
             "originalTitle": "Avengers: Infinity War",
             "year": 2018,
             "releaseDate": "2018-04-27",
@@ -1497,7 +1737,7 @@
             "sources": [
                 {
                     "type": "direct",
-                    "video": "https://streamtape.com/e/dRvood9dvQFgAQ/"
+                    "video": "https://streamtape.com/e/qvBD1mG2qKcz3wd/"
                 }
             ],
             "active": true
@@ -1505,7 +1745,7 @@
         {
             "id": "avengers-endgame",
             "tmdbId": 299534,
-            "title": "Avengers: Endgame",
+            "title": "The Avengers: Endgame",
             "originalTitle": "Avengers: Endgame",
             "year": 2019,
             "releaseDate": "2019-04-26",
