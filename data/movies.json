@@ -265,10 +265,10 @@
             "sources": [
                 {
                 "type": "direct",
-                "video": ""
+                "video": "https://streamtape.com/e/YWGbx9jJBbFvg7A/"
                 }
             ],
-            "active": false
+            "active": true
         },
         {
             "id": "el-dia-de-la-revelacion",
