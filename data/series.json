@@ -1,6 +1,153 @@
 {
   "series": [
     {
+      "tmdbId": 220102,
+      "title": "Spider-Noir",
+      "originalTitle": "Spider-Noir",
+      "overview": "El detective privado Ben Reilly, un hombre envejecido y de mala suerte en el Nueva York de la década de 1930, se ve obligado a enfrentarse a su pasado como el único superhéroe de la ciudad.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/4Pec5a1At5UMeADkgcxwf6nLqau.jpg",
+      "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/4Pec5a1At5UMeADkgcxwf6nLqau.jpg",
+      "rating": 8.4,
+      "year": 2026,
+      "genres": [
+        "Drama",
+        "Acción",
+        "Crimen",
+        "Misterio",
+        "Superhéroes"
+      ],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "name": "Temporada 1",
+          "episodeCount": 8,
+          "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "name": "Pase a mi despacho",
+              "originalName": "Step Into My Office",
+              "overview": "El detective privado Ben Reilly recibe el encargo de localizar a Silvermane. Nadie sabe que Reilly fue hasta hace cinco años el superhéroe de Nueva York conocido como la Araña.",
+              "airDate": "2026-05-25",
+              "duration": 47,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/avaOuuMGhci0mIR1rQDaS0PEmtZ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/ZPX7e2m4XJfqqKy/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "name": "Ten cuidado",
+              "originalName": "Tread Lightly",
+              "overview": "Silvermane intenta descubrir quién contrató a Addison para matarlo. Cat contrata a Ben para encontrar a Flint mientras Robbie visita a la viuda de Addison.",
+              "airDate": "2026-05-25",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jm6IM5Suxd3zKnSyLd7ef1XhF7V.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/vVMke2rJmDcaye/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "name": "Puñalada trapera",
+              "originalName": "Double Cross",
+              "overview": "La investigación de Ben se complica cuando las alianzas comienzan a romperse y demostrar la verdad se convierte en una cuestión de vida o muerte.",
+              "airDate": "2026-05-25",
+              "duration": 47,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/pi81YdQAAXOgD4LypoDO76kKwcY.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wlr9pdq0WPCJr7q/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "name": "Un error que no volveré a cometer",
+              "originalName": "A Mistake I'll Never Make Again",
+              "overview": "Ben se enfrenta a acontecimientos de su pasado mientras la investigación lo lleva cada vez más cerca de una peligrosa red de criminales.",
+              "airDate": "2026-05-25",
+              "duration": 49,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/mKiPRJrGUdtgOwo6AUV81rr1aNP.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/vLkZVolBXDs46ae/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "name": "Traición",
+              "originalName": "Betrayal",
+              "overview": "Las investigaciones de Ben y sus aliados avanzan mientras las lealtades son puestas a prueba y una nueva amenaza emerge.",
+              "airDate": "2026-05-25",
+              "duration": 50,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/laPPd7YkmXSGey4VyuQFS6ELTT3.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/dVax0JvYYDFkaP1/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "name": "Pesadilla en la camilla",
+              "originalName": "Nightmare on a Gurney",
+              "overview": "Ben intenta encontrar respuestas mientras las piezas del misterio comienzan a encajar y los peligros aumentan.",
+              "airDate": "2026-05-25",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/yVAh5HmppUTdMqnoxpZVLuFzGWc.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/BYr89al4D1hyXVP/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "name": "El héroe de nadie",
+              "originalName": "Nobody's Hero",
+              "overview": "Ben debe enfrentarse a las consecuencias de sus decisiones y a una amenaza que podría costarle la vida.",
+              "airDate": "2026-05-25",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/ar6dHtsfCb1e0bBXd70Gtu63Ek5.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/zKWYzbDllPcyPk"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "name": "El hombre de la máscara",
+              "originalName": "The Man in the Mask",
+              "overview": "Ben llega al enfrentamiento final y debe decidir qué hacer con el legado del héroe que una vez fue.",
+              "airDate": "2026-05-25",
+              "duration": 48,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/aMsalh2p6NuBOQx6KhuZQOxsTFo.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/rAY3V9G7YptbPVz"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "tmdbId": 1399,
       "active": true,
       "title": "Juego de tronos",
