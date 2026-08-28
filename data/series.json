@@ -819,6 +819,164 @@
               ]
             }
           ]
+        },
+        {
+          "seasonNumber": 5,
+          "name": "Temporada 5",
+          "episodeCount": 10,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp5.webp",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "name": "Las guerras por venir",
+              "originalName": "The Wars To Come",
+              "overview": "Los principales bandos buscan nuevas alianzas después de los acontecimientos de la temporada anterior.",
+              "airDate": "2015-04-12",
+              "duration": 52,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/shIFxmFySt9CtGXMTXWBipsNOIs.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/1qGxOKaYjofeAKM/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "name": "La Casa de Blanco y Negro",
+              "originalName": "The House of Black and White",
+              "overview": "Arya llega a Braavos y busca entrar en la Casa de Blanco y Negro mientras Jon recibe nuevas responsabilidades.",
+              "airDate": "2015-04-19",
+              "duration": 55,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/7bfWJLwZ2OBkryNu8AqPUaJdW4c.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/YKRDj4yZwMTvA8V/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "name": "Gorrión Supremo",
+              "originalName": "High Sparrow",
+              "overview": "Cersei encuentra una nueva fuerza religiosa y Jon debe tomar una decisión sobre los salvajes.",
+              "airDate": "2015-04-26",
+              "duration": 59,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/5b6eUi2w12ao24ug8cL5QqJFKig.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/3oq1k1Wb94tdko4/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "name": "Hijos de la Arpía",
+              "originalName": "Sons of the Harpy",
+              "overview": "Daenerys enfrenta una rebelión en Meereen y los Hijos de la Arpía atacan a sus soldados.",
+              "airDate": "2015-05-03",
+              "duration": 50,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/xJK24ELjz04a05saADPXkYafa21.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/4Pm1Vja0RyFKMmg"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "name": "Mata al muchacho",
+              "originalName": "Kill the Boy",
+              "overview": "Jon toma una decisión arriesgada sobre los salvajes y Daenerys busca una forma de mantener el control.",
+              "airDate": "2015-05-10",
+              "duration": 56,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/25HHLKWpNKiy6e7zBhaoysK9hzv.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/ZKJQpDbxwrCPXr"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "name": "Inquebrantable, inflexible, incansable",
+              "originalName": "Unbowed, Unbent, Unbroken",
+              "overview": "Arya continúa su entrenamiento mientras los acontecimientos en Dorne y Desembarco del Rey se vuelven más tensos.",
+              "airDate": "2015-05-17",
+              "duration": 53,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/ihngOB9FfBZvmTy01D836QMFybe.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/02jkbzOwGDfb16o/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "name": "El regalo",
+              "originalName": "The Gift",
+              "overview": "Jon prepara una expedición peligrosa y Cersei intenta eliminar a sus rivales.",
+              "airDate": "2015-05-24",
+              "duration": 58,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/n4BFZfiqOX1l5l6uYtpDS4m19WX.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/7XVrlqQWxLIRj7/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "name": "Casa Austera",
+              "originalName": "Hardhome",
+              "overview": "Jon llega a Casa Austera y presencia una amenaza sobrenatural que cambia su visión de la guerra.",
+              "airDate": "2015-05-31",
+              "duration": 60,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/58PgfiE8eIOdQ1iDvFnJG471RFB.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/yGMY7bLDqmumGr/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "name": "La danza de los dragones",
+              "originalName": "The Dance of Dragons",
+              "overview": "Daenerys queda atrapada en una situación peligrosa y Jon afronta las consecuencias de sus decisiones.",
+              "airDate": "2015-06-07",
+              "duration": 52,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/ymI7V3wsZRcRqLWgjJ59CTTGvh5.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/74GjwXLQyLs4Jx/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "name": "La misericordia de la Madre",
+              "originalName": "Mother's Mercy",
+              "overview": "Los conflictos llegan a varios puntos críticos y los principales personajes sufren consecuencias decisivas.",
+              "airDate": "2015-06-14",
+              "duration": 60,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/b5dIepsIO3robQSe18fWmsQe37R.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/PqXrdmzPq1HL6M/"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
