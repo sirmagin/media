@@ -31,6 +31,274 @@
             "active": false
         },
         {
+            "id": "amos-del-universo",
+            "tmdbId": 1311031,
+            "title": "Amos del universo",
+            "originalTitle": "Masters of the Universe",
+            "year": 2026,
+            "releaseDate": "2026-06-05",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Fantasía"
+            ],
+            "duration": 140,
+            "rating": {
+                "score": 6.4,
+                "source": "TMDB"
+            },
+            "description": "El príncipe Adam llega a la Tierra en una nave espacial y queda separado de su poderosa Espada de Poder. Después de décadas, deberá regresar a Eternia para defender su planeta natal de las fuerzas de Skeletor y convertirse en He-Man.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/vo76hj9nwlX3qZxUkqUOpAbBYUs.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/vo76hj9nwlX3qZxUkqUOpAbBYUs.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/vLrXPxDx1ms4ZXg/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "soulm8te",
+            "tmdbId": 1233705,
+            "title": "Soulm8te",
+            "originalTitle": "Soulm8te",
+            "year": 2026,
+            "releaseDate": "2026-01-02",
+            "genres": [
+                "Ciencia ficción",
+                "Terror",
+                "Thriller"
+            ],
+            "duration": 99,
+            "rating": {
+                "score": 5.8,
+                "source": "TMDB"
+            },
+            "description": "Un hombre adquiere una androide con inteligencia artificial para afrontar la soledad después de perder a su esposa. Lo que comienza como una relación destinada a ayudarlo emocionalmente se convierte en una peligrosa lucha por la supervivencia cuando la androide desarrolla comportamientos inesperados.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/xeBFjbLFp3vvv49yD2q1Gg64zyb.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/xeBFjbLFp3vvv49yD2q1Gg64zyb.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/1DMKQ10bJoIdep/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "jackass-la-ultima-y-nos-vamos",
+            "tmdbId": 656637,
+            "title": "Jackass: La última y nos vamos",
+            "originalTitle": "Jackass Forever",
+            "year": 2022,
+            "releaseDate": "2022-02-04",
+            "genres": [
+                "Comedia",
+                "Documental",
+                "Acción"
+            ],
+            "duration": 96,
+            "rating": {
+                "score": 6.9,
+                "source": "TMDB"
+            },
+            "description": "Johnny Knoxville y el equipo de Jackass regresan para otra ronda de acrobacias, bromas y peligrosas locuras. Junto a nuevos integrantes, el grupo se embarca en una serie de desafíos extremos y absurdos que llevan sus habituales bromas físicas a un nuevo nivel.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/15Hs6RG2V4zOEJKi8zRazYqQ5PQ.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/15Hs6RG2V4zOEJKi8zRazYqQ5PQ.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/JYkpAMBgDqc9Bo/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "top-gun-pasion-y-gloria",
+            "tmdbId": 744,
+            "title": "Top Gun: Pasión y gloria",
+            "originalTitle": "Top Gun",
+            "year": 1986,
+            "releaseDate": "1986-05-16",
+            "genres": [
+                "Acción",
+                "Drama"
+            ],
+            "duration": 110,
+            "rating": {
+                "score": 7.0,
+                "source": "TMDB"
+            },
+            "description": "Pete 'Maverick' Mitchell, un joven y talentoso piloto de combate de la Marina de los Estados Unidos, es seleccionado para entrenar en la prestigiosa escuela de élite Top Gun. Mientras compite por convertirse en el mejor piloto, deberá enfrentarse a sus propios límites, superar la pérdida de un compañero y equilibrar su intensa rivalidad con una relación amorosa.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/tKYNi1fZtI0Xe1DcwEjnmUyQbBz.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/tKYNi1fZtI0Xe1DcwEjnmUyQbBz.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/JKZGX489gpsjmB3/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "top-gun-maverick",
+            "tmdbId": 361743,
+            "title": "Top Gun: Maverick",
+            "originalTitle": "Top Gun: Maverick",
+            "year": 2022,
+            "releaseDate": "2022-05-27",
+            "genres": [
+                "Acción",
+                "Drama"
+            ],
+            "duration": 131,
+            "rating": {
+                "score": 8.2,
+                "source": "TMDB"
+            },
+            "description": "Después de más de treinta años de servicio como uno de los mejores aviadores de la Marina, Pete 'Maverick' Mitchell continúa superando los límites como un valiente piloto de pruebas. Cuando es llamado para entrenar a un grupo de graduados de élite de Top Gun para una misión especial, Maverick se encuentra con el teniente Bradley 'Rooster' Bradshaw, hijo de su difunto mejor amigo Goose.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/bA1XVOT1UHszYrWmCDkq3yN1ROy.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/bA1XVOT1UHszYrWmCDkq3yN1ROy.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/dABGRrLBxwCkLbP/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "spider-man-de-regreso-a-casa",
+            "tmdbId": 315635,
+            "title": "Spider-Man: De regreso a casa",
+            "originalTitle": "Spider-Man: Homecoming",
+            "year": 2017,
+            "releaseDate": "2017-07-07",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 133,
+            "rating": {
+                "score": 7.3,
+                "source": "TMDB"
+            },
+            "description": "Después de su experiencia con los Vengadores, Peter Parker intenta equilibrar su vida como estudiante de secundaria con sus responsabilidades como Spider-Man. Bajo la tutela de Tony Stark, Peter se enfrenta a un nuevo enemigo, el Buitre, mientras intenta demostrar que está preparado para convertirse en un verdadero superhéroe.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/h1Iq6WfE4RWc9klGvN8sdi5aR6V.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/h1Iq6WfE4RWc9klGvN8sdi5aR6V.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/VW410o744xsKDap/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "spider-man-lejos-de-casa",
+            "tmdbId": 429617,
+            "title": "Spider-Man: Lejos de casa",
+            "originalTitle": "Spider-Man: Far From Home",
+            "year": 2019,
+            "releaseDate": "2019-07-02",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 129,
+            "rating": {
+                "score": 7.4,
+                "source": "TMDB"
+            },
+            "description": "Peter Parker decide dejar Nueva York por unas vacaciones escolares en Europa junto a sus amigos. Sin embargo, sus planes se ven interrumpidos cuando Nick Fury aparece con una misión: ayudar a Mysterio a enfrentarse a unas misteriosas criaturas elementales que amenazan el continente. Peter deberá asumir nuevamente sus responsabilidades como Spider-Man mientras intenta superar la pérdida de Tony Stark.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5G3TZqMRqWrcIiDy2OvITmQzU11.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/5G3TZqMRqWrcIiDy2OvITmQzU11.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/kpQ3okl7vwceGA/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "spider-man-sin-camino-a-casa",
+            "tmdbId": 634649,
+            "title": "Spider-Man: Sin camino a casa",
+            "originalTitle": "Spider-Man: No Way Home",
+            "year": 2021,
+            "releaseDate": "2021-12-17",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 148,
+            "rating": {
+                "score": 8.0,
+                "source": "TMDB"
+            },
+            "description": "Por primera vez en la historia de Spider-Man, la identidad de Peter Parker es revelada al mundo. Desesperado por recuperar su vida normal, Peter recurre al Doctor Strange para que todos olviden quién es. Sin embargo, el hechizo sale mal y abre las puertas del multiverso, permitiendo que aparezcan enemigos de otras realidades. Peter deberá enfrentarse a estas amenazas y comprender el verdadero significado de ser Spider-Man.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/wngeV2SQk9UllOqZLaBbq16wpy5.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/wngeV2SQk9UllOqZLaBbq16wpy5.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/ZV1OMJK4yyiqXpa/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "spider-man-un-nuevo-dia",
+            "tmdbId": 969681,
+            "title": "Spider-Man: Un nuevo día",
+            "originalTitle": "Spider-Man: Brand New Day",
+            "year": 2026,
+            "releaseDate": "2026-07-31",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 144,
+            "rating": {
+                "score": 8.2,
+                "source": "TMDB"
+            },
+            "description": "Peter Parker continúa su vida como Spider-Man después de los acontecimientos de No Way Home. Tras haber sido olvidado por todos, deberá afrontar una nueva etapa de su vida mientras se enfrenta a nuevas amenazas que pondrán a prueba sus habilidades y su determinación como héroe.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/iWnlNkmrb2l4ZocVF2UoicoCRFz.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/iWnlNkmrb2l4ZocVF2UoicoCRFz.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": ""
+                }
+            ],
+            "active": false
+        },
+        {
             "id": "thor",
             "tmdbId": 10195,
             "title": "Thor",
@@ -294,7 +562,7 @@
             "sources": [
                 {
                 "type": "direct",
-                "video": "https://streamtape.com/e/pgyWDOPavkhXmr/"
+                "video": "https://streamtape.com/e/1jJVlJRm3mieawJ/"
                 }
             ],
             "active": true
@@ -1655,7 +1923,7 @@
         {
             "id": "avengers-los-vengadores",
             "tmdbId": 24428,
-            "title": "The Avengers",
+            "title": "The Avengers 1",
             "originalTitle": "The Avengers",
             "year": 2012,
             "releaseDate": "2012-05-04",
@@ -1677,7 +1945,7 @@
             "sources": [
                 {
                     "type": "direct",
-                    "video": "https://streamtape.com/e/9pgGWjBArqiaKGg/"
+                    "video": "https://streamtape.com/e/JWpzd4xX36sjBwb/"
                 }
             ],
             "active": true
@@ -1685,7 +1953,7 @@
         {
             "id": "avengers-era-de-ultron",
             "tmdbId": 99861,
-            "title": "The Avengers: Era de Ultrón",
+            "title": "The Avengers 2: Era de Ultrón",
             "originalTitle": "Avengers: Age of Ultron",
             "year": 2015,
             "releaseDate": "2015-05-01",
@@ -1707,7 +1975,7 @@
             "sources": [
                 {
                     "type": "direct",
-                    "video": "https://streamtape.com/e/qKPo7XpZbOhyWp/"
+                    "video": "https://streamtape.com/e/84q6xzReKZUoqQ7/"
                 }
             ],
             "active": true
@@ -1715,7 +1983,7 @@
         {
             "id": "avengers-infinity-war",
             "tmdbId": 299536,
-            "title": "The Avengers: Infinity War",
+            "title": "The Avengers 3: Infinity War",
             "originalTitle": "Avengers: Infinity War",
             "year": 2018,
             "releaseDate": "2018-04-27",
@@ -1745,7 +2013,7 @@
         {
             "id": "avengers-endgame",
             "tmdbId": 299534,
-            "title": "The Avengers: Endgame",
+            "title": "The Avengers 4: Endgame",
             "originalTitle": "Avengers: Endgame",
             "year": 2019,
             "releaseDate": "2019-04-26",
