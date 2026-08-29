@@ -824,7 +824,7 @@
             "stream": [
             {
                 "type": "direct",
-                "url": "https://drive.uber.radio/uber-app/jjraljarreau/playlist.m3u8"
+                "url": "https://drive.uber.radio/uber/jjraljarreau/icecast.audio"
             }
             ]
         },
