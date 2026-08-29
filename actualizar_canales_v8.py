@@ -1,3 +1,4 @@
+from concurrent.futures import ThreadPoolExecutor
 import glob
 import gzip
 import http.cookiejar
@@ -17,7 +18,7 @@ ssl_context = ssl.create_default_context()
 ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
-# CookieJar para mantener la sesión y cookies entre peticiones (Cloudflare / m3u.cl)
+# CookieJar global para preservar la sesión HTTP entre peticiones (Cloudflare / m3u.cl)
 cookie_jar = http.cookiejar.CookieJar()
 cookie_processor = urllib.request.HTTPCookieProcessor(cookie_jar)
 opener = urllib.request.build_opener(
@@ -209,7 +210,6 @@ def procesar_fuente_m3u(fuente, retries=3):
         with opener.open(req, timeout=10) as response:
           data = response.read()
 
-          # Descomprimir si viene en gzip
           if response.info().get('Content-Encoding') == 'gzip':
             buf = io.BytesIO(data)
             f = gzip.GzipFile(fileobj=buf)
@@ -217,7 +217,6 @@ def procesar_fuente_m3u(fuente, retries=3):
           else:
             contenido = data.decode('utf-8', errors='ignore')
 
-          # Si se recibe una respuesta vacía o de validación inicial, reintentar usando la cookie obtenida
           if (
               not contenido.startswith('#EXTM3U')
               and '#EXTINF' not in contenido
@@ -273,7 +272,7 @@ def parse_m3u_sources(fuentes_m3u):
   return m3u_combined
 
 
-def verificar_url(url, timeout=5):
+def verificar_url(url, timeout=3):
   req = urllib.request.Request(url, headers=HEADERS)
   start_time = time.time()
   try:
@@ -361,7 +360,7 @@ def update_json_streams(
     output_json_path,
     modo_acumular=True,
     verificar_conexion=True,
-    timeout_seg=5,
+    timeout_seg=3,
 ):
   try:
     with open(json_file_path, 'r', encoding='utf-8') as f:
@@ -374,14 +373,18 @@ def update_json_streams(
   canales_actualizados = 0
   urls_eliminadas = 0
 
+  urls_a_validar = set()
+
   for canal in canales:
     nombre_original = canal.get('name', '')
-
-    type_heredado = ''
-    for st in canal.get('stream', []):
-      if st.get('type'):
-        type_heredado = st.get('type')
-        break
+    type_heredado = next(
+        (
+            st.get('type')
+            for st in canal.get('stream', [])
+            if st.get('type')
+        ),
+        '',
+    )
 
     fuentes_a_usar = fuentes_por_canal.get(
         nombre_original, fuentes_m3u_generales
@@ -408,7 +411,6 @@ def update_json_streams(
             break
 
     urls_encontradas = list(dict.fromkeys(urls_encontradas))
-
     streams_existentes = {
         s.get('url'): s for s in canal.get('stream', []) if 'url' in s
     }
@@ -425,17 +427,35 @@ def update_json_streams(
             st for st in canal.get('stream', []) if st.get('fixed') is True
         ]
         nuevos_streams = []
-
         for url in urls_encontradas:
           if url in streams_existentes:
             nuevos_streams.append(streams_existentes[url])
           else:
             tipo = determinar_tipo_stream(url, type_heredado)
             nuevos_streams.append({'type': tipo, 'url': url})
-
         canal['stream'] = streams_fijos + nuevos_streams
       canales_actualizados += 1
 
+    if verificar_conexion and 'stream' in canal:
+      for st in canal['stream']:
+        if st.get('url') and not st.get('fixed', False):
+          urls_a_validar.add(st['url'])
+
+  resultados_val = {}
+  if verificar_conexion and urls_a_validar:
+    print(
+        f'⚡ Verificando {len(urls_a_validar)} enlaces en paralelo (Timeout:'
+        f' {timeout_seg}s)...'
+    )
+
+    def check(u):
+      return u, verificar_url(u, timeout=timeout_seg)
+
+    with ThreadPoolExecutor(max_workers=15) as executor:
+      for u, res in executor.map(check, urls_a_validar):
+        resultados_val[u] = res
+
+  for canal in canales:
     if 'stream' in canal and canal['stream']:
       streams_con_tiempo = []
       for st in canal['stream']:
@@ -445,7 +465,9 @@ def update_json_streams(
           if es_fijo:
             streams_con_tiempo.append((-1, st))
           elif verificar_conexion:
-            es_valida, latencia = verificar_url(url, timeout=timeout_seg)
+            es_valida, latencia = resultados_val.get(
+                url, (False, float('inf'))
+            )
             if es_valida:
               streams_con_tiempo.append((latencia, st))
             else:
@@ -462,8 +484,8 @@ def update_json_streams(
     json.dump(json_data, f, ensure_ascii=False, indent=4)
 
   print(
-      f'Proceso finalizado correctamente. Canales actualizados:'
-      f' {canales_actualizados}, URLs eliminadas por falla: {urls_eliminadas}'
+      f'✅ Proceso finalizado. Canales actualizados: {canales_actualizados}, URLs'
+      f' eliminadas por falla: {urls_eliminadas}'
   )
 
 
@@ -631,5 +653,5 @@ if __name__ == '__main__':
       JSON_SALIDA,
       modo_acumular=True,
       verificar_conexion=True,
-      timeout_seg=5,
+      timeout_seg=3,
   )
