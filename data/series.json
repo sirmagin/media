@@ -977,6 +977,164 @@
               ]
             }
           ]
+        },
+        {
+          "seasonNumber": 6,
+          "name": "Temporada 6",
+          "episodeCount": 10,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp6.webp",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "name": "La mujer roja",
+              "originalName": "The Red Woman",
+              "overview": "Los acontecimientos posteriores a la caída de Jon Snow dejan a la Guardia de la Noche dividida.",
+              "airDate": "2016-04-24",
+              "duration": 50,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/qEu20NFIbwxtyABtFvsyyPaCNDM.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/KqbPBPvRAZf0mbd/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "name": "Hogar",
+              "originalName": "Home",
+              "overview": "Bran descubre aspectos del pasado de su familia mientras el Norte se prepara para nuevos enfrentamientos.",
+              "airDate": "2016-05-01",
+              "duration": 53,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/onEtnj84EBWmt4AnJjaX9Ip6oaa.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/1Ok0vyd2qqcyQG/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "name": "El quebrantador de juramentos",
+              "originalName": "Oathbreaker",
+              "overview": "Jon Snow afronta las consecuencias de su regreso mientras Daenerys se encuentra entre los dothraki.",
+              "airDate": "2016-05-08",
+              "duration": 52,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/dNp7HBQbwKlgX76fwqM6SWUo5tU.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/PbKwQOwRyzc04x7/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "name": "El libro del Desconocido",
+              "originalName": "Book of the Stranger",
+              "overview": "Sansa busca recuperar el Norte y Daenerys enfrenta a quienes cuestionan su autoridad.",
+              "airDate": "2016-05-15",
+              "duration": 58,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/dY2DbzgIjIatJJCVRgk1gKTJWez.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/rBM2r1PoLAF8vk/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "name": "La puerta",
+              "originalName": "The Door",
+              "overview": "Bran descubre una revelación sobre el pasado y una misión cambia para siempre el destino de Hodor.",
+              "airDate": "2016-05-22",
+              "duration": 56,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/96u7HuryCkPEIN3JkZP336KTSq3.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/rkjOZOzyWvUbWlm/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "name": "Sangre de mi sangre",
+              "originalName": "Blood of My Blood",
+              "overview": "Daenerys fortalece su posición y Sam intenta llevar a su familia a un lugar seguro.",
+              "airDate": "2016-05-29",
+              "duration": 51,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/k01MUth8Xm2y79nvsQ3UF25SN9w.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Xd4v92R7XXtDY1b/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "name": "El hombre roto",
+              "originalName": "The Broken Man",
+              "overview": "Un personaje que todos creían perdido intenta reconstruir una comunidad lejos de la guerra.",
+              "airDate": "2016-06-05",
+              "duration": 50,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/3ii3PhSJvYxvviAroxVWgm9REsu.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/MyOeQV8BjxS6Dp/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "name": "Nadie",
+              "originalName": "No One",
+              "overview": "Arya termina una etapa de su entrenamiento mientras Tyrion intenta mantener el control de Meereen.",
+              "airDate": "2016-06-12",
+              "duration": 58,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/xl2l1a3kXGxWwZqGDgjowBk4x46.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/7dgo4gBMwVu819/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "name": "La batalla de los bastardos",
+              "originalName": "Battle of the Bastards",
+              "overview": "Jon y Ramsay se enfrentan por el control de Invernalia en una batalla decisiva.",
+              "airDate": "2016-06-19",
+              "duration": 59,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/j2znyjFSe1ol26DeQWMB1yE5EDQ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/rAvmQ7a7mesbQvL/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "name": "Vientos de invierno",
+              "originalName": "The Winds of Winter",
+              "overview": "Una serie de movimientos políticos cambia radicalmente el equilibrio de poder en Poniente.",
+              "airDate": "2016-06-26",
+              "duration": 67,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8qgIcKTOKeAHlJMjGyPHl3IHjcU.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/7XOZ1l9demSA7k9"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
