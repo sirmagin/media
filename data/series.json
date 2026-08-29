@@ -1135,6 +1135,217 @@
               ]
             }
           ]
+        },
+        {
+          "seasonNumber": 7,
+          "name": "Temporada 7",
+          "episodeCount": 7,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp7.webp",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "name": "Rocadragón",
+              "originalName": "Dragonstone",
+              "overview": "Daenerys regresa a Poniente y llega a Rocadragón mientras Cersei intenta consolidar su poder.",
+              "airDate": "2017-07-16",
+              "duration": 58,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/3SB4PUzZAnY6HnZbVbktIZoopGs.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/88gadyLKXJIoV66/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "name": "Nacida de la tormenta",
+              "originalName": "Stormborn",
+              "overview": "Daenerys recibe aliados y Jon se prepara para enfrentar la amenaza de los muertos.",
+              "airDate": "2017-07-23",
+              "duration": 58,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/6ZLuB2YZeXTCEETnbPe5MNKCsio.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/ggL8VAvreAhq1wa/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "name": "La justicia de la reina",
+              "originalName": "The Queen's Justice",
+              "overview": "Daenerys y Jon se encuentran mientras Cersei toma represalias contra sus enemigos.",
+              "airDate": "2017-07-30",
+              "duration": 62,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/xSqdpR6qADmjsdlcJLX5LXRToQP.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/qxXBVZqYq1cZMJ/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "name": "Botines de guerra",
+              "originalName": "The Spoils of War",
+              "overview": "Un enfrentamiento militar pone a prueba las fuerzas de Daenerys y cambia el curso de la guerra.",
+              "airDate": "2017-08-06",
+              "duration": 49,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/hH9gSHcisHqoux734Q2SdLPLmsL.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/k0Y7xORrvpUOjO9/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "name": "Guardiaoriente",
+              "originalName": "Eastwatch",
+              "overview": "Jon reúne un grupo para demostrar la existencia de los muertos y Cersei recibe noticias inesperadas.",
+              "airDate": "2017-08-13",
+              "duration": 58,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/3iaJDPtj75z1YpLDMKR17JRXQdP.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/VO2moRwQp6TkZ0/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "name": "Más allá del Muro",
+              "originalName": "Beyond the Wall",
+              "overview": "Jon y su grupo cruzan el Muro para capturar a un espectro y demostrar el peligro que se aproxima.",
+              "airDate": "2017-08-20",
+              "duration": 70,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/3cUZWo0YrAkBT64uzim542ypeF7.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/PD8baqVeJrTWXr/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "name": "El dragón y el lobo",
+              "originalName": "The Dragon and the Wolf",
+              "overview": "Los líderes de Poniente se reúnen para discutir la amenaza de los muertos mientras salen a la luz secretos sobre Jon.",
+              "airDate": "2017-08-27",
+              "duration": 79,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/w4N4xxFrfjUyk7wE5hgcoAy0tDc.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/mOazwXk6QZFQoK/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 8,
+          "name": "Temporada 8",
+          "episodeCount": 6,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/gameofthronestemp8.webp",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "name": "Invernalia",
+              "originalName": "Winterfell",
+              "overview": "Jon y Daenerys llegan a Invernalia mientras el Norte se prepara para la guerra contra el ejército de los muertos.",
+              "airDate": "2019-04-14",
+              "duration": 53,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/o65qwX1aHJclJ36VDhD3VYzz5em.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Dl43B7ggwKskyGe/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "name": "Un caballero de los Siete Reinos",
+              "originalName": "A Knight of the Seven Kingdoms",
+              "overview": "Los defensores de Invernalia esperan la llegada del enemigo y Jaime busca demostrar que puede luchar junto a ellos.",
+              "airDate": "2019-04-21",
+              "duration": 57,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/vJ8H9WtzbJGfArfdycc4nagQVRU.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/XkAQLyWBzOTDp97/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "name": "La larga noche",
+              "originalName": "The Long Night",
+              "overview": "El ejército de los muertos llega a Invernalia y comienza la batalla por la supervivencia de los vivos.",
+              "airDate": "2019-04-28",
+              "duration": 81,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/lto7fBOnfBUqH5QN8CWdFc70QjW.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/qaJ8Po88P8iz0gV/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "name": "Los últimos Stark",
+              "originalName": "The Last of the Starks",
+              "overview": "Después de la batalla, los supervivientes miran hacia el sur mientras la alianza entre Jon y Daenerys se tensiona.",
+              "airDate": "2019-05-05",
+              "duration": 77,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/9jgeANvHuZFVnTIkkKSU3PkGJZA.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/7daxxQ3kQ2TAZ42/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "name": "Las campanas",
+              "originalName": "The Bells",
+              "overview": "Las fuerzas de Daenerys y Cersei se enfrentan en Desembarco del Rey mientras el conflicto alcanza su punto máximo.",
+              "airDate": "2019-05-12",
+              "duration": 77,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/xF9hOs5h9sc37oWdtF4RPHq8dXA.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/yDz7bB7qARi1Qml/"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "name": "El Trono de Hierro",
+              "originalName": "The Iron Throne",
+              "overview": "El destino de Poniente queda decidido y los supervivientes deben definir el futuro de los Siete Reinos.",
+              "airDate": "2019-05-19",
+              "duration": 78,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zBi2O5EJfgTS6Ae0HdAYLm9o2nf.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/q6dZYBxWKgTzBMl/"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
