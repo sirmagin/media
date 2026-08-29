@@ -1,4 +1,7 @@
 import glob
+import gzip
+import http.cookiejar
+import io
 import json
 import os
 import re
@@ -14,11 +17,24 @@ ssl_context = ssl.create_default_context()
 ssl_context.check_hostname = False
 ssl_context.verify_mode = ssl.CERT_NONE
 
+# CookieJar para mantener la sesión y cookies entre peticiones (Cloudflare / m3u.cl)
+cookie_jar = http.cookiejar.CookieJar()
+cookie_processor = urllib.request.HTTPCookieProcessor(cookie_jar)
+opener = urllib.request.build_opener(
+    cookie_processor, urllib.request.HTTPSHandler(context=ssl_context)
+)
+
 HEADERS = {
     'User-Agent': (
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,'
         ' like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    )
+    ),
+    'Accept': (
+        'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+    ),
+    'Accept-Language': 'es-CL,es;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Accept-Encoding': 'gzip, deflate',
+    'Connection': 'keep-alive',
 }
 
 ALIAS_CANALES = {
@@ -190,10 +206,37 @@ def procesar_fuente_m3u(fuente, retries=3):
     for intento in range(1, retries + 1):
       try:
         req = urllib.request.Request(fuente, headers=HEADERS)
-        with urllib.request.urlopen(
-            req, timeout=10, context=ssl_context
-        ) as response:
-          contenido = response.read().decode('utf-8', errors='ignore')
+        with opener.open(req, timeout=10) as response:
+          data = response.read()
+
+          # Descomprimir si viene en gzip
+          if response.info().get('Content-Encoding') == 'gzip':
+            buf = io.BytesIO(data)
+            f = gzip.GzipFile(fileobj=buf)
+            contenido = f.read().decode('utf-8', errors='ignore')
+          else:
+            contenido = data.decode('utf-8', errors='ignore')
+
+          # Si se recibe una respuesta vacía o de validación inicial, reintentar usando la cookie obtenida
+          if (
+              not contenido.startswith('#EXTM3U')
+              and '#EXTINF' not in contenido
+          ):
+            print(
+                '  ⚠️ Validación inicial detectada. Reintentando con cookie de'
+                ' sesión...'
+            )
+            time.sleep(1)
+            req_retry = urllib.request.Request(fuente, headers=HEADERS)
+            with opener.open(req_retry, timeout=10) as resp_retry:
+              data2 = resp_retry.read()
+              if resp_retry.info().get('Content-Encoding') == 'gzip':
+                buf2 = io.BytesIO(data2)
+                f2 = gzip.GzipFile(fileobj=buf2)
+                contenido = f2.read().decode('utf-8', errors='ignore')
+              else:
+                contenido = data2.decode('utf-8', errors='ignore')
+
           extraer_canales_de_lineas(contenido.splitlines(), m3u_channels)
           print('  ✅ Lista web procesada correctamente.')
           break
@@ -234,9 +277,7 @@ def verificar_url(url, timeout=5):
   req = urllib.request.Request(url, headers=HEADERS)
   start_time = time.time()
   try:
-    with urllib.request.urlopen(
-        req, timeout=timeout, context=ssl_context
-    ) as response:
+    with opener.open(req, timeout=timeout) as response:
       elapsed_time = round(time.time() - start_time, 3)
       status = response.getcode()
       if 200 <= status < 400:
@@ -269,9 +310,7 @@ def obtener_token_dinamico(retries=3):
   for intento in range(1, retries + 1):
     try:
       req = urllib.request.Request(url_js, headers=HEADERS)
-      with urllib.request.urlopen(
-          req, timeout=5, context=ssl_context
-      ) as response:
+      with opener.open(req, timeout=5) as response:
         contenido_js = response.read().decode('utf-8', errors='ignore')
         match = re.search(
             r'window\.(?:CARPETA|IPTV_CARPETA|ADMIN_CARPETA|CARPETA_IPTV_ADMIN)\s*=\s*["\']([a-zA-Z0-9]+)["\']',
@@ -295,12 +334,13 @@ def determinar_tipo_stream(url, type_fallback=''):
   """Determina automáticamente si la URL es HLS o MPEGTS por su sintaxis."""
   url_lower = url.lower()
 
-  # Regla prioritaria para listas con /lista01 o /geomex
+  # Reglas prioritarias por subcadena
   if '/lista01' in url_lower:
     return 'mpegts'
-  elif '/geomex' in url_lower:
-    return ''
+  elif '/geomex' in url_lower or '/lista4' in url_lower:
+    return 'hls'
 
+  # Reglas generales por extensión o sintaxis
   if '.m3u8' in url_lower or 'format=m3u8' in url_lower:
     return 'hls'
   elif (
@@ -337,7 +377,6 @@ def update_json_streams(
   for canal in canales:
     nombre_original = canal.get('name', '')
 
-    # Extraer el 'type' preferente del canal si ya existía algún valor
     type_heredado = ''
     for st in canal.get('stream', []):
       if st.get('type'):
