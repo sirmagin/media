@@ -1,9 +1,11 @@
 name: Actualizador Diario de Canales IPTV
 
 on:
-  schedule:
-    # 18:05 UTC = 14:05 PM Chile Continental = a las 12:05 de el archivo
-    - cron: '10 18 * * *'
+  # Se comenta el schedule para desactivar la ejecución automática diaria
+  # schedule:
+  #   - cron: '10 18 * * *'
+  
+  # Permite la ejecución manual desde la web, la app móvil o vía API
   workflow_dispatch:
 
 jobs:
@@ -22,7 +24,6 @@ jobs:
       - name: Instalar dependencias de Python
         run: |
           python -m pip install --upgrade pip
-          pip install requests # Descomenta si usas requests
 
       - name: Ejecutar script de actualización
         run: python actualizar_canales_v8.py
@@ -32,4 +33,4 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/canales.json
-          git diff-index --quiet HEAD || (git commit -m "bot: auto-actualización diaria de canales.json [skip ci]" && git push)
+          git diff-index --quiet HEAD || (git commit -m "bot: auto-actualización manual de canales.json [skip ci]" && git push)
