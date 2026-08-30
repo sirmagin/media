@@ -228,14 +228,20 @@
         },
         {
             "id": 13,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Meganoticias",
             "category": [
                 "Noticias"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/meganoticias.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://rough-dawn-dcf6-meganoticias-stream.sir-magin.workers.dev/",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 14,
@@ -249,20 +255,27 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://15.204.246.24:8080/Mega2HD/index.m3u8"
+                    "url": "https://calm-bread-1916-mega2-stream.sir-magin.workers.dev/",
+                    "fixed": true
                 }
             ]
         },
         {
             "id": 15,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Mega Tiempo",
             "category": [
                 "Nacional"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/megatiempo.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://megatiempo-stream.sir-magin.workers.dev/",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 16,
