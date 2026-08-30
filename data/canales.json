@@ -228,7 +228,7 @@
         },
         {
             "id": 13,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Meganoticias",
             "category": [
@@ -245,7 +245,7 @@
         },
         {
             "id": 14,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Mega 2",
             "category": [
@@ -262,7 +262,7 @@
         },
         {
             "id": 15,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Mega Tiempo",
             "category": [
