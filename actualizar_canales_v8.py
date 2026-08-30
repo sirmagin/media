@@ -313,7 +313,9 @@ def obtener_token_dinamico(retries=3):
   for intento in range(1, retries + 1):
     try:
       req = urllib.request.Request(url_js, headers=HEADERS)
-      with opener.open(req, timeout=5) as response:
+      with urllib.request.urlopen(
+          req, timeout=5, context=ssl_context
+      ) as response:
         contenido_js = response.read().decode('utf-8', errors='ignore')
         match = re.search(
             r'window\.(?:CARPETA|IPTV_CARPETA|ADMIN_CARPETA|CARPETA_IPTV_ADMIN)\s*=\s*["\']([a-zA-Z0-9]+)["\']',
