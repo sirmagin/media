@@ -12,6 +12,7 @@ import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
+import subprocess
 
 # Desactivar verificación SSL estricta
 ssl_context = ssl.create_default_context()
@@ -204,37 +205,40 @@ def procesar_fuente_m3u(fuente, retries=3):
   m3u_channels = {}
   if fuente.startswith(('http://', 'https://')):
     print(f'🌐 Descargando M3U desde URL: {fuente}')
+
+    # Intento inicial mediante curl para evitar bloqueos Cloudflare (403)
+    try:
+      cmd = [
+          'curl',
+          '-sL',
+          '--compressed',
+          '-A',
+          HEADERS['User-Agent'],
+          fuente,
+      ]
+      contenido = subprocess.check_output(cmd, timeout=15).decode(
+          'utf-8', errors='ignore'
+      )
+      if '#EXTM3U' in contenido or '#EXTINF' in contenido:
+        extraer_canales_de_lineas(contenido.splitlines(), m3u_channels)
+        print('  ✅ Lista web procesada correctamente (vía curl).')
+        M3U_CACHE[fuente] = m3u_channels
+        return m3u_channels
+    except Exception as e:
+      print(f'  ⚠️ Falló descarga directa por curl: {e}. Intentando fallback...')
+
+    # Fallback nativo con urllib
     for intento in range(1, retries + 1):
       try:
         req = urllib.request.Request(fuente, headers=HEADERS)
         with opener.open(req, timeout=10) as response:
           data = response.read()
-
           if response.info().get('Content-Encoding') == 'gzip':
             buf = io.BytesIO(data)
             f = gzip.GzipFile(fileobj=buf)
             contenido = f.read().decode('utf-8', errors='ignore')
           else:
             contenido = data.decode('utf-8', errors='ignore')
-
-          if (
-              not contenido.startswith('#EXTM3U')
-              and '#EXTINF' not in contenido
-          ):
-            print(
-                '  ⚠️ Validación inicial detectada. Reintentando con cookie de'
-                ' sesión...'
-            )
-            time.sleep(1)
-            req_retry = urllib.request.Request(fuente, headers=HEADERS)
-            with opener.open(req_retry, timeout=10) as resp_retry:
-              data2 = resp_retry.read()
-              if resp_retry.info().get('Content-Encoding') == 'gzip':
-                buf2 = io.BytesIO(data2)
-                f2 = gzip.GzipFile(fileobj=buf2)
-                contenido = f2.read().decode('utf-8', errors='ignore')
-              else:
-                contenido = data2.decode('utf-8', errors='ignore')
 
           extraer_canales_de_lineas(contenido.splitlines(), m3u_channels)
           print('  ✅ Lista web procesada correctamente.')
