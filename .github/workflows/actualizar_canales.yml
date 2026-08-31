@@ -33,4 +33,8 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/canales.json
-          git diff-index --quiet HEAD || (git commit -m "bot: auto-actualización manual de canales.json [skip ci]" && git push)
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "bot: auto-actualización manual de canales.json [skip ci]"
+            git pull --rebase origin main
+            git push
+          fi
