@@ -35,6 +35,6 @@ jobs:
           git add data/canales.json
           if ! git diff-index --quiet HEAD; then
             git commit -m "bot: auto-actualización manual de canales.json [skip ci]"
-            git pull --rebase origin main
+            git pull --rebase origin main || git rebase --abort
             git push
           fi
