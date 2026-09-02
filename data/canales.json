@@ -125,8 +125,13 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tvn.jpeg",
             "stream": [
                 {
-                    "type": "",
+                    "type": "mpegts",
                     "url": "https://iptv2.intersurtv.cl/TVN/tracks-v1a1/mono.ts.m3u8",
+                    "fixed": true
+                },
+                {
+                    "type": "hls",
+                    "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8",
                     "fixed": true
                 },
                 {
