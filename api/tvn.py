@@ -1,42 +1,48 @@
 from http.server import BaseHTTPRequestHandler
 import urllib.request
-import json
+import urllib.parse
+import re
 
 class handler(BaseHTTPRequestHandler):
     def do_GET(self):
-        # ID de la transmisión en vivo de TVN
+        # 1. ID de la señal en vivo de TVN y del reproductor
         media_id = "57a498c4d7b86d600e5461cb"
         player_id = "57f40bb4dc5b9f3075c49cfe"
         
-        # Endpoint directo de la API interna de Mediastream
-        api_url = f"https://mdstrm.com/api/client/live-stream/{media_id}?player={player_id}"
+        # 2. URL de incrustación de Mediastream
+        embed_url = f"https://mdstrm.com/live-stream/{media_id}?jsapi=true&autoplay=true&player={player_id}"
         
         req = urllib.request.Request(
-            api_url, 
+            embed_url, 
             headers={
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                "Referer": "https://mdstrm.com/"
+                "Referer": "https://www.tvn.cl/",
+                "Accept-Language": "es-ES,es;q=0.9"
             }
         )
         
         try:
-            # 1. Consultar la API JSON de Mediastream
+            # Consultar la vista de incrustación de Mediastream
             with urllib.request.urlopen(req, timeout=10) as response:
-                data = json.loads(response.read().decode('utf-8'))
+                html = response.read().decode('utf-8')
             
-            # 2. Obtener el access_token o la lista HLS desde la respuesta JSON
-            access_token = data.get("access_token")
+            # 3. Extraer el token de acceso mediante expresiones regulares
+            # Busca patrones como access_token="xxxx" o access_token: "xxxx" o token dentro de URLs
+            token_match = re.search(r'access_token[=:]\s*["\']?([a-zA-Z0-9_\-]+)["\']?', html)
             
-            # Construir la URL del .m3u8 si tenemos el token
-            if access_token:
-                m3u8_url = f"https://mdstrm.com/live-stream-playlist/{media_id}.m3u8?access_token={access_token}&player={player_id}&autoplay=true"
+            if token_match:
+                token = token_match.group(1)
+                m3u8_url = f"https://mdstrm.com/live-stream-playlist/{media_id}.m3u8?access_token={token}&player={player_id}"
             else:
-                # Si la API entrega directamente la URL HLS en las fuentes (src)
-                src_list = data.get("src", {})
-                m3u8_url = src_list.get("hls") or src_list.get("hls_direct")
+                # Buscar directamente una URL .m3u8 completa si viene incrustada
+                url_match = re.search(r'https://mdstrm\.com/live-stream-playlist/[^"\']+\.m3u8[^"\']+', html)
+                m3u8_url = url_match.group(0) if url_match else None
 
             if m3u8_url:
-                # 3. Redirección HTTP 302 hacia el .m3u8
+                # Limpiar caracteres escapados de JavaScript si los hay (\/)
+                m3u8_url = m3u8_url.replace('\\/', '/')
+                
+                # 4. Redirección HTTP 302 hacia la lista de reproducción HLS
                 self.send_response(302)
                 self.send_header('Location', m3u8_url)
                 self.send_header('Access-Control-Allow-Origin', '*')
@@ -45,10 +51,10 @@ class handler(BaseHTTPRequestHandler):
                 self.send_response(500)
                 self.send_header('Content-Type', 'text/plain; charset=utf-8')
                 self.end_headers()
-                self.wfile.write(b"Error: La API de Mediastream no devolvio un token valido.")
+                self.wfile.write(b"Error: No se encontro el token ni la URL m3u8 en el reproductor.")
                 
         except Exception as e:
             self.send_response(500)
             self.send_header('Content-Type', 'text/plain; charset=utf-8')
             self.end_headers()
-            self.wfile.write(f"Error al consultar API: {str(e)}".encode('utf-8'))
+            self.wfile.write(f"Error al obtener transmision: {str(e)}".encode('utf-8'))
