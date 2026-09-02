@@ -125,6 +125,11 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tvn.jpeg",
             "stream": [
                 {
+                    "type": "hls",
+                    "url": "https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?access_token=IjJiA4YMbNJ9XXKWZypwGWNVEhmrUvZd3DM8LYtqQb9c0xku0fjStNKdHVEL8UJEyKxUvhpyNj4",
+                    "fixed": true
+                },
+                {
                     "type": "mpegts",
                     "url": "https://iptv2.intersurtv.cl/TVN/tracks-v1a1/mono.ts.m3u8",
                     "fixed": true
@@ -137,11 +142,6 @@
                 {
                     "type": "hls",
                     "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
-                    "fixed": true
-                },
-                {
-                    "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?access_token=IjJiA4YMbNJ9XXKWZypwGWNVEhmrUvZd3DM8LYtqQb9c0xku0fjStNKdHVEL8UJEyKxUvhpyNj4",
                     "fixed": true
                 }
             ]
