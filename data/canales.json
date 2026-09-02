@@ -125,13 +125,18 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tvn.jpeg",
             "stream": [
                 {
+                    "type": "",
+                    "url": "https://iptv2.intersurtv.cl/TVN/tracks-v1a1/mono.ts.m3u8",
+                    "fixed": true
+                },
+                {
                     "type": "hls",
                     "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8?PlaylistM3UCL",
                     "fixed": true
                 },
                 {
                     "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?_=1786764833525&dnt=false&player=57f40bb4dc5b9f3075c49cfe&access_token=BaIrnU0nmKvpHKpGBPYMj5kUYchni7dYRcejIam1cfdj8OBbWcQNHzUWWFXn1BE6hEuYHLiq8AA",
+                    "url": "https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?_=0&dnt=true&player=57f40bb4dc5b9f3075c49cfe&access_token=3vKxdNIoTkZQtkKz4tTEKXrFTvQtgoRr5821p53ZAghXreP3PQ5dlF2vBGMunelcVqUm63bpqU3&uid=wy59woc1jMnuQduOjtGLHTQ0cknytOEr&sid=vgHa94xeZAi0sRxW4BruVNKkn1GpOa4Q&pid=TEVhyppoMPpRosQsEQSIGaDVZgX2Zvkv&an=tvn-play-app-lg-tv&at=web-app&av=v1.0.101&sc=0&ds=606b65ac3572d907cd53753b&ref=mdstrm.com&res=3840x2160&ext_pb=0&CMCD=cid%3D%2257a498c4d7b86d600e5461cb%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22TEVhyppoMPpRosQsEQSIGaDVZgX2Zvkv%22%2Csu",
                     "fixed": true
                 }
             ]
