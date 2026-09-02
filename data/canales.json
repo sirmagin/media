@@ -141,7 +141,7 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?_=0&dnt=true&player=57f40bb4dc5b9f3075c49cfe&access_token=3vKxdNIoTkZQtkKz4tTEKXrFTvQtgoRr5821p53ZAghXreP3PQ5dlF2vBGMunelcVqUm63bpqU3&uid=wy59woc1jMnuQduOjtGLHTQ0cknytOEr&sid=vgHa94xeZAi0sRxW4BruVNKkn1GpOa4Q&pid=TEVhyppoMPpRosQsEQSIGaDVZgX2Zvkv&an=tvn-play-app-lg-tv&at=web-app&av=v1.0.101&sc=0&ds=606b65ac3572d907cd53753b&ref=mdstrm.com&res=3840x2160&ext_pb=0&CMCD=cid%3D%2257a498c4d7b86d600e5461cb%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22TEVhyppoMPpRosQsEQSIGaDVZgX2Zvkv%22%2Csu",
+                    "url": "https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?access_token=IjJiA4YMbNJ9XXKWZypwGWNVEhmrUvZd3DM8LYtqQb9c0xku0fjStNKdHVEL8UJEyKxUvhpyNj4",
                     "fixed": true
                 }
             ]
