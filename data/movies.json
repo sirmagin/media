@@ -31,6 +31,38 @@
             "active": false
         },
         {
+            "id": "guerra-mundial-z",
+            "tmdbId": 72190,
+            "title": "Guerra Mundial Z",
+            "originalTitle": "World War Z",
+            "year": 2013,
+            "releaseDate": "2013-06-21",
+            "genres": [
+                "Acción",
+                "Drama",
+                "Terror",
+                "Ciencia ficción",
+                "Thriller"
+            ],
+            "duration": 116,
+            "rating": {
+                "score": 7.0,
+                "source": "TMDB"
+            },
+            "description": "Gerry Lane, un antiguo investigador de las Naciones Unidas, se ve obligado a regresar al servicio cuando una misteriosa pandemia comienza a convertir a los seres humanos en criaturas violentas. Mientras el mundo se desmorona, Gerry emprende una peligrosa carrera contrarreloj para encontrar el origen de la infección y descubrir una forma de detenerla.",
+            "images": {
+                "poster": "",
+                "backdrop": ""
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/VXGyM8kKopFKDr1/"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "friends-the-reunion",
             "tmdbId": 1088177,
             "title": "Friends: The Reunion",
