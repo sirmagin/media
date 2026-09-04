@@ -6202,6 +6202,3856 @@
           ]
         }
       ]
+    },
+    {
+      "tmdbId": 1668,
+      "active": true,
+      "title": "Friends",
+      "originalTitle": "Friends",
+      "overview": "Tres hombres y tres mujeres jóvenes intentan salir adelante en la ciudad de Nueva York, compartiendo vivencias, dilemas sobre sus carreras y aventuras amorosas.",
+      "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends.png",
+      "backdrop": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends.png",
+      "rating": 8.5,
+      "year": 1994,
+      "genres": [
+        "Comedia"
+      ],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "active": true,
+          "name": "Temporada 1",
+          "episodeCount": 24,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends01.png",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "En el que Monica tiene una compañera de departamento",
+              "originalName": "The One Where Monica Gets a Roommate",
+              "overview": "Rachel huye de su propia boda y se encuentra con su antigua amiga Monica, comenzando una nueva vida independiente en Nueva York. Ross digiere su reciente divorcio.",
+              "airDate": "1994-09-22",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/avlrGgZhwkszL6xxE2ThNFs3CZj.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/e0M7oWqAqLuwzm"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "En el de la ecografía al final del pasillo",
+              "originalName": "The One with the Sonogram at the End",
+              "overview": "Ross se entera de que su exesposa Carol está embarazada. Monica entra en pánico por la inminente visita de sus exigentes padres.",
+              "airDate": "1994-09-29",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1tkibWEdFUGVu74odpuiednNgMX.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/gjjZ2wbG7MIqRRx"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "En el del pulgar",
+              "originalName": "The One with the Thumb",
+              "overview": "Monica se molesta porque a todos sus amigos les agrada su nuevo novio más que a ella misma. Phoebe descubre un pulgar humano dentro de una lata de refresco.",
+              "airDate": "1994-10-06",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/963xL8QC2In3dvb8ooWWA30M5JI.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/AwOvYkeXD2TX7ga"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "En el del George Stephanopoulos",
+              "originalName": "The One with George Stephanopoulos",
+              "overview": "Las chicas celebran una pijama con pizza para animar a Rachel, mientras Ross, Joey y Chandler van a un partido de hockey donde Ross termina en emergencias.",
+              "airDate": "1994-10-13",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/tLPVkzSsn08TlG90djqlzi3a2TT.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/OkrKxKVgLRI6V3"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "En el del detergente lavadora alemán",
+              "originalName": "The One with the German Laundry Detergent",
+              "overview": "Ross ayuda a Rachel en la lavandería para acercarse a ella. Joey engaña a Monica para que le ayude a separar a una exnovia de su actual pareja.",
+              "airDate": "1994-10-20",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/m2PCayytQnoTOf3u4R6Tt737gFL.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/BPOZWmY1MdFyLoP"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "En el del trasero",
+              "originalName": "The One with the Butt",
+              "overview": "Joey obtiene su gran oportunidad en el cine como doble de trasero para Al Pacino. Chandler descubre un lado inesperado en una relación casual.",
+              "airDate": "1994-10-27",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8zUXN6UqLBdsYQMexxuxku2iBG3.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Yp72Lo33MgFv4qp"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "En el del apagón",
+              "originalName": "The One with the Blackout",
+              "overview": "Un masivo corte de luz paraliza Nueva York. Chandler se queda atrapado en un cajero automático con una supermodelo, mientras Ross intenta declararse a Rachel.",
+              "airDate": "1994-11-03",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/cHeKaMNEzqBjTOUlrDzr3omLc8E.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Xj00PxgzPrfDM4X"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "En el que la abuela muere dos veces",
+              "originalName": "The One Where Nana Dies Twice",
+              "overview": "Ross y Monica se despedirán de su abuela, quien fallece de manera inesperada. Chandler descubre un extraño rumor sobre la percepción que tienen de él.",
+              "airDate": "1994-11-10",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8HPwWvfG9nursqepuUQXf2GSggQ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/7Pr9r8PQ2gI4rP"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "En el que se les quema el pavo",
+              "originalName": "The One Where Underdog Gets Away",
+              "overview": "Monica intenta organizar una cena perfecta de Acción de Gracias para el grupo, pero un percance con un globo gigante afuera del edificio deja a todos fuera del apartamento.",
+              "airDate": "1994-11-17",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/prrV1RMAl7oi2l3J3dq5SkHpOAN.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/aYr7jJD0kKux40q"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "En el del mono",
+              "originalName": "The One with the Monkey",
+              "overview": "El grupo acuerda no llevar citas a la fiesta de Año Nuevo, pero todos terminan rompiendo el pacto. Ross adopta un mono capuchino llamado Marcel.",
+              "airDate": "1994-12-15",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/uk0yh6xFTwwQcHGlbhJ5X5gKT33.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/9qWax11DWvC1Qm"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "En el que la Sra. Bing se pasa de la raya",
+              "originalName": "The One Mrs. Bing Calls",
+              "overview": "La extravagante e hiperfamosa madre novelista de Chandler visita la ciudad e incita un momento sumamente incómodo con Ross tras beber de más.",
+              "airDate": "1995-01-05",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/58nJXiv4gVLpaxKmI937ppmbCgy.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/z121M8ra8GHYO14"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "En el de la docena de lasaña",
+              "originalName": "The One with the Dozen Lasagnas",
+              "overview": "Monica se queda con una docena de lasañas vegetarianas por un error de pedido. Rachel enfrenta problemas con su novio Paolo.",
+              "airDate": "1995-01-12",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/yaapBzJMn9cbkp9y6urrPVXLgdD.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/J34LoaOaGquj3om"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 13,
+              "active": true,
+              "name": "En el de los pechos desnudados",
+              "originalName": "The One with the Boobies",
+              "overview": "Chandler camina accidentalmente sobre Rachel sin ropa, desencadenando una cadena de venganzas de desnudos imprevistos en el grupo.",
+              "airDate": "1995-01-19",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/6whcxVOKrpQ9lUhdXz4IXvTq5i4.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/mvYOYpKg1Xhdpv"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 14,
+              "active": true,
+              "name": "En el de los caramelos de corazón",
+              "originalName": "The One with the Candy Hearts",
+              "overview": "En San Valentín, Ross coincide en el mismo restaurante con Carol y Susan. Chandler se reencuentra inesperadamente con su insoportable exnovia Janice.",
+              "airDate": "1995-02-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zDqfFNc2pE5sYiuQvpKOVFPswZZ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/jbqgeVylGZFzRmg"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 15,
+              "active": true,
+              "name": "En el del tipo drogadicto",
+              "originalName": "The One with the Stoned Guy",
+              "overview": "Monica audiciona como chef ejecutiva preparando una cena en casa para un restaurador que se presenta bajo los efectos del cannabis.",
+              "airDate": "1995-02-16",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/2ShLUPe0boFwe6e9T6nQgRXRFp1.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wlpdJXQYq4fJmqv"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 16,
+              "active": true,
+              "name": "En el de las dos partes (Parte 1)",
+              "originalName": "The One with Two Parts (Part 1)",
+              "overview": "Joey comienza a salir con Ursula, la hermana gemela idéntica de Phoebe, lo que genera tensión. Phoebe se siente apartada por su grupo.",
+              "airDate": "1995-02-23",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/hAGgLNtQf8mDuqCFDNRLu5igfR9.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wzDOK0xwl1UPw6"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 17,
+              "active": true,
+              "name": "En el de las dos partes (Parte 2)",
+              "originalName": "The One with Two Parts (Part 2)",
+              "overview": "Rachel se tuerce un tobillo e intercambia identidades con Monica en la clínica de urgencias para aprovechar su seguro médico, conociendo a dos médicos guapos.",
+              "airDate": "1995-02-23",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/rq8bmifOZS8TUSSEZol1pcig7xS.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/eYOjJPPbOLUOrq"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 18,
+              "active": true,
+              "name": "En el del póquer",
+              "originalName": "The One with All the Poker",
+              "overview": "Las chicas deciden aprender a jugar al póquer para enfrentar a los chicos en una partida épica cargada de alta tensión competitiva.",
+              "airDate": "1995-03-02",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/iGIw2sZn2zQVIHEVFEYtSqUiQmD.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/OXqqkqX3a3CZByg"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 19,
+              "active": true,
+              "name": "En el que el mono se escapa",
+              "originalName": "The One Where the Monkey Gets Away",
+              "overview": "Rachel pierde accidentalmente al mono Marcel mientras lo cuidaba, desatando una búsqueda desesperada por todo el vecindario antes de que vuelva Ross.",
+              "airDate": "1995-03-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/miEdFiP6yt6EarwtbvU69MD7Ci8.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/90rVVrX0qacar7M"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 20,
+              "active": true,
+              "name": "En el del dentista ortodoncista",
+              "originalName": "The One with the Evil Orthodontist",
+              "overview": "Rachel vuelve a caer en la tentación con su exprometido Barry, descubriendo un enredo con su mejor amiga Mindy.",
+              "airDate": "1995-04-06",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/2pcBJuqhFoL2Vp0UdZwl40M1Xkl.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/akO9JKGKz9fWxz"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 21,
+              "active": true,
+              "name": "En el de la falsa Monica",
+              "originalName": "The One with the Fake Monica",
+              "overview": "La tarjeta de crédito de Monica es robada y ella decide rastrear a la impostora, entablando una peculiar e insospechada amistad con ella.",
+              "airDate": "1995-04-27",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/mntXb7pBLNhMn3KXdJ8aZ5bQ88Z.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wDgeZ1py8etJMAG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 22,
+              "active": true,
+              "name": "En el del factor Ick",
+              "originalName": "The One with the Ick Factor",
+              "overview": "Monica descubre un detalle muy incómodo sobre la edad real de su nuevo novio. Chandler se siente frustrado al ascender en su trabajo corporativo.",
+              "airDate": "1995-05-04",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/cQG5BJu8RKJz51srtEuHbAXCPez.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/kbomDJZXyYC8Mx"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 23,
+              "active": true,
+              "name": "En el del nacimiento",
+              "originalName": "The One with the Birth",
+              "overview": "Carol entra en trabajo de parto y el grupo acude al hospital, donde Ross, Susan y Phoebe terminan atrapados en un armario de mantenimiento.",
+              "airDate": "1995-05-11",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zemqo8BkdOqih3iuqYphPM7bFYc.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/8R8v9qKPyYS4KR"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 24,
+              "active": true,
+              "name": "En el que Rachel se entera",
+              "originalName": "The One Where Rachel Finds Out",
+              "overview": "Durante la fiesta de cumpleaños de Rachel, Chandler revela accidentalmente que Ross ha estado enamorado en secreto de ella desde la secundaria.",
+              "airDate": "1995-05-18",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/iRh3QyPXPArGBj7SPob4NvL4gNS.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/p4j2Apj8ZYtr30b"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "active": true,
+          "name": "Temporada 2",
+          "episodeCount": 24,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends02.png",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "En el de la nueva novia de Ross",
+              "originalName": "The One with Ross's New Girlfriend",
+              "overview": "Rachel espera a Ross en el aeropuerto para confesarle sus sentimientos, pero él regresa de China acompañado de Julie, su nueva novia.",
+              "airDate": "1995-09-21",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/grt1km00cjrwAckfgO3QGiHYq89.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/k0JZeZljlmtO7Y4"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "En el de la leche materna",
+              "originalName": "The One with the Breast Milk",
+              "overview": "Los chicos se muestran aprensivos ante la leche materna de Carol. Monica intenta ocultarle a Rachel que fue de compras con Julie.",
+              "airDate": "1995-09-28",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/dyBB19jEpwj6gzGA1IcXxj9kq1e.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/q8XKM710LDu1KJ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "En el que Heckles muere",
+              "originalName": "The One Where Heckles Dies",
+              "overview": "El cascarrabias vecino de abajo, el Sr. Heckles, fallece y les deja todas sus pertenencias a Monica y Rachel. Chandler teme terminar solo como él.",
+              "airDate": "1995-10-05",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/qOo7AX4h1EgrBVSSEluQZzX2xH3.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/7q7xpabzPZiMvj"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "En el del esposo de Phoebe",
+              "originalName": "The One with Phoebe's Husband",
+              "overview": "El grupo descubre con sorpresa que Phoebe se casó en el pasado con un patinador sobre hielo canadiense homosexual para conseguirle la residencia.",
+              "airDate": "1995-10-12",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jtYyA2OO0Xj6GPq7DGCVCOKvspt.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/d3ovy4pvGaUkRJJ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "En el de la quíntuple de bistecs y la berenjena",
+              "originalName": "The One with Five Steaks and an Eggplant",
+              "overview": "Las diferencias de ingresos dividen al grupo al intentar planificar salidas caras. Monica, Rachel y Phoebe se sienten financieramente incómodas.",
+              "airDate": "1995-10-19",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/24OnZqNcnDSS2t0AkfQv4jSV7Xd.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/DlR7Q8Gqm3fk1lZ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "En el del bebé en el autobús",
+              "originalName": "The One with the Baby on the Bus",
+              "overview": "Chandler y Joey cuidan al bebé Ben y lo olvidan accidentalmente en un autobús de la ciudad. Phoebe pierde su puesto cantando en Central Perk.",
+              "airDate": "1995-11-02",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/4RxxAAbQgt8wgOXDWXcKVUVqXr5.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/MyDdrwr2AahYQJ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "En el que Ross se entera",
+              "originalName": "The One Where Ross Finds Out",
+              "overview": "Rachel deja un mensaje en estado de ebriedad en el contestador de Ross revelándole sus sentimientos. Monica se convierte en la entrenadora personal de Chandler.",
+              "airDate": "1995-11-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1oGAR9wigUiz00YiCdTFniTevMx.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/PZegjVodYGU01qq"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "En el de la lista",
+              "originalName": "The One with the List",
+              "overview": "Ross hace una lista de pros y contras para decidir entre Julie y Rachel, pero Rachel encuentra el papel y se siente profundamente traicionada.",
+              "airDate": "1995-11-16",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/ng1mU6n9Yb9JWwNH2bIlzIUdZhx.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/vPvxRP84zKujwe"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "En el del padre de Phoebe",
+              "originalName": "The One with Phoebe's Dad",
+              "overview": "Phoebe intenta rastrear a su verdadero padre biológico durante la época navideña. Monica y Rachel ofrecen galletas como propinas navideñas.",
+              "airDate": "1995-12-14",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/oc08S5lyFuYsbT57DV3CjtemCFt.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/g1lOwwVQVaiqrOq"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "En el de Russ",
+              "originalName": "The One with Russ",
+              "overview": "Rachel empieza a salir con un hombre llamado Russ, quien guarda una inquietante e idéntica semejanza física y actitudinal con Ross.",
+              "airDate": "1996-01-04",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/wqusgdKbcwbOjhYVWA9c0X5paa7.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/G3ZKxOqj7zS1pGJ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "En el de la boda lesbiana",
+              "originalName": "The One with the Lesbian Wedding",
+              "overview": "Carol y Susan celebran su boda y Monica se encarga del servicio de banquetes. La madre de Phoebe poseída por una clienta fallecida asiste al evento.",
+              "airDate": "1996-01-18",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/pvB9Hz5aaixc1HH7gvKvIwRteIU.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/ZzOpKJRyBLhqG0k"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "En el de después de la Superbowl (Parte 1)",
+              "originalName": "The One After the Superbowl (Part 1)",
+              "overview": "Ross viaja a un rodaje para reencontrarse con su antiguo mono Marcel. Joey lidia con una fanática obsesionada que cree que es su personaje de la telenovela.",
+              "airDate": "1996-01-28",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/lPPHEnQDdTEFWzG0fLEFp7AAAU1.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/OgmJaYR1l7sgkQ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 13,
+              "active": true,
+              "name": "En el de después de la Superbowl (Parte 2)",
+              "originalName": "The One After the Superbowl (Part 2)",
+              "overview": "Julia Roberts y Jean-Claude Van Damme participan en la película de Marcel, desencadenando enredos amorosos con Chandler y las chicas.",
+              "airDate": "1996-01-28",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/tNM92lAgpRacWZ2K46ixJF02o8r.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/BkjjPlYOe6HyYD6"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 14,
+              "active": true,
+              "name": "En el del vídeo de la graduación",
+              "originalName": "The One with the Prom Video",
+              "overview": "Un antiguo vídeo VHS del baile de graduación revela un conmovedor gesto del pasado de Ross hacia Rachel, reconciliándolos finalmente.",
+              "airDate": "1996-02-01",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/pdNU0SwVoHJmkCQXumvM63mSt1v.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/jqBPG7G48xTzO0k"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 15,
+              "active": true,
+              "name": "En el que Ross y Rachel... ya sabes",
+              "originalName": "The One Where Ross and Rachel... You Know",
+              "overview": "Ross y Rachel pasan su primera noche íntima juntos en el museo de historia natural. Joey compra un televisor gigante y dos sillones reclinables.",
+              "airDate": "1996-02-08",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/vEnD6mvkwRgapYZr8tZBSoEAHcn.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/GQrpqOrgPRuWZd"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 16,
+              "active": true,
+              "name": "En el que Joey se muda",
+              "originalName": "The One Where Joey Moves Out",
+              "overview": "Tras conseguir éxito en la televisión, Joey se muda a su propio departamento de lujo. Monica comienza a salir con Richard, el atractivo amigo de su padre.",
+              "airDate": "1996-02-15",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/7OKGNoKDtFxQY3hNXOP6y3JRO53.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/p8k0LOV8rMsrgrg"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 17,
+              "active": true,
+              "name": "En el que Eddie se muda",
+              "originalName": "The One Where Eddie Moves In",
+              "overview": "Chandler consigue un nuevo compañero de departamento llamado Eddie, pero pronto descubre que tiene comportamientos sumamente excéntricos.",
+              "airDate": "1996-02-22",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zjGdr3fu5LaoFGKMcXwvwEX3lNu.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wYOPPwJrXMFJryZ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 18,
+              "active": true,
+              "name": "En el que el Dr. Ramoray muere",
+              "originalName": "The One Where Dr. Ramoray Dies",
+              "overview": "Los guionistas despiden al personaje de Joey en la serie tras declarar en una entrevista que él escribe sus propios diálogos.",
+              "airDate": "1996-03-21",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1Qm6wEdAzXmap2bflb05mlC0jU2.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/m3AXAo3e8gUd78"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 19,
+              "active": true,
+              "name": "En el de la canción de Eddie",
+              "originalName": "The One where Eddie Won't Go",
+              "overview": "Eddie se niega a marcharse del departamento a pesar de los intentos de Chandler. Joey debe afrontar sus deudas tras perder su empleo en televisión.",
+              "airDate": "1996-03-28",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/nPaqxogdoDIb81HJ488dsVbkpCw.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/YVQz8gg4G7HvyR4"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 20,
+              "active": true,
+              "name": "En el de Anti-Oldie",
+              "originalName": "The One where Old Yeller Dies",
+              "overview": "Phoebe descubre la verdad sobre los trágicos finales de las películas infantiles que su madre le ocultaba. Richard intenta integrarse al grupo de los chicos.",
+              "airDate": "1996-04-04",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/pfBhzSGoBFWnHr7HGo4OHUn48gI.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/6Kpj8bKxjDi918p"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 21,
+              "active": true,
+              "name": "En el de los matones",
+              "originalName": "The One with the Bullies",
+              "overview": "Chandler y Ross enfrentan a dos matones en la cafetería Central Perk. Phoebe conoce a su medio hermano Frank Jr.",
+              "airDate": "1996-04-25",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/cNgv7rAm7YkvooOGOpFSTlfS5wS.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/jrlg32KlRZTJ8v"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 22,
+              "active": true,
+              "name": "En el de las dos partes de la fiesta",
+              "originalName": "The One with the Two Parties",
+              "overview": "El grupo debe organizar dos fiestas simultáneas para el cumpleaños de Rachel para evitar que sus padres recién divorciados se crucen.",
+              "airDate": "1996-05-02",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/aKmPfjA0QssEqOuiSMyJGEoEJdt.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/okXM4MxbbeiJ0XZ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 23,
+              "active": true,
+              "name": "En el de la viruela",
+              "originalName": "The One with the Chicken Pox",
+              "overview": "Phoebe contagia la viruela justo cuando su antiguo amante naval la visita. Joey consigue empleo en la compañía de Chandler.",
+              "airDate": "1996-05-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/pVSXGWFFGGKs3iWDX8RZmtNJlDA.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/z7LAyR2l7afY6Ym"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 24,
+              "active": true,
+              "name": "En el de la boda de Barry y Mindy",
+              "originalName": "The One with Barry and Mindy's Wedding",
+              "overview": "Rachel asiste a la boda de su exprometido Barry como dama de honor. Monica y Richard conversan seriamente sobre la posibilidad de tener hijos.",
+              "airDate": "1996-05-16",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/3o85MotMLDmbCPIiIwCfPYzDYgY.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/9b1XOBALMrIarJK"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 3,
+          "active": true,
+          "name": "Temporada 3",
+          "episodeCount": 25,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends03.png",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "En el de la fantasía de la Princesa Leia",
+              "originalName": "The One with the Princess Leia Fantasy",
+              "overview": "Ross le confiesa a Rachel una fantasía secreta relacionada con Star Wars. Monica sufre de insomnio tras su ruptura con Richard.",
+              "airDate": "1996-09-19",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/ci28CPpvg6EEDPlCbMLtNUDJPcR.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/r4Kv2yveZwtxw2"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "En el que nadie está listo",
+              "originalName": "The One Where No One's Ready",
+              "overview": "Ross se desespera intuyendo que nadie del grupo estará listo a tiempo para asistir a una importante velada de gala en su museo.",
+              "airDate": "1996-09-26",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/bBmgNbrW0ozjaiKDKKfijwKWdRc.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/84qveR2Ow0uoRV1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "En el de la mermelada",
+              "originalName": "The One with the Jam",
+              "overview": "Monica decide encauzar su duelo cocinando kilos de mermelada y considerando la inseminación artificial. Phoebe es acosada por el exnovio de su hermana.",
+              "airDate": "1996-10-03",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/fNgjqLtlhQBjNRFdX10edanoke1.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/glKVyYQQ17UBPl"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "En el del túnel metaforico",
+              "originalName": "The One with the Metaphorical Tunnel",
+              "overview": "Ross entra en pánico cuando ve a su hijo Ben jugando con una muñeca Barbie. Chandler vuelve a caer en los brazos de Janice.",
+              "airDate": "1996-10-10",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jLnfUmRWirw55UJ9vUu9DBXhxKw.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/J9rmjR9rjbc9BG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "En el de la anatomía de Frank",
+              "originalName": "The One with Frank Jr.",
+              "overview": "Phoebe invita a su hermano Frank Jr. a pasar unos días a la ciudad. El grupo confecciona listas con las celebridades con las que tendrían un pase libre.",
+              "airDate": "1996-10-17",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/xV4gS3ZbpbDDRy1iTAzD9pWone2.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/7Ybk4ZKbp1FMbg"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "En el del flashback",
+              "originalName": "The One with the Flashback",
+              "overview": "Un salto al pasado tres años atrás revela secretos, romances frustrados e intersecciones desconocidas en la historia del grupo.",
+              "airDate": "1996-10-31",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/vAVRp4FQO858ZurhMkjy2Ry8BbM.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/XJ4bewgV36fXyP"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "En el de la cama de la carrera",
+              "originalName": "The One with the Race Car Bed",
+              "overview": "Monica le encarga una cama al exesposo de Janice pero recibe por error una cama infantil con forma de auto de carreras.",
+              "airDate": "1996-11-07",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/gCUk2Mytau5IX7oEndRnwtzThOT.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/WbZvlBJlkpCb81j"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "En el del gigante feo desnudo",
+              "originalName": "The One with the Giant Poking Device",
+              "overview": "El grupo teme que el vecino desnudo del edificio de enfrente haya fallecido y construyen una larga vara para tocarlo y comprobarlo.",
+              "airDate": "1996-11-14",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/lu2f7cegzxOPSI3snkYj5CgdEGO.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/MxaDRkO4dlSmpzO"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "En el del fútbol americano",
+              "originalName": "The One with the Football",
+              "overview": "Los seis amigos juegan un caótico y competitivo partido de fútbol americano en el parque en el día de Acción de Gracias por la Copa Geller.",
+              "airDate": "1996-11-21",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/nqWtfvNwkbhi6q5ZdPo9Ba1tcPW.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/AAWGapqvZ3CbrK"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "En el que Rachel renuncia",
+              "originalName": "The One Where Rachel Quits",
+              "overview": "Rachel renuncia a Central Perk para buscar un empleo en la industria de la moda. Ross le quiebra por accidente una pierna a una niña boy scout.",
+              "airDate": "1996-12-12",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/skkFqwQlp7sLZBQTjoRAHoz7SpJ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/96Y08MvB12uaW4a"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "En el de Chandler incapaz de recordar qué hermana era",
+              "originalName": "The One Where Chandler Can't Remember Which Sister",
+              "overview": "Chandler bebe en exceso durante la fiesta de Joey y coquetea con una de sus hermanas, pero al día siguiente no recuerda cuál de todas fue.",
+              "airDate": "1997-01-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/14vp2eC2vuJvvmxry86j6gugpNF.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/qWD6L2jkyPTaJ4"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "En el de los celos",
+              "originalName": "The One with All the Jealousy",
+              "overview": "Rachel empieza en Bloomingdale's y Ross siente unos celos enfermizos de su nuevo compañero de trabajo, Mark.",
+              "airDate": "1997-01-16",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/yz9hYNhS92EFfii4apZoPaH3TxZ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/6KqKM6DReqC9adv"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 13,
+              "active": true,
+              "name": "En el de Monica y Richard son amigos",
+              "originalName": "The One where Monica and Richard Are Just Friends",
+              "overview": "Monica y Richard se reencuentran en un videoclub e intentan mantener una relación casual estrictamente de amistad.",
+              "airDate": "1997-01-30",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/qIbd5XEEa5gK2oXRbIeYT9PrK2W.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/9kLqPaa0Ryh1ad"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 14,
+              "active": true,
+              "name": "En el del excompañero de Phoebe",
+              "originalName": "The One with Phoebe's Ex-Partner",
+              "overview": "La antigua compañera musical de Phoebe utiliza su famosa canción de los gatos en un comercial publicitario.",
+              "airDate": "1997-02-06",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/3Towvxh6qAtJycuJ7XW8GJQhB3N.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/v2oAazm3XBU4O8m"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 15,
+              "active": true,
+              "name": "En el de donde Ross y Rachel se toman un descanso",
+              "originalName": "The One where Ross and Rachel Take a Break",
+              "overview": "Tras una amarga discusión sobre el trabajo de Rachel, ella le sugiere tomarse un descanso. Esa misma noche, Ross ahoga sus penas y conoce a Chloe.",
+              "airDate": "1997-02-13",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/hQ7vb9GxKeHq8zhy3L15TWmcXlq.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/llx0p6OLwwH733x"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 16,
+              "active": true,
+              "name": "En el de la mañana siguiente",
+              "originalName": "The One the Morning After",
+              "overview": "Ross intenta desesperadamente evitar que Rachel se entere de su desliz con Chloe, pero cuando ella lo descubre, la pareja rompe definitivamente.",
+              "airDate": "1997-02-20",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/5rM97ao2TZZMHUrfsnP1XCOh1Jx.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Y8be3Gg9oysvGDW"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 17,
+              "active": true,
+              "name": "En el del viaje a Esquí",
+              "originalName": "The One with the Ski Trip",
+              "overview": "La ruptura fuerza al grupo a dividirse para no dejar solo a ninguno. Rachel invita a todos a una cabaña a esquiar salvo a Ross.",
+              "airDate": "1997-03-06",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/6xO5fIPn0xa9IAS30U3POy3ZG8c.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/OqxYXMXDmPHZOVv"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 18,
+              "active": true,
+              "name": "En el de la cinta hipnótica",
+              "originalName": "The One with the Hypnosis Tape",
+              "overview": "Chandler escucha una cinta de autoayuda para dejar de fumar pero empieza a actuar con comportamientos femeninos. Monica conoce al millonario Pete Becker.",
+              "airDate": "1997-03-13",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/l01b0UomTW9WNWmDr87aOFoQW1T.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/9ODbQvGLLOUabwR"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 19,
+              "active": true,
+              "name": "En el de la camiseta diminuta",
+              "originalName": "The One with the Tiny T-Shirt",
+              "overview": "Rachel acepta tener una cita con Mark. Ross intenta recuperar sus objetos personales de casa de Rachel.",
+              "airDate": "1997-03-27",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/sxEjTxnAGl0kTaBJdH0WAF8DmpD.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/pjqV0vLx7JfXXa"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 20,
+              "active": true,
+              "name": "En el de la muñeca de trapo",
+              "originalName": "The One with the Dollhouse",
+              "overview": "Monica hereda una lujosa casa de muñecas victoriana que no deja tocar a Phoebe, por lo que Phoebe construye la suya propia de cartón.",
+              "airDate": "1997-04-10",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/qKaDNoe48je6AQIjNIM110c8SeY.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/A1lBl7qbeLsZv6"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 21,
+              "active": true,
+              "name": "En el del pollito y el pato",
+              "originalName": "The One with a Chick and a Duck",
+              "overview": "Joey y Chandler adoptan a un pollito y posteriormente a un pato como mascotas compartidas en su departamento.",
+              "airDate": "1997-04-17",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8yZycDRGAImK2Qpmm5PdG3gforx.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Kz1XdKKb4xi0ydM"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 22,
+              "active": true,
+              "name": "En el del gritón",
+              "originalName": "The One with the Screamer",
+              "overview": "Rachel sale con un hombre interpretado por Ben Stiller que parece educado pero le grita histéricamente a la menor provocación.",
+              "airDate": "1997-04-24",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/vHqib05ysQ05YcFTdFSNdyKHDA.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/LvrGqPk7PvHRlrv"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 23,
+              "active": true,
+              "name": "En el del Campeón de Lucha",
+              "originalName": "The One with Ross's Thing",
+              "overview": "El millonario novio de Monica, Pete, decide convertirse en luchador de artes marciales mixtas con resultados dolorosos.",
+              "airDate": "1997-05-01",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/bgQi42yjC73KixG77IDuasPSdXl.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wzkaJP7A71uJKzl"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 24,
+              "active": true,
+              "name": "En el del Campeón de Ultimate Fighting",
+              "originalName": "The One with the Ultimate Fighting Champion",
+              "overview": "Pete insiste en continuar peleando a pesar de las graves palizas. Phoebe le organiza a Ross una cita a ciegas con su amiga Bonnie.",
+              "airDate": "1997-05-08",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/m2ryBGyo6AAfcGnpGrSNt35lgVF.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/96AX8aqjW6faz6J"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 25,
+              "active": true,
+              "name": "En el de la playa",
+              "originalName": "The One at the Beach",
+              "overview": "El grupo viaja a una casa en la playa. Rachel convence a Bonnie de raparse la cabeza para alejarla de Ross, reavivando el dilema amoroso.",
+              "airDate": "1997-05-15",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1YwKZ32SvyhjdA3cBtoyn5oNXFL.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/zV02b0jB8kHYYq8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 4,
+          "active": true,
+          "name": "Temporada 4",
+          "episodeCount": 24,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends04.png",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "En el de la medusa",
+              "originalName": "The One with the Jellyfish",
+              "overview": "Ross rompe con Bonnie y se reconcilia con Rachel tras leer su carta de 18 páginas. Monica recibe una picadura de medusa en la playa.",
+              "airDate": "1997-09-25",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/67tiGi36IUXlNAPlPJy98INk2DQ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/7wm3B8yrDzsArdK"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "En el del gato de la mamá de Phoebe",
+              "originalName": "The One with the Cat",
+              "overview": "Phoebe cree que el espíritu de su difunta madre ha reencarnado en un gato extraviado. Joey intenta vender su centro de entretenimiento.",
+              "airDate": "1997-10-02",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1zEnoQyjbystjf9nywj07dpMwza.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/78QJlx99dGcA9eo"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "En el de las esposas",
+              "originalName": "The One with the Cuffs",
+              "overview": "Chandler termina esposado al archivo de la jefa de Rachel en su oficina. Monica prepara la comida para una fiesta de su madre.",
+              "airDate": "1997-10-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/fqXZu4P3QTa27Ne2fzkZM5sdbpG.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/MXek7Pv8b9FmJgm"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "En el del baile de salón",
+              "originalName": "The One with the Ballroom Dancing",
+              "overview": "Joey practica baile de salón con el encargado del edificio para evitar que expulsen a Monica y Rachel de su apartamento.",
+              "airDate": "1997-10-16",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/khxmKmjmsQVXxJW1P8VbCdeFMoA.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/qgj4PdwbedHz2z3"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "En el de la novia de Joey",
+              "originalName": "The One with Joey's New Girlfriend",
+              "overview": "Chandler se enamora de Kathy, la nueva novia de Joey. Phoebe intenta ponerse enferma para conseguir una voz más grave para cantar.",
+              "airDate": "1997-10-30",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/3Hym8m1BzQct9GHljwzNgLPQoLy.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/LDReKVA7DRiRYGQ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "En el del suéter sucio",
+              "originalName": "The One with the Dirty Girl",
+              "overview": "Ross empieza a salir con una hermosa paleontóloga pero descubre que su apartamento es extremadamente desordenado y sucio.",
+              "airDate": "1997-11-06",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/4yt3mMbJHwNxhFGMzXMWulzfE2T.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/YPplA7O37oCoRY"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "En el que Chandler traspasa la línea",
+              "originalName": "The One Where Chandler Crosses the Line",
+              "overview": "Chandler besa a Kathy a espaldas de Joey y la culpa lo devora. Ross retoma su talento para tocar el teclado musical con resultados cuestionables.",
+              "airDate": "1997-11-13",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/9MhRmA4n6ZBDum4dBTF9xDBiuwx.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/vl1mBlwxjjh4Zrj"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "En el de Chandler en una caja",
+              "originalName": "The One with Chandler in a Box",
+              "overview": "Como castigo para obtener el perdón de Joey, Chandler pasa el Día de Acción de Gracias dentro de una caja de madera. Monica sufre un accidente en el ojo.",
+              "airDate": "1997-11-20",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/hOz3zqyisPN5MkFi7KMFw2uYx4A.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Q2d2e8z8yqI0opG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "En el del banquete de bodas",
+              "originalName": "The One where They're Going to PARTY!",
+              "overview": "Chandler y Ross se preparan para salir de fiesta con su salvaje amigo Gandalf. Monica consigue empleo como crítica gastronómica.",
+              "airDate": "1997-12-11",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/A8zYaSOftPKM4q05IOQcqYdWrs7.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/d4YKeQDx7aTkkbg"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "En el de la chica de Poughkeepsie",
+              "originalName": "The One with the Girl from Poughkeepsie",
+              "overview": "Ross debe elegir entre dos chicas, una de las cuales vive muy lejos en Poughkeepsie. Monica contrata a Joey en su restaurante para despedirlo.",
+              "airDate": "1997-12-18",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/bNLBOFFQN5r3GpFUKvPmWYWz6DM.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/do11MQBGpVSkkmo"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "En el del útero de Phoebe",
+              "originalName": "The One with Phoebe's Uterus",
+              "overview": "Frank Jr. y su esposa piden a Phoebe que sea la madre sustituta de sus bebés. Monica le da lecciones a Chandler sobre anatomía femenina.",
+              "airDate": "1998-01-08",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/nT2D93C06aLnO8VkxA6rnTSiuVm.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/G6O9WMX9BYU9Gl"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "En el del concurso",
+              "originalName": "The One with the Embryos",
+              "overview": "Un concurso de trivia sobre el conocimiento mutuo entre chicos y chicas termina con los apartamentos apostados. Phoebe se somete al embriotransporte.",
+              "airDate": "1998-01-15",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/nRXtaq1enijfiDwxzAPhJKkFtsu.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/MZDxGe1gy8hmqKk"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 13,
+              "active": true,
+              "name": "En el de la aplastante derrota de Rachel",
+              "originalName": "The One with Rachel's Crush",
+              "overview": "Rachel intenta conquistar a un cliente llamado Joshua. Chandler lidia con los celos tras ver a Kathy en una obra de teatro con escenas subidas de tono.",
+              "airDate": "1998-01-29",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/vIMOQQjaxNqPdmw0ro3ilrRAC4d.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/aZZdDWkbWxTxg4r"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 14,
+              "active": true,
+              "name": "En el del día sucio de Joey",
+              "originalName": "The One with Joey's Dirty Day",
+              "overview": "Joey va directamente a un rodaje con Charlton Heston sin ducharse tras una excursión de pesca. Joshua invita a Rachel a un evento.",
+              "airDate": "1998-02-05",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/bNXV6xfkk1njmF3ftIHxJ3A1vkh.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Dj4WxWoYddIkkP2"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 15,
+              "active": true,
+              "name": "En el de la fiesta de rugby",
+              "originalName": "The One with all the Rugby",
+              "overview": "Ross juega al rugby para impresionar a Emily, una chica británica que acaba de conocer. Chandler inventa que se muda a Yemen para alejarse de Janice.",
+              "airDate": "1998-02-26",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/sTWf0xRUTztjHXElg65TiXKW4nS.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Wye0J4ajAyfb2rb"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 16,
+              "active": true,
+              "name": "En el de la fiesta falsa",
+              "originalName": "The One with the Fake Party",
+              "overview": "Rachel organiza una fiesta sorpresa de despedida falsa para Emily solo como pretexto para invitar a Joshua a su departamento.",
+              "airDate": "1998-03-19",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/sjFybiEckDorc9beXc8cHxNeAHg.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/9B1BJYX8r1iZeR"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 17,
+              "active": true,
+              "name": "En el del envío gratis",
+              "originalName": "The One with the Free Porn",
+              "overview": "Chandler y Joey descubren que reciben un canal de televisión para adultos de forma gratuita y se niegan a apagar el televisor.",
+              "airDate": "1998-03-26",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/dlg9ZvKBF6JmxogJx1syGqvXB2D.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/JAkm0xagwdSGKg"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 18,
+              "active": true,
+              "name": "En el del nuevo vestido de Rachel",
+              "originalName": "The One with Rachel's New Dress",
+              "overview": "Rachel planea una velada romántica con Joshua en la casa de los padres de él, pero una confusión la deja en lencería frente a ellos.",
+              "airDate": "1998-04-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/lX0Ui3DMEyljM5oDWWfInQaGtRP.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/2PO926q0vYTZwJP"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 19,
+              "active": true,
+              "name": "En el del apresuramiento",
+              "originalName": "The One with all the Haste",
+              "overview": "Ross le propone matrimonio a Emily tras poco tiempo de salir. Monica y Rachel intentan recuperar su apartamento original negociando con los chicos.",
+              "airDate": "1998-04-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/qcJAFWAHCsjcrl4cxB9SLM5vek4.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Q3v4Xd0VQMC0Y09"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 20,
+              "active": true,
+              "name": "En el de los vestidos de novia",
+              "originalName": "The One with all the Wedding Dresses",
+              "overview": "Monica se prueba el vestido de novia de Emily y se obsesiona con él. Rachel intenta apresurar las cosas con Joshua y lo asusta.",
+              "airDate": "1998-04-16",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/5HoqXdCE3NItOrlgKzE5HsUHuSE.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/DaQPBJK9ZXikJg1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 21,
+              "active": true,
+              "name": "En el de la invitación",
+              "originalName": "The One with the Invitation",
+              "overview": "Ross y Rachel recuerdan los momentos significativos de su relación pasada mientras deciden si Rachel debería asistir a la boda en Londres.",
+              "airDate": "1998-04-23",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/xOlyFkFyMhhoeHbVxgKGRneplS9.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/m73dmyR8LVfbj9a"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 22,
+              "active": true,
+              "name": "En el de la peor fiesta de despedida",
+              "originalName": "The One with the Worst Best Man Ever",
+              "overview": "Joey es el padrino de boda de Ross y pierde el anillo de compromiso tras la fiesta de despedida de soltero. Phoebe sufre severos cambios de humor.",
+              "airDate": "1998-04-30",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/qBaqspVkyo2C7XlEAnGEylM7pG.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/2blxX11QDQtVVV"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 23,
+              "active": true,
+              "name": "En el de la boda de Ross (Parte 1)",
+              "originalName": "The One with Ross's Wedding (Part 1)",
+              "overview": "El grupo viaja a Londres para los preparativos de la boda de Ross, a excepción de Phoebe por su embarazo. Rachel decide volar de última hora.",
+              "airDate": "1998-05-07",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/fvRlowH2KAAHaveAHXA6ZvyHPvD.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/0APdJLogyZcbb49"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 24,
+              "active": true,
+              "name": "En el de la boda de Ross (Parte 2)",
+              "originalName": "The One with Ross's Wedding (Part 2)",
+              "overview": "Monica y Chandler pasan una noche juntos. En el altar, Ross comete un gravísimo error al decir el nombre de Rachel en lugar del de Emily.",
+              "airDate": "1998-05-07",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jkmR0rpP8mbwVTVWONaVcGImrTx.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Z22MBOveVqSqaja"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 5,
+          "active": true,
+          "name": "Temporada 5",
+          "episodeCount": 24,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends05.png",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "En el que Ross dice Rachel",
+              "originalName": "The One After Ross Says Rachel",
+              "overview": "Emily huye tras el desastre del altar. Monica y Chandler acuerdan mantener su encuentro como algo exclusivo de su estancia en Londres.",
+              "airDate": "1998-09-24",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1jn9nGNo7avmHNqfk1qeVI9U7i6.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/A3KjBZLgdKTX0JV"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "En el que todos van a la luna de miel",
+              "originalName": "The One with All the Kissing",
+              "overview": "Ross termina viajando a la luna de miel solo con Rachel al no aparecer Emily. Chandler besa accidentalmente a todas las chicas para ocultar su romance con Monica.",
+              "airDate": "1998-10-01",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/5LswaLN9QpjjBNFbtPrLQoHXSi0.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/KLmXg1P8Opi0QGz"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "En el de los trillizos",
+              "originalName": "The One Hundredth",
+              "overview": "Phoebe entra en trabajo de parto y da a luz a los trillizos de su hermano Frank Jr. en el hospital.",
+              "airDate": "1998-10-08",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/f6ZuOAGSqls2mr012J0IK1D7m4u.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Bko6DwkXqwcykOZ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "En el de la donación de Phoebe",
+              "originalName": "The One where Phoebe Hates PBS",
+              "overview": "Phoebe intenta demostrar que existen acciones puramente desinteresadas. Joey participa en un maratón de recaudación de fondos por televisión.",
+              "airDate": "1998-10-15",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8D2MBiGgf1mBPKZ31N3L9sVGNve.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/XBo9yX98vyhDqyk"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "En el del viaje de fin de semana",
+              "originalName": "The One with the Kips",
+              "overview": "Monica y Chandler se van juntos de viaje de fin de semana en secreto pero terminan discutiendo. Ross conversa telefónicamente con Emily.",
+              "airDate": "1998-10-29",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/5QOC8UgmezlCsk5vu7DGjtNG1Qd.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wkr2G92Z1WHJ3Zp"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "En el del Yeti",
+              "originalName": "The One with the Yeti",
+              "overview": "Rachel y Monica confunden a un vecino barbudo en el trastero con un monstruo Yeti. Emily le exige a Ross que corte todo contacto con Rachel.",
+              "airDate": "1998-11-05",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/t8frUbTNAaU585dwir1wRcylauR.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/jvOm4wMRd7CQXb"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "En el que Ross se mueva con Chandler y Joey",
+              "originalName": "The One Where Ross Moves In",
+              "overview": "Tras fracasar su matrimonio con Emily, Ross pierde su departamento y se mude con Chandler y Joey, volviéndose un inquilino bastante exigente.",
+              "airDate": "1998-11-12",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/9hBS598Oi90z7A0CRISPbwJ9JPH.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/pd1weMQKQbSrmg6"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "En el de todos los días de Acción de Gracias",
+              "originalName": "The One with All the Thanksgiving Flashbacks",
+              "overview": "El grupo rememora sus peores experiencias en Acción de Gracias, incluyendo el momento en que Chandler perdió la punta de un dedo del pie.",
+              "airDate": "1998-11-19",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/49W5shiaO1VYhHErOt2tJXCqfz0.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/O2veky0DkrTZvpj"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "En el del sándwich de Ross",
+              "originalName": "The One with Ross's Sandwich",
+              "overview": "Ross sufre un ataque de ira en el trabajo cuando un superior se come su sándwich con 'humedecedor'. Joey asume la culpa para encubrir a Monica y Chandler.",
+              "airDate": "1998-12-10",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zcsl24ON4OM0O5Nsy6ZAdF9469c.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/3OWKYrLkROUdB2p"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "En el de la hermana inapropiada",
+              "originalName": "The One with the Inappropriate Sister",
+              "overview": "Rachel empieza a salir con Danny pero se siente sumamente incómoda por la extraña cercanía que tiene con su hermana. Ross ayuda a Joey a escribir un guion.",
+              "airDate": "1998-12-17",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/pUeg9m9Nplam46nlchyfGeE9ZWC.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/vxpWXwKOZbf437Y"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "En el de los propósitos de Año Nuevo",
+              "originalName": "The One with All the Resolutions",
+              "overview": "El grupo hace propósitos para el Año Nuevo. Ross usa pantalones de cuero ajustados en una cita y se enfrenta a un desastre táctico.",
+              "airDate": "1999-01-07",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/842QH0JXJixa6GKeL5AyVbbIhrI.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/88ZzlqvdxLIoveQ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "En el del reidor de trabajo",
+              "originalName": "The One with Chandler's Work Laugh",
+              "overview": "Monica descubre que Chandler usa una risa fingida e hipócrita ante su jefe. Rachel descubre la relación secreta entre Monica y Chandler.",
+              "airDate": "1999-01-21",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/6NlO0o3YwcrC22ODfSJJlMq37r5.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/2zRPrm4aDmtj28"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 13,
+              "active": true,
+              "name": "En el del bolso de Joey",
+              "originalName": "The One with Joey's Bag",
+              "overview": "Joey acude a una audición llevando un bolso de mano unisex que el grupo ridiculiza. Phoebe asiste al funeral de su abuela y se encuentra a su padre.",
+              "airDate": "1999-02-04",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/wKV9NJAG9Dey4dMELVFwQWJGlCv.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/drpG8QyYyMfk4pR"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 14,
+              "active": true,
+              "name": "En el que todos se enteran",
+              "originalName": "The One Where Everybody Finds Out",
+              "overview": "Phoebe descubre la relación de Monica y Chandler. Junto a Rachel, elaboran un plan para hacerlos confesar enfrentando a Chandler en un juego de coqueteo.",
+              "airDate": "1999-02-11",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/widPOemNRxvcAnV5QthXouKyTK.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/DW0JywWLGxCAwo"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 15,
+              "active": true,
+              "name": "En el del golpe de la chica",
+              "originalName": "The One with the Girl Who Hits Joey",
+              "overview": "Joey sale con una chica que expresa su afecto dando golpes físicos dolorosos. Ross intenta agradar a los vecinos de su nuevo apartamento.",
+              "airDate": "1999-02-18",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zrc6ZSrttUlXghs2DNgsFOgGGNo.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/KAqxX9GkoRHb6j"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 16,
+              "active": true,
+              "name": "En el del sofá",
+              "originalName": "The One with the Cop",
+              "overview": "Ross compra un sofá e intenta subirlo por la estrecha escalera gritando 'pivot'. Phoebe encuentra una placa de policía en un sofá y la utiliza.",
+              "airDate": "1999-02-25",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/qDSmE7EeiiWQkVPMTOi7XqtkLsk.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/V6aQXaL9KxIKpOK"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 17,
+              "active": true,
+              "name": "En el del beso accidental de Rachel",
+              "originalName": "The One with Rachel's Inadvertent Kiss",
+              "overview": "Rachel besa por error en la mejilla al entrevistador de Ralph Lauren al terminar su reunión. Joey busca a una chica que vio en el edificio de Ross.",
+              "airDate": "1999-03-18",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/sPCW94qruOX0aRPuj5Uy8vlJKSJ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/m1bqa6drOpsbYgq"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 18,
+              "active": true,
+              "name": "En el que Rachel fuma",
+              "originalName": "The One where Rachel Smokes",
+              "overview": "Rachel finge ser fumadora en su nuevo trabajo para no quedar fuera de las decisiones importantes que se toman en los descansos para fumar.",
+              "airDate": "1999-04-08",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zXPDYJa1yWBGLRTDOexq6VJMedL.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/b1ommbGDzZFP8Ob"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 19,
+              "active": true,
+              "name": "En el que Ross flirtea",
+              "originalName": "The One where Ross Can't Flirt",
+              "overview": "Ross intenta coquetear con la repartidora de pizzas con resultados vergonzosos. Monica pierde un arete de valor sentimental de Phoebe.",
+              "airDate": "1999-04-22",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/nURp3j9Fax9yt2qvhRttzPygkJN.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/bedj9w3gZqiPkPy"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 20,
+              "active": true,
+              "name": "En el de la patrulla de policía",
+              "originalName": "The One with the Ride-Along",
+              "overview": "Los chicos acompañan a Gary, el novio policía de Phoebe, en un patrullaje nocturno. Ross cree que un disparo iba dirigido hacia él para proteger un sándwich.",
+              "airDate": "1999-04-29",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/5xBJqfHQI3qUOC9XB5ePZzbYD4L.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/BYaDdJK9yJIyyqo"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 21,
+              "active": true,
+              "name": "En el del baile de la pelota",
+              "originalName": "The One with the Ball",
+              "overview": "Joey y Ross pasan horas lanzándose una pelota sin dejarla caer. Rachel compra un costoso gato de raza Sphynx sin pelo.",
+              "airDate": "1999-05-06",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/rgMzbHY39qF0uwPfH14jZNJDypw.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/akBR36owOZczML"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 22,
+              "active": true,
+              "name": "En el de la gran oportunidad de Joey",
+              "originalName": "The One with Joey's Big Break",
+              "overview": "Joey consigue un papel protagónico en una película cerca de Las Vegas. Chandler expresa sus dudas sobre el proyecto y desata una discusión con Joey.",
+              "airDate": "1999-05-13",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/kAV4BBUpsnlPATryvLZyh9aiH1U.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/YDQPlYrbbYfO9r"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 23,
+              "active": true,
+              "name": "En el de Las Vegas (Parte 1)",
+              "originalName": "The One in Vegas (Part 1)",
+              "overview": "El grupo viaja a Las Vegas para visitar a Joey y descubren que trabaja como gladiador en un casino tras cancelarse la película.",
+              "airDate": "1999-05-20",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jB39sjCHdWGoyHOkFdbM9AN1fLK.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/vD79pjx98LH4Ra1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 24,
+              "active": true,
+              "name": "En el de Las Vegas (Parte 2)",
+              "originalName": "The One in Vegas (Part 2)",
+              "overview": "Monica y Chandler deciden casarse en una capilla impulsivamente, pero se sorprenden al ver salir ebrios de la capilla a Ross y Rachel recién casados.",
+              "airDate": "1999-05-20",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/bfTmQarMX5WBitYHQ0RXBjrg5Cn.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/02JGvmpr38UbjOj"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 6,
+          "active": true,
+          "name": "Temporada 6",
+          "episodeCount": 25,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends06.png",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "En el de después de Las Vegas",
+              "originalName": "The One After Vegas",
+              "overview": "Ross y Rachel despiertan descubriendo que se casaron ebrios en Las Vegas. Monica y Chandler revalúan su plan impetuoso de matrimonio.",
+              "airDate": "1999-09-23",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/2T3D3y98XDM2owdjxcj8PEiQFP8.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/1aV8mBkmqOfeOjw"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "En el que abraza a Rachel",
+              "originalName": "The One Where Ross Hugs Rachel",
+              "overview": "Ross no le revela a Rachel que aún no ha anulado el matrimonio. Monica y Chandler deciden irse a vivir juntos, lo que implica reestructurar los apartamentos.",
+              "airDate": "1999-09-30",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/d5c8xKhUKsR4afHWc17POaCs444.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/egqzgRKAY6iYz7P"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "En el de la denegación de la anulación",
+              "originalName": "The One with Ross's Denial",
+              "overview": "Ross intenta convencerse de que no sigue enamorado de Rachel. Joey busca una nueva compañera de departamento tras la mudanza de Chandler.",
+              "airDate": "1999-10-07",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/brF8eLr2ml3UaNMmBVZQ615iyBy.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/mr3YGygxwMfbbL9"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "En el que perdiendo a Joey",
+              "originalName": "The One where Joey Loses His Insurance",
+              "overview": "Joey sufre una hernia justo cuando pierde su seguro médico. Ross imparte clases universitarias usando un falso acento británico.",
+              "airDate": "1999-10-14",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/ohFKAbC5iZtGfzLh9JfylXfhwKr.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/lADj0m0pWDi7eLk"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "En el de los dientes de Ross",
+              "originalName": "The One Joey Speaks French",
+              "overview": "Ross blanquea excesivamente sus dientes para una cita y terminan brillando en la oscuridad. Phoebe cree que la esposa del jefe de Ralph Lauren tuvo una aventura con ella.",
+              "airDate": "1999-11-11",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/itDy7O5nij71D7Z1MZXJjlLB9w0.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/4XJBO6Mz8eUKMA3"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "En el del último fin de semana",
+              "originalName": "The One on the Last Night",
+              "overview": "Las chicas ayudan a Rachel a empacar en su última noche compartiendo apartamento, mientras Chandler le inventa un juego de apuestas a Joey para dejarle dinero.",
+              "airDate": "1999-11-04",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8nNQPYtxDjMmtlJie8LLtzYu5gU.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/jZGXxRJwbeczjWo"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "En el que Phoebe corre",
+              "originalName": "The One Where Phoebe Runs",
+              "overview": "Rachel se avergüenza del extravagante estilo de correr que tiene Phoebe en el parque. Joey consigue una hermosa compañera de departamento llamada Janine.",
+              "airDate": "1999-11-11",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/rGA8jD6BqXSAVoEGy5bmbZOHqQY.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/ek7bY9DJgQSwvM"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "En el de los dientes de Ross",
+              "originalName": "The One with Ross's Teeth",
+              "overview": "Ross utiliza un producto blanqueador dental con un resultado fluorescente exagerado justo antes de una cita romántica.",
+              "airDate": "1999-11-18",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/937TB5b6bv9OJb4OPfXvVTtweOf.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/YOwll1J8WLivb77"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "En el que Ross se coloca",
+              "originalName": "The One Where Ross Got High",
+              "overview": "En Acción de Gracias, Monica confiesa por qué sus padres detestan a Chandler. Rachel prepara un postre mezclando por error pastel de carne y crema.",
+              "airDate": "1999-11-25",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/cu4c4rxWLPox2VAV2kWvT4MpYvO.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/J2wDmYyGAYcjXLe"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "En el de la rutina de baile",
+              "originalName": "The One with the Routine",
+              "overview": "Joey, Monica y Ross asisten a la grabación del programa de Año Nuevo de Dick Clark, donde los hermanos ejecutan su ridícula rutina de baile de la infancia.",
+              "airDate": "1999-12-16",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/hGOc4JFywXjpQclb0ZFNN1OgOVj.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/GX38Gby7Rec16w6"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "En el de la mesa de boticario",
+              "originalName": "The One with the Apothecary Table",
+              "overview": "Rachel compra una mesa en Pottery Barn pero le miente a Phoebe sabiendo que ella aborrece el consumo masivo en grandes cadenas.",
+              "airDate": "2000-01-06",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/5W0BPGJbP5sjJWgjLlnQGkXWKYF.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/pMrgGGP9reCAr4"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "En el del chiste",
+              "originalName": "The One with the Joke",
+              "overview": "Ross y Chandler discuten sobre quién ideó un chiste publicado en la revista Playboy. Phoebe debe elegir entre Rachel y Monica.",
+              "airDate": "2000-01-13",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zaDAyW9hOFhFjhcYBwvNqIpDCe.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Q31MA9Max6f04dd"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 13,
+              "active": true,
+              "name": "En el de la hermana de Rachel",
+              "originalName": "The One with Rachel's Sister",
+              "overview": "Jill, la hermana menor de Rachel, llega a la ciudad tras pelear con su padre y termina aceptando una cita con Ross, incomodando a Rachel.",
+              "airDate": "2000-02-03",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/lIekB9Iqefj7g2RTUgeOrawGhDV.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/gV6RGyd9lXiqwbj"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 14,
+              "active": true,
+              "name": "En el que no se puede llorar",
+              "originalName": "The One Where Chandler Can't Cry",
+              "overview": "El grupo descubre que Chandler no ha llorado desde la infancia ante ningún evento trágico. Rachel intenta detener las salidas entre Ross y Jill.",
+              "airDate": "2000-02-10",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/v9jXwRkamJyt5ZwoC9eD3c2XHKJ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/GbKPx1VxrXc1w67"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 15,
+              "active": true,
+              "name": "En el de lo que podría haber sido (Parte 1)",
+              "originalName": "The One That Could Have Been (Part 1)",
+              "overview": "El grupo especula cómo serían sus vidas si hubieran tomado decisiones distintas: Rachel casada con Barry, Phoebe como corredora de bolsa y Monica con sobrepeso.",
+              "airDate": "2000-02-17",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/fhUs4A5qAOZZRkHsiBNvhUbzAbd.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/X2Xz0JBkWRHDVPB"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 16,
+              "active": true,
+              "name": "En el de lo que podría haber sido (Parte 2)",
+              "originalName": "The One That Could Have Been (Part 2)",
+              "overview": "En el universo alternativo, las situaciones llevan a los amigos a reconectarse de formas extrañamente familiares a su realidad actual.",
+              "airDate": "2000-02-17",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jeCWZhtwWYekmXaNqQjjGvziWob.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/drM0RlqZ7wFbWV"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 17,
+              "active": true,
+              "name": "En el de Unagi",
+              "originalName": "The One with Unagi",
+              "overview": "Ross intenta enseñar a Phoebe y Rachel el concepto de 'Unagi' (autoconciencia en artes marciales). Joey busca un gemelo idéntico para un estudio médico remunerado.",
+              "airDate": "2000-02-24",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/kAf0eTcqL8ehrfWYyKbNSzwiHuv.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/1zZb2Mb6AMFprG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 18,
+              "active": true,
+              "name": "En el que Ross sale con una estudiante",
+              "originalName": "The One Where Ross Dates a Student",
+              "overview": "Ross pone en riesgo su trabajo universitario al salir en secreto con Elizabeth, una de sus alumnas. Un incendio destruye el apartamento de Phoebe y Rachel.",
+              "airDate": "2000-03-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/12OVdVusbxyZKN5YFEhuMLkuFQP.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/RDp18bR02kTkOy"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 19,
+              "active": true,
+              "name": "En el de la nevera de Joey",
+              "originalName": "The One with Joey's Fridge",
+              "overview": "La nevera de Joey se rompe y él intenta chantajear a sus amigos para que paguen la reparación. Elizabeth se va de vacaciones de primavera.",
+              "airDate": "2000-03-23",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/AsK0ljsXaUVPJyMMyEZLIFjhHzR.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/rgdqR01qLAtGaG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 20,
+              "active": true,
+              "name": "En el de Mac y C.H.E.E.S.E.",
+              "originalName": "The One with Mac and C.H.E.E.S.E.",
+              "overview": "Joey audiciona para un programa policíaco junto a un robot, pero una llamada crucial de audición queda olvidada por culpa de Chandler.",
+              "airDate": "2000-04-13",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/l8EycgFaGhknaUnWxkMza4Okj24.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wkzQVKM6yBcJOoO"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 21,
+              "active": true,
+              "name": "En el del padre de Elizabeth",
+              "originalName": "The One with Where Paul Is the Man",
+              "overview": "Ross conoce al intimidating padre de Elizabeth, Paul (Bruce Willis), quien termina entablando una relación romántica con Rachel.",
+              "airDate": "2000-04-27",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/5t8pBcCf87asXhsO1UYvECTKU1b.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/bqzWVBB68qCPXMA"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 22,
+              "active": true,
+              "name": "En el del anillo",
+              "originalName": "The One with the Ring",
+              "overview": "Chandler y Phoebe buscan el anillo de compromiso perfecto para Monica. Paul le revela un lado inesperadamente sensible a Rachel.",
+              "airDate": "2000-05-04",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/grpysBMIoetM5LqWxWVZwjQsoT3.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/waemRyvm6qSJwXk"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 23,
+              "active": true,
+              "name": "En el del amor llorón",
+              "originalName": "The One with the Ring",
+              "overview": "Chandler pretende estar en contra del matrimonio para sorprender a Monica con la propuesta, pero su plan se complica con la reaparición de Richard.",
+              "airDate": "2000-05-11",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zKhnhOiuWHXmnt8u1GswTFIKX9N.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/XgbVePwg2KfDbBy"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 24,
+              "active": true,
+              "name": "En el de la propuesta de matrimonio (Parte 1)",
+              "originalName": "The One with the Proposal (Part 1)",
+              "overview": "Richard le confiesa a Monica que todavía la ama y quiere casarse con ella, descolocando los planes de propuesta preparados por Chandler.",
+              "airDate": "2000-05-18",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/3OWXfD3koZkh2EbTLk95rSGJcG.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Gj0ox4Gdq0uWZG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 25,
+              "active": true,
+              "name": "En el de la propuesta de matrimonio (Parte 2)",
+              "originalName": "The One with the Proposal (Part 2)",
+              "overview": "Monica se entera de las verdaderas intenciones de Chandler y transforma el apartamento en un escenario iluminado para pedirle matrimonio ella misma.",
+              "airDate": "2000-05-18",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jfle5Ia9tVXXUcQB0ziNsGKwR9O.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/3D6gXaegZkhdKDG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 7,
+          "active": true,
+          "name": "Temporada 7",
+          "episodeCount": 24,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends07.png",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "En el del trueno robado",
+              "originalName": "The One with Monica's Thunder",
+              "overview": "Monica acusa a Rachel de robarle el protagonismo de su compromiso al verla besándose con Ross en el pasillo esa misma noche.",
+              "airDate": "2000-10-12",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/imDBzYIzNH5iSOarKkq84I5L167.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/z1R99MvXZQfYYQz"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "En el del libro de Rachel",
+              "originalName": "The One with Rachel's Book",
+              "overview": "Joey descubre una novela erótica en la mesa de noche de Rachel. Los padres de Monica gastaron el fondo destinado para su boda.",
+              "airDate": "2000-10-12",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/yV05qgkIsfjEN33gDsuNMgqPjAT.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/3wYX86xVGafdkMA"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "En el de las galletas de la abuela",
+              "originalName": "The One with Phoebe's Cookies",
+              "overview": "Monica intenta descifrar la receta secreta de galletas de la abuela de Phoebe. Rachel intenta enseñarle a navegar a Joey.",
+              "airDate": "2000-10-19",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/s2jCzF7wnHJMs0gLrJzgPEbd1Zd.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/LyLDjRY43bIRLQA"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "En el del asistente de Rachel",
+              "originalName": "The One with Rachel's Assistant",
+              "overview": "Rachel contrata a un atractivo pero inexperto joven llamado Tag como su asistente personal en lugar de a una candidata calificada.",
+              "airDate": "2000-10-26",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/o8pwwXI3buttxvgjBvn1ShmFb89.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/78bZlbQo2KiYYG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "En el de la foto del compromiso",
+              "originalName": "The One with the Engagement Picture",
+              "overview": "Chandler no logra sonreír de manera natural para las fotos profesionales de compromiso. Phoebe y Joey salen con parejas divorciadas.",
+              "airDate": "2000-11-02",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/9SKIbk7GXFVk7o95eLrNXsTboNl.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/rBQ4JJRXLrFbwRY"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "El de los compañeros de siesta",
+              "originalName": "The One with the Nap Partners",
+              "overview": "Joey y Ross descubren accidentalmente lo placentero que es tomar una siesta juntos. Phoebe y Rachel compiten por ser la dama de honor de Monica.",
+              "airDate": "2000-11-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/d2DIHHrmqqyaEEzwVF6kXGEFUuQ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/xe9kY8dBLzikAmO"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "En el del libro de la biblioteca",
+              "originalName": "The One with Ross's Library Book",
+              "overview": "Ross descubre que su tesis doctoral está guardada en un rincón aislado de la biblioteca universitaria utilizado por parejas para encuentros íntimos.",
+              "airDate": "2000-11-16",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/st1Om9JiUPGUNuF2gnYfAspMDNY.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/0JZzQqwkvmtbdaj"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "En el que Chandler no soporta los perros",
+              "originalName": "The One Where Chandler Doesn't Like Dogs",
+              "overview": "Chandler confiesa su fobia hacia los perros cuando Phoebe oculta a un perro en el apartamento. Ross intenta nombrar los 50 estados de EE.UU.",
+              "airDate": "2000-11-23",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/yWoxm88Cqir55r6QMQX5ZT4eLQ1.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/kWQPbRgqbDFOJQg"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "En el de los caramelos de Monica",
+              "originalName": "The One with All the Candy",
+              "overview": "Monica elabora caramelos caseros para conocer a sus vecinos, desencadenando una multitud obsesionada afuera de su puerta. Phoebe aprende a andar en bicicleta.",
+              "airDate": "2000-12-07",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/9kX1MNGKOCJl5mn6E02upYEvowd.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/mPoxKxezYjt2aL"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "En el del armadillo navideño",
+              "originalName": "The One with the Holiday Armadillo",
+              "overview": "Ross se disfraza de 'Armadillo Navideño' para enseñarle a su hijo Ben sobre Pésaj y Janucá ante la falta de disfraces de Papá Noel.",
+              "airDate": "2000-12-14",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/rfwc29L9N22vhU1mh7I8QBrXLjX.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/oaX8B74kL6fJQ18"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "En el de la tarta de queso",
+              "originalName": "The One with all the Cheesecakes",
+              "overview": "Chandler y Rachel se vuelven adictos a un pastel de queso entregado por error en su edificio, comiéndoselo incluso directamente del suelo del pasillo.",
+              "airDate": "2001-01-04",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1WSZPGVEY78CsWiFBr6LfERuZwT.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/RqD8kJpqloCk99"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "En el de la noche despiertos",
+              "originalName": "The One Where They're Up All Night",
+              "overview": "Una noche de observación de un cometa resulta en insomnio generalizado: Ross y Joey quedan atrapados en el tejado y Phoebe pelea con su alarma de incendios.",
+              "airDate": "2001-01-11",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/q1lnv5Nar6WIxbrQo5cV7P8YAeU.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/YZOzjMd4pkFoVZ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 13,
+              "active": true,
+              "name": "En el del sillón de Rosita",
+              "originalName": "The One where Rosita Dies",
+              "overview": "El amado sillón reclinable de Joey se rompe, lo que origina acusaciones de sabotaje cruzadas. Los padres de Monica deciden vender su casa de la infancia.",
+              "airDate": "2001-02-01",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/oeur7OVIlBZpNXKl4cgsPFQnVJ7.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/o9jjBOpM9xCWev"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 14,
+              "active": true,
+              "name": "En el que todos cumplen treinta",
+              "originalName": "The One Where They All Turn Thirty",
+              "overview": "El cumpleañero de 30 años de Rachel trae recuerdos nostalgicos de cómo reaccionaron trágicamente los demás miembros del grupo al llegar a esa misma edad.",
+              "airDate": "2001-02-08",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/eghy8EUnsmH6w6vEMAV2Ug18GXn.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/lDP9p7Zdpxtagx"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 15,
+              "active": true,
+              "name": "En el del nuevo cerebro de Joey",
+              "originalName": "The One with Joey's New Brain",
+              "overview": "El personaje de Joey en la telenovela despierta del coma al recibir el trasplante de cerebro de un personaje veterano interpretado por Susan Sarandon.",
+              "airDate": "2001-02-15",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jCJg30mOZFUUjAdig3aeSbXL7VW.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/1pGB97ZjqOueW8o"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 16,
+              "active": true,
+              "name": "En el de la verdad sobre Londres",
+              "originalName": "The One with the Truth About London",
+              "overview": "Se revela la verdad sobre la noche inicial de Monica y Chandler en Londres: originalmente Monica buscaba a Joey esa noche.",
+              "airDate": "2001-02-22",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/tfsPxEQ5cmpg4pEDAWssR3TW489.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/kZgBqg3KbBuO1VY"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 17,
+              "active": true,
+              "name": "En el del vestido de novia económico",
+              "originalName": "The One with the Cheap Wedding Dress",
+              "overview": "Monica se enfrenta violentamente a otra novia en un remate de vestidos con descuento. Joey y Ross compiten por salir con la misma mujer.",
+              "airDate": "2001-03-15",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/6EdqJXkjEaoN09otW5e0Q3fchIl.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/OoWa6V3dMDcZ4VP"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 18,
+              "active": true,
+              "name": "En el del premio Joey",
+              "originalName": "The One with Joey's Award",
+              "overview": "Joey es nominado a un premio de actuación en televisión. Ross enfrenta un problema de celos con un estudiante que finge estar enamorado de él para pasar la materia.",
+              "airDate": "2001-03-29",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/7j4ammK2F5K9pmyLh946m1eIhOF.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/x9RMDb4bjpHkdAX"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 19,
+              "active": true,
+              "name": "En el de la prima de Monica y Ross",
+              "originalName": "The One with Ross and Monica's Cousin",
+              "overview": "La atractiva prima de los Geller (Denise Richards) llega de visita, distrayendo irremediablemente a Chandler, Ross e incluso a Phoebe.",
+              "airDate": "2001-04-19",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/ikhwogIjntfhWquuOfxdJwg8GHL.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/dZ23kpgzbJtkJq7"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 20,
+              "active": true,
+              "name": "En el del beso de Rachel",
+              "originalName": "The One with Rachel's Big Kiss",
+              "overview": "Rachel se reencuentra con una antigua compañera de universidad (Winona Ryder) e insiste en que tuvieron un beso pasional en el pasado aunque la otra lo niegue.",
+              "airDate": "2001-04-26",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/xh9Wk6wyQDza7mKVc39wGcjGDRb.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/oAmqozom1pSd86"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 21,
+              "active": true,
+              "name": "En el del voto de boda",
+              "originalName": "The One with the Vows",
+              "overview": "Monica y Chandler tienen dificultades para redactar sus votos de boda personales y recuerdan los mejores momentos compartidos juntos.",
+              "airDate": "2001-05-03",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/kgLt31d0oEed39CIkw3lsO4EZ9c.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/LJeJvKjalWuRQJP"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 22,
+              "active": true,
+              "name": "En el del papá de Chandler",
+              "originalName": "The One with Chandler's Dad",
+              "overview": "Chandler viaja a Las Vegas con Monica para invitar formalmente a su distanciado padre trans que actúa en un espectáculo de transformismo.",
+              "airDate": "2001-05-10",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1ApTQ7uUhUkLI3si7r2iLp3xXt4.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/81gwbbqjxXuobV6"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 23,
+              "active": true,
+              "name": "En el de la boda de Monica y Chandler (Parte 1)",
+              "originalName": "The One with Monica and Chandler's Wedding (Part 1)",
+              "overview": "A horas de la ceremonia, Chandler entra en pánico y desaparece. Mientras lo buscan, Phoebe y Rachel encuentran una prueba de embarazo positiva en el baño.",
+              "airDate": "2001-05-17",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/omXc88sdzQHamGPW0GR5zL5McPB.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/jvwkmQ0oPaUzw6P"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 24,
+              "active": true,
+              "name": "En el de la boda de Monica y Chandler (Parte 2)",
+              "originalName": "The One with Monica and Chandler's Wedding (Part 2)",
+              "overview": "Chandler regresa a tiempo tras la aclaración. La boda se lleva a cabo con éxito, pero la prueba de embarazo pertenece en secreto a Rachel.",
+              "airDate": "2001-05-17",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/nWY9oeqaKBzLbqY1H59QxMzLZDO.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/6jzYK6dXKDSlK1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 8,
+          "active": true,
+          "name": "Temporada 8",
+          "episodeCount": 24,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends08.png",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "En el que 'dije sí'",
+              "originalName": "The One After 'I Do'",
+              "overview": "En la recepción de la boda, Phoebe intenta atribuirse la prueba de embarazo positiva para proteger el secreto de Rachel.",
+              "airDate": "2001-09-27",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zTVPfthOgP1yz9PcOxHRwPMEAUS.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/x2wjVad4jvikkg6"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "En el del suéter rojo",
+              "originalName": "The One with the Red Sweater",
+              "overview": "El grupo busca al dueño de un suéter rojo olvidado en el apartamento para descubrir quién es el padre del bebé de Rachel.",
+              "airDate": "2001-10-04",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/Ac5DNKZFRjlemuae22SKqI8geEB.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/bRwzjlQ80RFPA8J"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "En el que Rachel le cuenta...",
+              "originalName": "The One Where Rachel Tells...",
+              "overview": "Rachel le revela a Ross que está embarazada de él, provocando una reacción inesperada sobre la efectividad de los preservativos.",
+              "airDate": "2001-10-11",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/wZeIsy5034XouvErUT9fAI8UIjy.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/OADWaJpdzrCZVyD"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "En el del video de la cita",
+              "originalName": "The One with the Video Tape",
+              "overview": "Ross y Rachel discuten sobre quién inició la aventura la noche de su reencuentro, hasta que sale a la luz una cinta de video grabada por casualidad.",
+              "airDate": "2001-10-18",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1znECVU4xrWkzs2Khs0YHvTNSTo.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/KQ0G92d3q3S0QDk"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "En el de la cita de Rachel",
+              "originalName": "The One with Rachel's Date",
+              "overview": "Rachel sale con un atractivo actor, pero las complicaciones de su embarazo arruinan la velada. Phoebe sale con un compañero de trabajo de Chandler.",
+              "airDate": "2001-10-25",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/hn9Wxur1Y4s8esWI8w8VrNbSbz8.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/2q0gyXydeoIZ9k7"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "En el de la fiesta de Halloween",
+              "originalName": "The One with the Halloween Party",
+              "overview": "Monica organiza una fiesta de disfraces donde Ross se viste de Spud-nik y Chandler de conejo rosa. Sean Penn aparece como prometido de Úrsula.",
+              "airDate": "2001-11-01",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/etHUWVLhXpPHCbzH4uNNetEQkUq.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/J9Kgzy3vRjHjlzR"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "En el de la mancha de la prenda",
+              "originalName": "The One with the Stain",
+              "overview": "Chandler contrata a una empleada doméstica y Monica sospecha que la mujer le roba la ropa. Ross busca un apartamento para Rachel en su edificio.",
+              "airDate": "2001-11-08",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/busMxkMHJCt5hyd4LRMH9Teg5KZ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/ReDOV9dzZOt7Aa"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "En el de la stripper de la despedida",
+              "originalName": "The One with the Stripper",
+              "overview": "Monica se siente culpable por no organizar una despedida de soltero para Chandler y contrata a una stripper que resulta ser una prostituta.",
+              "airDate": "2001-11-15",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/ol7aXhn4TCZmwbud9g72uR8WGFc.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/jlJMgMAMWYf20B"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "En el del rumor de Acción de Gracias",
+              "originalName": "The One with the Rumor",
+              "overview": "Un antiguo compañero de secundaria de Monica y Ross (Brad Pitt) asiste a la cena de Acción de Gracias y revela un club anti-Rachel que formó en el colegio.",
+              "airDate": "2001-11-22",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/nhQ7irmtvCdMqGbfmN21Vf0FI4H.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/7j9PbeM1QQfA626"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "En el de las botas de Monica",
+              "originalName": "The One with Monica's Boots",
+              "overview": "Monica gasta una fortuna en unos zapatos de diseño y oculta el dolor que le provocan. Phoebe descubre que el hijo de Ross va a la escuela con el hijo de Sting.",
+              "airDate": "2001-12-06",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/qRRYtxCn7nrS2Y6rHwg2vpnSt68.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/rBOwMk0VDatx9k"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "En el de la cita de Ross",
+              "originalName": "The One with Ross's Step Forward",
+              "overview": "Ross entra en pánico cuando su nueva novia propone enviar tarjetas navideñas juntos. Rachel experimenta impulsos hormonales descontrolados.",
+              "airDate": "2001-12-13",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/s7JMRcbWK211dg4GUABjZWOjykB.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/mqqegYxQVBubjw0"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "En el que Joey viste de lana",
+              "originalName": "The One Where Joey Dates Rachel",
+              "overview": "Joey invita a salir a Rachel para prepararla para el mundo de las citas durante el embarazo, pero termina desarrollando sentimientos reales por ella.",
+              "airDate": "2002-01-10",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/kagedGmNAj0de2q2ej1CQVyAlsk.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/RpDd96zKXbIdVxv"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 13,
+              "active": true,
+              "name": "El de cuando Chandler se da un baño",
+              "originalName": "The One Where Chandler Takes a Bath",
+              "overview": "Chandler descubre los placeres de los baños de inmersión relajantes. Joey lucha contra sus crecientes sentimientos románticos hacia Rachel.",
+              "airDate": "2002-01-17",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/bcmxlN6YdOIScblA4c3qmq2gsx8.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/YBm3Kj7xWKTB7o"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 14,
+              "active": true,
+              "name": "En el que la puerta secreta es abierta",
+              "originalName": "The One with the Secret Closet",
+              "overview": "Chandler descubre un armario desordenado que Monica mantenía oculto. Ross sugiere que Rachel se mude con él para acompañarla en la recta final.",
+              "airDate": "2002-01-31",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/pIZ4ZbdqiUW0X7iGDbC1eTBwSms.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/WoryrZwGYPsrDK"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 15,
+              "active": true,
+              "name": "En el del video del parto",
+              "originalName": "The One with the Birthing Video",
+              "overview": "Chandler mira por error un espeluznante video explícito de un parto en San Valentín. Joey le confiesa finalmente sus sentimientos a Ross.",
+              "airDate": "2002-02-07",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/dRwuancw8f7wJr5t3bkct4X5E5P.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/aye1xrdyRgFlJ3"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 16,
+              "active": true,
+              "name": "En el que Joey le confiesa a Rachel",
+              "originalName": "The One Where Joey Tells Rachel",
+              "overview": "Joey le confiesa su amor a Rachel durante una emotiva cena; ella reacciona sorprendida pero se comprometen a mantener su valiosa amistad.",
+              "airDate": "2002-02-28",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/4t7nMNohxhwKBUuDI1v93Y9ekWF.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/xkavo7BxlvcqXg"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 17,
+              "active": true,
+              "name": "En el de las hojas de té",
+              "originalName": "The One with the Tea Leaves",
+              "overview": "Phoebe lee sus hojas de té y predice que conocerá al hombre de su vida. Rachel inventa un problema laboral para romper la incomodidad con Joey.",
+              "airDate": "2002-03-07",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/aZB8MEwEBktPcL2nr8dqyl1bi0x.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/QDzgeXwgvzu0XjJ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 18,
+              "active": true,
+              "name": "El de fiesta en Massapequa",
+              "originalName": "The One in Massapequa",
+              "overview": "El grupo asiste al 35º aniversario de bodas de los padres de Monica. Ross y Rachel deben simular ante todos que están casados.",
+              "airDate": "2002-03-28",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/6KO8iJzaNQBbQxYzoJtV1W06T4S.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/XorM647zD0SD4A8"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 19,
+              "active": true,
+              "name": "El de la entrevista de Joey",
+              "originalName": "The One with Joey's Interview",
+              "overview": "Joey obtiene una entrevista con Soap Opera Digest y le pide a sus amigos que estén presentes para evitar arruinar la nota con comentarios inapropiados.",
+              "airDate": "2002-04-04",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/yIw1XSopqnujd78Tgm24I2Pzq61.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/koQvdm37PphO2yy"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 20,
+              "active": true,
+              "name": "En el de la fiesta del bebé",
+              "originalName": "The One with the Baby Shower",
+              "overview": "La madre de Rachel asiste al baby shower de su hija y se ofrece a mudarse para ayudar con la crianza del bebé, aterrando a Rachel.",
+              "airDate": "2002-04-25",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/qQIq9ALRWu2WB2WDMVz7lWNTnQd.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Yq48xrBp1yIvG9Y"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 21,
+              "active": true,
+              "name": "En el de la clase de cocina",
+              "originalName": "The One with the Cooking Class",
+              "overview": "Monica asiste a una clase de cocina tras recibir una crítica negativa. Ross lidia con una enfermera de maternidad muy atractiva en la clínica.",
+              "airDate": "2002-05-02",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/paUWeSKy1BRnh7a1D4hUi8SQnJh.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/3Dv6LLpwrKtdv7a"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 22,
+              "active": true,
+              "name": "El de cuando Rachel se retrasa",
+              "originalName": "The One Where Rachel Is Late",
+              "overview": "Pasada la fecha de parto, Rachel está extremadamente irritable e intenta desesperadamente provocar las contracciones con métodos caseros.",
+              "airDate": "2002-05-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/mtyhJQESigpYObHoJDdfTIjnt8g.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/3Ge92YlAMocdodp"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 23,
+              "active": true,
+              "name": "En el que Rachel tiene un bebé (Parte 1)",
+              "originalName": "The One Where Rachel Has a Baby (Part 1)",
+              "overview": "Rachel entra en trabajo de parto prolongado en una habitación compartida de hospital. Monica y Chandler deciden comenzar a buscar un bebé.",
+              "airDate": "2002-05-16",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/rk7CtLH2RXUK5LBdr6Mg1YZxn3j.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/46gazgMyoOurZK"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 24,
+              "active": true,
+              "name": "En el que Rachel tiene un bebé (Parte 2)",
+              "originalName": "The One Where Rachel Has a Baby (Part 2)",
+              "overview": "Nace la pequeña Emma. Confusa tras el parto y por un malentendido con un anillo de compromiso, Rachel le dice 'sí' por error a una propuesta involuntaria de Joey.",
+              "airDate": "2002-05-16",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/lHr48Z0fTHmhV9ndPO0Yd3joAaU.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/vPakO6VRkzh262"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 9,
+          "active": true,
+          "name": "Temporada 9",
+          "episodeCount": 24,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends09.png",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "En el que nadie propone matrimonio",
+              "originalName": "The One Where No One Proposes",
+              "overview": "Se aclara la confusión en el hospital respecto al anillo de Joey y la supuesta propuesta de matrimonio a Rachel.",
+              "airDate": "2002-09-26",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/dNqS2szoMmfgfFttsVZTggXjttz.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/vgdO3oyzgQt4GRr"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "En el que Emma llora",
+              "originalName": "The One Where Emma Cries",
+              "overview": "Rachel desespera porque no logra calmar el llanto incesante de la bebé Emma. Joey se rompe el meñique en un choque de puños con Ross.",
+              "airDate": "2002-10-03",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1WMGVmrp5ZOiLjMTCcx8J7Ws18g.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Q3KJvwyxMPH0oG2"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "En el del pediatra",
+              "originalName": "The One with the Pediatrician",
+              "overview": "Rachel busca un nuevo pediatra para Emma y descubre que Ross sigue acudiendo a su propio pediatra de la infancia. Chandler debe mudarse temporalmente a Tulsa.",
+              "airDate": "2002-10-10",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/svtWGUDz560o96lHLSIo0PN8zxS.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/LqOdzOdObWsRQxR"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "En el de los tiburones",
+              "originalName": "The One with the Sharks",
+              "overview": "Monica viaja a Tulsa para sorprender a Chandler y cree erróneamente que él se excita viendo documentales sobre tiburones.",
+              "airDate": "2002-10-17",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/nlogeZvRNX0kkN80hhoPAMjMoZT.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/3GxbYMD0Vjhr9g"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "En el de la cena de cumpleaños de Phoebe",
+              "originalName": "The One with Phoebe's Birthday Dinner",
+              "overview": "Phoebe reserva una mesa grande para celebrar su cumpleaños pero la impuntualidad sistemática de sus amigos amenaza con arruinar la cena.",
+              "airDate": "2002-10-31",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/iAN1Ws0X6seDBw9sSq5IeTThXSh.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/PrZOv1QwjOi0J2Y"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "En el del niñero varón",
+              "originalName": "The One with the Male Nanny",
+              "overview": "Ross no se siente cómodo contratando a un niñero extremadamente sensible y calificado llamado Sandy (Freddie Prinze Jr.) para cuidar a Emma.",
+              "airDate": "2002-11-07",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/95NzE8ACrk96PtNCM88k1o98wuj.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/pa88e22yewsrazA"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "El de la inapropiada canción de Ross",
+              "originalName": "The One with Ross's Inappropriate Song",
+              "overview": "Ross y Rachel descubren que cantar 'Baby Got Back' (una canción de rap explícita) es la única manera de hacer reír a la pequeña Emma.",
+              "airDate": "2002-11-14",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/pBnUEJawXmeYZyY32jxvcepvfFY.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/4qVRMy8VoZfKaxv"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "En el de la otra hermana de Rachel",
+              "originalName": "The One with Rachel's Other Sister",
+              "overview": "Amy (Christina Applegate), la egoísta hermana de Rachel, causa un caos en la cena de Acción de Gracias al reclamar quién mantendría a Emma si Ross y Rachel mueren.",
+              "airDate": "2002-11-21",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1ZbrGwsRcMYTJ5eMedOyz16obgO.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/ZKYYyrRAXrFqavP"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "El del número de teléfono de Rachel",
+              "originalName": "The One with Rachel's Phone Number",
+              "overview": "Rachel le da su número de teléfono a un sujeto en un bar y sufre al pensar que interceptará la llamada en el apartamento que comparte con Ross.",
+              "airDate": "2002-12-05",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/9fLrbwWlk71ijfQNQd7ZGIkokgM.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/RqWWJBGQDlTx07"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "En el de la Navidad en Tulsa",
+              "originalName": "The One with Christmas in Tulsa",
+              "overview": "Atrapado en Tulsa durante la Navidad, Chandler rechaza las proposiciones de una colega y renuncia a su trabajo para volver a Nueva York con Monica.",
+              "airDate": "2002-12-12",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/dg0JY99c3DOKkt9VuBUQ1rYwctA.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/o1AWXpz1KKtJzZG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "El de cuando Rachel vuelve al trabajo",
+              "originalName": "The One where Rachel Goes Back to Work",
+              "overview": "Rachel regresa antes de tiempo de su licencia por maternidad por miedo a que el sustituto contratado en Ralph Lauren le quite su puesto.",
+              "airDate": "2003-01-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zpY4Re3IqvYrPG75AlTrRQAvYNW.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/x1LmPaRZ6JUkO0y"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "En el de las ratas de Phoebe",
+              "originalName": "The One with Phoebe's Rats",
+              "overview": "Phoebe cría a una camada de ratas bebés en su departamento. Rachel y su nuevo compañero de trabajo Gavin se besan en la terraza.",
+              "airDate": "2003-01-16",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/lTlqu2AsioTFRDiok3oVV0OFTGl.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/GPVQMPZqG4h1LQy"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 13,
+              "active": true,
+              "name": "El de cuando Mónica canta",
+              "originalName": "The One where Monica Sings",
+              "overview": "Monica canta en un bar de piano sin darse cuenta de que las luces del escenario hacen que su blusa sea totalmente transparente.",
+              "airDate": "2003-01-30",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/upFUL4W5piQPWrHRwykCHNnlQe3.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/ylJJM4O3DqI3kw"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 14,
+              "active": true,
+              "name": "En el de las citas a ciegas",
+              "originalName": "The One with the Blind Dates",
+              "overview": "Joey y Phoebe organizan horribles citas a ciegas para Ross y Rachel con la intención de que se den cuenta de que se necesitan mutuamente.",
+              "airDate": "2003-02-06",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/FRftNRoz7VDKiWMBNfv0uxbMXh.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/RAGj0OKmbdHdWLq"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 15,
+              "active": true,
+              "name": "En el del atraco",
+              "originalName": "The One with the Muggings",
+              "overview": "Phoebe descubre que asaltó a Ross cuando eran jóvenes. Joey audiciona para un papel dramático manteniendo la vejiga dolorosamente llena.",
+              "airDate": "2003-02-13",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/nBEazpZAqKuTMliM1ydfTq2QGWc.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/lPxXBRwmxXT7Jzm"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 16,
+              "active": true,
+              "name": "El de la operación de pecho",
+              "originalName": "The One with the Boob Job",
+              "overview": "Phoebe se muda a vivir con Mike. Chandler y Monica se piden préstamos en secreto a Joey ocultándose el uno al otro.",
+              "airDate": "2003-02-20",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/4xNYEIa6uVBNSeplys4pAjT195U.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/4R2aJ3BPjoiKK6P"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 17,
+              "active": true,
+              "name": "La conmemoración funeraria",
+              "originalName": "The One with the Memorial Service",
+              "overview": "Ross y Chandler publican rumores falsos en la web de exalumnos; la broma se sale de control cuando Chandler anuncia la muerte ficticia de Ross.",
+              "airDate": "2003-03-13",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/z0Lu8f06CXqIB1KHqFNdU41zcco.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/e4j0B1ga1OsJ8G"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 18,
+              "active": true,
+              "name": "En el de la Lotería",
+              "originalName": "The One with the Lottery",
+              "overview": "El grupo decide comprar masivamente boletos de lotería tras un premio acumulado millonario, desatando una fuerte avaricia y desconfianza.",
+              "airDate": "2003-04-03",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/toJZ7LoCvdJRjLFLKmtDav3gBhi.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/4Byl0pBdeVhKAWJ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 19,
+              "active": true,
+              "name": "El sueño de Rachel",
+              "originalName": "The One with Rachel's Dream",
+              "overview": "Rachel sueña que besa apasionadamente a Joey tras presenciar la grabación de una escena romántica en el set de rodaje.",
+              "airDate": "2003-04-17",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/862ijAk0BbamUuYNbPAR1vr60ov.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/aogAwWQOBdU0pw"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 20,
+              "active": true,
+              "name": "La fiesta de Joey",
+              "originalName": "The One with the Soap Opera Party",
+              "overview": "Joey organiza en secreto su fiesta anual para los fans de su telenovela en la azotea del edificio. Ross conoce a una bella colega llamada Charlie.",
+              "airDate": "2003-04-24",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/4wH9b3svJ1m2kZGc7rNCqfkvvCJ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/YpZ7zQDZGZHv90w"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 21,
+              "active": true,
+              "name": "La prueba de fertilidad",
+              "originalName": "The One with the Fertility Test",
+              "overview": "Chandler y Monica acuden a una clínica de fertilidad y descubren que ambos tienen inconvenientes biológicos para concebir.",
+              "airDate": "2003-05-01",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/o7VpwLq0wtQLHEl0a05BNq4TWEb.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wx8WQQZM0Vijor"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 22,
+              "active": true,
+              "name": "En el del donante",
+              "originalName": "The One with the Donor",
+              "overview": "Monica y Chandler invitan a cenar a un atractivo colega para evaluarlo discretamente como posible donante de esperma.",
+              "airDate": "2003-05-08",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8Wne3Hui6xRR9pmbYr4cjxpvWIU.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/0LL2qaYVXKubGzG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 23,
+              "active": true,
+              "name": "El viaje a Barbados (Parte 1 y 2)",
+              "originalName": "The One in Barbados (Part 1 y 2)",
+              "overview": "El grupo viaja a las Barbados para la convención de paleontología de Ross. David le pide matrimonio a Phoebe pese a la presencia de Mike. Las dinámicas amorosas cambian por completo en el hotel: Charlie besa a Ross mientras Joey y Rachel terminan juntos compartiendo un beso.",
+              "airDate": "2003-05-15",
+              "duration": 44,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/4zj2rc0kSOCg0QB3EojvSawyv5F.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/PZeYrPaB6Mt0qgB"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 10,
+          "active": true,
+          "name": "Temporada 10",
+          "episodeCount": 18,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/friends10.png",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "En el que Joey y Rachel besan",
+              "originalName": "The One After Joey and Rachel Kiss",
+              "overview": "Las parejas intentan reorganizarse en el hotel de las Barbados. Ross y Joey deciden conversar sobre sus respectivos sentimientos por Rachel.",
+              "airDate": "2003-09-25",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/eo4ySedQXdpKoB2cRshDA9UEbLO.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/pb29V7lGOvFVqG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "En el que Ross está bien",
+              "originalName": "The One Where Ross Is Fine",
+              "overview": "Ross asegura exageradamente estar 'bien' ante la relación de Joey y Rachel, organizando una desastrosa e incómoda cena doble en su casa.",
+              "airDate": "2003-10-02",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/2K1zPklVTR9Z2l47iJFuvRzGjOx.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/lq7jDMxOAjt7kaP"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "En el del bronceado de Ross",
+              "originalName": "The One with Ross's Tan",
+              "overview": "Ross se somete a un bronceado en aerosol pero comete un error contando los segundos, resultando con un color grotesco en el rostro.",
+              "airDate": "2003-10-09",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/u2NYOpUX2ZE1KFkBr2h5mrYiN1P.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/kwZxBzxVp4iOzOG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "El del Pastel de Emma",
+              "originalName": "The One with the Cake",
+              "overview": "El primer cumpleaños de Emma se arruina temporalmente cuando entregan por error un pastel con forma erótica en lugar de uno infantil.",
+              "airDate": "2003-10-23",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/fY5jQGe5Z6yyV66ElDGwDcNZGMQ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/PXkAX47G0dTWgB"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "El de Cuando la Hermana de Rachel Cuida a Emma",
+              "originalName": "The One where Rachel's Sister Babysits",
+              "overview": "Rachel deja a su hermana Amy a cargo de cuidar a Emma. Mike le propone matrimonio a Phoebe durante un partido de baloncesto.",
+              "airDate": "2003-10-30",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/rCmLkDHifFFkoFnZ9j7h4Vrxnaf.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/q940j3mYY3szPxM"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "El de la Beca de Ross",
+              "originalName": "The One with Ross's Grant",
+              "overview": "Un exnovio de Charlie administra una importante subvención académica para la que Ross postuló, poniéndolo en un duro compromiso.",
+              "airDate": "2003-11-06",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/kEsHJvPzYy5ajdY3Rkct2Z5QrZ6.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wGq47o6qblTJR12"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "El de la Visita de la Trabajadora Social",
+              "originalName": "The One with the Home Study",
+              "overview": "Una trabajadora social visita el apartamento de Monica y Chandler para su proceso de adopción, resultando ser una expareja resentida de Joey.",
+              "airDate": "2003-11-13",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/mCnDBgrjzDPIBPMSlo1TdMk28C6.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/apRPx20J8PTxXVq"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "En el de la Acción de Gracias tardía",
+              "originalName": "The One with the Late Thanksgiving",
+              "overview": "Los cuatro amigos llegan tarde a la cena organizada por Monica por asistir a un partido de hockey y un concurso de belleza, desatando la furia de ella.",
+              "airDate": "2003-11-20",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/wy23se5VuWF574aHoljxvwoSudK.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/jjglYgJ9B1fzrga"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "En el de la madre biológica",
+              "originalName": "The One with the Birth Mother",
+              "overview": "Chandler y Monica viajan a Ohio para conocer a una mujer embarazada (Anna Faris) que evalúa dar en adopción a su bebé a una familia adecuada.",
+              "airDate": "2004-01-08",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/4s7D54BlT3bx1nNoTUEYxofeIMW.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/D0x1mJwvYBIAje"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "El de Cuando Descubren a Chandler",
+              "originalName": "The One Where Chandler Gets Caught",
+              "overview": "Phoebe y Rachel ven a Chandler con una agente inmobiliaria y creen que tiene un amorío, ignorando que él y Monica planean comprar una casa fuera de la ciudad.",
+              "airDate": "2004-01-15",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/Md5d3VpR4MbP0MjbelfmDeB81A.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/XkBG3P8p92TDkQG"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "El stripper que llora",
+              "originalName": "The One where the Stripper Cries",
+              "overview": "En la despedida de soltera de Phoebe contratan a un stripper de corta estatura y edad avanzada (Danny DeVito) que rompe en llanto desconsolado.",
+              "airDate": "2004-02-05",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8lMKnJt9mdMAOO063pTPp8pDB4A.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Jqpxd9gMRzSjWr9"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "En el de la boda de Phoebe",
+              "originalName": "The One with Phoebe's Wedding",
+              "overview": "Una fuerte tormenta de nieve paraliza la ciudad en el día de la boda de Phoebe y Mike, obligándolos a realizar la ceremonia al aire libre afuera del Central Perk.",
+              "airDate": "2004-02-12",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/uOQGYXWmvgBVslgEbmy67Zu4eOq.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Gp70361Z4QH1LjW"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 13,
+              "active": true,
+              "name": "En el que Joey habla francés",
+              "originalName": "The One Where Joey Speaks French",
+              "overview": "Phoebe intenta enseñarle francés a Joey para un papel teatral sin éxito alguno. Ross viaja a Long Island con Rachel tras la muerte de su padre.",
+              "airDate": "2004-02-19",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/xvULxfWrSrPgpaeNF6MqbHRo7jp.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/LYXdkMP8XGIRBzk"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 14,
+              "active": true,
+              "name": "El de la Princesa Consuela",
+              "originalName": "The One with Princess Consuela",
+              "overview": "Rachel pierde su empleo en Ralph Lauren pero recibe una atractiva oferta para trabajar en Gucci con sede en París.",
+              "airDate": "2004-02-26",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/tUs9QYIyKLxAqIwLvDDOrTgvkW8.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/GA2avdoryeh1bKj"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 15,
+              "active": true,
+              "name": "Cuando muere Estelle",
+              "originalName": "The One Where Estelle Dies",
+              "overview": "Rachel se despide individualmente de cada amigo antes de su partida a París, dejando a Ross profundamente herido al ser el único ignorado.",
+              "airDate": "2004-04-22",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jsTrgh20e7J7zq8QLbCE7jNVPmH.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/m646rovPgWtB9q"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 16,
+              "active": true,
+              "name": "La fiesta de despedida de Rachel",
+              "originalName": "The One with Rachel's Going Away Party",
+              "overview": "Ross confronta a Rachel por no despedirse de él; la discusión culmina en una noche pasional juntos antes de que ella aborde su vuelo.",
+              "airDate": "2004-04-29",
+              "duration": 22,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/hUrlzwAmzoLj7TvZIWs9OJO7up1.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/oL3LRl3pbKTKpJ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 17,
+              "active": true,
+              "name": "El final (Parte 1 y 2)",
+              "originalName": "The Last One (Part 1 y 2)",
+              "overview": "Erica da a luz inesperadamente a gemelos para sorpresa de Monica y Chandler. Ross corre desesperado al aeropuerto con Phoebe para detener el vuelo de Rachel. / Rachel baja del avión a último momento para quedarse con Ross. Todo el grupo deja sus llaves en el apartamento vacío para ir a tomar un último café juntos.",
+              "airDate": "2004-05-06",
+              "duration": 44,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/7XmwmXkJtObpt6ABPENanrJHlg9.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/pxRJzo7ao2txJ0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

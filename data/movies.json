@@ -31,6 +31,35 @@
             "active": false
         },
         {
+            "id": "friends-the-reunion",
+            "tmdbId": 1088177,
+            "title": "Friends: The Reunion",
+            "originalTitle": "Friends: The Reunion",
+            "year": 2021,
+            "releaseDate": "2021-05-27",
+            "genres": [
+                "Comedia",
+                "Documental"
+            ],
+            "duration": 104,
+            "rating": {
+                "score": 8.0,
+                "source": "TMDB"
+            },
+            "description": "El elenco de Friends se reúne para recordar la serie que marcó a toda una generación. Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry y David Schwimmer regresan al escenario original para compartir recuerdos, anécdotas y momentos especiales junto a invitados y fanáticos.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/lPqJZy9R9PimX4/"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "amos-del-universo",
             "tmdbId": 1311031,
             "title": "Amos del universo",
