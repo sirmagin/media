@@ -253,20 +253,14 @@
         },
         {
             "id": 14,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Mega 2",
             "category": [
                 "Nacional"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/mega2.jpeg",
-            "stream": [
-                {
-                    "type": "",
-                    "url": "https://mdstrm.com/live-stream-playlist/631a1d95d3d77c082535e614.m3u8?access_token=",
-                    "fixed": true
-                }
-            ]
+            "stream": []
         },
         {
             "id": 15,
