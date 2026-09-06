@@ -401,11 +401,11 @@
             "stream": [
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
                 },
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
                 }
             ]
         },
@@ -612,7 +612,7 @@
             "stream": [
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hc&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0c7&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
@@ -620,7 +620,7 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0c7&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hc&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -751,11 +751,11 @@
             "stream": [
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hp&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hv&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hv&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hp&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -786,11 +786,11 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0fj&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0i6&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0i6&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0fj&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -815,7 +815,7 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0i5&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
@@ -823,7 +823,7 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0i5&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -840,11 +840,11 @@
             "stream": [
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0bz&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0c9&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0c9&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0bz&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
@@ -919,7 +919,7 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0gn&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0d4&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
@@ -927,7 +927,7 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0d4&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0gn&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1058,11 +1058,11 @@
             "stream": [
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hy&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0fh&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0fh&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hy&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1195,11 +1195,11 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0cg&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hr&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hr&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0cg&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1215,11 +1215,11 @@
             "stream": [
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hs&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0cj&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0cj&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/m1z9/phpcode/lista01.php?c=a0hs&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
