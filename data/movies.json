@@ -31,6 +31,36 @@
             "active": false
         },
         {
+            "id": "star-wars-the-mandalorian-and-grogu",
+            "tmdbId": 1228710,
+            "title": "Star Wars: The Mandalorian y Grogu",
+            "originalTitle": "The Mandalorian and Grogu",
+            "year": 2026,
+            "releaseDate": "2026-05-20",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 132,
+            "rating": {
+                "score": 7.5,
+                "source": "TMDB"
+            },
+            "description": "El Imperio ha caído, pero los señores de la guerra imperiales permanecen dispersos por la galaxia. Mientras la Nueva República intenta proteger los ideales por los que luchó la Rebelión, el legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu emprenden una nueva aventura.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/qI7r7bo2kLaHx9gpCEc3ZHYylUL.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/qI7r7bo2kLaHx9gpCEc3ZHYylUL.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/e04PB3RMGGcYVrz/"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "guerra-mundial-z",
             "tmdbId": 72190,
             "title": "Guerra Mundial Z",
