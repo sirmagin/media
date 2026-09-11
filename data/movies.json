@@ -31,6 +31,36 @@
             "active": false
         },
         {
+            "id": "trascender",
+            "tmdbId": 157353,
+            "title": "Trascender",
+            "originalTitle": "Transcendence",
+            "year": 2014,
+            "releaseDate": "2014-04-18",
+            "genres": [
+                "Ciencia ficción",
+                "Drama",
+                "Thriller"
+            ],
+            "duration": 119,
+            "rating": {
+                "score": 6.2,
+                "source": "TMDB"
+            },
+            "description": "El científico Will Caster trabaja en la creación de una inteligencia artificial consciente que pueda superar los límites de la inteligencia humana. Después de ser víctima de un atentado, su mente es trasladada a un sistema informático, lo que le permite alcanzar un poder tecnológico sin precedentes y plantea preguntas sobre la conciencia, la humanidad y los límites de la tecnología.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/i3JqPtiJWnidaif3UA2K2Eng0hp.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/i3JqPtiJWnidaif3UA2K2Eng0hp.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/ldQpW0884OI71pR/"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "ferngully-las-aventuras-de-zak-y-crysta",
             "tmdbId": 1521,
             "title": "Ferngully: Las aventuras de Zak y Crysta",
