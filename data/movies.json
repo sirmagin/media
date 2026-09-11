@@ -31,6 +31,496 @@
             "active": false
         },
         {
+            "sources": [
+                {
+                "type": "direct",
+                "video": ""
+                }
+            ],
+            "active": false
+        },
+        {
+            "id": "ant-man-y-la-avispa-quantumania",
+            "tmdbId": 640146,
+            "title": "Ant-Man y la Avispa: Quantumanía",
+            "originalTitle": "Ant-Man and the Wasp: Quantumania",
+            "year": 2023,
+            "releaseDate": "2023-02-15",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 125,
+            "rating": {
+                "score": 6.3,
+                "source": "TMDB"
+            },
+            "description": "Los socios superhéroes Scott Lang y Hope van Dyne regresan para continuar sus aventuras como Ant-Man y la Avispa. Junto con los padres de Hope, Hank Pym y Janet van Dyne, y la hija de Scott, Cassie Lang, la familia se encuentra explorando el Reino Cuántico, interactuando con extrañas criaturas nuevas y embarcándose en una aventura que los llevará más allá de los límites de lo que creían posible.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/lKHy0ntGPdQeFwvNq8gK1D0anEr.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/plBm9jKwjpSr8K0/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "ant-man-y-la-avispa",
+            "tmdbId": 363088,
+            "title": "Ant-Man y la Avispa",
+            "originalTitle": "Ant-Man and the Wasp",
+            "year": 2018,
+            "releaseDate": "2018-07-04",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 118,
+            "rating": {
+                "score": 7.0,
+                "source": "TMDB"
+            },
+            "description": "Mientras Scott Lang equilibra sus elecciones como superhéroe y padre, Hope van Dyne y el Dr. Hank Pym le presentan una nueva e urgente misión. Scott debe volver a ponerse el traje y aprender a luchar junto a la Avispa mientras el equipo trabaja conjunto para descubrir secretos de su pasado.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/bvYI6i9lQ3bsup9PgnMF3YYr8ZR.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/VXJDox2gROTyj9/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "ant-man-el-hombre-hormiga",
+            "tmdbId": 102899,
+            "title": "Ant-Man: El Hombre Hormiga",
+            "originalTitle": "Ant-Man",
+            "year": 2015,
+            "releaseDate": "2015-07-14",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 117,
+            "rating": {
+                "score": 7.1,
+                "source": "TMDB"
+            },
+            "description": "Armado con un traje con la asombrosa capacidad de encogerse en escala pero aumentar en fuerza, el estafador Scott Lang debe sacar a relucir el héroe que lleva dentro y ayudar a su mentor, el Dr. Hank Pym, a planear y llevar a cabo un atraco que salvará al mundo de una amenaza insuperable.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/tMJ0FBFrYZjo6BNHiYbgqiy8Tf5.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/tMJ0FBFrYZjo6BNHiYbgqiy8Tf5.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/jbD7BO1LQ2CzKoO/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "black-widow",
+            "tmdbId": 497698,
+            "title": "Black Widow",
+            "originalTitle": "Black Widow",
+            "year": 2021,
+            "releaseDate": "2021-07-07",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 134,
+            "rating": {
+                "score": 7.2,
+                "source": "TMDB"
+            },
+            "description": "Natasha Romanoff, también conocida como Black Widow, se enfrenta a las partes más oscuras de su historial cuando surge una peligrosa conspiración con vínculos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para derribarla, Natasha debe lidiar con su historia como espía y las relaciones rotas que dejó a su paso mucho antes de convertirse en una Vengadora.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/rjnciyF6Rj2fwZ7mtrj88RB0z8u.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/rjnciyF6Rj2fwZ7mtrj88RB0z8u.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/GXPRJj3O2oi1bgg/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "capitana-marvel",
+            "tmdbId": 299537,
+            "title": "Capitana Marvel",
+            "originalTitle": "Captain Marvel",
+            "year": 2019,
+            "releaseDate": "2019-03-06",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 124,
+            "rating": {
+                "score": 6.8,
+                "source": "TMDB"
+            },
+            "description": "La historia sigue a Carol Danvers mientras se convierte en una de las heroínas más poderosas del universo cuando la Tierra se ve atrapada en medio de una guerra galáctica entre dos razas alienígenas: los Kree y los Skrull. Ambientada en la década de 1990, Capitana Marvel es una aventura completamente nueva de un período nunca antes visto en la historia del Universo Cinematográfico de Marvel.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/QPoozWyO4MCG9M/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "doctor-strange-en-el-multiverso-de-la-locura",
+            "tmdbId": 453395,
+            "title": "Doctor Strange en el multiverso de la locura",
+            "originalTitle": "Doctor Strange in the Multiverse of Madness",
+            "year": 2022,
+            "releaseDate": "2022-05-04",
+            "genres": [
+                "Fantasy",
+                "Action",
+                "Adventure"
+            ],
+            "duration": 126,
+            "rating": {
+                "score": 7.3,
+                "source": "TMDB"
+            },
+            "description": "Viaja a lo desconocido con el Doctor Strange, quien, con la ayuda de aliados místicos tanto antiguos como nuevos, atraviesa las alucinantes y peligrosas realidades alternativas del Multiverso para enfrentarse a un nuevo y misterioso adversario.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/uOnutpXJdDWyWzUCkApkahPSKuy.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/uOnutpXJdDWyWzUCkApkahPSKuy.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/z7Ypex8rP4TYDxz/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "doctor-strange-hechicero-supremo",
+            "tmdbId": 284052,
+            "title": "Doctor Strange: Hechicero supremo",
+            "originalTitle": "Doctor Strange",
+            "year": 2016,
+            "releaseDate": "2016-10-25",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Fantasía",
+                "Ciencia ficción"
+            ],
+            "duration": 115,
+            "rating": {
+                "score": 7.4,
+                "source": "TMDB"
+            },
+            "description": "La vida del neurocirujano Dr. Stephen Strange cambia para siempre tras un accidente automovilístico que le priva del uso de sus manos. Cuando la medicina tradicional le falla, se ve obligado a buscar esperanza y curación en un enclave misterioso conocido como Kamar-Taj. Rápidamente descubre que no es solo un centro de curación, sino también la primera línea de una batalla contra fuerzas oscuras invisibles empeñadas en destruir nuestra realidad.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/sOsvKTJS0XwtfLsNMO3C0CVWJ4u.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/sOsvKTJS0XwtfLsNMO3C0CVWJ4u.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/bwbdWx7JQ0Td7P/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "eternos",
+            "tmdbId": 524434,
+            "title": "Eternos",
+            "originalTitle": "Eternals",
+            "year": 2021,
+            "releaseDate": "2021-11-03",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 156,
+            "rating": {
+                "score": 6.9,
+                "source": "TMDB"
+            },
+            "description": "Hace millones de años, los Celestiales crearon a los Eternos, una raza de seres inmortales diseñados para proteger a la Tierra y a la humanidad de los Desviantes, una especie devoradora y destructiva. Tras miles de años viviendo escondidos y separados en la Tierra, una tragedia inesperada los obliga a salir de las sombras y reanimar la alianza para defender al planeta una vez más.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/5lNGPHmgkhbLuXg85K5YoOtqkpd.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/5lNGPHmgkhbLuXg85K5YoOtqkpd.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/jOZ9gz1ldyszkoa/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "guardianes-de-la-galaxia-vol-3",
+            "tmdbId": 447365,
+            "title": "Guardianes de la galaxia Vol. 3",
+            "originalTitle": "Guardians of the Galaxy Vol. 3",
+            "year": 2023,
+            "releaseDate": "2023-05-03",
+            "genres": [
+                "Ciencia ficción",
+                "Aventura",
+                "Acción"
+            ],
+            "duration": 150,
+            "rating": {
+                "score": 7.9,
+                "source": "TMDB"
+            },
+            "description": "La querida banda de desadaptados se establece en Knowhere. Pero no pasa mucho tiempo antes de que sus vidas se vean alteradas por los ecos del turbulento pasado de Rocket. Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en una peligrosa misión para salvar la vida de Rocket, una misión que, si no se completa con éxito, podría conducir al final de los Guardianes tal como los conocemos.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/YKd41VwQLDFvDwv/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "guardianes-de-la-galaxia-vol-2",
+            "tmdbId": 283995,
+            "title": "Guardianes de la galaxia Vol. 2",
+            "originalTitle": "Guardians of the Galaxy Vol. 2",
+            "year": 2017,
+            "releaseDate": "2017-04-25",
+            "genres": [
+                "Aventura",
+                "Acción",
+                "Ciencia ficción"
+            ],
+            "duration": 136,
+            "rating": {
+                "score": 7.6,
+                "source": "TMDB"
+            },
+            "description": "Los Guardianes deben luchar para mantener unida a su nueva familia mientras desentrañan el misterio de la verdadera ascendencia de Peter Quill. Viejos enemigos se convierten en nuevos aliados y personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el Universo Cinematográfico de Marvel continúa expandiéndose.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/bXG4gu9seqaNIYirWEkxWbXU7rE.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/bXG4gu9seqaNIYirWEkxWbXU7rE.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/yrp0wg13ePH1l1V/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "guardianes-de-la-galaxia",
+            "tmdbId": 118340,
+            "title": "Guardianes de la galaxia",
+            "originalTitle": "Guardians of the Galaxy",
+            "year": 2014,
+            "releaseDate": "2014-07-30",
+            "genres": [
+                "Acción",
+                "Ciencia ficción",
+                "Aventura"
+            ],
+            "duration": 121,
+            "rating": {
+                "score": 7.9,
+                "source": "TMDB"
+            },
+            "description": "El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas después de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya codicia amenaza a todo el universo. Para escapar del persistente Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados desadaptados: Rocket, un mapache armado; Groot, un humanoide con forma de árbol; la enigmática y letal Gamora y el vengativo Drax el Destructor.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/9fRMLxaevSTY4geVlkLpySwIzWi.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/9fRMLxaevSTY4geVlkLpySwIzWi.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/yle8Qwrdq3CyVP/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "los-4-fantasticos-primeros-pasos",
+            "tmdbId": 617126,
+            "title": "Los 4 Fantásticos: Primeros pasos",
+            "originalTitle": "The Fantastic Four: First Steps",
+            "year": 2025,
+            "releaseDate": "2025-07-25",
+            "genres": [
+                "Ciencia ficción",
+                "Aventura",
+                "Acción"
+            ],
+            "duration": 115,
+            "rating": {
+                "score": 7.0,
+                "source": "TMDB"
+            },
+            "description": "En un mundo retrofuturista inspirado en los años 60, Reed Richards, Sue Storm, Johnny Storm y Ben Grimm deben equilibrar sus responsabilidades como superhéroes con los desafíos de su vida familiar. Cuando el devorador de mundos Galactus y su misteriosa heraldo, Silver Surfer, amenazan la Tierra, los Cuatro Fantásticos deberán unirse para proteger a la humanidad.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/kKhdGSDRBdn6HDdtel3ihGLGjW3.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/kKhdGSDRBdn6HDdtel3ihGLGjW3.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/Za7agma9LAsyzr/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "pantera-negra-wakanda-por-siempre",
+            "tmdbId": 505642,
+            "title": "Pantera Negra: Wakanda por siempre",
+            "originalTitle": "Black Panther: Wakanda Forever",
+            "year": 2022,
+            "releaseDate": "2022-11-11",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 161,
+            "rating": {
+                "score": 7.1,
+                "source": "TMDB"
+            },
+            "description": "La reina Ramonda, Shuri, M'Baku, Okoye y las Dora Milaje luchan por proteger Wakanda tras la muerte del rey T'Challa. Mientras enfrentan nuevas amenazas, deberán forjar una alianza con otros héroes para defender su nación y encontrar un nuevo camino para el reino.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/qUhjmU8P2OA7AG4IgqXzbwvl4Tq.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/qUhjmU8P2OA7AG4IgqXzbwvl4Tq.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/vKOdL7aVXjS4RQ4/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "pantera-negra",
+            "tmdbId": 284054,
+            "title": "Pantera Negra",
+            "originalTitle": "Black Panther",
+            "year": 2018,
+            "releaseDate": "2018-02-16",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Ciencia ficción"
+            ],
+            "duration": 134,
+            "rating": {
+                "score": 7.4,
+                "source": "TMDB"
+            },
+            "description": "Tras la muerte de su padre, T'Challa regresa a Wakanda para asumir el trono y convertirse en el nuevo Pantera Negra. Pero cuando un poderoso enemigo aparece para desafiar su derecho al liderazgo, deberá enfrentarse a conflictos del pasado que amenazan el futuro de su nación y del mundo.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/coGpOlN4jXcRQB7spA5w6anvwHt.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/coGpOlN4jXcRQB7spA5w6anvwHt.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/RAk6QmxDRyTdQV6/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "thunderbolts",
+            "tmdbId": 986056,
+            "title": "Thunderbolts*",
+            "originalTitle": "Thunderbolts*",
+            "year": 2025,
+            "releaseDate": "2025-05-02",
+            "genres": [
+                "Acción",
+                "Ciencia ficción",
+                "Aventura"
+            ],
+            "duration": 127,
+            "rating": {
+                "score": 7.4,
+                "source": "TMDB"
+            },
+            "description": "Después de encontrarse atrapados en una peligrosa trampa, un grupo de inadaptados y antihéroes del universo Marvel se ve obligado a trabajar en equipo. Mientras enfrentan sus propios conflictos y secretos, deberán aprender a confiar unos en otros para sobrevivir y convertirse en algo más que un simple grupo de marginados.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/yDWU8YyFkPnlVY627QXPvct8bz9.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/yDWU8YyFkPnlVY627QXPvct8bz9.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/oDvR7vYML1cJwGr/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "the-marvels",
+            "tmdbId": 609681,
+            "title": "The Marvels",
+            "originalTitle": "The Marvels",
+            "year": 2023,
+            "releaseDate": "2023-11-10",
+            "genres": [
+                "Ciencia ficción",
+                "Aventura",
+                "Acción"
+            ],
+            "duration": 105,
+            "rating": {
+                "score": 5.9,
+                "source": "TMDB"
+            },
+            "description": "Carol Danvers, también conocida como Capitana Marvel, ha recuperado su identidad de manos de los tiránicos Kree. Sin embargo, las consecuencias de su pasado regresan para atormentarla. Cuando sus poderes se entrelazan con los de Kamala Khan y Monica Rambeau, las tres heroínas deberán unir fuerzas para enfrentar una nueva amenaza que pone en peligro el universo.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/xxh6CFgwzYW29dSOsRjRBTpfqWT.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/xxh6CFgwzYW29dSOsRjRBTpfqWT.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/9Bl9M94MexFae9R/"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "trascender",
             "tmdbId": 157353,
             "title": "Trascender",
