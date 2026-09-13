@@ -316,7 +316,7 @@
             "country": "CL",
             "name": "Radio Música Chilenas",
             "category": ["Chilena"],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/radiomusicachilenas.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/radiomusicachilena.jpeg",
             "stream": [
                 {"type": "direct", "url": "https://azuracast.streamradio.cl/listen/chilena/stream"}
             ]
