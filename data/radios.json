@@ -300,6 +300,39 @@
             ]
         },
         {
+            "id": 28,
+            "active": true,
+            "country": "CL",
+            "name": "Cuecas Chilenas",
+            "category": ["Chilena"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cuecaschilenas.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://stream.zeno.fm/y5347twhwa0uv"}
+            ]
+        },
+        {
+            "id": 29,
+            "active": true,
+            "country": "CL",
+            "name": "Radio Música Chilenas",
+            "category": ["Chilena"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/radiomusicachilenas.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://azuracast.streamradio.cl/listen/chilena/stream"}
+            ]
+        },
+        {
+            "id": 30,
+            "active": true,
+            "country": "CL",
+            "name": "La Cueca Folklor Chileno",
+            "category": ["Chilena"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/lacuecafolklorchileno.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://server8.emitironline.com:18144/stream"}
+            ]
+        },
+        {
             "id": 100,
             "active": true,
             "country": "",
