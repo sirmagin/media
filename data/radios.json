@@ -311,10 +311,10 @@
             ]
         },
         {
-            "id": 29,
+            "id": 31,
             "active": true,
             "country": "CL",
-            "name": "Radio Música Chilenas",
+            "name": "Radio Música Chilena",
             "category": ["Chilena"],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/radiomusicachilena.jpeg",
             "stream": [
@@ -322,7 +322,7 @@
             ]
         },
         {
-            "id": 31,
+            "id": 30,
             "active": true,
             "country": "CL",
             "name": "La Cueca Folklor Chileno",
