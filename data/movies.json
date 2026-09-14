@@ -122,10 +122,10 @@
             "sources": [
                 {
                 "type": "direct",
-                "video": ""
+                "video": "https://streamtape.com/e/GA7dMoL27dU1jPd/"
                 }
             ],
-            "active": false
+            "active": true
         },
         {
             "id": "matrix",
