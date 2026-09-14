@@ -40,6 +40,123 @@
             "active": false
         },
         {
+            "id": "matrix-resurrecciones",
+            "tmdbId": 624860,
+            "title": "Matrix resurrecciones",
+            "originalTitle": "The Matrix Resurrections",
+            "year": 2021,
+            "releaseDate": "2021-12-16",
+            "genres": [
+                "Ciencia ficción",
+                "Acción",
+                "Aventura"
+            ],
+            "duration": 148,
+            "rating": {
+                "score": 6.4,
+                "source": "TMDB"
+            },
+            "description": "En un mundo de dos realidades, la vida cotidiana y lo que se esconde detrás de ella, Thomas Anderson tendrá que elegir seguir a la cónyuge blanca una vez más. La elección, aunque es una ilusión, sigue siendo la única forma de entrar o salir de Matrix, que es más fuerte, más segura y más peligrosa que nunca.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/vOtof1B74SUzCPZBVQl1CLwBDCQ.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/vOtof1B74SUzCPZBVQl1CLwBDCQ.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": ""
+                }
+            ],
+            "active": false
+        },
+        {
+            "id": "matrix-revoluciones",
+            "tmdbId": 605,
+            "title": "Matrix Revoluciones",
+            "originalTitle": "The Matrix Revolutions",
+            "year": 2003,
+            "releaseDate": "2003-11-05",
+            "genres": [
+                "Acción",
+                "Ciencia ficción"
+            ],
+            "duration": 129,
+            "rating": {
+                "score": 6.7,
+                "source": "TMDB"
+            },
+            "description": "La guerra humana llega a su clímax mientras el ejército de las máquinas irrumpe en Zion. Neo se encuentra atrapado en una tierra de nadie entre Matrix y el mundo de las máquinas, mientras que el rebelde Agente Smith continúa ganando poder y amenaza con destruir ambos mundos.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/zi1UMF9jIM2JnQz0u2AyUw8QFZi.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/zi1UMF9jIM2JnQz0u2AyUw8QFZi.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": ""
+                }
+            ],
+            "active": false
+        },
+        {
+            "id": "matrix-recargado",
+            "tmdbId": 604,
+            "title": "Matrix Recargado",
+            "originalTitle": "The Matrix Reloaded",
+            "year": 2003,
+            "releaseDate": "2003-05-15",
+            "genres": [
+                "Acción",
+                "Ciencia ficción"
+            ],
+            "duration": 138,
+            "rating": {
+                "score": 7.1,
+                "source": "TMDB"
+            },
+            "description": "Neo, Trinity y Morfeo continúan liderando la revuelta contra el ejército de las máquinas. En su intento por salvar a la humanidad de la extinción, descubren más sobre la construcción de Matrix y el papel crucial que desempeña Neo en el destino de Zion.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ljaXjqT9h5i8b8NiN9kCAQl32Cg.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/ljaXjqT9h5i8b8NiN9kCAQl32Cg.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": ""
+                }
+            ],
+            "active": false
+        },
+        {
+            "id": "matrix",
+            "tmdbId": 603,
+            "title": "Matrix",
+            "originalTitle": "The Matrix",
+            "year": 1999,
+            "releaseDate": "1999-03-30",
+            "genres": [
+                "Acción",
+                "Ciencia ficción"
+            ],
+            "duration": 136,
+            "rating": {
+                "score": 8.2,
+                "source": "TMDB"
+            },
+            "description": "El programador informático Thomas Anderson, más conocido en el mundo del hacking como Neo, se ve arrastrado a un submundo subterráneo por un misterioso rebelde llamado Morfeo. Neo descubre que la realidad que conoce es una simulación elaborada construida por una inteligencia artificial cibernética para someter a la humanidad.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/2o4YVJD0AgHZy9p/"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "ant-man-y-la-avispa-quantumania",
             "tmdbId": 640146,
             "title": "Ant-Man y la Avispa: Quantumanía",
