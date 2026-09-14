@@ -333,6 +333,50 @@
             ]
         },
         {
+            "id": 31,
+            "active": true,
+            "country": "CL",
+            "name": "Radio La Sureña ranchera",
+            "category": ["Rancheras"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/lasureña.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://stream.zeno.fm/tf9zwn5vmd0uv"}
+            ]
+        },
+        {
+            "id": 32,
+            "active": true,
+            "country": "CL",
+            "name": "Estación Ranchera",
+            "category": ["Rancheras"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/estacionranchera.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://stream.zeno.fm/6z4ymqtgm98uv"}
+            ]
+        },
+        {
+            "id": 33,
+            "active": true,
+            "country": "CL",
+            "name": "Radio Ranchera y Cumbia",
+            "category": ["Rancheras"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/rancheraycumbia.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://stream.zeno.fm/1siatybgg7otv"}
+            ]
+        },
+        {
+            "id": 34,
+            "active": true,
+            "country": "CL",
+            "name": "La Ranchera",
+            "category": ["Rancheras"],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/laranchera.jpeg",
+            "stream": [
+                {"type": "direct", "url": "https://stream.zeno.fm/qq1dtzhemzzuv"}
+            ]
+        },
+        {
             "id": 100,
             "active": true,
             "country": "",
