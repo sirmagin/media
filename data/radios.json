@@ -338,7 +338,7 @@
             "country": "CL",
             "name": "Radio La Sureña ranchera",
             "category": ["Rancheras"],
-            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/lasureña.jpeg",
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/lasurena.jpeg",
             "stream": [
                 {"type": "direct", "url": "https://stream.zeno.fm/tf9zwn5vmd0uv"}
             ]
