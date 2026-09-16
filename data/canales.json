@@ -328,14 +328,19 @@
         },
         {
             "id": 20,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "13c",
             "category": [
                 "Cultural"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/13c.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/lista4.php?c=a07p&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 21,
@@ -599,36 +604,51 @@
         },
         {
             "id": 35,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "ESPN 2",
             "category": [
                 "Deportes"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/espn2.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0j0&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 36,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "ESPN 3",
             "category": [
                 "Deportes"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/espn3.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0is&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 37,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "ESPN 4",
             "category": [
                 "Deportes"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/espn4.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0in&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 38,
@@ -648,7 +668,7 @@
         },
         {
             "id": 39,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "AXN",
             "category": [
@@ -656,11 +676,16 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/axn.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0fq&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 40,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Warner TV",
             "category": [
@@ -668,11 +693,24 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/warnertv.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/lista4.php?c=a04d&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0il&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 41,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Cinecanal",
             "category": [
@@ -680,7 +718,16 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cinecanal.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0ik&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/lista4.php?c=a06j&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 42,
@@ -702,6 +749,10 @@
                     "type": "hls",
                     "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
                     "fixed": true
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0j9&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -723,12 +774,16 @@
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a0qz&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0io&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
         {
             "id": 44,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Studio Universal",
             "category": [
@@ -736,7 +791,12 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/studiouniversal.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0j3&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 45,
@@ -751,17 +811,17 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qthw/phpcode/lista2.php?c=a056&f=.m3u8&token=tecnotokenplustv230516F"
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/qthw/phpcode/lista2.php?c=a056&f=.m3u8&token=tecnotokenplustv230516F"
                 }
             ]
         },
         {
             "id": 46,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "HBO Family",
             "category": [
@@ -769,7 +829,12 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/hbofamily.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a00o&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 47,
@@ -794,7 +859,7 @@
         },
         {
             "id": 48,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "HBO Xtreme",
             "category": [
@@ -802,7 +867,12 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/hboxtreme.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a00p&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 49,
@@ -823,7 +893,7 @@
         },
         {
             "id": 50,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "CINEMAX",
             "category": [
@@ -831,11 +901,16 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cinemax.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0eb&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 51,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "TNT",
             "category": [
@@ -843,11 +918,16 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tnt.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0ij&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 52,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "SPACE",
             "category": [
@@ -855,7 +935,16 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/space.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a04h&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0im&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 53,
@@ -876,7 +965,7 @@
         },
         {
             "id": 54,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Sony Channel",
             "category": [
@@ -884,7 +973,12 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/sonychannel.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0fl&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 55,
@@ -917,6 +1011,10 @@
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a0qy&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0i0&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -933,36 +1031,71 @@
         },
         {
             "id": 58,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Nat Geo",
             "category": [
                 "Documental"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/natgeo.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a0rq&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0fk&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 59,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "A&E",
             "category": [
                 "Documental"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/a_e.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a034&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a0qw&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0dr&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 60,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "AMC",
             "category": [
                 "Documental"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/amc.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a01i&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a0qx&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0jh&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 61,
@@ -976,24 +1109,37 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qthw/phpcode/lista2.php?c=a05p&f=.m3u8&token=tecnotokenplustv230516F"
+                    "url": "http://tecnotv.club/qthw/phpcode/lista4.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qthw/phpcode/lista4.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/qthw/phpcode/lista2.php?c=a05p&f=.m3u8&token=tecnotokenplustv230516F"
                 }
             ]
         },
         {
             "id": 62,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "History",
             "category": [
                 "Documental"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/history.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a01o&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a038&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/android2.php?c=a0ii&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 63,
@@ -1020,14 +1166,23 @@
         },
         {
             "id": 65,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Cartoon Network",
             "category": [
                 "Infantil"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cartoonnetwork.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/ssiptv.php?c=a00z&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/lista4.php?c=a08b&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 66,
@@ -1048,14 +1203,19 @@
         },
         {
             "id": 67,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Nickelodeon",
             "category": [
                 "Infantil"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/nickelodeon.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qthw/phpcode/lista4.php?c=a02n&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 68,
