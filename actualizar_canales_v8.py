@@ -144,6 +144,16 @@ ALIAS_CANALES = {
     'Lesbian': ['Lesbian'],
     'Anal': ['Anal'],
     'Teen': ['Teen'],
+    'Fetish': ['Fetish'],
+    'POV': ['POV'],
+    'Blowjob': ['Blowjob'],
+    'Hardcore': ['Hardcore'],
+    'Cuckold': ['Cuckold'],
+    'Rough': ['Rough'],
+    'Gangbang': ['Gangbang'],
+    'Compilation': ['Compilation'],
+    'Brunette': ['Brunette'],
+    'Blonde': ['Blonde'],
 }
 
 M3U_CACHE = {}
@@ -589,6 +599,16 @@ if __name__ == '__main__':
       'Lesbian': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
       'Anal': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
       'Teen': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Fetish': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'POV': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Blowjob': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Hardcore': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Cuckold': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Rough': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Gangbang': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Compilation': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Brunette': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
+      'Blonde': [f'https://tecnotv.club/{TOKEN}/listahot.m3u'],
   }
 
   update_json_streams(
