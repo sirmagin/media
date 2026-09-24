@@ -40,6 +40,36 @@
             "active": false
         },
         {
+            "id": "backrooms-sin-salida",
+            "tmdbId": 1083381,
+            "title": "Backrooms: Sin salida",
+            "originalTitle": "Backrooms",
+            "year": 2026,
+            "releaseDate": "2026-05-29",
+            "genres": [
+                "Terror",
+                "Misterio",
+                "Ciencia ficción"
+            ],
+            "duration": 105,
+            "rating": {
+                "score": 6.8,
+                "source": "TMDB"
+            },
+            "description": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en un laberinto infinito que parece existir fuera de nuestra realidad para intentar rescatarlo.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://morencius.com/stream/9I7RoutqWq3TdL8Ap0ufow/hjkrhuihghfvu/1790260251/42239940/index-v1-a1.m3u8"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "matrix-resurrecciones",
             "tmdbId": 624860,
             "title": "Matrix resurrecciones",
