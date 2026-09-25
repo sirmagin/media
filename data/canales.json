@@ -123,7 +123,12 @@
                 "Nacional"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tvn.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?_=1790326930887&dnt=true&dual_render=1&player=57f40bb4dc5b9f3075c49cfe&access_token=3ACe8r341pIy637VjiNr5RVQNXSe19yUoGJBxMfXUstD1X1gdVh0dYSsbn5M79H3chXNYizCv4W&uid=PO0WnmhpSHNz9d6T3sLWYoZymjK1FHRJ&sid=UFwCAIFeDUJOe7ilXVQCk6ORnm4ruDie&pid=zYXmE1uz6z3juhhQJUVMi4O22zbNjyY8&an=tvn-play-app-lg-tv&at=web-app&av=v1.0.106&sc=0&ds=606b65ac3572d907cd53753b&ref=mdstrm.com&res=3840x2160&ext_pb=0&CMCD=cid%3D%2257a498c4d7b86d600e5461cb%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22zYXmE1uz6z3juhhQJUVMi4O22zbNjyY8%22%2Csu"
+                }
+            ]
         },
         {
             "id": 8,
