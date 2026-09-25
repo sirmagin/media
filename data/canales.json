@@ -1547,6 +1547,297 @@
             ]
         },
         {
+            "id": 74,
+            "active": true,
+            "country": "",
+            "name": "GLORY",
+            "category": [
+                "Deportes"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/glory.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-63f914bffe2c3d32e1a7929f.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "active": true,
+            "country": "",
+            "name": "PFL",
+            "category": [
+                "Deportes"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/pfl.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-643f0ecd76de2b4015ae6c01.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "active": true,
+            "country": "",
+            "name": "RACER",
+            "category": [
+                "Deportes"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/racer.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-5f90ebc726350a002d40b136.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "active": true,
+            "country": "",
+            "name": "Poker Night TV",
+            "category": [
+                "Deportes"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/pokernight.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-60afc726623f2f002c5bb49f.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "active": true,
+            "country": "",
+            "name": "Surfer TV",
+            "category": [
+                "Deportes"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/surfer.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-6227c215c9f485cc7afe8c41.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "active": true,
+            "country": "",
+            "name": "The Pet Collective",
+            "category": [
+                "Mascotas"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/thepetcollective.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-5f170d61b898490041b49369.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "active": true,
+            "country": "",
+            "name": "Stingray Naturescape",
+            "category": [
+                "Naturaleza"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/stingraynaturescape.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-62fbf52c1567211fdb82e922.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "active": true,
+            "country": "",
+            "name": "Nature Time",
+            "category": [
+                "Naturaleza"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/naturetime.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-6970fa30bde579fb712623ff.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "active": true,
+            "country": "",
+            "name": "WeatherSpy",
+            "category": [
+                "Naturaleza"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/weatherspy.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-5f0ff266d71dcb00449ec030.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "active": true,
+            "country": "",
+            "name": "Mech+ Robot Wars",
+            "category": [
+                "Deportes"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/mech.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-6470477fe536e0faaf10be9d.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "active": true,
+            "country": "",
+            "name": "ZenLIFE by Stingray",
+            "category": [
+                "Naturaleza"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/zenlife.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-66fd3e25216b603e031725fe.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "active": true,
+            "country": "",
+            "name": "Tastemade",
+            "category": [
+                "Cultural"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tastemade.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-65cd2cf397fb4731f54ecae7.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "active": true,
+            "country": "",
+            "name": "Free TV Drama",
+            "category": [
+                "Series"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/freetvdrama.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-608b7095a09205002da4f295.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "active": true,
+            "country": "",
+            "name": "Free TV Familia",
+            "category": [
+                "Series"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/freetvfamilia.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-60240f57676235002df19f49.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "active": true,
+            "country": "",
+            "name": "Free TV Live",
+            "category": [
+                "Series"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/freetvlive.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-6018913ea15130002b28418f.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "active": true,
+            "country": "",
+            "name": "Canela TV Clásicos",
+            "category": [
+                "Series",
+                "Películas"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/canelatvclasicos.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-64fba469bb3e0baa5dcc0947.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "active": true,
+            "country": "",
+            "name": "GRJNGO Películas Del Oeste",
+            "category": [
+                "Series",
+                "Películas"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/grjngo.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-63489eff90b96ef5e0eb3282.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
             "id": 666,
             "active": false,
             "country": "CL",
