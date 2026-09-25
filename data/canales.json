@@ -1530,6 +1530,23 @@
             ]
         },
         {
+            "id": 73,
+            "active": true,
+            "country": "",
+            "name": "UFC",
+            "category": [
+                "Deportes"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/ufc.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-66ccac69fdf9cd3a568ef135.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
+                    "fixed": true
+                }
+            ]
+        },
+        {
             "id": 666,
             "active": false,
             "country": "CL",
