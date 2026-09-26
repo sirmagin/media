@@ -601,6 +601,10 @@
             "stream": [
                 {
                     "type": "hls",
+                    "url": "http://tecnotv.club/nttq/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
                     "url": "http://tecnotv.club/nttq/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
@@ -692,6 +696,10 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tntsportpremium.jpeg",
             "stream": [
                 {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/nttq/phpcode/lista4.php?c=a05i&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
                     "type": "mpegts",
                     "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0gt&token=tecnotokenplustv230516F&f=.m3u8"
                 }
@@ -735,11 +743,11 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/nttq/phpcode/lista4.php?c=a04d&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/lista4.php?c=a04d&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
@@ -747,11 +755,11 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0hz&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0fl&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0fl&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0hz&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -811,15 +819,15 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a012&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "mpegts",
                     "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0i6&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
                     "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0fj&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "mpegts",
+                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a012&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -836,11 +844,11 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a0qz&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a0qz&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
@@ -852,11 +860,11 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0fg&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0fg&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -877,15 +885,15 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0bz&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "mpegts",
                     "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a03e&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
                     "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0c9&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "mpegts",
+                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0bz&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1077,11 +1085,11 @@
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0fi&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0i2&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
-                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0i2&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0fi&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1161,19 +1169,19 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/nttq/phpcode/android2.php?c=a0i0&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a0qy&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
-                    "type": "mpegts",
-                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a017&token=tecnotokenplustv230516F&f=.m3u8"
+                    "type": "hls",
+                    "url": "http://tecnotv.club/nttq/phpcode/android2.php?c=a0i0&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
                     "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0es&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "mpegts",
+                    "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a017&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1224,11 +1232,11 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a034&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a0qw&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a0qw&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a034&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
@@ -1256,6 +1264,10 @@
             "stream": [
                 {
                     "type": "hls",
+                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a01i&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
                     "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a0qx&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
@@ -1269,10 +1281,6 @@
                 {
                     "type": "mpegts",
                     "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0c4&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a01i&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1286,6 +1294,10 @@
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/discovery.jpeg",
             "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/nttq/phpcode/lista4.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8"
+                },
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/nttq/phpcode/lista2.php?c=a05p&f=.m3u8&token=tecnotokenplustv230516F"
@@ -1312,15 +1324,19 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a038&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a01o&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
+                    "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a038&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
                     "url": "http://tecnotv.club/nttq/phpcode/android2.php?c=a0ii&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/nttq/phpcode/lista4.php?c=a05b&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "mpegts",
@@ -1380,6 +1396,10 @@
                     "url": "http://tecnotv.club/nttq/phpcode/ssiptv.php?c=a00z&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/nttq/phpcode/lista4.php?c=a08b&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
                     "type": "mpegts",
                     "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0ef&token=tecnotokenplustv230516F&f=.m3u8"
                 }
@@ -1420,6 +1440,10 @@
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/nickelodeon.jpeg",
             "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/nttq/phpcode/lista4.php?c=a02n&token=tecnotokenplustv230516F&f=.m3u8"
+                },
                 {
                     "type": "mpegts",
                     "url": "http://tecnotv.club/nttq/phpcode/lista01.php?c=a0h6&token=tecnotokenplustv230516F&f=.m3u8"
@@ -1762,11 +1786,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/nttq/phpcode/plutotv.php?c=5f998c1fc54853000797bacd&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/nttq/phpcode/plutotv.php?c=5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/nttq/phpcode/plutotv.php?c=5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true"
+                    "url": "http://tecnotv.club/nttq/phpcode/plutotv.php?c=5f998c1fc54853000797bacd&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
