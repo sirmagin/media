@@ -126,6 +126,11 @@
             "stream": [
                 {
                     "type": "",
+                    "url": "http://clbpktstvhls-3.clarovideo.com/bpk-tv/TVNHD/hls_fk/index.m3u8",
+                    "fixed": true
+                },
+                {
+                    "type": "",
                     "url": "http://proxycl.chiletvapp.com:8000/play/a02p/index.m3u8",
                     "fixed": true
                 }
