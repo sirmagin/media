@@ -116,14 +116,20 @@
         },
         {
             "id": 7,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "TVN",
             "category": [
                 "Nacional"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tvn.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "http://proxycl.chiletvapp.com:8000/play/a02p/index.m3u8",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 8,
