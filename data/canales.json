@@ -1864,7 +1864,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://stream.ads.ottera.tv/cl/261002db00jidvvuts73c0ittg/1920x1080_4787200_1_f.m3u8?i=475_16194",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16194&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5,IAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=cl&country_region=valparaiso&postal_code=&gender=not_specified&yob=0&site_page=https%3A%2F%2Fvideo.freetv.com%2Fes%2Fchannel%2Fterror&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1790984597&id=19363&ip=2800:300:6a55:2e0:51f8:de8:da21:2c29&override_expiration=1500&sign=1F8XFE4buuhgmy8uj6VySFz+Y3wrzcuun/UaB0fXs48=",
                     "fixed": true
                 }
             ]
@@ -1881,7 +1881,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://stream.ads.ottera.tv/cl/261002db00m7lvvuts73c0l9f0/1920x1080_4716800_1_f.m3u8?i=475_16200",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16200&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5,IAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=cl&country_region=valparaiso&postal_code=&gender=not_specified&yob=0&site_page=https%3A%2F%2Fvideo.freetv.com%2Fes%2Flinear%2Ffreetv-accion-1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1790984804&id=19361&ip=2800:300:6a55:2e0:51f8:de8:da21:2c29&override_expiration=1500&sign=58uyv9SFq9S2s98tuSHLH9e1PSV3CjphfXeV+LHgpT0=",
                     "fixed": true
                 }
             ]
@@ -1898,7 +1898,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://stream.ads.ottera.tv/cl/261002db00o9p7hdms73a8nnbg/1920x1080_4787200_1_f.m3u8?i=475_16199",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16199&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5,IAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=cl&country_region=valparaiso&postal_code=&gender=not_specified&yob=0&site_page=https%3A%2F%2Fvideo.freetv.com%2Fes%2Flinear%2Ffreetv-clasico-0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1790984901&id=16106&ip=2800:300:6a55:2e0:51f8:de8:da21:2c29&override_expiration=1500&sign=ea6GIqZsQnoz6z0B7Hne3A9OrU2EDMlvLuw9jfMiYkM=",
                     "fixed": true
                 }
             ]
@@ -1915,7 +1915,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://stream.ads.ottera.tv/cl/261002db00o9p7hdms73a8nnbg/1920x1080_4787200_1_f.m3u8?i=475_16199",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16465&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5,IAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=cl&country_region=valparaiso&postal_code=&gender=not_specified&yob=0&site_page=https%3A%2F%2Fvideo.freetv.com%2Fes%2Flinear%2Ffreetv-banda-0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1790985011&id=19359&ip=2800:300:6a55:2e0:51f8:de8:da21:2c29&override_expiration=1500&sign=qwLGnAdvq1GigeTkxHMoGN9STMa/gaZrk8K7hHZTvuc=",
                     "fixed": true
                 }
             ]
@@ -1932,7 +1932,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://stream.ads.ottera.tv/cl/261002db00q4vtvhts73a41tig/1920x1080_4716800_1_f.m3u8?i=475_16197",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16197&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5,IAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=cl&country_region=valparaiso&postal_code=&gender=not_specified&yob=0&site_page=https%3A%2F%2Fvideo.freetv.com%2Fes%2Flinear%2Ffreetv-estelar-1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1790985054&id=16532&ip=2800:300:6a55:2e0:51f8:de8:da21:2c29&override_expiration=1500&sign=tbayloc/PPM26Eg4e1xuWBwZn6zWxgNbPlclYLBylR0=",
                     "fixed": true
                 }
             ]
@@ -1949,7 +1949,7 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "https://stream.ads.ottera.tv/cl/261002db00rbp23pss73eh40q0/1920x1080_4787200_1_f.m3u8?i=475_16473",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16473&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5,IAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=cl&country_region=valparaiso&postal_code=&gender=not_specified&yob=0&site_page=https%3A%2F%2Fvideo.freetv.com%2Fes%2Flinear%2Ffreetv-hits-0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1790985099&id=23361&ip=2800:300:6a55:2e0:51f8:de8:da21:2c29&override_expiration=1500&sign=zwSeT7Rn7eV+4IDYRRciethGYzV0zkFlsY30Ptx6jr8=",
                     "fixed": true
                 }
             ]
