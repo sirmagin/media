@@ -1856,6 +1856,108 @@
             "id": 89,
             "active": true,
             "country": "",
+            "name": "Free TV Terror",
+            "category": [
+                "Series"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/freetvterror.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://stream.ads.ottera.tv/cl/261002db00jidvvuts73c0ittg/1920x1080_4787200_1_f.m3u8?i=475_16194",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "active": true,
+            "country": "",
+            "name": "Free TV Acción",
+            "category": [
+                "Series"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/freetvaccion.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://stream.ads.ottera.tv/cl/261002db00m7lvvuts73c0l9f0/1920x1080_4716800_1_f.m3u8?i=475_16200",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "active": true,
+            "country": "",
+            "name": "Free TV Clásico",
+            "category": [
+                "Series"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/freetvclasico.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://stream.ads.ottera.tv/cl/261002db00o9p7hdms73a8nnbg/1920x1080_4787200_1_f.m3u8?i=475_16199",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "active": true,
+            "country": "",
+            "name": "Free TV Banda",
+            "category": [
+                "Series"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/freetvbanda.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://stream.ads.ottera.tv/cl/261002db00o9p7hdms73a8nnbg/1920x1080_4787200_1_f.m3u8?i=475_16199",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "active": true,
+            "country": "",
+            "name": "Free TV Estelar",
+            "category": [
+                "Series"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/freetvestelar.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://stream.ads.ottera.tv/cl/261002db00q4vtvhts73a41tig/1920x1080_4716800_1_f.m3u8?i=475_16197",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "active": true,
+            "country": "",
+            "name": "Free TV Hits",
+            "category": [
+                "Series"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/freetvhits.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://stream.ads.ottera.tv/cl/261002db00rbp23pss73eh40q0/1920x1080_4787200_1_f.m3u8?i=475_16473",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "active": true,
+            "country": "",
             "name": "Canela TV Clásicos",
             "category": [
                 "Series",
@@ -1879,7 +1981,7 @@
             ]
         },
         {
-            "id": 90,
+            "id": 96,
             "active": true,
             "country": "",
             "name": "GRJNGO Películas Del Oeste",
