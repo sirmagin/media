@@ -2004,6 +2004,23 @@
             ]
         },
         {
+            "id": 97,
+            "active": true,
+            "country": "",
+            "name": "Los Simpsons 2",
+            "category": [
+                "Infantil"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/lossimpsons.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8",
+                    "fixed": true
+                }
+            ]
+        },
+        {
             "id": 666,
             "active": true,
             "country": "CL",
