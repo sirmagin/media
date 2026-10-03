@@ -2021,6 +2021,23 @@
             ]
         },
         {
+            "id": 98,
+            "active": true,
+            "country": "",
+            "name": "Futurama",
+            "category": [
+                "Infantil"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/futurama.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://cloud5.streaminglivehd.com:3651/stream/play.m3u8",
+                    "fixed": true
+                }
+            ]
+        },
+        {
             "id": 666,
             "active": true,
             "country": "CL",
