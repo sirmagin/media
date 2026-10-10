@@ -513,7 +513,7 @@ if __name__ == '__main__':
           f'https://tecnotv.club/{TOKEN}/lista4.m3u',
       ],
       'AXN': [f'https://tecnotv.club/{TOKEN}/android1.m3u', f'https://tecnotv.club/{TOKEN}/android2.m3u'],
-      'Warner TV': [f'https://tecnotv.club/{TOKEN}/lista4.m3u', f'https://tecnotv.club/{TOKEN}/android1.m3u', f'https://tecnotv.club/{TOKEN}/android2.m3u', f'https://tecnotv.club/{TOKEN}/lista.m3u'],
+      'Warner TV': [f'https://tecnotv.club/{TOKEN}/lista4.m3u', f'https://tecnotv.club/{TOKEN}/android1.m3u', f'https://tecnotv.club/{TOKEN}/android2.m3u'],
       'Cinecanal': [f'https://tecnotv.club/{TOKEN}/lista4.m3u', f'https://tecnotv.club/{TOKEN}/android1.m3u', f'https://tecnotv.club/{TOKEN}/android2.m3u'],
       'Star Channel': [f'https://tecnotv.club/{TOKEN}/android1.m3u', f'https://tecnotv.club/{TOKEN}/android2.m3u'],
       'FX': [

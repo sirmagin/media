@@ -759,10 +759,6 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/21b9/phpcode/ssiptv.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "http://tecnotv.club/21b9/phpcode/lista4.php?c=a04d&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
