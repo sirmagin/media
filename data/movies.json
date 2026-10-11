@@ -40,6 +40,36 @@
             "active": false
         },
         {
+            "id": "la-muerte-de-robin-hood",
+            "tmdbId": 1285038,
+            "title": "La muerte de Robin Hood",
+            "originalTitle": "The Death of Robin Hood",
+            "year": 2026,
+            "releaseDate": "",
+            "genres": [
+                "Drama",
+                "Acción",
+                "Historia"
+            ],
+            "duration": 0,
+            "rating": {
+                "score": 0.0,
+                "source": "TMDB"
+            },
+            "description": "Una reinterpretación oscura de la leyenda en la que un anciano Robin Hood reflexiona sobre su vida pasada de crímenes y asesinatos mientras yace gravemente herido tras una batalla y queda a cargo de una misteriosa mujer que le ofrece la oportunidad de redención.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/pC2hVl4J522GcMVc5OghRHSs0tq.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/pdlzMrVkjRfrr6o/"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "backrooms-sin-salida",
             "tmdbId": 1083381,
             "title": "Backrooms: Sin salida",
