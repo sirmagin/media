@@ -406,11 +406,11 @@
             "stream": [
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
                 },
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
                 }
             ]
         },
@@ -613,11 +613,11 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/qzu5/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/qzu5/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -780,14 +780,6 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a0qz&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "http://tecnotv.club/qzu5/phpcode/android2.php?c=a0io&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
@@ -811,7 +803,7 @@
         },
         {
             "id": 45,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "HBO",
             "category": [
@@ -819,20 +811,11 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/hbo.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/lista2.php?c=a056&f=.m3u8&token=tecnotokenplustv230516F"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 46,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "HBO Family",
             "category": [
@@ -840,16 +823,11 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/hbofamily.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a00o&token=tecnotokenplustv230516F&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 47,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "HBO +",
             "category": [
@@ -857,20 +835,11 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/hbo+.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a00n&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 48,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "HBO Xtreme",
             "category": [
@@ -878,16 +847,11 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/hboxtreme.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a00p&token=tecnotokenplustv230516F&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 49,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "HBO 2",
             "category": [
@@ -895,12 +859,7 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/hbo2.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a00m&token=tecnotokenplustv230516F&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 50,
@@ -944,17 +903,13 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a04h&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "http://tecnotv.club/qzu5/phpcode/android2.php?c=a0im&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
         {
             "id": 53,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Sony Movies",
             "category": [
@@ -962,12 +917,7 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/sonymovies.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a005&token=tecnotokenplustv230516F&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 54,
@@ -1016,10 +966,6 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a0qy&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "http://tecnotv.club/qzu5/phpcode/android2.php?c=a0i0&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
@@ -1047,10 +993,6 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a0rq&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "http://tecnotv.club/qzu5/phpcode/android2.php?c=a0fk&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
@@ -1067,14 +1009,6 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a0qw&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a034&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "http://tecnotv.club/qzu5/phpcode/android2.php?c=a0dr&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
@@ -1089,14 +1023,6 @@
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/amc.jpeg",
             "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a0qx&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a01i&token=tecnotokenplustv230516F&f=.m3u8"
-                },
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/qzu5/phpcode/android2.php?c=a0jh&token=tecnotokenplustv230516F&f=.m3u8"
@@ -1135,14 +1061,6 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a038&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a01o&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "http://tecnotv.club/qzu5/phpcode/lista4.php?c=a05b&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
@@ -1153,14 +1071,19 @@
         },
         {
             "id": 63,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "History 2",
             "category": [
                 "Documental"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/history2.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/qzu5/phpcode/android2.php?c=a0fp&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 64,
@@ -1184,10 +1107,6 @@
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cartoonnetwork.jpeg",
             "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/ssiptv.php?c=a00z&token=tecnotokenplustv230516F&f=.m3u8"
-                },
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/qzu5/phpcode/lista4.php?c=a08b&token=tecnotokenplustv230516F&f=.m3u8"
@@ -1433,11 +1352,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/plutotv.php?c=5ebacbcae43a6d000787b88e&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/qzu5/phpcode/plutotv.php?c=5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/plutotv.php?c=5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true"
+                    "url": "http://tecnotv.club/qzu5/phpcode/plutotv.php?c=5ebacbcae43a6d000787b88e&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1479,11 +1398,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
+                    "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
+                    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
                 },
                 {
                     "type": "hls",
@@ -1567,11 +1486,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/plutotv.php?c=5f998c1fc54853000797bacd&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/qzu5/phpcode/plutotv.php?c=5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/qzu5/phpcode/plutotv.php?c=5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true"
+                    "url": "http://tecnotv.club/qzu5/phpcode/plutotv.php?c=5f998c1fc54853000797bacd&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
