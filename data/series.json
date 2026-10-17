@@ -434,6 +434,192 @@
       ]
     },
     {
+      "tmdbId": 62560,
+      "title": "Mr. Robot",
+      "originalTitle": "Mr. Robot",
+      "overview": "Elliot Alderson es un joven programador que trabaja como ingeniero de ciberseguridad de día y como vigilante hacker de noche. Elliot se encuentra en una encrucijada cuando el misterioso líder de un grupo de hackers clandestino lo recluta para destruir la corporación corrupta que paga su salario.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+      "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+      "rating": 8.2,
+      "year": 2015,
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Misterio",
+        "Thriller"
+      ],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "name": "Temporada 1",
+          "episodeCount": 10,
+          "poster": "",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "eps1.0_hellofriend.mov",
+              "originalName": "eps1.0_hellofriend.mov",
+              "overview": "Elliot, un ingeniero de seguridad cibernética de día y vigilante cibernético de noche, es reclutado por un misterioso anarquista conocido como Mr. Robot para unirse a fsociety, un grupo de hackers con el objetivo de cancelar todas las deudas del consumidor destruyendo los datos de E Corp.",
+              "airDate": "2015-06-24",
+              "duration": 65,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/eyB7NyLPmaWep3Vzu8IwGowLBBA.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": ""
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "eps1.1_ones-and-zer0es.mpeg",
+              "originalName": "eps1.1_ones-and-zer0es.mpeg",
+              "overview": "Elliot intenta rechazar la oferta de Mr. Robot y llevar una vida normal trabajando en Allsafe, pero se enfrenta a decisiones difíciles cuando E Corp sufre un nuevo ciberataque y Tyrell Wellick le hace una tentadora oferta de trabajo.",
+              "airDate": "2015-07-01",
+              "duration": 45,
+              "still": "",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": ""
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "eps1.2_d3bug.mkv",
+              "originalName": "eps1.2_d3bug.mkv",
+              "overview": "Elliot intenta desvincularse por completo de fsociety y normalizar su relación con Shayla. Sin embargo, los eventos trágicos en Allsafe y las maniobras corporativas de Tyrell Wellick dificultan que Elliot abandone el mundo del hackeo.",
+              "airDate": "2015-07-08",
+              "duration": 45,
+              "still": "",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": ""
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "eps1.3_da3m0ns.mp4",
+              "originalName": "eps1.3_da3m0ns.mp4",
+              "overview": "fsociety viaja a Steel Mountain, las instalaciones fuertemente custodiadas donde E Corp almacena sus respaldos físicos de datos. Elliot sufre intensos síntomas de abstinencia a la morfina mientras el grupo planea una infiltración crítica.",
+              "airDate": "2015-07-15",
+              "duration": 45,
+              "still": "",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": ""
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "eps1.4_3xpl0its.asf",
+              "originalName": "eps1.4_3xpl0its.asf",
+              "overview": "Con la ayuda de fsociety, Elliot se infiltra físicamente en Steel Mountain usando ingeniería social. Mientras tanto, Tyrell Wellick y su esposa Joanna ejecutan una fría maniobra para asegurar el puesto de CTO en E Corp.",
+              "airDate": "2015-07-22",
+              "duration": 45,
+              "still": "",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": ""
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "eps1.5_br4ve-trav3ler.asf",
+              "originalName": "eps1.5_br4ve-trav3ler.asf",
+              "overview": "Shayla es secuestrada por el peligroso proveedor de drogas Fernando Vera, obligando a Elliot a hackear el sistema informático de una prisión de máxima seguridad para liberarlo antes de que sea demasiado tarde.",
+              "airDate": "2015-07-29",
+              "duration": 45,
+              "still": "",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": ""
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "eps1.6_v1ew-s0urce.flv",
+              "originalName": "eps1.6_v1ew-s0urce.flv",
+              "overview": "Tras la tragedia de Shayla, Elliot intenta procesar su duelo mediante terapia con la Dra. Krista Gordon. Angela descubre nueva información crucial sobre la conspiración del vertido tóxico que mató a sus padres.",
+              "airDate": "2015-08-05",
+              "duration": 45,
+              "still": "",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": ""
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "eps1.7_wh1teappl3.m4v",
+              "originalName": "eps1.7_wh1teappl3.m4v",
+              "overview": "fsociety intenta coordinar el gran ataque con el temido grupo hacker Dark Army. Elliot se reúne personalmente con Whiterose mientras descubre revelaciones perturbadoras sobre su propio pasado y su familia.",
+              "airDate": "2015-08-12",
+              "duration": 45,
+              "still": "",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": ""
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "eps1.8_m3rr0r1ng.qt",
+              "originalName": "eps1.8_m3rr0r1ng.qt",
+              "overview": "Elliot confronta la verdadera naturaleza de su relación con Mr. Robot en el cementerio de su infancia. Tyrell Wellick acude a la casa de Elliot desesperado tras perder el control de su vida en E Corp.",
+              "airDate": "2015-08-19",
+              "duration": 45,
+              "still": "",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": ""
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "eps1.9_zer0-day.avi",
+              "originalName": "eps1.9_zer0-day.avi",
+              "overview": "Elliot despierta en el automóvil de Tyrell tras tres días de amnesia, descubriendo que el gran ataque financiero de fsociety ha tenido éxito y el sistema económico global ha colapsado por completo.",
+              "airDate": "2015-09-02",
+              "duration": 54,
+              "still": "",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "tmdbId": 1399,
       "active": true,
       "title": "Juego de tronos",
