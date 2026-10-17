@@ -435,6 +435,7 @@
     },
     {
       "tmdbId": 62560,
+      "active": false,
       "title": "Mr. Robot",
       "originalTitle": "Mr. Robot",
       "overview": "Elliot Alderson es un joven programador que trabaja como ingeniero de ciberseguridad de día y como vigilante hacker de noche. Elliot se encuentra en una encrucijada cuando el misterioso líder de un grupo de hackers clandestino lo recluta para destruir la corporación corrupta que paga su salario.",
