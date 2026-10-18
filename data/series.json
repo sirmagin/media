@@ -435,7 +435,7 @@
     },
     {
       "tmdbId": 62560,
-      "active": false,
+      "active": true,
       "title": "Mr. Robot",
       "originalTitle": "Mr. Robot",
       "overview": "Elliot Alderson es un joven programador que trabaja como ingeniero de ciberseguridad de día y como vigilante hacker de noche. Elliot se encuentra en una encrucijada cuando el misterioso líder de un grupo de hackers clandestino lo recluta para destruir la corporación corrupta que paga su salario.",
@@ -452,9 +452,10 @@
       "seasons": [
         {
           "seasonNumber": 1,
+          "active": true,
           "name": "Temporada 1",
           "episodeCount": 10,
-          "poster": "",
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/mrrobot1.jpeg",
           "episodes": [
             {
               "episodeNumber": 1,
@@ -468,7 +469,7 @@
               "sources": [
                 {
                   "type": "direct",
-                  "video": ""
+                  "video": "https://streamtape.com/e/zP0x4brOMdsYw0a"
                 }
               ]
             },
@@ -480,11 +481,11 @@
               "overview": "Elliot intenta rechazar la oferta de Mr. Robot y llevar una vida normal trabajando en Allsafe, pero se enfrenta a decisiones difíciles cuando E Corp sufre un nuevo ciberataque y Tyrell Wellick le hace una tentadora oferta de trabajo.",
               "airDate": "2015-07-01",
               "duration": 45,
-              "still": "",
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/rjM4hZGeTSG1ckxWa91DBUIWD5S.jpg",
               "sources": [
                 {
                   "type": "direct",
-                  "video": ""
+                  "video": "https://streamtape.com/e/VWMooed0LDiK6ZY"
                 }
               ]
             },
@@ -496,11 +497,11 @@
               "overview": "Elliot intenta desvincularse por completo de fsociety y normalizar su relación con Shayla. Sin embargo, los eventos trágicos en Allsafe y las maniobras corporativas de Tyrell Wellick dificultan que Elliot abandone el mundo del hackeo.",
               "airDate": "2015-07-08",
               "duration": 45,
-              "still": "",
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/hXTn6GbzIWcHBas0jQNOvJMofZN.jpg",
               "sources": [
                 {
                   "type": "direct",
-                  "video": ""
+                  "video": "https://streamtape.com/e/jVLKBamey7i2D6"
                 }
               ]
             },
@@ -512,11 +513,11 @@
               "overview": "fsociety viaja a Steel Mountain, las instalaciones fuertemente custodiadas donde E Corp almacena sus respaldos físicos de datos. Elliot sufre intensos síntomas de abstinencia a la morfina mientras el grupo planea una infiltración crítica.",
               "airDate": "2015-07-15",
               "duration": 45,
-              "still": "",
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/2nRIQc1kKfS5RTkLeVQYJauW3QU.jpg",
               "sources": [
                 {
                   "type": "direct",
-                  "video": ""
+                  "video": "https://streamtape.com/e/xlvjY4xPDLTkgAg"
                 }
               ]
             },
@@ -528,11 +529,11 @@
               "overview": "Con la ayuda de fsociety, Elliot se infiltra físicamente en Steel Mountain usando ingeniería social. Mientras tanto, Tyrell Wellick y su esposa Joanna ejecutan una fría maniobra para asegurar el puesto de CTO en E Corp.",
               "airDate": "2015-07-22",
               "duration": 45,
-              "still": "",
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/h3MJRJQRdCTsDWEOUzpatZqwkIR.jpg",
               "sources": [
                 {
                   "type": "direct",
-                  "video": ""
+                  "video": "https://streamtape.com/e/a7YV9K1JOMIxVVm"
                 }
               ]
             },
@@ -544,11 +545,11 @@
               "overview": "Shayla es secuestrada por el peligroso proveedor de drogas Fernando Vera, obligando a Elliot a hackear el sistema informático de una prisión de máxima seguridad para liberarlo antes de que sea demasiado tarde.",
               "airDate": "2015-07-29",
               "duration": 45,
-              "still": "",
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/1RjEUBkw9Xnsq8doMw9K2NnRmsX.jpg",
               "sources": [
                 {
                   "type": "direct",
-                  "video": ""
+                  "video": "https://streamtape.com/e/wVMQVr6PeXIeP4"
                 }
               ]
             },
@@ -560,11 +561,11 @@
               "overview": "Tras la tragedia de Shayla, Elliot intenta procesar su duelo mediante terapia con la Dra. Krista Gordon. Angela descubre nueva información crucial sobre la conspiración del vertido tóxico que mató a sus padres.",
               "airDate": "2015-08-05",
               "duration": 45,
-              "still": "",
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8Ap8xEHmk9rJ5DqN6c9enca7sVP.jpg",
               "sources": [
                 {
                   "type": "direct",
-                  "video": ""
+                  "video": "https://streamtape.com/e/admLr9dxLmuORO"
                 }
               ]
             },
@@ -576,11 +577,11 @@
               "overview": "fsociety intenta coordinar el gran ataque con el temido grupo hacker Dark Army. Elliot se reúne personalmente con Whiterose mientras descubre revelaciones perturbadoras sobre su propio pasado y su familia.",
               "airDate": "2015-08-12",
               "duration": 45,
-              "still": "",
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/tlMYjW7bTMizWFlvsnt2yAEOgWw.jpg",
               "sources": [
                 {
                   "type": "direct",
-                  "video": ""
+                  "video": "https://streamtape.com/e/Q04ReGorP9U016b"
                 }
               ]
             },
@@ -592,11 +593,11 @@
               "overview": "Elliot confronta la verdadera naturaleza de su relación con Mr. Robot en el cementerio de su infancia. Tyrell Wellick acude a la casa de Elliot desesperado tras perder el control de su vida en E Corp.",
               "airDate": "2015-08-19",
               "duration": 45,
-              "still": "",
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/giXxuHQ9LhcndP3caA5nGD3IMI2.jpg",
               "sources": [
                 {
                   "type": "direct",
-                  "video": ""
+                  "video": "https://streamtape.com/e/1LM0rYMo74tePyv"
                 }
               ]
             },
@@ -608,11 +609,598 @@
               "overview": "Elliot despierta en el automóvil de Tyrell tras tres días de amnesia, descubriendo que el gran ataque financiero de fsociety ha tenido éxito y el sistema económico global ha colapsado por completo.",
               "airDate": "2015-09-02",
               "duration": 54,
-              "still": "",
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/hNpNO4IchQMWyhgS1Lt9QX3TBwl.jpg",
               "sources": [
                 {
                   "type": "direct",
-                  "video": ""
+                  "video": "https://streamtape.com/e/yg8ewggowGi1Ayj"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "active": true,
+          "name": "Temporada 2",
+          "episodeCount": 12,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/mrrobot2.jpeg",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "eps2.0_unm4sk-pt1.tc",
+              "originalName": "eps2.0_unm4sk-pt1.tc",
+              "overview": "Tras el hackeo del 9 de mayo, Elliot se ha aislado en la casa de su madre siguiendo una rutina estricta para mantener a Mr. Robot fuera de su mente. fsociety ejecuta un nuevo ataque contra E Corp exigiendo un rescate masivo.",
+              "airDate": "2016-07-13",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/tZJEVPYBtkcYctpqVDlAyR4nNY3.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/GjXKwadGqeS1DQO"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "eps2.0_unm4sk-pt2.tc",
+              "originalName": "eps2.0_unm4sk-pt2.tc",
+              "overview": "La agente del FBI Dominique DiPierro comienza a investigar el hackeo de E Corp tras el descubrimiento de un cadáver. Elliot intenta mantenerse al margen, pero la constante presencia de Mr. Robot lo lleva al límite mental.",
+              "airDate": "2016-07-13",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/dmC940qVfZyRwObYnRYIezqBZFz.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/zkKv7k2AD1iYrMJ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "eps2.1_k3rn3l-pan1c.ksd",
+              "originalName": "eps2.1_k3rn3l-pan1c.ksd",
+              "overview": "Elliot recurre al consumo masivo de Adderall para eliminar a Mr. Robot de su psique. Angela continúa ascendiendo dentro de E Corp enfrentándose a dilemas éticos, mientras Dom rastrea una pista clave sobre fsociety.",
+              "airDate": "2016-07-20",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/iSKjRqP0nfBjS1rP4OOT2wWhgYN.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/2KyJRoAoLjSjq8"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "eps2.2_init_1.asec",
+              "originalName": "eps2.2_init_1.asec",
+              "overview": "Un flashback revela los orígenes de la máscara de fsociety y la idea inicial del hackeo. En el presente, Darlene le pide ayuda a Elliot para infiltrarse en el FBI, obligándolo a volver a usar una computadora.",
+              "airDate": "2016-07-27",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/lGMk2uU1cuzybVKwNQXyRunTq7y.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/A4YYP24Qwyfvpg"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "eps2.3_logic-b0mb.hc",
+              "originalName": "eps2.3_logic-b0mb.hc",
+              "overview": "Elliot ayuda a Ray a administrar su sitio en la 'dark web' mientras prepara en secreto el hackeo al FBI. Dom y su equipo viajan a China para investigar la conexión de E Corp con el Dark Army, sufriendo un ataque armado.",
+              "airDate": "2016-08-03",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/yxlfZiBHYoX3QFfoMiYV2U5VuPM.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/o223m00Q1KIJJ27"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "eps2.4_m4ster-sLave.aes",
+              "originalName": "eps2.4_m4ster-sLave.aes",
+              "overview": "Para escapar de una brutal paliza ordenada por Ray, la mente de Elliot se refugia en una ilusión absurda ambientada en una sitcom de los noventa. Angela intenta ejecutar la infección cibernética en las oficinas del FBI.",
+              "airDate": "2016-08-10",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/cRHPHyhAjy6EDdg5TrMwtw1fNuc.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Ld1610MmrjuRjx7"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "eps2.5_h4ndshake.chk",
+              "originalName": "eps2.5_h4ndshake.chk",
+              "overview": "Elliot logra exponer el sitio ilegal de Ray ante las autoridades. Mr. Robot y Elliot llegan a una tregua temporal, momento en el cual se revela una impactante verdad sobre el lugar donde Elliot ha estado viviendo.",
+              "airDate": "2016-08-17",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/xvvFhZsUqgxf2FqzJLyCNqnewaC.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/yg4dLWRkL2U16az"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "eps2.6_succ3ss0r.p12",
+              "originalName": "eps2.6_succ3ss0r.p12",
+              "overview": "Con Elliot ausente, Darlene y los miembros de fsociety toman el control de la casa de una ejecutiva de E Corp. Las cosas se complican gravemente cuando la dueña regresa inesperadamente.",
+              "airDate": "2016-08-24",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/2YfhnDVZDjd4UGGjRupDVBsYxmJ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/VaAR8Dep34SKLdO"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "eps2.7_init_5.fve",
+              "originalName": "eps2.7_init_5.fve",
+              "overview": "Elliot es liberado de prisión e intenta reconstruir los días perdidos para descubrir qué es la 'Fase 2'. Angela se reúne con oficiales del gobierno para entregar evidencia incriminatoria contra E Corp.",
+              "airDate": "2016-08-31",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/p0i7MIpPXxM449A2hJc48AECZyR.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/oQZk0eleG6cJaeg"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "eps2.8_hidd3n-pr0cess.axx",
+              "originalName": "eps2.8_hidd3n-pr0cess.axx",
+              "overview": "Elliot busca desesperadamente contactar a Tyrell Wellick con ayuda de Joanna. Darlene y Cisco descubren la ubicación de un miembro herido, pero el FBI y el Dark Army les pisan los talones.",
+              "airDate": "2016-09-07",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/lC6CqL386ntGwi6jkJCTHPtnrYS.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/M6B7pBj2leSm7Ld"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "eps2.9_pyth0n-pt1.p7z",
+              "originalName": "eps2.9_pyth0n-pt1.p7z",
+              "overview": "Angela es secuestrada y sometida a un extraño interrogatorio por parte de Whiterose. Elliot descifra una serie de pistas que lo conducen a un inesperado reencuentro con Tyrell Wellick.",
+              "airDate": "2016-09-14",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/iJh2GC7fyIQv8V3MYVoVLcUjeIT.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wgPGlebwPOIJKD8"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "eps2.9_pyth0n-pt2.p7z",
+              "originalName": "eps2.9_pyth0n-pt2.p7z",
+              "overview": "Tyrell lleva a Elliot al centro de operaciones de la 'Fase 2'. Elliot duda de la realidad de Tyrell creyendo que es otra alucinación, lo que desencadena un desenlace crítico con consecuencias impredecibles.",
+              "airDate": "2016-09-21",
+              "duration": 43,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/ccTAczqSjtHjJFuKVIXS84PjgcU.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/KevzRvXjyxs09LO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 3,
+          "active": true,
+          "name": "Temporada 3",
+          "episodeCount": 10,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/mrrobot3.jpeg",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "eps3.0_power-saver-mode.h",
+              "originalName": "eps3.0_power-saver-mode.h",
+              "overview": "Tras sobrevivir al disparo de Tyrell, Elliot despierta con Angela a su lado e intenta cancelar la Fase 2. Darlene se enfrenta a la presión del FBI mientras Whiterose acelera sus planes.",
+              "airDate": "2017-10-11",
+              "duration": 49,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/8ZvIFsT3GFHjaiZ7JLaDD7co5F3.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/3B3alv7oV8Idy1z"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "eps3.1_undo.gz",
+              "originalName": "eps3.1_undo.gz",
+              "overview": "Elliot comienza a trabajar dentro de E Corp para reparar los daños causados por el hackeo y deshacer el impacto de la Fase 1. Mientras tanto, Darlene busca respuestas sobre el paradero de Elliot.",
+              "airDate": "2017-10-18",
+              "duration": 45,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/k2Ktv1CgT8UZif5rENxBf395qSN.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Yym6G1jdmvuvWqQ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "eps3.2_legacy.so",
+              "originalName": "eps3.2_legacy.so",
+              "overview": "Un episodio centrado en la perspectiva de Tyrell Wellick que revela dónde estuvo escondido durante su desaparición y cómo fue reclutado por el Dark Army para ejecutar la Fase 2.",
+              "airDate": "2017-10-25",
+              "duration": 47,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/cPZAfgWRP0RxNHw6cE3eEr1knRB.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/1d29Kj1rg9TeOY4"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "eps3.3_m3tadata.parity",
+              "originalName": "eps3.3_m3tadata.parity",
+              "overview": "Elliot descubre que alguien en quien confiaba está saboteando sus intentos de detener la Fase 2. Darlene queda acorralada entre su lealtad a Elliot y las amenazas del FBI.",
+              "airDate": "2017-11-01",
+              "duration": 45,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/n2lU9BoMU44ggA6GlayiPKdBrbU.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/1LbBjGxRXvcee7l"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "eps3.4_runtime-error.r00",
+              "originalName": "eps3.4_runtime-error.r00",
+              "overview": "En un episodio narrado en una sola toma continua, Elliot intenta evitar el ataque del Dark Army dentro de las oficinas de E Corp mientras una violenta manifestación rodea el edificio.",
+              "airDate": "2017-11-08",
+              "duration": 45,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/e6ZSWEtw37SiULhw96BBNq7iwTb.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/oMwXP3Rpz6CK10"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "eps3.5_kill-process.inc",
+              "originalName": "eps3.5_kill-process.inc",
+              "overview": "Elliot lucha cuerpo a cuerpo contra Mr. Robot dentro de un centro de datos para evitar la destrucción física de los registros de E Corp, mientras descubre la verdadera magnitud del plan del Dark Army.",
+              "airDate": "2017-11-15",
+              "duration": 46,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jrQbrrQBARKHClODO8bH8gDxBwW.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/yPZvyo3qL7I1Ygp"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "eps3.6_fredrick+tanya.chk",
+              "originalName": "eps3.6_fredrick+tanya.chk",
+              "overview": "Tras la tragedia masiva en múltiples instalaciones de E Corp, Elliot intenta procesar la culpa acumulada. Dom y el FBI enfrentan las consecuencias políticas y de seguridad de los ataques.",
+              "airDate": "2017-11-22",
+              "duration": 45,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/82uEJqvH6FbiqipG9IYztePMRbO.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/3wl4ZD1PzgFlO1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "eps3.7_dont-delete-me.ko",
+              "originalName": "eps3.7_dont-delete-me.ko",
+              "overview": "Sumido en una profunda depresión y contemplated suicidarse, Elliot pasa un día inesperado con Mohammed, el hermano menor de Trenton, reanimando su deseo de seguir luchando.",
+              "airDate": "2017-11-29",
+              "duration": 46,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/wlpJLbBqQKhVepnAuFxaK9h8cJd.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/27QzgV4kllFZv6l"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "eps3.8_stage3.torrent",
+              "originalName": "eps3.8_stage3.torrent",
+              "overview": "Elliot intenta manipular al Dark Army proponiendo una falsa 'Fase 3'. Angela se encuentra en un estado psicológico sumamente frágil mientras cree ciegamente en las promesas de Whiterose.",
+              "airDate": "2017-12-06",
+              "duration": 45,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/lE50225dvp4QkSCMs7OasuPCqep.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/6qAGpPQAbGtOB8"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "shutdown -r",
+              "originalName": "shutdown -r",
+              "overview": "Elliot y Darlene se ven acorralados por el Dark Army en un granero. Dom se enfrenta a un destino aplastante, y Elliot encuentra la clave para revertir el hackeo del 9 de mayo.",
+              "airDate": "2017-12-13",
+              "duration": 48,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/jCqtwadu6axZY0sYYP2QGC9u15f.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/gdVKZRpblLsq0Pp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 4,
+          "active": true,
+          "name": "Temporada 4",
+          "episodeCount": 13,
+          "poster": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/poster/mrrobot4.jpeg",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "active": true,
+              "name": "401 Unauthorized",
+              "originalName": "401 Unauthorized",
+              "overview": "En la temporada navideña de 2015, Elliot y Mr. Robot trabajan juntos para destruir al grupo financiero tras Whiterose. Darlene cae en un abismo emocional tras una trágica pérdida.",
+              "airDate": "2019-10-06",
+              "duration": 50,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/n97iv8wyYGIPIlopX9Ac2XeLkHm.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/3VoXvL93zmFdBrK"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 2,
+              "active": true,
+              "name": "402 Payment Required",
+              "originalName": "402 Payment Required",
+              "overview": "Elliot y Darlene enfrentan el duelo tras una revelación devastadora. Darlene insiste en buscar al responsable mientras Elliot intenta rastrear el dinero del Deus Group.",
+              "airDate": "2019-10-13",
+              "duration": 46,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/cS3HczysMAZ2FY2sR75eu5UIrQA.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/41dd3gXv6lipMO"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 3,
+              "active": true,
+              "name": "403 Forbidden",
+              "originalName": "403 Forbidden",
+              "overview": "Elliot intenta hackear a la funcionaria de Cyprus National Bank que gestiona las cuentas del Deus Group. Dom debe lidiar con las crecientes exigencias de vigilancia del Dark Army.",
+              "airDate": "2019-10-20",
+              "duration": 47,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/rqY41dxEhrP8eAadjXJP7yHRV20.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/dP24Zq3YkzIkXxQ"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 4,
+              "active": true,
+              "name": "404 Not Found",
+              "originalName": "404 Not Found",
+              "overview": "En Nochebuena, Elliot, Mr. Robot y Tyrell quedan varados en un frígido e inhóspito bosque en el norte del estado de Nueva York mientras huyen de un mercenario del Dark Army.",
+              "airDate": "2019-10-27",
+              "duration": 45,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/wb8zbWEBtTlSpd0zvJhZ0qDWTXe.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/Wqe03Px9M3TgoB"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 5,
+              "active": true,
+              "name": "405 Method Not Allowed",
+              "originalName": "405 Method Not Allowed",
+              "overview": "En un episodio prácticamente sin diálogos hablados, Elliot y Darlene se infiltran físicamente en una instalación de procesamiento de datos en Virtual Realty durante el día de Navidad.",
+              "airDate": "2019-11-03",
+              "duration": 45,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/npveuBuAJ59XxBa63VJVwD3h8nC.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/wz421P6rvRfJ7eo"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 6,
+              "active": true,
+              "name": "406 Not Acceptable",
+              "originalName": "406 Not Acceptable",
+              "overview": "Elliot es secuestrado por Fernando Vera, quien busca apoderarse de la ciudad de Nueva York usando el intelecto de Elliot. Dom recibe la orden de ejecutar a Darlene.",
+              "airDate": "2019-11-10",
+              "duration": 45,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/g3E7JUyz5TmCKFZ6vsyatzZMEkD.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/ggY97LMQG9fqQlK"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 7,
+              "active": true,
+              "name": "407 Proxy Authentication Required",
+              "originalName": "407 Proxy Authentication Required",
+              "overview": "Estructurado como una obra teatral de cinco actos, Vera somete a Elliot a una sesión de terapia forzada con la Dra. Krista, sacando a la luz el trauma más oscuro de la infancia de Elliot.",
+              "airDate": "2019-11-17",
+              "duration": 56,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/gIOUQXw1dtnRRYTaPUUMDsSoL6m.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/1qrKrMP3yQi6ej"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 8,
+              "active": true,
+              "name": "408 Request Timeout",
+              "originalName": "408 Request Timeout",
+              "overview": "Tras la traumática revelación de su infancia, Elliot queda catatónico mientras Mr. Robot toma el control temporalmente para preparar el ataque final contra el Deus Group.",
+              "airDate": "2019-11-24",
+              "duration": 46,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/7FLZfngpIrZ3noag2ugvyqbviqQ.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/lDVGpkQYjMc71rO"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 9,
+              "active": true,
+              "name": "409 Conflict",
+              "originalName": "409 Conflict",
+              "overview": "fsociety ejecuta el golpe maestro definitivo durante una reunión secreta del Deus Group en Nueva York, redistribuyendo toda la riqueza acumulada por las élites globales.",
+              "airDate": "2019-12-01",
+              "duration": 46,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/zAMJXJ6tWtxOlXIIRD8HWwlcwTV.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/LpRogqeaM8CRleO"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 10,
+              "active": true,
+              "name": "410 Gone",
+              "originalName": "410 Gone",
+              "overview": "Darlene y Dom intentan escapar de la persecución del Dark Army dirigiéndose al aeropuerto para tomar un vuelo hacia Budapest, mientras reflexionan sobre su futuro.",
+              "airDate": "2019-12-08",
+              "duration": 48,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/mzWSddXbEjxD5oGA4Lq2OLzdbOG.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/YpkQXd1kvQsvbX1"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 11,
+              "active": true,
+              "name": "eXit",
+              "originalName": "eXit",
+              "overview": "Elliot viaja a la planta nuclear de Washington Township para destruir la máquina de Whiterose. Tras un choque filosófico, Elliot despierta en una realidad idealizada e irreconocible.",
+              "airDate": "2019-12-15",
+              "duration": 46,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/vUmFuhEW9ZZnPvN8qIR1mpxsJCr.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/k3eyePQvj4IOVky"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 12,
+              "active": true,
+              "name": "whoami",
+              "originalName": "whoami",
+              "overview": "Elliot explora el mundo alternativo perfecto donde no existen traumas ni fsociety, enfrentándose cara a cara con una versión diferente de sí mismo.",
+              "airDate": "2019-12-22",
+              "duration": 50,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/dASAGrbEmsiGyzbtwgkq02NanlM.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/k2PV19XoXgS9Xd"
+                }
+              ]
+            },
+            {
+              "episodeNumber": 13,
+              "active": true,
+              "name": "Hello, Elliot",
+              "originalName": "Hello, Elliot",
+              "overview": "En el desenlace de la serie, se revela la verdad definitiva sobre la identidad del protagonista, su mundo mental y el papel que desempeñaron Mr. Robot y las demás personalidades.",
+              "airDate": "2019-12-22",
+              "duration": 56,
+              "still": "https://media.themoviedb.org/t/p/w500_and_h282_face/rnD5umHZG1DCJjEU1xbwM9Fne0G.jpg",
+              "sources": [
+                {
+                  "type": "direct",
+                  "video": "https://streamtape.com/e/26oZDBRLGlUZlqm"
                 }
               ]
             }
@@ -1824,6 +2412,7 @@
     },
     {
       "tmdbId": 1418,
+      "active": true,
       "title": "La Teoría del Big Bang",
       "originalTitle": "The Big Bang Theory",
       "overview": "Leonard y Sheldon son dos físicos brillantes con doctorados que comparten apartamento. Aunque son genios en el laboratorio, se enfrentan a serios problemas para relacionarse socialmente, especialmente con las mujeres. La llegada de Penny, una aspirante a actriz alegre y extrovertida que se muda al apartamento de al lado, cambia por completo sus vidas.",
