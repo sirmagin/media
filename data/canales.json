@@ -613,45 +613,35 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/pumm/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/pumm/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
         {
             "id": 35,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "ESPN 2",
             "category": [
                 "Deportes"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/espn2.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/android2.php?c=a0j0&token=tecnotokenplustv230516F&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 36,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "ESPN 3",
             "category": [
                 "Deportes"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/espn3.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/android2.php?c=a0is&token=tecnotokenplustv230516F&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 37,
@@ -1004,19 +994,14 @@
         },
         {
             "id": 59,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "A&E",
             "category": [
                 "Documental"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/a_e.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/android2.php?c=a0dr&token=tecnotokenplustv230516F&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 60,
@@ -1066,11 +1051,11 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/lista4.php?c=a05b&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/pumm/phpcode/android2.php?c=a0ii&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/android2.php?c=a0ii&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/pumm/phpcode/lista4.php?c=a05b&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1353,15 +1338,15 @@
                 },
                 {
                     "type": "hls",
+                    "url": "https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8"
+                },
+                {
+                    "type": "hls",
                     "url": "http://tecnotv.club/pumm/phpcode/plutotv.php?c=5ebacbcae43a6d000787b88e&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/pumm/phpcode/plutotv.php?c=5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8"
                 }
             ]
         },
@@ -1403,15 +1388,15 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
                 },
                 {
                     "type": "hls",
                     "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8"
                 }
             ]
         },
@@ -1487,15 +1472,15 @@
                 },
                 {
                     "type": "hls",
+                    "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
+                },
+                {
+                    "type": "hls",
                     "url": "http://tecnotv.club/pumm/phpcode/plutotv.php?c=5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true"
                 },
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/pumm/phpcode/plutotv.php?c=5f998c1fc54853000797bacd&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
                 }
             ]
         },
@@ -1880,243 +1865,168 @@
         },
         {
             "id": 676,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Latina",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=latina&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 677,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Russian",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=russian&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 678,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Lesbian",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=lesbian&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 679,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Anal",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=anal&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 680,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Teen",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=teen&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 681,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Fetish",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=fetish&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 682,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "POV",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=pov&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 683,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Blowjob",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=blowjob&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 684,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Hardcore",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=hardcore&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 685,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Cuckold",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=cuckold&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 686,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Rough",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=rough&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 687,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Gangbang",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=gangbang&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 688,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Compilation",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=compilation&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 689,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Brunette",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=brunette&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 690,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Blonde",
             "category": [
                 "Adulto"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/xxx.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/pumm/phpcode/hot.php?c=blonde&f=.m3u8"
-                }
-            ]
+            "stream": []
         }
     ]
 }
