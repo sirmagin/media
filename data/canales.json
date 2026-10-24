@@ -406,11 +406,11 @@
             "stream": [
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
                 },
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
                 }
             ]
         },
@@ -613,11 +613,11 @@
             "stream": [
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/py39/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/py39/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/py39/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/py39/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -671,19 +671,14 @@
         },
         {
             "id": 38,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "TNT Sports Premium",
             "category": [
                 "Deportes"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tntsportpremium.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://tecnotv.club/py39/phpcode/lista4.php?c=a05i&token=tecnotokenplustv230516F&f=.m3u8"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 39,
@@ -1076,14 +1071,19 @@
         },
         {
             "id": 63,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "History 2",
             "category": [
                 "Documental"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/history2.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/py39/phpcode/android2.php?c=a0fp&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 64,
@@ -1348,11 +1348,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/py39/phpcode/plutotv.php?c=5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true"
+                    "url": "http://tecnotv.club/py39/phpcode/plutotv.php?c=5ebacbcae43a6d000787b88e&token=tecnotokenplustv230516F&f=.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "http://tecnotv.club/py39/phpcode/plutotv.php?c=5ebacbcae43a6d000787b88e&token=tecnotokenplustv230516F&f=.m3u8"
+                    "url": "http://tecnotv.club/py39/phpcode/plutotv.php?c=5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true"
                 },
                 {
                     "type": "hls",
@@ -1398,15 +1398,15 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
                 },
                 {
                     "type": "hls",
                     "url": "https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
                 }
             ]
         },
