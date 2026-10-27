@@ -603,14 +603,23 @@
         },
         {
             "id": 34,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "ESPN",
             "category": [
                 "Deportes"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/espn.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/7e94/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/7e94/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 35,
@@ -690,7 +699,7 @@
         },
         {
             "id": 40,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Warner TV",
             "category": [
@@ -698,7 +707,12 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/warnertv.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/7e94/phpcode/lista4.php?c=a04d&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 41,
@@ -714,6 +728,10 @@
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/7e94/phpcode/android2.php?c=a0ik&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/7e94/phpcode/lista4.php?c=a06j&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1023,6 +1041,10 @@
             "stream": [
                 {
                     "type": "hls",
+                    "url": "http://tecnotv.club/7e94/phpcode/lista4.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
                     "url": "http://tecnotv.club/7e94/phpcode/lista2.php?c=a05p&f=.m3u8&token=tecnotokenplustv230516F"
                 }
             ]
@@ -1037,6 +1059,10 @@
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/history.jpeg",
             "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/7e94/phpcode/lista4.php?c=a05b&token=tecnotokenplustv230516F&f=.m3u8"
+                },
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/7e94/phpcode/android2.php?c=a0ii&token=tecnotokenplustv230516F&f=.m3u8"
@@ -1073,14 +1099,19 @@
         },
         {
             "id": 65,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Cartoon Network",
             "category": [
                 "Infantil"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cartoonnetwork.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/7e94/phpcode/lista4.php?c=a08b&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 66,
@@ -1101,14 +1132,19 @@
         },
         {
             "id": 67,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Nickelodeon",
             "category": [
                 "Infantil"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/nickelodeon.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/7e94/phpcode/lista4.php?c=a02n&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 68,
@@ -1362,11 +1398,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
+                    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
+                    "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
                 },
                 {
                     "type": "hls",
