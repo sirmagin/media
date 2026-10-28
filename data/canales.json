@@ -338,14 +338,19 @@
         },
         {
             "id": 20,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "13c",
             "category": [
                 "Cultural"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/13c.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/uwud/phpcode/lista4.php?c=a07p&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 21,
@@ -401,11 +406,11 @@
             "stream": [
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
                 },
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
                 }
             ]
         },
@@ -598,14 +603,23 @@
         },
         {
             "id": 34,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "ESPN",
             "category": [
                 "Deportes"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/espn.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/uwud/phpcode/lista4.php?c=a04l&token=tecnotokenplustv230516F&f=.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/uwud/phpcode/lista4.php?c=a05t&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 35,
@@ -685,7 +699,7 @@
         },
         {
             "id": 40,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Warner TV",
             "category": [
@@ -693,7 +707,12 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/warnertv.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/uwud/phpcode/lista4.php?c=a04d&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 41,
@@ -706,6 +725,10 @@
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cinecanal.jpeg",
             "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/uwud/phpcode/lista4.php?c=a06j&token=tecnotokenplustv230516F&f=.m3u8"
+                },
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/uwud/phpcode/android2.php?c=a0ik&token=tecnotokenplustv230516F&f=.m3u8"
@@ -976,14 +999,19 @@
         },
         {
             "id": 59,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "A&E",
             "category": [
                 "Documental"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/a_e.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/uwud/phpcode/android2.php?c=a0dr&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 60,
@@ -1014,6 +1042,10 @@
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/uwud/phpcode/lista2.php?c=a05p&f=.m3u8&token=tecnotokenplustv230516F"
+                },
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/uwud/phpcode/lista4.php?c=a05k&token=tecnotokenplustv230516F&f=.m3u8"
                 }
             ]
         },
@@ -1027,6 +1059,10 @@
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/history.jpeg",
             "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/uwud/phpcode/lista4.php?c=a05b&token=tecnotokenplustv230516F&f=.m3u8"
+                },
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/uwud/phpcode/android2.php?c=a0ii&token=tecnotokenplustv230516F&f=.m3u8"
@@ -1063,14 +1099,19 @@
         },
         {
             "id": 65,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Cartoon Network",
             "category": [
                 "Infantil"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cartoonnetwork.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/uwud/phpcode/lista4.php?c=a08b&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 66,
@@ -1091,14 +1132,19 @@
         },
         {
             "id": 67,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Nickelodeon",
             "category": [
                 "Infantil"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/nickelodeon.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "http://tecnotv.club/uwud/phpcode/lista4.php?c=a02n&token=tecnotokenplustv230516F&f=.m3u8"
+                }
+            ]
         },
         {
             "id": 68,
@@ -1436,15 +1482,15 @@
                 },
                 {
                     "type": "hls",
+                    "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
+                },
+                {
+                    "type": "hls",
                     "url": "http://tecnotv.club/uwud/phpcode/plutotv.php?c=5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true"
                 },
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/uwud/phpcode/plutotv.php?c=5f998c1fc54853000797bacd&token=tecnotokenplustv230516F&f=.m3u8"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
                 }
             ]
         },
@@ -1593,6 +1639,10 @@
                     "type": "hls",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16197&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5,IAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=cl&country_region=valparaiso&postal_code=&gender=not_specified&yob=0&site_page=https%3A%2F%2Fvideo.freetv.com%2Fes%2Flinear%2Ffreetv-estelar-1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1790985054&id=16532&ip=2800:300:6a55:2e0:51f8:de8:da21:2c29&override_expiration=1500&sign=tbayloc/PPM26Eg4e1xuWBwZn6zWxgNbPlclYLBylR0=",
                     "fixed": true
+                },
+                {
+                    "type": "hls",
+                    "url": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8"
                 }
             ]
         },
