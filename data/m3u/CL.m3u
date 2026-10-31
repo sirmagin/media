@@ -4,11 +4,11 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1771" tvg-name="Qultura" tvg-logo="https://cdn.m3u.cl/logo/1771_Qultura.png", Qultura ✪ | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV ✪ | CL
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+https://srt01.logicahost.com.br/senal1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 ✪ | CL
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+https://srt01.logicahost.com.br/senal2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 ✪ | CL
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+https://srt01.logicahost.com.br/senal3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png", VClassicTV ✪ | CL
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png", VClassicTV Tropical ✪ | CL
@@ -38,7 +38,7 @@ https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="996" tvg-name="Latinos TV" tvg-logo="https://cdn.m3u.cl/logo/996_Latinos_TV.png", Latinos TV ✪ | CL
 https://lbgo.bozztv.com/ssh101/ssh101/latinos2026/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png", PlanetaTV ✪ | CL
-https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/envivo/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1424" tvg-name="Parentesis TV" tvg-logo="https://cdn.m3u.cl/logo/1424_Parentesis_TV.png", Parentesis TV ✪ | CL
 https://freya.mivideo.pro/parentesistv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1706" tvg-name="Central TV" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png", Central TV ✪ | CL
@@ -57,6 +57,10 @@ https://183.bozztv.com/giatv/giatv-labrarnoticias/labrarnoticias/chunks.m3u8?Pla
 https://183.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1098" tvg-name="CRTV" tvg-logo="https://cdn.m3u.cl/logo/1098_CRTV.png", CRTV ✪ | CL
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1802" tvg-name="Radio Mágica TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1802_Radio_Magica_TV_Senal_2.png", Radio Mágica TV Señal 2 ✪ | CL
+https://stmv5.voxtvhd.com.br/radiomagicatv2/radiomagicatv2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1803" tvg-name="PalMundo FM" tvg-logo="https://cdn.m3u.cl/logo/1803_PalMundo_FM.png", PalMundo FM ✪ | CL
+https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1801" tvg-name="Radio FM Dance" tvg-logo="https://cdn.m3u.cl/logo/1801_Radio_FM_Dance.png", Radio FM Dance ✪ | CL
 https://stream.radiofmdance.cl/memfs/9dbb05a1-60de-450c-b0b6-d2be5bf0126e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1798" tvg-name="LCR Televisión" tvg-logo="https://cdn.m3u.cl/logo/1798_LCR_Television.png", LCR Televisión ✪ | CL
@@ -178,9 +182,9 @@ https://stream.telezeta.cl/live/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1649" tvg-name="EPA! TV" tvg-logo="https://cdn.m3u.cl/logo/1649_EPA__TV.png", EPA! TV ✪ | CL
 https://v4.tustreaming.cl/edusauriotv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1630" tvg-name="Poesia TV" tvg-logo="https://cdn.m3u.cl/logo/1630_Poesia_TV.png", Poesia TV ✪ | CL
-https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+https://5eaccbab48461.streamlock.net:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://cdn.m3u.cl/logo/432_HiperTV.png", HiperTV ✪ | CL
-https://service.cdn-stream.com/ott-hipertv/hipertv/playlist.m3u8?PlaylistM3UCL
+https://hipertvserver.cl/hls/live/main/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1617" tvg-name="Zoom Tecnologico Plus" tvg-logo="https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png", Zoom Tecnologico Plus ✪ | CL
 https://vivo.cdnvid.com/zoomtecnologico.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1418" tvg-name="Chilevisual Classic" tvg-logo="https://cdn.m3u.cl/logo/1418_Chilevisual_Classic.png", Chilevisual Classic ✪ | CL
@@ -354,7 +358,7 @@ https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?Playli
 #EXTINF:-1 tvg-id="319" tvg-name="Atacama Noticias TV" tvg-logo="https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png", Atacama Noticias TV | CL
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320" tvg-name="Atacama TV" tvg-logo="https://cdn.m3u.cl/logo/320_Atacama_TV.png", Atacama TV | CL
-https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+https://v4.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="784" tvg-name="Madero TV" tvg-logo="https://cdn.m3u.cl/logo/784_Madero_TV.png", Madero TV | CL
 https://v1.tustreaming.cl/maderoantofagasta/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321" tvg-name="Huasco TV" tvg-logo="https://cdn.m3u.cl/logo/321_Huasco_TV.png", Huasco TV | CL
@@ -559,6 +563,8 @@ https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&Playl
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL
 #EXTINF:-1 tvg-id="375" tvg-name="Valparaiso Sporting" tvg-logo="https://cdn.m3u.cl/logo/375_Valparaiso_Sporting.png", Valparaiso Sporting | CL
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="324" tvg-name="El Galpon 80" tvg-logo="https://cdn.m3u.cl/logo/324_El_Galpon_80.png", El Galpon 80 | CL
+https://fernando.tail5b5e1d.ts.net/live/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="849" tvg-name="Sensacion Costa" tvg-logo="https://cdn.m3u.cl/logo/849_Sensacion_Costa.png", Sensacion Costa | CL
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png", Carolina TV | CL
@@ -770,7 +776,7 @@ https://mdstrm.com/live-stream-playlist/67eae6c131b63199bfc77253.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="1780" tvg-name="Gobierno de Chile" tvg-logo="https://cdn.m3u.cl/logo/1780_Gobierno_de_Chile.png", Gobierno de Chile | CL
 https://mdstrm.com/live-stream-playlist/6239f6d008e7ac488826f237.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1797" tvg-name="Radio Ritoque La Ligua 91.3" tvg-logo="https://cdn.m3u.cl/logo/1797_Radio_Ritoque_La_Ligua_91_3.png", Radio Ritoque La Ligua 91.3 | CL
-https://stream.radioritoque.cl/tv/chunks.m3u8?PlaylistM3UCL
+https://stream.radioritoque.cl/tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1799" tvg-name="Radio Araucaria" tvg-logo="https://cdn.m3u.cl/logo/1799_Radio_Araucaria.png", Radio Araucaria | CL
 https://vivo.solumedia.com:19360/araucaria/araucaria.m3u8?PlaylistM3UCL
 https://vivo.solumedia.com:19360/araucaria/araucaria.m3u8?PlaylistM3UCL
