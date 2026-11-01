@@ -12,6 +12,11 @@
             "stream": [
                 {
                     "type": "",
+                    "url": "https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8",
+                    "fixed": true
+                },
+                {
+                    "type": "",
                     "url": "http://181.209.91.106:2222/Live/48a6221e20314807443ea288d5695878/online-24-7_480.m3u8",
                     "fixed": true
                 }
