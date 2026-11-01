@@ -93,7 +93,7 @@ ALIAS_CANALES = {
     'HBO Family': ['HBO Family HD'],
     'HBO +': ['HBO Plus HD', 'HBO +'],
     'HBO Xtreme': ['HBO Xtreme HD', 'HBO XTREME'],
-    'HBO 2': ['HBO2 HD', 'Hbo2', 'HBO 2'],
+    'HBO 2': ['HBO2 HD', 'Hbo2', 'HBO 2', 'HBO 2 Latin America HD (1080p)'],
     'HBO POP': ['HBO POP HD', 'HBO POP'],
     'HBO Mundi': ['HBO MUNDI HD', 'HBO MUNDI'],
     'HBO Signature': ['HBO SIGNATURE HD', 'HBO SIGNATURE'],
@@ -587,6 +587,7 @@ if __name__ == '__main__':
           f'https://tecnotv.club/{TOKEN}/lista4.m3u',
           f'https://tecnotv.club/{TOKEN}/android1.m3u',
           f'https://tecnotv.club/{TOKEN}/android3.m3u',
+          'https://iptv-org.github.io/iptv/languages/spa.m3u',
       ],
       'HBO POP': [
           f'https://tecnotv.club/{TOKEN}/lista1.m3u',

@@ -924,6 +924,10 @@
             "stream": [
                 {
                     "type": "hls",
+                    "url": "http://45.171.64.30:6060/play/a00i/index.m3u8"
+                },
+                {
+                    "type": "hls",
                     "url": "https://tecnotv.club/8t2j/phpcode/android3.php?c=a00v&token=tecnotokenplustv230516F"
                 },
                 {
