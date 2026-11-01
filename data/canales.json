@@ -22,6 +22,11 @@
                 },
                 {
                     "type": "",
+                    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv",
+                    "fixed": true
+                },
+                {
+                    "type": "",
                     "url": "https://live20.bozztv.com/akamaissh101/ssh101/simplat/playlist.m3u8",
                     "fixed": true
                 },
@@ -1856,6 +1861,23 @@
                 {
                     "type": "hls",
                     "url": "http://tecnotv.club/8t2j/phpcode/24.php?c=futurama_mania_"
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "active": true,
+            "country": "",
+            "name": "Dr. House",
+            "category": [
+                "Series"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/drhouse.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211979/playlist.m3u8",
+                    "fixed": true
                 }
             ]
         },
