@@ -10,6 +10,36 @@
             "active": false
         },
         {
+            "id": "el-corazon-de-la-bestia",
+            "tmdbId": 1084153,
+            "title": "En el corazón de la bestia",
+            "originalTitle": "Heart of the Beast",
+            "year": 2026,
+            "releaseDate": "2026-08-14",
+            "genres": [
+                "Acción",
+                "Aventura",
+                "Suspenso"
+            ],
+            "duration": 115,
+            "rating": {
+                "score": 6.7,
+                "source": "TMDB"
+            },
+            "description": "Un antiguo soldado de las fuerzas especiales del ejército y su fiel perro de combate retirado luchan por sobrevivir en la implacable naturaleza salvaje de Alaska tras sufrir un accidente aéreo en una zona remota y hostil.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/tYZ0SvlKOEj6BMHD8gfufRRd1sm.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/tYZ0SvlKOEj6BMHD8gfufRRd1sm.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/6bwgR1bjpks90ra/"
+                }
+            ],
+            "active": true
+        },
+        {
             "id": "la-odisea",
             "tmdbId": 157336,
             "title": "La Odisea",
@@ -35,6 +65,67 @@
                 {
                 "type": "direct",
                 "video": "https://streamtape.com/e/JXqYG8loz0Uj0dv/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "zona-cero",
+            "tmdbId": 1358412,
+            "title": "Zona Cero",
+            "originalTitle": "군체",
+            "year": 2026,
+            "releaseDate": "2026-06-19",
+            "genres": [
+                "Terror",
+                "Ciencia ficción",
+                "Suspenso"
+            ],
+            "duration": 123,
+            "rating": {
+                "score": 6.6,
+                "source": "TMDB"
+            },
+            "description": "Un edificio completo entra en cuarentena tras desatarse un brote viral desconocido. Atrapados en su interior sin posibilidad de escapar, los sobrevivientes deberán luchar por sus vidas mientras los infectados comienzan a evolucionar de formas impredecibles y letales.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/slNIQVItvsy5CzW4SqSDQCuybag.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/slNIQVItvsy5CzW4SqSDQCuybag.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/MPKW99qYPJhm8ZG/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "midway-batalla-en-el-pacifico",
+            "tmdbId": 522162,
+            "title": "Midway: Batalla en el Pacífico",
+            "originalTitle": "Midway",
+            "year": 2019,
+            "releaseDate": "2019-11-06",
+            "genres": [
+                "Bélica",
+                "Historia",
+                "Acción",
+                "Drama"
+            ],
+            "duration": 138,
+            "rating": {
+                "score": 7.1,
+                "source": "TMDB"
+            },
+            "description": "Basada en los hechos reales de la batalla de Midway, un punto de inflexión crucial en el teatro del Pacífico durante la Segunda Guerra Mundial. La historia sigue a los líderes y soldados que utilizaron sus instintos, fortaleza y valentía para superar las adversidades tras el ataque a Pearl Harbor.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/zfmGUN9SW2t4hYUxIDu2niTJKhB.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/zfmGUN9SW2t4hYUxIDu2niTJKhB.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/17wGLJAzJyueQkv/"
                 }
             ],
             "active": true
@@ -213,11 +304,11 @@
             },
             "sources": [
                 {
-                "type": "hls",
-                "video": "https://morencius.com/stream/9I7RoutqWq3TdL8Ap0ufow/hjkrhuihghfvu/1790260251/42239940/index-v1-a1.m3u8"
+                "type": "direct",
+                "video": "https://streamtape.com/e/Zq13qbxdAQSqW08/"
                 }
             ],
-            "active": false
+            "active": true
         },
         {
             "id": "matrix-resurrecciones",
