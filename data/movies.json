@@ -1,6 +1,15 @@
 {
     "movies": [
         {
+            "sources": [
+                {
+                "type": "direct",
+                "video": ""
+                }
+            ],
+            "active": false
+        },
+        {
             "id": "la-odisea",
             "tmdbId": 157336,
             "title": "La Odisea",
@@ -25,19 +34,130 @@
             "sources": [
                 {
                 "type": "direct",
-                "video": ""
+                "video": "https://streamtape.com/e/JXqYG8loz0Uj0dv/"
                 }
             ],
-            "active": false
+            "active": true
         },
         {
+            "id": "mr-nobody",
+            "tmdbId": 31011,
+            "title": "Mr. Nobody",
+            "originalTitle": "Mr. Nobody",
+            "year": 2009,
+            "releaseDate": "2009-09-11",
+            "genres": [
+                "Ciencia ficción",
+                "Drama",
+                "Romance"
+            ],
+            "duration": 141,
+            "rating": {
+                "score": 7.8,
+                "source": "TMDB"
+            },
+            "description": "En el año 2092, Nemo Nobody es un anciano de 118 años y el último mortal en una Tierra donde la humanidad ha alcanzado la inmortalidad. En su lecho de muerte, intenta reconstruir su pasado relatando múltiples vidas posibles que nacieron de cada una de las decisiones que pudo haber tomado desde su infancia.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/dyV1SZ5tnO3FRUaVHPzD8py6NGW.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/dyV1SZ5tnO3FRUaVHPzD8py6NGW.jpg"
+            },
             "sources": [
                 {
                 "type": "direct",
-                "video": ""
+                "video": "https://streamtape.com/e/Dq3mMA0AWRSkMW8/"
                 }
             ],
-            "active": false
+            "active": true
+        },
+        {
+            "id": "susurran-tu-nombre",
+            "tmdbId": 860508,
+            "title": "Susurran tu nombre",
+            "originalTitle": "The Whisper Man",
+            "year": 2026,
+            "releaseDate": "2026-08-28",
+            "genres": [
+                "Crimen",
+                "Suspenso",
+                "Misterio"
+            ],
+            "duration": 111,
+            "rating": {
+                "score": 6.8,
+                "source": "TMDB"
+            },
+            "description": "Tras la misteriosa desaparición de su pequeño hijo, un escritor viudo busca la ayuda de su padre distanciadó, un inspector de policía retirado que años atrás encarceló al infame asesino en serie aparentemente vinculado con el nuevo caso.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/l8Pi5oRhV14ARUTHrPhFtUg6lP6.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/l8Pi5oRhV14ARUTHrPhFtUg6lP6.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/KgLbzOXz9Ahgqk/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "sucker-punch",
+            "tmdbId": 23629,
+            "title": "Sucker Punch: Mundo surreal",
+            "originalTitle": "Sucker Punch",
+            "year": 2011,
+            "releaseDate": "2011-03-24",
+            "genres": [
+                "Acción",
+                "Fantasía",
+                "Suspenso"
+            ],
+            "duration": 110,
+            "rating": {
+                "score": 6.2,
+                "source": "TMDB"
+            },
+            "description": "Una joven llamada Babydoll es internada en un hospital psiquiátrico por su padrastro con la intención de que le practiquen una lobotomía en cinco días. Para escapar del dolor y la realidad del lugar, ella crea un mundo de fantasía alternativo donde junto a otras cuatro internas planea robar cinco objetos clave que les permitirán conseguir su libertad antes de que sea demasiado tarde.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/htPobUkM5h5VG9ClEJTKyyZTvNf.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/htPobUkM5h5VG9ClEJTKyyZTvNf.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/mgMv8blJDkcb8eD/"
+                }
+            ],
+            "active": true
+        },
+        {
+            "id": "60-segundos",
+            "tmdbId": 9679,
+            "title": "60 segundos",
+            "originalTitle": "Gone in Sixty Seconds",
+            "year": 2000,
+            "releaseDate": "2000-06-09",
+            "genres": [
+                "Acción",
+                "Crimen",
+                "Suspenso"
+            ],
+            "duration": 118,
+            "rating": {
+                "score": 6.4,
+                "source": "TMDB"
+            },
+            "description": "Randall «Memphis» Raines hace tiempo que dejó atrás su pasado delictivo. Pero cuando se entera de que su hermano corre peligro de muerte a manos de un peligroso mafioso, se ve obligado a volver a hacer lo que mejor sabe: robar coches. Para salvarlo, deberá sustraer cincuenta vehículos de lujo en una sola noche.",
+            "images": {
+                "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/48a89gSBAu52u6VpcAdRyV5sNJI.jpg",
+                "backdrop": "https://www.themoviedb.org/t/p/w600_and_h900_face/48a89gSBAu52u6VpcAdRyV5sNJI.jpg"
+            },
+            "sources": [
+                {
+                "type": "direct",
+                "video": "https://streamtape.com/e/gvBwv36evjTqQyx/"
+                }
+            ],
+            "active": true
         },
         {
             "id": "la-muerte-de-robin-hood",
