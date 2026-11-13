@@ -426,11 +426,11 @@
             "stream": [
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
                 },
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
                 }
             ]
         },
@@ -1321,11 +1321,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
+                    "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
+                    "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
                 },
                 {
                     "type": "hls",
@@ -1402,6 +1402,10 @@
                     "type": "hls",
                     "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3aa9-65cd2cf397fb4731f54ecae7.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=y7Bh1z4hG4hvYV-Zo42c&auto=0&utm_source=Plex&utm_medium=marketing-site&utm_campaign=Watch+Free+Movies+Online+with+Plex&utm_internal=marketing-site%7CWatch+Free+Movies+Online+with+Plex",
                     "fixed": true
+                },
+                {
+                    "type": "hls",
+                    "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
                 }
             ]
         },
