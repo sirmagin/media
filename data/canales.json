@@ -761,7 +761,7 @@
         },
         {
             "id": 45,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "HBO",
             "category": [
