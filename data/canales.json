@@ -552,36 +552,25 @@
         },
         {
             "id": 30,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "13 Deportes",
             "category": [
                 "Deportes"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/d13.jpeg",
-            "stream": [
-                {
-                    "type": "",
-                    "url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL",
-                    "fixed": true
-                }
-            ]
+            "stream": []
         },
         {
             "id": 31,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "FutGO",
             "category": [
                 "Deportes"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/futgo.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL"
-                }
-            ]
+            "stream": []
         },
         {
             "id": 32,
@@ -606,20 +595,14 @@
         },
         {
             "id": 33,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "CNN Chile",
             "category": [
                 "Noticias"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cnnchile.jpeg",
-            "stream": [
-                {
-                    "type": "",
-                    "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8",
-                    "fixed": true
-                }
-            ]
+            "stream": []
         },
         {
             "id": 34,
@@ -714,7 +697,7 @@
         },
         {
             "id": 42,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "Star Channel",
             "category": [
@@ -722,18 +705,7 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/starchannel.jpeg",
-            "stream": [
-                {
-                    "type": "hls",
-                    "url": "http://45.162.193.35/STAR_CHANNEL/index.m3u8",
-                    "fixed": true
-                },
-                {
-                    "type": "hls",
-                    "url": "https://streamer.metronethn.com/StarChannel/index.m3u8",
-                    "fixed": true
-                }
-            ]
+            "stream": []
         },
         {
             "id": 43,
@@ -1157,20 +1129,14 @@
         },
         {
             "id": 75,
-            "active": true,
+            "active": false,
             "country": "CL",
             "name": "El Chavo",
             "category": [
                 "Infantil"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/elchavo.jpeg",
-            "stream": [
-                {
-                    "type": "",
-                    "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
-                    "fixed": true
-                }
-            ]
+            "stream": []
         },
         {
             "id": 76,
