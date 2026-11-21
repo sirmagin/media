@@ -697,7 +697,7 @@
         },
         {
             "id": 42,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Star Channel",
             "category": [
@@ -852,7 +852,7 @@
         },
         {
             "id": 53,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "CINEMAX",
             "category": [
@@ -870,7 +870,7 @@
         },
         {
             "id": 54,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "TNT",
             "category": [
@@ -950,7 +950,7 @@
         },
         {
             "id": 59,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Telemundo Internacional",
             "category": [
@@ -968,7 +968,7 @@
         },
         {
             "id": 60,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Telemundo Noticias",
             "category": [
@@ -985,7 +985,7 @@
         },
         {
             "id": 61,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Nat Geo",
             "category": [
@@ -1013,7 +1013,7 @@
         },
         {
             "id": 63,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "AMC",
             "category": [
@@ -1041,7 +1041,7 @@
         },
         {
             "id": 65,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "History",
             "category": [
@@ -1081,7 +1081,7 @@
         },
         {
             "id": 68,
-            "active": false,
+            "active": true,
             "country": "CL",
             "name": "Cartoon Network",
             "category": [
@@ -1693,7 +1693,7 @@
         },
         {
             "id": 102,
-            "active": false,
+            "active": true,
             "country": "",
             "name": "Mega Mundo",
             "category": [
@@ -1711,7 +1711,7 @@
         },
         {
             "id": 103,
-            "active": false,
+            "active": true,
             "country": "",
             "name": "Mega Movies",
             "category": [
@@ -1729,7 +1729,7 @@
         },
         {
             "id": 104,
-            "active": false,
+            "active": true,
             "country": "",
             "name": "Mega Kids",
             "category": [
