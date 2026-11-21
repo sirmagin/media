@@ -12,7 +12,7 @@
             "stream": [
                 {
                     "type": "",
-                    "url": "https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8?lb_backend_hint=6",
+                    "url": "https://183.giatvcdn.com/ssh101/ssh101/simptestnews/playlist.m3u8",
                     "fixed": true
                 },
                 {
@@ -705,7 +705,13 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/starchannel.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "https://cablered.iptvperu.tv:1936/cablered/starchannel_new/chunks.m3u8?nimblesessionid=163842613",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 43,
@@ -854,7 +860,13 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cinemax.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "https://streaming.onnethn.com/CINEMAX/tracks-v1a1/mono.ts.m3u8",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 54,
@@ -866,7 +878,13 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/tnt.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "https://cablered.iptvperu.tv:1936/cablered/tnt_new/chunks.m3u8?nimblesessionid=163839809",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 55,
@@ -916,6 +934,11 @@
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/sonycine.jpeg",
             "stream": [
                 {
+                    "type": "",
+                    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8",
+                    "fixed": true
+                },
+                {
                     "type": "hls",
                     "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
                 },
@@ -935,7 +958,13 @@
                 "Películas"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/telemundo.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 60,
@@ -946,7 +975,13 @@
                 "Noticias"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/telemundonoticias.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/379a618e-c974-49ca-9bce-ad0a076bf4ae/5.m3u8",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 61,
@@ -957,7 +992,13 @@
                 "Documental"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/natgeo.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "https://cablered.iptvperu.tv:1936/cablered/natgeo_new/chunks.m3u8?nimblesessionid=163835716",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 62,
@@ -979,7 +1020,13 @@
                 "Documental"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/amc.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "https://amc-amcespanol-1-us.plex.wurl.tv/3000.m3u8",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 64,
@@ -1001,7 +1048,13 @@
                 "Documental"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/history.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "https://d1k3vzh2ivy22k.cloudfront.net/1080p-en-vtt/index.m3u8",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 66,
@@ -1035,7 +1088,13 @@
                 "Infantil"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/cartoonnetwork.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Cartoon_Network/chunks.m3u8?nimblesessionid=66114796",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 69,
@@ -1136,7 +1195,13 @@
                 "Infantil"
             ],
             "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/elchavo.jpeg",
-            "stream": []
+            "stream": [
+                {
+                    "type": "",
+                    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8",
+                    "fixed": true
+                }
+            ]
         },
         {
             "id": 76,
@@ -1622,6 +1687,60 @@
                 {
                     "type": "hls",
                     "url": "https://live20.bozztv.com/giatvplayout7/giatv-211979/playlist.m3u8",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "active": false,
+            "country": "",
+            "name": "Mega Mundo",
+            "category": [
+                "Series",
+                "Películas"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/mr1.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_megamundohd.flv",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "active": false,
+            "country": "",
+            "name": "Mega Movies",
+            "category": [
+                "Series",
+                "Películas"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/mr2.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_megamovieshd.flv",
+                    "fixed": true
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "active": false,
+            "country": "",
+            "name": "Mega Kids",
+            "category": [
+                "Series",
+                "Películas"
+            ],
+            "logo": "https://cdn.jsdelivr.net/gh/sirmagin/media@main/img/logo/mr2.jpeg",
+            "stream": [
+                {
+                    "type": "hls",
+                    "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_kids.flv",
                     "fixed": true
                 }
             ]
