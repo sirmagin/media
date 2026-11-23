@@ -456,6 +456,7 @@ if __name__ == '__main__':
       '*.m3u',
       'https://raw.githubusercontent.com/sirmagin/media/refs/heads/main/data/m3u/CL.m3u',
       'https://iptv-org.github.io/iptv/languages/spa.m3u',
+      'https://spinoff.link/coleccion/lista.m3u',
       f'https://tecnotv.club/{TOKEN}/geomex.m3u',
       f'https://tecnotv.club/{TOKEN}/deportes.m3u',
       f'https://tecnotv.club/{TOKEN}/lista.m3u',
