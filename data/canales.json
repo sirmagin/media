@@ -426,11 +426,11 @@
             "stream": [
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
                 },
                 {
                     "type": "",
-                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
+                    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8"
                 }
             ]
         },
@@ -950,11 +950,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "http://186.148.196.82:8001/play/a0a4"
+                    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
+                    "url": "http://186.148.196.82:8001/play/a0a4"
                 }
             ]
         },
@@ -1332,11 +1332,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8"
+                    "url": "https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8"
+                    "url": "https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8"
                 }
             ]
         },
@@ -1634,11 +1634,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8"
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16219"
                 },
                 {
                     "type": "hls",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16219"
+                    "url": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8"
                 }
             ]
         },
@@ -1681,11 +1681,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8"
+                    "url": "https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8"
+                    "url": "https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8"
                 },
                 {
                     "type": "hls",
@@ -1815,11 +1815,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
+                    "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
+                    "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
                 }
             ]
         },
