@@ -1677,15 +1677,15 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/cb7c3e167b746f8cccca356281f340aa8d0166d55d3980643ba05d9f71c0150b8dedf1c9e44eec397ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee4595bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c57d375a512c990f08dce438686907ea856e46544007b29c0cd7dc19858e5d89c6a6dcf287e1c723f83a09cee5e3df424293da8a586d506fb1acafb63eb2461e303c91ed135df26fb0fffb103f4f4eb8e0f196dfc94163072a6bcf0deaf6764ee35f9f899b71b759ff72b6c5ed968aa46415abedc917eeea01198a251e6de084d62b5fb289a8da2bcfca48258991adfd5f8ea59282c4d2558ed37c19660cf5bb912cae0327b322726a49927acecbf7711401ecbd704ad7971b8cb9bbcdd1b35ce6c1e28830ab0580462c9386d32f13ba3ed56038d231c8c3638c454348e45e9b92bf0d5bf8f643ea684b828957afc8a1ac0ff14a86e252b73d99d224a494042c5fd591d2270d544e7caf8dd1d786813645e9fba31153f7b717f0993ebe47fe9f6aa4b3337b19ea2fd166a7ab80bc47dd740680d2bdb17d0ad7314cf6673648ea34ed92e113f4dbed2a7afbe1b13c3066fc5996548786eb8210c256f9c9b8841f43b4441595494165e8edc6d556fe58fc0e99581219bd234ea70551d6dc1ff0052497c47235bcbde388c1ed59a13efcf911cd4b9d95b05a42cb30d15a9d5de47f1f9ce921c58def901592fbcfb13e85f61871bdd208d9257ddb35e09557c6340d08159fa10e88ace897bd47ce31f434deb7eba8eeafc833501a9c21c4146633f20765c72231bab9a8434721cc28867b70da8bb2fea2832143048d98e0524f6cb7f0e93387b20e8e0fc82a3ce0c07d92c9351cc7308b2581d24829d61b363d37d2d43d932b6c304279a4e7c2ebef06f49679cddcc/199/426x240_845520/index.m3u8"
-                },
-                {
-                    "type": "hls",
                     "url": "https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8"
                 },
                 {
                     "type": "hls",
                     "url": "https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/cb7c3e167b746f8cccca356281f340aa8d0166d55d3980643ba05d9f71c0150b8dedf1c9e44eec397ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee4595bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c57d375a512c990f08dce438686907ea856e46544007b29c0cd7dc19858e5d89c6a6dcf287e1c723f83a09cee5e3df424293da8a586d506fb1acafb63eb2461e303c91ed135df26fb0fffb103f4f4eb8e0f196dfc94163072a6bcf0deaf6764ee35f9f899b71b759ff72b6c5ed968aa46415abedc917eeea01198a251e6de084d62b5fb289a8da2bcfca48258991adfd5f8ea59282c4d2558ed37c19660cf5bb912cae0327b322726a49927acecbf7711401ecbd704ad7971b8cb9bbcdd1b35ce6c1e28830ab0580462c9386d32f13ba3ed56038d231c8c3638c454348e45e9b92bf0d5bf8f643ea684b828957afc8a1ac0ff14a86e252b73d99d224a494042c5fd591d2270d544e7caf8dd1d786813645e9fba31153f7b717f0993ebe47fe9f6aa4b3337b19ea2fd166a7ab80bc47dd740680d2bdb17d0ad7314cf6673648ea34ed92e113f4dbed2a7afbe1b13c3066fc5996548786eb8210c256f9c9b8841f43b4441595494165e8edc6d556fe58fc0e99581219bd234ea70551d6dc1ff0052497c47235bcbde388c1ed59a13efcf911cd4b9d95b05a42cb30d15a9d5de47f1f9ce921c58def901592fbcfb13e85f61871bdd208d9257ddb35e09557c6340d08159fa10e88ace897bd47ce31f434deb7eba8eeafc833501a9c21c4146633f20765c72231bab9a8434721cc28867b70da8bb2fea2832143048d98e0524f6cb7f0e93387b20e8e0fc82a3ce0c07d92c9351cc7308b2581d24829d61b363d37d2d43d932b6c304279a4e7c2ebef06f49679cddcc/199/426x240_845520/index.m3u8"
                 },
                 {
                     "type": "hls",
@@ -1789,11 +1789,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
+                    "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
+                    "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
                 }
             ]
         },
@@ -1815,11 +1815,11 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
+                    "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
                 },
                 {
                     "type": "hls",
-                    "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
+                    "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8"
                 }
             ]
         },
